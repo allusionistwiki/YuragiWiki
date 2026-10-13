@@ -8,17 +8,19 @@
 raw/bbs/hatena_flicker/
 ├── MANIFEST.json      # 取得台帳（url / wayback timestamp / ファイル名 / bytes / 成否）※git 管理
 ├── README.md          # 本ファイル ※git 管理
-└── 以下すべて当面 gitignore（取得物本体・未コミット）
-    ├── HTML/          # <URL_sanitized>_<yyyymmddHHMMSS>.html（Wayback `id_` 版＝加工前 HTML）
-    ├── md/            # HTML の markdown 変換（html2text、script/style 除去）
-    └── Pic/           # HTML 内の Wayback `im_` 画像リンクを抽出して取得（<ts>_<name>）
+├── HTML/  md/  Pic/   # 本体: flicker.g.hatena.ne.jp ドメイン全体
+└── mention/           # ★flicker 引用・関連系（2026-10-14 指示で分離）
+    ├── HTML/          #   はてブ(b.hatena) flicker 引用ページ / mixi コミュニティページ /
+    ├── md/            #   keyword.hatena 解説ページ / flicker.photo グループ
+    └── Pic/           #   ※md/・Pic/ は HTML と同じ変換・抽出手順
 ```
+（上記 5 フォルダは当面 gitignore・取得物本体は未コミット）
 
 - 取得元: `https://web.archive.org/web/{ts}id_/{url}`（HTML）/ `{ts}im_/`（画像）
 - 対象:
   1. `flicker.g.hatena.ne.jp` ドメイン全体（CDX `collapse=urlkey`・status 200・1,406 URL）
   2. ルートページの経年スナップショット（`collapse=6mo`）
-  3. 追加: `flicker.photo.hatena.ne.jp`（はてなフォトグループ）/ `mixi.jp/view_community.pl?id=373088`（mixi コミュニティページ）/ `keyword.hatena.ne.jp/operated::ゆらぎの神話`（解説ページ）/ `b.hatena.ne.jp` の flicker 関連ブックマークページ（コミュニティ反応コメント）
+  3. mention（引用・関連系・別フォルダ）: `b.hatena.ne.jp` の flicker 引用ブックマークページ / `mixi.jp/view_community.pl?id=373088` / `keyword.hatena.ne.jp/operated::ゆらぎの神話` / `flicker.photo.hatena.ne.jp`
 - ファイル名: URL の非英数文字を `_` 置換（ASCII・150 字上限）＋ Wayback timestamp
 - 再取得は CDX 再クエリ → 新 timestamp のみ追記する差分運用を想定
 
