@@ -1,0 +1,271 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "be0f3ef0101a64284742cd9ccffc7ea1efdb22f4",
+ "n_posts": 120,
+ "n_groups": 20,
+ "preamble_len": 141,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "猫竜ゲームショップ",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 141,
+   "region_end": 388,
+   "sha1": "e137b19f9be31520c66b59ca9d79a90b1fbc1928"
+  },
+  {
+   "file": "p0002.md",
+   "author": "SPAMとは解かってんけんども",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 388,
+   "region_end": 481,
+   "sha1": "412fa36ae92f0f9ce4ab3d29203528d85eb6efc1"
+  },
+  {
+   "file": "p0003-0007.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    3,
+    7
+   ],
+   "n_posts": 5,
+   "region_start": 481,
+   "region_end": 839,
+   "sha1": "754d8490c46ba918b6a722c01180a0a9e34b60cc"
+  },
+  {
+   "file": "p0008.md",
+   "author": "勇者25ポコ",
+   "deleted": false,
+   "post_range": [
+    8,
+    8
+   ],
+   "n_posts": 1,
+   "region_start": 839,
+   "region_end": 935,
+   "sha1": "443dee8c64ae5acc9f5a6830930bf63ba019ac46"
+  },
+  {
+   "file": "p0009-0013.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    9,
+    13
+   ],
+   "n_posts": 5,
+   "region_start": 935,
+   "region_end": 1520,
+   "sha1": "31b36401dacac505029a8657dee5b4e657e2cd8c"
+  },
+  {
+   "file": "p0014.md",
+   "author": "管理人",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 1520,
+   "region_end": 1590,
+   "sha1": "b19d585d7abc65dffdfd147fa61f06a908490b24"
+  },
+  {
+   "file": "p0015-0027.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    27
+   ],
+   "n_posts": 13,
+   "region_start": 1590,
+   "region_end": 2574,
+   "sha1": "2d5b86d48f867687869b83b6228849a3a096762f"
+  },
+  {
+   "file": "p0028.md",
+   "author": "ｱﾔｼｲ男",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 2574,
+   "region_end": 2625,
+   "sha1": "94351fd3ee5878e3b4619e0dda80edf65c6c58e4"
+  },
+  {
+   "file": "p0029.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 2625,
+   "region_end": 2744,
+   "sha1": "15bbf1caffc1f47fe548156fda1538ae8b542580"
+  },
+  {
+   "file": "p0030.md",
+   "author": "ｱﾔｼｲ男",
+   "deleted": false,
+   "post_range": [
+    30,
+    30
+   ],
+   "n_posts": 1,
+   "region_start": 2744,
+   "region_end": 2864,
+   "sha1": "8aa7213beb69c034138a7341fecfe6c8f8f0d09a"
+  },
+  {
+   "file": "p0031-0057.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    31,
+    57
+   ],
+   "n_posts": 27,
+   "region_start": 2864,
+   "region_end": 5725,
+   "sha1": "d1bc814ad46e150623b900e6ce4ee4874b68e4f3"
+  },
+  {
+   "file": "p0058.md",
+   "author": "トミュニ",
+   "deleted": false,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 5725,
+   "region_end": 5840,
+   "sha1": "7c9797795470cf353cc1621c5c0a55c3c98a9c14"
+  },
+  {
+   "file": "p0059-0078.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    59,
+    78
+   ],
+   "n_posts": 20,
+   "region_start": 5840,
+   "region_end": 7641,
+   "sha1": "5d84b5867f33ed4474d2051d562b7aeb14d89ba8"
+  },
+  {
+   "file": "p0079.md",
+   "author": "閃樹",
+   "deleted": false,
+   "post_range": [
+    79,
+    79
+   ],
+   "n_posts": 1,
+   "region_start": 7641,
+   "region_end": 7737,
+   "sha1": "a95d6c517e2257a0c6ec3e4888e0e95a281aab5c"
+  },
+  {
+   "file": "p0080.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    80,
+    80
+   ],
+   "n_posts": 1,
+   "region_start": 7737,
+   "region_end": 7793,
+   "sha1": "389f8e1abcfb3254c6fb3d54ab4537ef008092bb"
+  },
+  {
+   "file": "p0081.md",
+   "author": "商人（対界竜の巫女アイテム売りマス）",
+   "deleted": false,
+   "post_range": [
+    81,
+    81
+   ],
+   "n_posts": 1,
+   "region_start": 7793,
+   "region_end": 7947,
+   "sha1": "64ae18b603acbbea3437710dca4a54b470ff53c2"
+  },
+  {
+   "file": "p0082-0116.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    82,
+    116
+   ],
+   "n_posts": 35,
+   "region_start": 7947,
+   "region_end": 11048,
+   "sha1": "34f4f42ce2a511b4594f38f5663986e24860766e"
+  },
+  {
+   "file": "p0117.md",
+   "author": "エラマン",
+   "deleted": false,
+   "post_range": [
+    117,
+    117
+   ],
+   "n_posts": 1,
+   "region_start": 11048,
+   "region_end": 11124,
+   "sha1": "27953d77ad3425281ed514eef5ac216015b7b096"
+  },
+  {
+   "file": "p0118-0119.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    118,
+    119
+   ],
+   "n_posts": 2,
+   "region_start": 11124,
+   "region_end": 11409,
+   "sha1": "f94fae0b02d673963d33511c61876cca6ae80481"
+  },
+  {
+   "file": "p0120.md",
+   "author": "エラマン",
+   "deleted": false,
+   "post_range": [
+    120,
+    120
+   ],
+   "n_posts": 1,
+   "region_start": 11409,
+   "region_end": 11465,
+   "sha1": "ee53a8875f67ade2bd181f900cff0cbfa9fec828"
+  }
+ ]
+}

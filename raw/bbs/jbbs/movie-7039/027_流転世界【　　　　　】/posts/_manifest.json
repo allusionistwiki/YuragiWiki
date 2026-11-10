@@ -1,0 +1,141 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "a43bb6c14077a5039a9df12d15a07c3b2680236f",
+ "n_posts": 106,
+ "n_groups": 10,
+ "preamble_len": 133,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0003.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    3
+   ],
+   "n_posts": 3,
+   "region_start": 133,
+   "region_end": 510,
+   "sha1": "5d4efec733b3d9c201da5d67264b59a6dbfff38f"
+  },
+  {
+   "file": "p0004.md",
+   "author": "【世界】",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 510,
+   "region_end": 556,
+   "sha1": "4912e6dcb58ed64155e69c461e45d814f5e9fc50"
+  },
+  {
+   "file": "p0005-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    5,
+    8
+   ],
+   "n_posts": 4,
+   "region_start": 556,
+   "region_end": 889,
+   "sha1": "0537ff82223404631def43f00d0d0b61df8f0c4d"
+  },
+  {
+   "file": "p0009.md",
+   "author": "世界の片隅で語り継がれる神話に曰く、",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 889,
+   "region_end": 969,
+   "sha1": "9ea96a7f6dce3f195eec59686c13224d24bc0b73"
+  },
+  {
+   "file": "p0010-0044.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    44
+   ],
+   "n_posts": 35,
+   "region_start": 969,
+   "region_end": 4342,
+   "sha1": "1e8584123f6d24ea342491a2ea4bbdea0e22f2ac"
+  },
+  {
+   "file": "p0045.md",
+   "author": "あやね",
+   "deleted": false,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 4342,
+   "region_end": 4475,
+   "sha1": "612c5ea58d3595a18083eaafd77c6d23d9ca6e26"
+  },
+  {
+   "file": "p0046-0060.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    46,
+    60
+   ],
+   "n_posts": 15,
+   "region_start": 4475,
+   "region_end": 6373,
+   "sha1": "8748f907675f484e0927e9fd771aac7a65e43d01"
+  },
+  {
+   "file": "p0061.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 6373,
+   "region_end": 6412,
+   "sha1": "40ca4b3fc7e1760c8c62f4e38f7189fe41686ea0"
+  },
+  {
+   "file": "p0062.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 6412,
+   "region_end": 6451,
+   "sha1": "74238a07ffeafe962c8b004e79412aa46ee05e06"
+  },
+  {
+   "file": "p0063-0106.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    63,
+    106
+   ],
+   "n_posts": 44,
+   "region_start": 6451,
+   "region_end": 12782,
+   "sha1": "6559ac3e094bc307cea0f915e73313063ef8d4d3"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "600d783b54a3e91fbf587702d04f0a06c62d14ca",
+ "n_posts": 183,
+ "n_groups": 5,
+ "preamble_len": 135,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0006.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    6
+   ],
+   "n_posts": 6,
+   "region_start": 135,
+   "region_end": 8920,
+   "sha1": "fd0d3c7893e13e9a2196ca5bb34fd7c8a424809f"
+  },
+  {
+   "file": "p0007.md",
+   "author": "堕科",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 8920,
+   "region_end": 9030,
+   "sha1": "f4275fdadba1d57d7be80a211183ef7907b22d03"
+  },
+  {
+   "file": "p0008-0009.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    9
+   ],
+   "n_posts": 2,
+   "region_start": 9030,
+   "region_end": 13894,
+   "sha1": "0a84f352c9470544f18565cc2ffa3281176259dc"
+  },
+  {
+   "file": "p0010.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 13894,
+   "region_end": 13979,
+   "sha1": "e91f2f7657108c9d75b059ee42becf4d0a3be3d1"
+  },
+  {
+   "file": "p0011-0183.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    183
+   ],
+   "n_posts": 173,
+   "region_start": 13979,
+   "region_end": 397753,
+   "sha1": "4f9c62ce3003d249fc214bcac3dc2208471879ae"
+  }
+ ]
+}

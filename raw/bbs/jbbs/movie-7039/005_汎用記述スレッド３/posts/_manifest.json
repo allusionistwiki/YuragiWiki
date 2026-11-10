@@ -1,0 +1,115 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "33a3a12d3949b23cfbf7af3d473e18ead667a8dc",
+ "n_posts": 308,
+ "n_groups": 8,
+ "preamble_len": 130,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0023.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    23
+   ],
+   "n_posts": 23,
+   "region_start": 130,
+   "region_end": 6110,
+   "sha1": "3403edd8ece7762c779b0f2f2ae73290520c9fd5"
+  },
+  {
+   "file": "p0024.md",
+   "author": "スチームキューブNo.3",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 6110,
+   "region_end": 6186,
+   "sha1": "154bbae5d9ed5702286872262d7ca49cfe78e972"
+  },
+  {
+   "file": "p0025.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 6186,
+   "region_end": 6257,
+   "sha1": "5dcd4bad634e50dc89e8fb2f62bd08481cc4fb61"
+  },
+  {
+   "file": "p0026.md",
+   "author": "スチームキューブＮｏ．4",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 6257,
+   "region_end": 6511,
+   "sha1": "f67dd493bc4f4560270c187a8fb7f759b2d051fd"
+  },
+  {
+   "file": "p0027-0232.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    27,
+    232
+   ],
+   "n_posts": 206,
+   "region_start": 6511,
+   "region_end": 67033,
+   "sha1": "24d70fb02ed881c4840e757a463cec021eebfac8"
+  },
+  {
+   "file": "p0233.md",
+   "author": "パラデムルクスクルスクスルの誕生１",
+   "deleted": false,
+   "post_range": [
+    233,
+    233
+   ],
+   "n_posts": 1,
+   "region_start": 67033,
+   "region_end": 67392,
+   "sha1": "503710ab528e0eb6d413cd6c12908447682b4e1e"
+  },
+  {
+   "file": "p0234.md",
+   "author": "パラデムルクスクルスクスルの誕生２",
+   "deleted": false,
+   "post_range": [
+    234,
+    234
+   ],
+   "n_posts": 1,
+   "region_start": 67392,
+   "region_end": 67822,
+   "sha1": "873a9693273f3c3aeba2c5c32506e4e7cc9f1254"
+  },
+  {
+   "file": "p0235-0308.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    235,
+    308
+   ],
+   "n_posts": 74,
+   "region_start": 67822,
+   "region_end": 87585,
+   "sha1": "b5c304fba0cc67acfecfb7cbab54353e6e635b7e"
+  }
+ ]
+}

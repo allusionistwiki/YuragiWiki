@@ -1,0 +1,297 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "83bbd6df701352839184744ea096f52becb3d9fe",
+ "n_posts": 105,
+ "n_groups": 22,
+ "preamble_len": 127,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "ゆらぎ市役所担当スズキ",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 127,
+   "region_end": 228,
+   "sha1": "74f2084a1ca095eb507d516b4a4b42fc0d2b1652"
+  },
+  {
+   "file": "p0002.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 228,
+   "region_end": 328,
+   "sha1": "584709516de6e5f45fde037be9b6aa875039710b"
+  },
+  {
+   "file": "p0003.md",
+   "author": "ahz",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 328,
+   "region_end": 407,
+   "sha1": "b9ca62f0c93a874bb2fbfb7210054ea94919efde"
+  },
+  {
+   "file": "p0004-0076.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    4,
+    76
+   ],
+   "n_posts": 73,
+   "region_start": 407,
+   "region_end": 9600,
+   "sha1": "210b6b690c302672a76ef69639f404cd8093ec74"
+  },
+  {
+   "file": "p0077-0078.md",
+   "author": "お問い合わせへの回答をお届けします",
+   "deleted": false,
+   "post_range": [
+    77,
+    78
+   ],
+   "n_posts": 2,
+   "region_start": 9600,
+   "region_end": 9893,
+   "sha1": "2f782d3c8299dc67d6578c04d9bae81d7dcf4fdf"
+  },
+  {
+   "file": "p0079-0089.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    79,
+    89
+   ],
+   "n_posts": 11,
+   "region_start": 9893,
+   "region_end": 13308,
+   "sha1": "d4e6a59f3058bb5bb7bfa11f7b39c9a43c38f2d4"
+  },
+  {
+   "file": "p0090.md",
+   "author": "とある日和のゆらぎ物産.1",
+   "deleted": false,
+   "post_range": [
+    90,
+    90
+   ],
+   "n_posts": 1,
+   "region_start": 13308,
+   "region_end": 14159,
+   "sha1": "1b2a3fddd16cfd69f98854ca428d62f4fed8cda4"
+  },
+  {
+   "file": "p0091.md",
+   "author": "とある日和のゆらぎ物産.2",
+   "deleted": false,
+   "post_range": [
+    91,
+    91
+   ],
+   "n_posts": 1,
+   "region_start": 14159,
+   "region_end": 16062,
+   "sha1": "5eabb26fa77456d35c8685b471dceff464c432f1"
+  },
+  {
+   "file": "p0092.md",
+   "author": "とある日和のゆらぎ物産.3",
+   "deleted": false,
+   "post_range": [
+    92,
+    92
+   ],
+   "n_posts": 1,
+   "region_start": 16062,
+   "region_end": 17005,
+   "sha1": "d97f8f27d0df26fcf2ff14fef8bb8f7214a8e410"
+  },
+  {
+   "file": "p0093.md",
+   "author": "とある日和のゆらぎ物産.4",
+   "deleted": false,
+   "post_range": [
+    93,
+    93
+   ],
+   "n_posts": 1,
+   "region_start": 17005,
+   "region_end": 17692,
+   "sha1": "e0b6fd6bf5ce9b849d94033fc253fff8dd17f42b"
+  },
+  {
+   "file": "p0094.md",
+   "author": "トミュニ",
+   "deleted": false,
+   "post_range": [
+    94,
+    94
+   ],
+   "n_posts": 1,
+   "region_start": 17692,
+   "region_end": 19222,
+   "sha1": "aa84f949bb5d042fbd104da72293e87291cca314"
+  },
+  {
+   "file": "p0095.md",
+   "author": "とある日和のゆらぎ物産.5",
+   "deleted": false,
+   "post_range": [
+    95,
+    95
+   ],
+   "n_posts": 1,
+   "region_start": 19222,
+   "region_end": 21274,
+   "sha1": "106ec59508bd65bbdb4ae3e3bcd3317f6e5fc72d"
+  },
+  {
+   "file": "p0096.md",
+   "author": "とある日和のゆらぎ物産.6",
+   "deleted": false,
+   "post_range": [
+    96,
+    96
+   ],
+   "n_posts": 1,
+   "region_start": 21274,
+   "region_end": 23438,
+   "sha1": "62ae3fad5c6bee4e8f8d3dbfa65cd477927b2959"
+  },
+  {
+   "file": "p0097.md",
+   "author": "とある日和のゆらぎ物産.7",
+   "deleted": false,
+   "post_range": [
+    97,
+    97
+   ],
+   "n_posts": 1,
+   "region_start": 23438,
+   "region_end": 25201,
+   "sha1": "f8cdc1df0414103a6dbaec75cd0391508da941d8"
+  },
+  {
+   "file": "p0098.md",
+   "author": "とある日和のゆらぎ物産.8",
+   "deleted": false,
+   "post_range": [
+    98,
+    98
+   ],
+   "n_posts": 1,
+   "region_start": 25201,
+   "region_end": 26290,
+   "sha1": "2cb00275b64fc680fb7e0bc3653dcaf2870606c1"
+  },
+  {
+   "file": "p0099.md",
+   "author": "とある日和のゆらぎ物産.9",
+   "deleted": false,
+   "post_range": [
+    99,
+    99
+   ],
+   "n_posts": 1,
+   "region_start": 26290,
+   "region_end": 27732,
+   "sha1": "97374ee2d552f8deec76129b78da05227ffcd6c6"
+  },
+  {
+   "file": "p0100.md",
+   "author": "とある日和のゆらぎ物産.10",
+   "deleted": false,
+   "post_range": [
+    100,
+    100
+   ],
+   "n_posts": 1,
+   "region_start": 27732,
+   "region_end": 29514,
+   "sha1": "745c0734a2a09d690cc6d32590ad34985ddcafac"
+  },
+  {
+   "file": "p0101.md",
+   "author": "とある日和のゆらぎ物産.11",
+   "deleted": false,
+   "post_range": [
+    101,
+    101
+   ],
+   "n_posts": 1,
+   "region_start": 29514,
+   "region_end": 30891,
+   "sha1": "4d5bd3a9a1e9df05a5dc56ab9534fc658ad89055"
+  },
+  {
+   "file": "p0102.md",
+   "author": "とある日和のゆらぎ物産.12",
+   "deleted": false,
+   "post_range": [
+    102,
+    102
+   ],
+   "n_posts": 1,
+   "region_start": 30891,
+   "region_end": 32657,
+   "sha1": "98e0b4ccd0e77063d1bdca36123c94968ff1d92b"
+  },
+  {
+   "file": "p0103.md",
+   "author": "とある日和のゆらぎ物産.13",
+   "deleted": false,
+   "post_range": [
+    103,
+    103
+   ],
+   "n_posts": 1,
+   "region_start": 32657,
+   "region_end": 33482,
+   "sha1": "04b098174dac1b6364f2ed75de37509197d55057"
+  },
+  {
+   "file": "p0104.md",
+   "author": "とある日和のゆらぎ物産.エピローグ1",
+   "deleted": false,
+   "post_range": [
+    104,
+    104
+   ],
+   "n_posts": 1,
+   "region_start": 33482,
+   "region_end": 34792,
+   "sha1": "f9980e01804471aedf2cff5f32cbc9aba3dc0317"
+  },
+  {
+   "file": "p0105.md",
+   "author": "とある日和のゆらぎ物産.エピローグ2",
+   "deleted": false,
+   "post_range": [
+    105,
+    105
+   ],
+   "n_posts": 1,
+   "region_start": 34792,
+   "region_end": 36679,
+   "sha1": "fdd62c2b2294ef1f469ea42ef98607730a829ccb"
+  }
+ ]
+}

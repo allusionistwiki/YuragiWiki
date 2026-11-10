@@ -1,0 +1,661 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "499177f1e217733cd5ab0da6f48dabb3f92026f7",
+ "n_posts": 272,
+ "n_groups": 50,
+ "preamble_len": 129,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0012.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    12
+   ],
+   "n_posts": 12,
+   "region_start": 129,
+   "region_end": 1345,
+   "sha1": "863eadbfaa5174894c280f2ae71562732312379f"
+  },
+  {
+   "file": "p0013.md",
+   "author": "世界",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 1345,
+   "region_end": 1443,
+   "sha1": "8eadebdad12e766e5bc6b743b00bcbba57bcafb1"
+  },
+  {
+   "file": "p0014-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    16
+   ],
+   "n_posts": 3,
+   "region_start": 1443,
+   "region_end": 1716,
+   "sha1": "79a2ea34370f9f26330b5672c4dc83a184e3b425"
+  },
+  {
+   "file": "p0017.md",
+   "author": "卒業してヤクザの親分になったメクセト",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 1716,
+   "region_end": 1822,
+   "sha1": "11865a11716d4d58ffc5fd279c5f4dc526cde2a9"
+  },
+  {
+   "file": "p0018-0022.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    22
+   ],
+   "n_posts": 5,
+   "region_start": 1822,
+   "region_end": 2510,
+   "sha1": "849bd3c8edab0ecab77d2578ca424dc435a30494"
+  },
+  {
+   "file": "p0023.md",
+   "author": "ある女生徒の朝食時の風景",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 2510,
+   "region_end": 2894,
+   "sha1": "fcf7aa9dbe1707acff680a7b9e0d1df3a23181e8"
+  },
+  {
+   "file": "p0024-0032.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    24,
+    32
+   ],
+   "n_posts": 9,
+   "region_start": 2894,
+   "region_end": 3943,
+   "sha1": "4ae265d1185b567e8391726130fef6007099f19e"
+  },
+  {
+   "file": "p0033.md",
+   "author": "先輩の知恵袋",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 3943,
+   "region_end": 4115,
+   "sha1": "c96300a00e1dc685bb0f5e1a24187211dd9c5ff7"
+  },
+  {
+   "file": "p0034.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    34,
+    34
+   ],
+   "n_posts": 1,
+   "region_start": 4115,
+   "region_end": 4214,
+   "sha1": "ca72ddd084512bc74f045a11fcd75c2e6e9d1a29"
+  },
+  {
+   "file": "p0035.md",
+   "author": "ある風紀部の活動風景",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 4214,
+   "region_end": 4666,
+   "sha1": "98a2a07361a72966d043b44cd4dd6cd8ec041225"
+  },
+  {
+   "file": "p0036-0055.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    36,
+    55
+   ],
+   "n_posts": 20,
+   "region_start": 4666,
+   "region_end": 7347,
+   "sha1": "88e0ab7bc164ecdbb23cd5869b600e900748a44a"
+  },
+  {
+   "file": "p0056.md",
+   "author": "ムランカ",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 7347,
+   "region_end": 7471,
+   "sha1": "9afba9072cb9e9e6efbce9cbc9a6fa5658741302"
+  },
+  {
+   "file": "p0057-0058.md",
+   "author": "登場人物紹介",
+   "deleted": false,
+   "post_range": [
+    57,
+    58
+   ],
+   "n_posts": 2,
+   "region_start": 7471,
+   "region_end": 10223,
+   "sha1": "c2caa26cb328b403ae9c18a431dc06f3b5425c5e"
+  },
+  {
+   "file": "p0059-0062.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    59,
+    62
+   ],
+   "n_posts": 4,
+   "region_start": 10223,
+   "region_end": 11086,
+   "sha1": "ac0ec9c2e13564a0dc0adb3fb3939b0b98575f89"
+  },
+  {
+   "file": "p0063.md",
+   "author": "57",
+   "deleted": false,
+   "post_range": [
+    63,
+    63
+   ],
+   "n_posts": 1,
+   "region_start": 11086,
+   "region_end": 11445,
+   "sha1": "47cce3f3e38ee57467e4958c7726604923a35d7a"
+  },
+  {
+   "file": "p0064-0101.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    64,
+    101
+   ],
+   "n_posts": 38,
+   "region_start": 11445,
+   "region_end": 16246,
+   "sha1": "192c2eac0b87e9570ce2eabbfc85431b64f5187b"
+  },
+  {
+   "file": "p0102.md",
+   "author": "ハルバンデフ番長",
+   "deleted": false,
+   "post_range": [
+    102,
+    102
+   ],
+   "n_posts": 1,
+   "region_start": 16246,
+   "region_end": 16545,
+   "sha1": "412d71fd33c7645874a497f9d26ebcb211eb0a9d"
+  },
+  {
+   "file": "p0103-0107.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    103,
+    107
+   ],
+   "n_posts": 5,
+   "region_start": 16545,
+   "region_end": 16910,
+   "sha1": "7022db9605819481d838db3ca366b72ebc0200a5"
+  },
+  {
+   "file": "p0108.md",
+   "author": "一方その頃",
+   "deleted": false,
+   "post_range": [
+    108,
+    108
+   ],
+   "n_posts": 1,
+   "region_start": 16910,
+   "region_end": 16980,
+   "sha1": "cc7d9f0cec4778f1abf5eea8a492ae2ace686e56"
+  },
+  {
+   "file": "p0109-0111.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    109,
+    111
+   ],
+   "n_posts": 3,
+   "region_start": 16980,
+   "region_end": 17227,
+   "sha1": "06023822e78a0196828494ecdca9f5287be20338"
+  },
+  {
+   "file": "p0112.md",
+   "author": "マグドール学年主任先生",
+   "deleted": false,
+   "post_range": [
+    112,
+    112
+   ],
+   "n_posts": 1,
+   "region_start": 17227,
+   "region_end": 17323,
+   "sha1": "e389b9f995de37d0efe97e3494a7846f645b4e54"
+  },
+  {
+   "file": "p0113.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    113,
+    113
+   ],
+   "n_posts": 1,
+   "region_start": 17323,
+   "region_end": 17379,
+   "sha1": "a15012ecf02f4490b27564b23b2a3029fc67df41"
+  },
+  {
+   "file": "p0114.md",
+   "author": "マグドール学年主任先生",
+   "deleted": false,
+   "post_range": [
+    114,
+    114
+   ],
+   "n_posts": 1,
+   "region_start": 17379,
+   "region_end": 17472,
+   "sha1": "455ad09673dc17d0aaadec000a32609cee8a37de"
+  },
+  {
+   "file": "p0115.md",
+   "author": "ハルバンデフ番長",
+   "deleted": false,
+   "post_range": [
+    115,
+    115
+   ],
+   "n_posts": 1,
+   "region_start": 17472,
+   "region_end": 17642,
+   "sha1": "d852b2150898ead968859d53ff27c5b33a6fa8de"
+  },
+  {
+   "file": "p0116-0127.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    116,
+    127
+   ],
+   "n_posts": 12,
+   "region_start": 17642,
+   "region_end": 19421,
+   "sha1": "de9a256164fe9c1b663e7512daf9f7f24ba925eb"
+  },
+  {
+   "file": "p0128.md",
+   "author": "クィ",
+   "deleted": false,
+   "post_range": [
+    128,
+    128
+   ],
+   "n_posts": 1,
+   "region_start": 19421,
+   "region_end": 19468,
+   "sha1": "33bdc02b53642609f7010b2f00a50b610078850d"
+  },
+  {
+   "file": "p0129-0141.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    129,
+    141
+   ],
+   "n_posts": 13,
+   "region_start": 19468,
+   "region_end": 20835,
+   "sha1": "3fa499912ebc1c26615dd14e25a12e3f585b79c1"
+  },
+  {
+   "file": "p0142.md",
+   "author": "トミュニ",
+   "deleted": false,
+   "post_range": [
+    142,
+    142
+   ],
+   "n_posts": 1,
+   "region_start": 20835,
+   "region_end": 20995,
+   "sha1": "daddeae5554d6be507e880be56f7e368d02c8ab9"
+  },
+  {
+   "file": "p0143.md",
+   "author": "ダルスカーム",
+   "deleted": false,
+   "post_range": [
+    143,
+    143
+   ],
+   "n_posts": 1,
+   "region_start": 20995,
+   "region_end": 21122,
+   "sha1": "c30346831d101ad895bff8df16183ce4cc8d33aa"
+  },
+  {
+   "file": "p0144.md",
+   "author": "ケテラテプー",
+   "deleted": false,
+   "post_range": [
+    144,
+    144
+   ],
+   "n_posts": 1,
+   "region_start": 21122,
+   "region_end": 21208,
+   "sha1": "f3a30e0dcb9a4736b12b32924e886bf890641163"
+  },
+  {
+   "file": "p0145-0146.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    145,
+    146
+   ],
+   "n_posts": 2,
+   "region_start": 21208,
+   "region_end": 21364,
+   "sha1": "2e2a331b2988e909557b0464b0511adbf27263b9"
+  },
+  {
+   "file": "p0147.md",
+   "author": "ハルバンデフ",
+   "deleted": false,
+   "post_range": [
+    147,
+    147
+   ],
+   "n_posts": 1,
+   "region_start": 21364,
+   "region_end": 21433,
+   "sha1": "a8622f935851410e0d4dd34a3f5522b3d3a16e85"
+  },
+  {
+   "file": "p0148.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    148,
+    148
+   ],
+   "n_posts": 1,
+   "region_start": 21433,
+   "region_end": 21530,
+   "sha1": "b7fbb918bb28fcba604e23345a05e5dfe5323d00"
+  },
+  {
+   "file": "p0149.md",
+   "author": "草民高校にて",
+   "deleted": false,
+   "post_range": [
+    149,
+    149
+   ],
+   "n_posts": 1,
+   "region_start": 21530,
+   "region_end": 22280,
+   "sha1": "56e91285d596997ea2c324df9ba725091de045f0"
+  },
+  {
+   "file": "p0150.md",
+   "author": "一方その頃",
+   "deleted": false,
+   "post_range": [
+    150,
+    150
+   ],
+   "n_posts": 1,
+   "region_start": 22280,
+   "region_end": 22658,
+   "sha1": "e25280bdeff15cd5a69a7ad3651c2632fee78cc4"
+  },
+  {
+   "file": "p0151-0152.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    151,
+    152
+   ],
+   "n_posts": 2,
+   "region_start": 22658,
+   "region_end": 22782,
+   "sha1": "6b1dcf2019f9baf6ca248e29fe6b89bedf9cf35e"
+  },
+  {
+   "file": "p0153.md",
+   "author": "アレ学長",
+   "deleted": false,
+   "post_range": [
+    153,
+    153
+   ],
+   "n_posts": 1,
+   "region_start": 22782,
+   "region_end": 22837,
+   "sha1": "d5e0d7fc0428c0edff711bd715a772041881e56d"
+  },
+  {
+   "file": "p0154-0160.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    154,
+    160
+   ],
+   "n_posts": 7,
+   "region_start": 22837,
+   "region_end": 23558,
+   "sha1": "5f47fd60f3b595f493ab1dcd0b91f6f892795e06"
+  },
+  {
+   "file": "p0161.md",
+   "author": "アレ",
+   "deleted": false,
+   "post_range": [
+    161,
+    161
+   ],
+   "n_posts": 1,
+   "region_start": 23558,
+   "region_end": 23611,
+   "sha1": "c99947c95ba7c3a3f66b32529d17634c5b38bfa1"
+  },
+  {
+   "file": "p0162-0164.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    162,
+    164
+   ],
+   "n_posts": 3,
+   "region_start": 23611,
+   "region_end": 23870,
+   "sha1": "ee71e304bb5656fd35fccc6dc56a0ff3af008d60"
+  },
+  {
+   "file": "p0165.md",
+   "author": "アレ学長",
+   "deleted": false,
+   "post_range": [
+    165,
+    165
+   ],
+   "n_posts": 1,
+   "region_start": 23870,
+   "region_end": 23947,
+   "sha1": "80f7eb94e26cf33fa434e8f2c711e9de9264c42e"
+  },
+  {
+   "file": "p0166-0206.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    166,
+    206
+   ],
+   "n_posts": 41,
+   "region_start": 23947,
+   "region_end": 29235,
+   "sha1": "217698e44c3334d40fbb8404768ee42c8a045ad6"
+  },
+  {
+   "file": "p0207.md",
+   "author": "さて、その頃",
+   "deleted": false,
+   "post_range": [
+    207,
+    207
+   ],
+   "n_posts": 1,
+   "region_start": 29235,
+   "region_end": 29471,
+   "sha1": "71f52582a574a272b5d01d5160dcd221aba66bcb"
+  },
+  {
+   "file": "p0208-0216.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    208,
+    216
+   ],
+   "n_posts": 9,
+   "region_start": 29471,
+   "region_end": 30859,
+   "sha1": "0f7d0f34f7448888e2dc240927c1f0fe92add9ff"
+  },
+  {
+   "file": "p0217.md",
+   "author": "理科準備室にて",
+   "deleted": false,
+   "post_range": [
+    217,
+    217
+   ],
+   "n_posts": 1,
+   "region_start": 30859,
+   "region_end": 31736,
+   "sha1": "67dab363c8f74598d62c98b8da1a388bfe071fb8"
+  },
+  {
+   "file": "p0218-0219.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    218,
+    219
+   ],
+   "n_posts": 2,
+   "region_start": 31736,
+   "region_end": 31947,
+   "sha1": "578af9551f6a49988245f7fd5506a3c94c4db624"
+  },
+  {
+   "file": "p0220.md",
+   "author": "ゆらぎ警察署前",
+   "deleted": false,
+   "post_range": [
+    220,
+    220
+   ],
+   "n_posts": 1,
+   "region_start": 31947,
+   "region_end": 32332,
+   "sha1": "0dac9dc578bfeac08ec3ea552aeea3e9914b062e"
+  },
+  {
+   "file": "p0221-0264.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    221,
+    264
+   ],
+   "n_posts": 44,
+   "region_start": 32332,
+   "region_end": 38426,
+   "sha1": "2523ca3e887f1519f526c8c1e7edeb41690788cb"
+  },
+  {
+   "file": "p0265.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    265,
+    265
+   ],
+   "n_posts": 1,
+   "region_start": 38426,
+   "region_end": 38466,
+   "sha1": "aec8e5db30e9146d76a5f019d169b0081f4b0a17"
+  },
+  {
+   "file": "p0266-0272.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    266,
+    272
+   ],
+   "n_posts": 7,
+   "region_start": 38466,
+   "region_end": 42014,
+   "sha1": "0dd319a74fa398dfafe3f8abbf1bbbab80a88650"
+  }
+ ]
+}

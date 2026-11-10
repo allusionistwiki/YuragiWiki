@@ -1,0 +1,271 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "81473496ee6d96664ade40411759ce692f28ce8b",
+ "n_posts": 27,
+ "n_groups": 20,
+ "preamble_len": 127,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "竜",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 127,
+   "region_end": 591,
+   "sha1": "23d6599fbe3e2143e43f5502294b4433ce56bae1"
+  },
+  {
+   "file": "p0002.md",
+   "author": "村人Ａ＠utsm3",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 591,
+   "region_end": 896,
+   "sha1": "755c364303cdaca9c1a5f54259a488bef50fb617"
+  },
+  {
+   "file": "p0003-0010.md",
+   "author": "かに",
+   "deleted": false,
+   "post_range": [
+    3,
+    10
+   ],
+   "n_posts": 8,
+   "region_start": 896,
+   "region_end": 11843,
+   "sha1": "6ff95d5b5fa16c58fd71cc6d3545ec67aabe263e"
+  },
+  {
+   "file": "p0011.md",
+   "author": "ぐらたん",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 11843,
+   "region_end": 12653,
+   "sha1": "26c91cd1192695348306db617c5f9758d40353e9"
+  },
+  {
+   "file": "p0012.md",
+   "author": "月秀",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 12653,
+   "region_end": 13360,
+   "sha1": "a027191c684349475d25523369fc42798fdbefc8"
+  },
+  {
+   "file": "p0013.md",
+   "author": "utsm3",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 13360,
+   "region_end": 13535,
+   "sha1": "495c145328c2051d704a6e93681eb98c434f120c"
+  },
+  {
+   "file": "p0014.md",
+   "author": "kuroneko",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 13535,
+   "region_end": 13940,
+   "sha1": "2ce283b17d278bfeed24cf785c41a7b616fb493a"
+  },
+  {
+   "file": "p0015.md",
+   "author": "utsm3",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 13940,
+   "region_end": 14877,
+   "sha1": "d153f8320300a5976b590dab58e8b070507e0410"
+  },
+  {
+   "file": "p0016.md",
+   "author": "とら",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 14877,
+   "region_end": 15657,
+   "sha1": "68750aefb8dd31974dac4ddc3dbd4db2d0d21403"
+  },
+  {
+   "file": "p0017.md",
+   "author": "utsm3",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 15657,
+   "region_end": 16113,
+   "sha1": "e3b7f0684c17eaee99cd7fe340ea316b55862f77"
+  },
+  {
+   "file": "p0018.md",
+   "author": "烏兎",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 16113,
+   "region_end": 16463,
+   "sha1": "01d6bb856bad40d87c8ea9c534104d67e1de0fd0"
+  },
+  {
+   "file": "p0019.md",
+   "author": "アルセス野郎",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 16463,
+   "region_end": 16636,
+   "sha1": "5f17f2b6d8ee0cb10d78c9827ae659d51292e7ff"
+  },
+  {
+   "file": "p0020.md",
+   "author": "utsm3",
+   "deleted": false,
+   "post_range": [
+    20,
+    20
+   ],
+   "n_posts": 1,
+   "region_start": 16636,
+   "region_end": 16869,
+   "sha1": "f4d2456ec58cae2e782b903ca7d83cbc9efa98aa"
+  },
+  {
+   "file": "p0021.md",
+   "author": "かに",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 16869,
+   "region_end": 17452,
+   "sha1": "239127462fa533a8e395ee647179583228dbf470"
+  },
+  {
+   "file": "p0022.md",
+   "author": "kuroneko",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 17452,
+   "region_end": 17692,
+   "sha1": "dabfcce3c768e534309da769434d5472a34c3469"
+  },
+  {
+   "file": "p0023.md",
+   "author": "禍々雄",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 17692,
+   "region_end": 17878,
+   "sha1": "59af23b5d85d303b3d499f7fa360577e633f4ccc"
+  },
+  {
+   "file": "p0024.md",
+   "author": "cob",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 17878,
+   "region_end": 18973,
+   "sha1": "610dd72fee79be78a8036827bcfc4ef9652d1c38"
+  },
+  {
+   "file": "p0025.md",
+   "author": "niv",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 18973,
+   "region_end": 19084,
+   "sha1": "473d7bc1b9e0a186b05d5d380ab43a66e1eca3e3"
+  },
+  {
+   "file": "p0026.md",
+   "author": "kuroneko",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 19084,
+   "region_end": 19189,
+   "sha1": "3a444b18cd34fcf40dbdcc7a2f6c4f48847231d0"
+  },
+  {
+   "file": "p0027.md",
+   "author": "禍々雄",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 19189,
+   "region_end": 19739,
+   "sha1": "94b9dc1248f7832f05e14e28081953ce13e82595"
+  }
+ ]
+}

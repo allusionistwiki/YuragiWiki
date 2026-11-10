@@ -1,0 +1,362 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "4eaf2f45321baee9d61531d9ab9002193048180c",
+ "n_posts": 58,
+ "n_groups": 27,
+ "preamble_len": 126,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 126,
+   "region_end": 297,
+   "sha1": "58a29d228614b40553ac874a021bcd715e3d0f22"
+  },
+  {
+   "file": "p0002.md",
+   "author": "マンサン・アルズルフの人生断片",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 297,
+   "region_end": 954,
+   "sha1": "35608b58c80f73457221ae4b978f82f47761455e"
+  },
+  {
+   "file": "p0003.md",
+   "author": "故郷アロモール村にて（２）",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 954,
+   "region_end": 1371,
+   "sha1": "65ec9d406cdc3ddbfdce09a20909eb347a035194"
+  },
+  {
+   "file": "p0004.md",
+   "author": "密室事件（2）",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 1371,
+   "region_end": 1760,
+   "sha1": "05e079c1d0bca908c07f599fb0b7c43b5341c04a"
+  },
+  {
+   "file": "p0005.md",
+   "author": "悪魔オッキュテスバへの弾劾（１）",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 1760,
+   "region_end": 2030,
+   "sha1": "bfc8bdd4c86af1e5b5e3c57746d144f196f7c0e4"
+  },
+  {
+   "file": "p0006.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 2030,
+   "region_end": 3221,
+   "sha1": "3be72f039a0ac0dbb6b38d732c00d4f487567f37"
+  },
+  {
+   "file": "p0007.md",
+   "author": "密室事件２．１",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 3221,
+   "region_end": 3278,
+   "sha1": "4e2f7002ea228cdb3abb995326c965402011e1c4"
+  },
+  {
+   "file": "p0008.md",
+   "author": "密室事件（3）",
+   "deleted": false,
+   "post_range": [
+    8,
+    8
+   ],
+   "n_posts": 1,
+   "region_start": 3278,
+   "region_end": 3545,
+   "sha1": "b6074da66ad794d86378271df00c20ca2ac2e657"
+  },
+  {
+   "file": "p0009.md",
+   "author": "密室事件3.1",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 3545,
+   "region_end": 3667,
+   "sha1": "71fc4c51966d8dc254a320dd49ae2f1803a35559"
+  },
+  {
+   "file": "p0010.md",
+   "author": "密室事件3.2",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 3667,
+   "region_end": 4376,
+   "sha1": "1996864cf88128be2e92caed22e8830a2b7acfb0"
+  },
+  {
+   "file": "p0011.md",
+   "author": "故郷アロモール村にて（３）",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 4376,
+   "region_end": 4766,
+   "sha1": "54af5d8dfb01f4acc0588f71e8595c8e87669697"
+  },
+  {
+   "file": "p0012.md",
+   "author": "故郷アロモール村にて（４）",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 4766,
+   "region_end": 5280,
+   "sha1": "86e9c1dbf12867917499c2b36958e247b0b0348b"
+  },
+  {
+   "file": "p0013.md",
+   "author": "二題噺・三題噺の物語版として使えそう",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 5280,
+   "region_end": 5354,
+   "sha1": "5dbf9c38b30d307b0354a125981eeff83fc43b25"
+  },
+  {
+   "file": "p0014.md",
+   "author": "積層都市",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 5354,
+   "region_end": 5892,
+   "sha1": "8ba43ff93dae3ab2ab3c3b9ea537067f778dbe2f"
+  },
+  {
+   "file": "p0015-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    16
+   ],
+   "n_posts": 2,
+   "region_start": 5892,
+   "region_end": 8770,
+   "sha1": "f050e4e91e10a5e9e588551599a88ddf18309d51"
+  },
+  {
+   "file": "p0017.md",
+   "author": "立会い3",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 8770,
+   "region_end": 10422,
+   "sha1": "9119282b224c4fcc3d82446d543045783bd9a009"
+  },
+  {
+   "file": "p0018.md",
+   "author": "立会い4",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 10422,
+   "region_end": 12189,
+   "sha1": "c142d503a41d678db9e34dd4554b726e2215e8bb"
+  },
+  {
+   "file": "p0019.md",
+   "author": "立会い5",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 12189,
+   "region_end": 13365,
+   "sha1": "272ea496e56f0db2f68b44b210e3cc6937dfd723"
+  },
+  {
+   "file": "p0020-0036.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    20,
+    36
+   ],
+   "n_posts": 17,
+   "region_start": 13365,
+   "region_end": 30849,
+   "sha1": "0ddd66252aee53c9dc0d0879027e6246da231412"
+  },
+  {
+   "file": "p0037.md",
+   "author": "ダウンバースト",
+   "deleted": false,
+   "post_range": [
+    37,
+    37
+   ],
+   "n_posts": 1,
+   "region_start": 30849,
+   "region_end": 31344,
+   "sha1": "3052935e81fc7a195f06ed19bd45092ee261f0ce"
+  },
+  {
+   "file": "p0038.md",
+   "author": "ダウンバースト　追補",
+   "deleted": false,
+   "post_range": [
+    38,
+    38
+   ],
+   "n_posts": 1,
+   "region_start": 31344,
+   "region_end": 31624,
+   "sha1": "3386e62944c5ed8960000940220804ccf447daca"
+  },
+  {
+   "file": "p0039.md",
+   "author": "ターミナルポイント",
+   "deleted": false,
+   "post_range": [
+    39,
+    39
+   ],
+   "n_posts": 1,
+   "region_start": 31624,
+   "region_end": 32273,
+   "sha1": "fc6e4e37306f13a252c0955ef5f9103461b5199e"
+  },
+  {
+   "file": "p0040-0041.md",
+   "author": "かつての木戸野",
+   "deleted": false,
+   "post_range": [
+    40,
+    41
+   ],
+   "n_posts": 2,
+   "region_start": 32273,
+   "region_end": 35581,
+   "sha1": "295987ee72e35455218935c508dd0a4379e9752f"
+  },
+  {
+   "file": "p0042-0055.md",
+   "author": "沐浴中に致命的失態を演じた男が幼女を誘拐する話",
+   "deleted": false,
+   "post_range": [
+    42,
+    55
+   ],
+   "n_posts": 14,
+   "region_start": 35581,
+   "region_end": 52912,
+   "sha1": "418333bb6d6ad43323b01318b6a1a35715beca7e"
+  },
+  {
+   "file": "p0056.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 52912,
+   "region_end": 52986,
+   "sha1": "8064649a989497e3b28b9ec54222a136119958ab"
+  },
+  {
+   "file": "p0057.md",
+   "author": "ガヤール神話・創世編",
+   "deleted": false,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 52986,
+   "region_end": 53550,
+   "sha1": "f78b2fbd46ce5a9398e038cff7c3b740e45faad4"
+  },
+  {
+   "file": "p0058.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 53550,
+   "region_end": 53624,
+   "sha1": "a64f1fc408ef5e835c173bc18a9ef0fb31225f11"
+  }
+ ]
+}

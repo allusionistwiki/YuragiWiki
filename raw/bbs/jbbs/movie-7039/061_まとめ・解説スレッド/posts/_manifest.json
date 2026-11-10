@@ -1,0 +1,167 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "bfdb9fe7b10bfdd3efdb95cb2dce70eadf745d26",
+ "n_posts": 78,
+ "n_groups": 12,
+ "preamble_len": 130,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0024.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    24
+   ],
+   "n_posts": 24,
+   "region_start": 130,
+   "region_end": 6368,
+   "sha1": "b4c3d389bbc8099c863caf6f7049a7b2156138de"
+  },
+  {
+   "file": "p0025.md",
+   "author": "管理人",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 6368,
+   "region_end": 6503,
+   "sha1": "bbae191f7cafb43722a355bd98ca40af5ccdb427"
+  },
+  {
+   "file": "p0026-0047.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    26,
+    47
+   ],
+   "n_posts": 22,
+   "region_start": 6503,
+   "region_end": 16696,
+   "sha1": "14405b49212439170fa9e6c85016e73b2723441c"
+  },
+  {
+   "file": "p0048.md",
+   "author": "飛来神群　ヴィジター名前メモ",
+   "deleted": false,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 16696,
+   "region_end": 17207,
+   "sha1": "39418f56e88a49de24284becb5489e9b78416990"
+  },
+  {
+   "file": "p0049-0058.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    49,
+    58
+   ],
+   "n_posts": 10,
+   "region_start": 17207,
+   "region_end": 21657,
+   "sha1": "feda2a69540e38b8ab5e3450345ddac8497b91bb"
+  },
+  {
+   "file": "p0059.md",
+   "author": "まおう",
+   "deleted": false,
+   "post_range": [
+    59,
+    59
+   ],
+   "n_posts": 1,
+   "region_start": 21657,
+   "region_end": 21774,
+   "sha1": "df4df4785cce7eef9d7cfbe64768beb6467ce3c1"
+  },
+  {
+   "file": "p0060.md",
+   "author": "冬の魔女まとめ",
+   "deleted": false,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 21774,
+   "region_end": 22670,
+   "sha1": "96940df750bbc1238c8832ce068e316dacae5fe0"
+  },
+  {
+   "file": "p0061.md",
+   "author": "コルセスカ＝キュトスの姉妹説",
+   "deleted": false,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 22670,
+   "region_end": 23044,
+   "sha1": "8905d3b0280f59a4349bf9b16d6b5e245832803e"
+  },
+  {
+   "file": "p0062.md",
+   "author": "敵役　メルトバーズについて",
+   "deleted": false,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 23044,
+   "region_end": 23509,
+   "sha1": "71bfb2b634b4839a010dc2515a7f4f0189d64376"
+  },
+  {
+   "file": "p0063-0064.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    63,
+    64
+   ],
+   "n_posts": 2,
+   "region_start": 23509,
+   "region_end": 23898,
+   "sha1": "036c70b6736bae869872ae4057705a80c0fd53a3"
+  },
+  {
+   "file": "p0065.md",
+   "author": "白灰",
+   "deleted": false,
+   "post_range": [
+    65,
+    65
+   ],
+   "n_posts": 1,
+   "region_start": 23898,
+   "region_end": 24333,
+   "sha1": "a13a57dff87c128689eed65b1276179d6cbadd74"
+  },
+  {
+   "file": "p0066-0078.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    66,
+    78
+   ],
+   "n_posts": 13,
+   "region_start": 24333,
+   "region_end": 34134,
+   "sha1": "6ad514ee32334dfe93107ec42596b8ef7266df88"
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "b6a65a6107850f0a67e4a482fcf023c015cf20bf",
+ "n_posts": 54,
+ "n_groups": 24,
+ "preamble_len": 126,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    5
+   ],
+   "n_posts": 5,
+   "region_start": 126,
+   "region_end": 2039,
+   "sha1": "043387326f9bed128b36074c7190d7ed154cf6f7"
+  },
+  {
+   "file": "p0006.md",
+   "author": "狂人レエステル",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 2039,
+   "region_end": 2472,
+   "sha1": "6eccb66aca21743361f54bbee5f00457086514b3"
+  },
+  {
+   "file": "p0007.md",
+   "author": "ディルナスティ・サーガ",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 2472,
+   "region_end": 2723,
+   "sha1": "a95f4d94d2cc6a85b25a87b4eabfdf74a84e7a40"
+  },
+  {
+   "file": "p0008-0009.md",
+   "author": "触手仮面マロゾロン",
+   "deleted": false,
+   "post_range": [
+    8,
+    9
+   ],
+   "n_posts": 2,
+   "region_start": 2723,
+   "region_end": 5250,
+   "sha1": "348484a96d52621a39e11ea0f5b4e7677193e58d"
+  },
+  {
+   "file": "p0010.md",
+   "author": "ヒューリート・サーガ（１）",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 5250,
+   "region_end": 5924,
+   "sha1": "9bdf3dece39fc8748cc6f972a65f7362e05c623c"
+  },
+  {
+   "file": "p0011.md",
+   "author": "ヒューリート・サーガ（２）",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 5924,
+   "region_end": 6497,
+   "sha1": "36c4b459c03b5cc52262cd265426d80f4c285847"
+  },
+  {
+   "file": "p0012.md",
+   "author": "ヒューリート・サーガ（３）",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 6497,
+   "region_end": 7017,
+   "sha1": "bd62a097545b34fea9259570f19299faa3da821a"
+  },
+  {
+   "file": "p0013.md",
+   "author": "ヒューリート・サーガ（４）",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 7017,
+   "region_end": 7574,
+   "sha1": "0f63613786e6c88b03a364f5595b9d76d2f107da"
+  },
+  {
+   "file": "p0014-0022.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    22
+   ],
+   "n_posts": 9,
+   "region_start": 7574,
+   "region_end": 10660,
+   "sha1": "05f4d6e24d68980308c78c0d9f1fb307cf73cc82"
+  },
+  {
+   "file": "p0023.md",
+   "author": "20",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 10660,
+   "region_end": 10834,
+   "sha1": "285bb51ef19a5c83fe5c1ffaab4c96a2ff60f7e2"
+  },
+  {
+   "file": "p0024-0028.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    24,
+    28
+   ],
+   "n_posts": 5,
+   "region_start": 10834,
+   "region_end": 11372,
+   "sha1": "80d5ea7acd2c0e5f0d2933c2808d095749ca4d82"
+  },
+  {
+   "file": "p0029.md",
+   "author": "28",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 11372,
+   "region_end": 11565,
+   "sha1": "66a419c2f98810dd600088b900cb2363511428a9"
+  },
+  {
+   "file": "p0030-0043.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    30,
+    43
+   ],
+   "n_posts": 14,
+   "region_start": 11565,
+   "region_end": 13639,
+   "sha1": "5e8add870092945957023b7eeddae82edf1de0bb"
+  },
+  {
+   "file": "p0044.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    44,
+    44
+   ],
+   "n_posts": 1,
+   "region_start": 13639,
+   "region_end": 13678,
+   "sha1": "ed1d71fa2fa021d0f07de64159df3e7538c2ba85"
+  },
+  {
+   "file": "p0045.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 13678,
+   "region_end": 13717,
+   "sha1": "552189e71a6a520cfb1e53a409d10e419c4ed040"
+  },
+  {
+   "file": "p0046.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    46,
+    46
+   ],
+   "n_posts": 1,
+   "region_start": 13717,
+   "region_end": 13756,
+   "sha1": "8a0e6d6a62c4716f085905ceaf19d1228f18173b"
+  },
+  {
+   "file": "p0047.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 13756,
+   "region_end": 13795,
+   "sha1": "2a99ee3644ba9902992842011dea8e8dba884122"
+  },
+  {
+   "file": "p0048.md",
+   "author": "イジーキール・シルバースミス第三の目（１）",
+   "deleted": false,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 13795,
+   "region_end": 14770,
+   "sha1": "b77d0778719da5799fbb03a1bb11e47071f8b07d"
+  },
+  {
+   "file": "p0049.md",
+   "author": "イジーキール・シルバースミス第三の目（２）",
+   "deleted": false,
+   "post_range": [
+    49,
+    49
+   ],
+   "n_posts": 1,
+   "region_start": 14770,
+   "region_end": 16105,
+   "sha1": "411d60aeec00a23e0d95a63d22994d82d697e512"
+  },
+  {
+   "file": "p0050.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 16105,
+   "region_end": 16157,
+   "sha1": "87109e4e993e02f87f03e8df60f8cf487098e8bc"
+  },
+  {
+   "file": "p0051.md",
+   "author": "イジーキール・シルバースミス第三の目その後（１）",
+   "deleted": false,
+   "post_range": [
+    51,
+    51
+   ],
+   "n_posts": 1,
+   "region_start": 16157,
+   "region_end": 16940,
+   "sha1": "8a1daad1b3eaf5b6815dfb65bf54a657f2a9f422"
+  },
+  {
+   "file": "p0052.md",
+   "author": "その後（２）",
+   "deleted": false,
+   "post_range": [
+    52,
+    52
+   ],
+   "n_posts": 1,
+   "region_start": 16940,
+   "region_end": 17315,
+   "sha1": "ed9b9596c892d740af2cbb689e0145438d066b82"
+  },
+  {
+   "file": "p0053.md",
+   "author": "その後（３）",
+   "deleted": false,
+   "post_range": [
+    53,
+    53
+   ],
+   "n_posts": 1,
+   "region_start": 17315,
+   "region_end": 17869,
+   "sha1": "15eed9e1c45f06308747f7859019c502d8bae300"
+  },
+  {
+   "file": "p0054.md",
+   "author": "その後（４）",
+   "deleted": false,
+   "post_range": [
+    54,
+    54
+   ],
+   "n_posts": 1,
+   "region_start": 17869,
+   "region_end": 18476,
+   "sha1": "5d483c6f93dad53f668c1f99c99b8ec87c91fdb4"
+  }
+ ]
+}

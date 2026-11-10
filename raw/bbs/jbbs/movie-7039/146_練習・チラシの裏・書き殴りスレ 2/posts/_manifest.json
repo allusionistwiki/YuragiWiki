@@ -1,0 +1,193 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "870bbe11fed64436b4f6bde3a63498a0efd2d218",
+ "n_posts": 66,
+ "n_groups": 14,
+ "preamble_len": 138,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0007.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    7
+   ],
+   "n_posts": 7,
+   "region_start": 138,
+   "region_end": 1599,
+   "sha1": "a250880c5142ea8f58c7cc324866172b77a4b495"
+  },
+  {
+   "file": "p0008.md",
+   "author": "潰れて飛び散った犬が呻いて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    8
+   ],
+   "n_posts": 1,
+   "region_start": 1599,
+   "region_end": 1693,
+   "sha1": "3d1e81874dee773cd3037bc29f32bf85a9e5e5fa"
+  },
+  {
+   "file": "p0009.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1693,
+   "region_end": 2340,
+   "sha1": "2b33eb7cdba6f9a1750aabd159b3de67307bf5b0"
+  },
+  {
+   "file": "p0010.md",
+   "author": "<<犬は死に絶えろ>>",
+   "deleted": true,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 2340,
+   "region_end": 2399,
+   "sha1": "b34e995fcbd07f57137b15bfe5e5b0a21295f7fb"
+  },
+  {
+   "file": "p0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 2399,
+   "region_end": 2476,
+   "sha1": "0d0334985a32d217683a45610f6d3b42d63f2af4"
+  },
+  {
+   "file": "p0012.md",
+   "author": "実験中",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 2476,
+   "region_end": 2762,
+   "sha1": "d867d38f118c753deced012f3288f6b00a2d2e76"
+  },
+  {
+   "file": "p0013.md",
+   "author": "susu",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 2762,
+   "region_end": 2896,
+   "sha1": "15affd5dbb680f234529d5614e481174c54fd5b0"
+  },
+  {
+   "file": "p0014-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    16
+   ],
+   "n_posts": 3,
+   "region_start": 2896,
+   "region_end": 3139,
+   "sha1": "ef33cbe4e2ec2d81eaa93885590ee56dde87dedc"
+  },
+  {
+   "file": "p0017-0018.md",
+   "author": "カットアップ妖精",
+   "deleted": false,
+   "post_range": [
+    17,
+    18
+   ],
+   "n_posts": 2,
+   "region_start": 3139,
+   "region_end": 4303,
+   "sha1": "2140a0dd5c3416d8162190ce36d852d2d0f3e689"
+  },
+  {
+   "file": "p0019.md",
+   "author": "カットアップ妖精（混ぜてみましたVer.)",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 4303,
+   "region_end": 4911,
+   "sha1": "164a43a20a8a4d128b17004b9c7802a2166cc410"
+  },
+  {
+   "file": "p0020.md",
+   "author": "カットアップ妖精",
+   "deleted": false,
+   "post_range": [
+    20,
+    20
+   ],
+   "n_posts": 1,
+   "region_start": 4911,
+   "region_end": 5179,
+   "sha1": "db11e143c59e507a5f6dba85f5c3cbc50cb91c1f"
+  },
+  {
+   "file": "p0021-0032.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    21,
+    32
+   ],
+   "n_posts": 12,
+   "region_start": 5179,
+   "region_end": 8334,
+   "sha1": "76e01f6a8e4606623c6487dbd59c7fd460e31bb1"
+  },
+  {
+   "file": "p0033.md",
+   "author": "tinyrulは使えないのか",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 8334,
+   "region_end": 8468,
+   "sha1": "1856df9491452f110a06a536af807e97f440e2a7"
+  },
+  {
+   "file": "p0034-0066.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    34,
+    66
+   ],
+   "n_posts": 33,
+   "region_start": 8468,
+   "region_end": 17549,
+   "sha1": "cefbff0f66c066a954398e1131a5bea3d815b370"
+  }
+ ]
+}

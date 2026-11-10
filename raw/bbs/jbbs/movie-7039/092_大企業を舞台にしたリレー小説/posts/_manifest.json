@@ -1,0 +1,50 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "1284d606cefae79d871828c8fbb69ad3b8e57a15",
+ "n_posts": 25,
+ "n_groups": 3,
+ "preamble_len": 134,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0015.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    15
+   ],
+   "n_posts": 15,
+   "region_start": 134,
+   "region_end": 2684,
+   "sha1": "bdc13fa19c5a79e19ba7976e2ad27958fcb25761"
+  },
+  {
+   "file": "p0016.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 2684,
+   "region_end": 2723,
+   "sha1": "3ae0be1180ce54b0d05d26e244f6f1411907d576"
+  },
+  {
+   "file": "p0017-0025.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    17,
+    25
+   ],
+   "n_posts": 9,
+   "region_start": 2723,
+   "region_end": 3799,
+   "sha1": "5bc24502e7de7bb9a0a6a7b3b2e5264132eca70c"
+  }
+ ]
+}

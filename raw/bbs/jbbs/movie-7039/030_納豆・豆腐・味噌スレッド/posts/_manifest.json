@@ -1,0 +1,128 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "35056d08b56f7805f7decf17b3087a038e65f776",
+ "n_posts": 69,
+ "n_groups": 9,
+ "preamble_len": 132,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    8
+   ],
+   "n_posts": 8,
+   "region_start": 132,
+   "region_end": 1492,
+   "sha1": "f90581775e35217d92463e492829554665c0dd01"
+  },
+  {
+   "file": "p0009.md",
+   "author": "あやね",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1492,
+   "region_end": 1580,
+   "sha1": "86c1087a2c4c1b8dec45880ad679fcdfeab8cf2c"
+  },
+  {
+   "file": "p0010-0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    11
+   ],
+   "n_posts": 2,
+   "region_start": 1580,
+   "region_end": 1837,
+   "sha1": "78ff32e09dc6f26f3958617251e44f334f7b8451"
+  },
+  {
+   "file": "p0012.md",
+   "author": "トミュニ",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 1837,
+   "region_end": 1957,
+   "sha1": "35d5dc7cb6afffa9dc52cd892b77750011454979"
+  },
+  {
+   "file": "p0013-0021.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    13,
+    21
+   ],
+   "n_posts": 9,
+   "region_start": 1957,
+   "region_end": 3251,
+   "sha1": "3982fe6a0f6e1c9157120afff72776ee07e62173"
+  },
+  {
+   "file": "p0022.md",
+   "author": "イークィ・ノークィス",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 3251,
+   "region_end": 3594,
+   "sha1": "c3af42fa042d8d832f62c0c05ed82023d2803990"
+  },
+  {
+   "file": "p0023-0047.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    23,
+    47
+   ],
+   "n_posts": 25,
+   "region_start": 3594,
+   "region_end": 6230,
+   "sha1": "a14f066c809df10cd7c379df674f0de889a7c577"
+  },
+  {
+   "file": "p0048.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 6230,
+   "region_end": 6355,
+   "sha1": "3263343af6c9e3676aa3c2e8588a94bbabd2a972"
+  },
+  {
+   "file": "p0049-0069.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    49,
+    69
+   ],
+   "n_posts": 21,
+   "region_start": 6355,
+   "region_end": 8108,
+   "sha1": "3ffd4539854a2352f544075a9f019767ff4bb1e6"
+  }
+ ]
+}

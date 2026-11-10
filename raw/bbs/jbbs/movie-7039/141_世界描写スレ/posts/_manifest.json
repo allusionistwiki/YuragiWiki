@@ -1,0 +1,115 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "9dafea8cbc9d0f3ce690352c0e0286e5fdc8abca",
+ "n_posts": 13,
+ "n_groups": 8,
+ "preamble_len": 127,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 127,
+   "region_end": 259,
+   "sha1": "7741f9ed7cd45efb2c6e2f421546f43b8afb9420"
+  },
+  {
+   "file": "p0002.md",
+   "author": "四十番目のクエリ",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 259,
+   "region_end": 950,
+   "sha1": "61f39ffce700a6b014ea8b0257633d8e2316371e"
+  },
+  {
+   "file": "p0003.md",
+   "author": "四十番目のクエリ2",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 950,
+   "region_end": 1424,
+   "sha1": "760987a9775fa2fc277ca0a45e15c45fe8d18e98"
+  },
+  {
+   "file": "p0004.md",
+   "author": "四十番目のクエリ3",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 1424,
+   "region_end": 1757,
+   "sha1": "a689fa2f651749fd82a6a001f8197ac57d78b524"
+  },
+  {
+   "file": "p0005.md",
+   "author": "匿名魔女1",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 1757,
+   "region_end": 2195,
+   "sha1": "68774670e6eeffcf38d9bc19ec99d2eb4a9c667e"
+  },
+  {
+   "file": "p0006.md",
+   "author": "四十番目のクエリ4",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 2195,
+   "region_end": 2648,
+   "sha1": "e1f6f81f839838ee3e7739e348ae58a10c590a20"
+  },
+  {
+   "file": "p0007-0010.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    7,
+    10
+   ],
+   "n_posts": 4,
+   "region_start": 2648,
+   "region_end": 4016,
+   "sha1": "bb40312b44285a13eaf71975444976edb9260843"
+  },
+  {
+   "file": "p0011-0013.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    13
+   ],
+   "n_posts": 3,
+   "region_start": 4016,
+   "region_end": 4313,
+   "sha1": "04df8ead4c44a8391d398466b9861f3de4eb6c9e"
+  }
+ ]
+}

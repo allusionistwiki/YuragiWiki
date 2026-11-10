@@ -1,0 +1,531 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "0b19b33baeb31d959dd2672fc0c045d9a9271313",
+ "n_posts": 77,
+ "n_groups": 40,
+ "preamble_len": 128,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0004.md",
+   "author": "niv",
+   "deleted": false,
+   "post_range": [
+    1,
+    4
+   ],
+   "n_posts": 4,
+   "region_start": 128,
+   "region_end": 1358,
+   "sha1": "df2d33a6a52149ff3196a93bcd97d6ec670d9c43"
+  },
+  {
+   "file": "p0005.md",
+   "author": "ＵＧ774",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 1358,
+   "region_end": 1648,
+   "sha1": "aa258c16c7a5d1ad4d2eecbca222f0ad7041a50d"
+  },
+  {
+   "file": "p0006-0007.md",
+   "author": "niv",
+   "deleted": false,
+   "post_range": [
+    6,
+    7
+   ],
+   "n_posts": 2,
+   "region_start": 1648,
+   "region_end": 2109,
+   "sha1": "ae10ab2eb8b56980aa62a46900be567bc5ce542d"
+  },
+  {
+   "file": "p0008-0009.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    9
+   ],
+   "n_posts": 2,
+   "region_start": 2109,
+   "region_end": 3289,
+   "sha1": "b8f10bd713fa4fb5914efc517ad638822ad750ce"
+  },
+  {
+   "file": "p0010.md",
+   "author": "Ｃｏ",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 3289,
+   "region_end": 3666,
+   "sha1": "afe4daf83f578672a20dbe8cb5d48b3e2d9e115b"
+  },
+  {
+   "file": "p0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 3666,
+   "region_end": 4364,
+   "sha1": "2589024e147b9946962c677d83bb385b336dd273"
+  },
+  {
+   "file": "p0012.md",
+   "author": "プロローグめいた独り語り",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 4364,
+   "region_end": 5182,
+   "sha1": "e30158de2cbe05cab89286a1a56433e7e25c78d3"
+  },
+  {
+   "file": "p0013.md",
+   "author": "狂信者",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 5182,
+   "region_end": 5953,
+   "sha1": "a21adb76556a720b479df97d0403f2e49065740c"
+  },
+  {
+   "file": "p0014.md",
+   "author": "あおぞら",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 5953,
+   "region_end": 7002,
+   "sha1": "af5e2db73a65250e5be8e917663d6c1e25e99997"
+  },
+  {
+   "file": "p0015-0017.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    17
+   ],
+   "n_posts": 3,
+   "region_start": 7002,
+   "region_end": 9668,
+   "sha1": "d6e99dd0c7b2d34df2d1f2ec5f40f47ccd8c1a8e"
+  },
+  {
+   "file": "p0018.md",
+   "author": "フ言理の妖精",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 9668,
+   "region_end": 10128,
+   "sha1": "d5f74b435c45e21e34bb546806884958d194eda2"
+  },
+  {
+   "file": "p0019-0020.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    19,
+    20
+   ],
+   "n_posts": 2,
+   "region_start": 10128,
+   "region_end": 11589,
+   "sha1": "a1dc1d22b532006f26cc430ac2c239679a1b0e05"
+  },
+  {
+   "file": "p0021.md",
+   "author": "犬と少女は荒野を歩く　第三十九話　絶体絶命1",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 11589,
+   "region_end": 13397,
+   "sha1": "7e93467f673da3f7c875acba3f44b4a5f8ff5a07"
+  },
+  {
+   "file": "p0022.md",
+   "author": "犬と少女は荒野を歩く　第三十九話　絶体絶命2",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 13397,
+   "region_end": 14641,
+   "sha1": "f4aa75c393cce6de2e4be6308442b1aadbbc9ef4"
+  },
+  {
+   "file": "p0023.md",
+   "author": "犬と少女は荒野を歩く　第三十九話　絶体絶命3",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 14641,
+   "region_end": 15329,
+   "sha1": "42fa25c494ab3835a9f7b33308c2798df1de4f17"
+  },
+  {
+   "file": "p0024.md",
+   "author": "犬と少女は荒野を歩く　第三十九話　絶体絶命4",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 15329,
+   "region_end": 17387,
+   "sha1": "5ba3a07c2b7675a04f202aa258d8153987a44be1"
+  },
+  {
+   "file": "p0025-0027.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    25,
+    27
+   ],
+   "n_posts": 3,
+   "region_start": 17387,
+   "region_end": 19491,
+   "sha1": "8595d26622080742c9426ef31e93973d291e0b35"
+  },
+  {
+   "file": "p0028.md",
+   "author": "よあけ",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 19491,
+   "region_end": 20389,
+   "sha1": "a0c2c541c724a70a14a4974a728eefe73065b9cd"
+  },
+  {
+   "file": "p0029.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 20389,
+   "region_end": 21043,
+   "sha1": "c3ee3b261f1a164ca48884b3dd1673b2c18ec2ff"
+  },
+  {
+   "file": "p0030.md",
+   "author": "よあけ",
+   "deleted": false,
+   "post_range": [
+    30,
+    30
+   ],
+   "n_posts": 1,
+   "region_start": 21043,
+   "region_end": 22394,
+   "sha1": "02988b86c710e1ba8a864414f83aa96dcebcdc8d"
+  },
+  {
+   "file": "p0031.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    31,
+    31
+   ],
+   "n_posts": 1,
+   "region_start": 22394,
+   "region_end": 23109,
+   "sha1": "ccbf2ba85a617e28d99c530df3e842f088706172"
+  },
+  {
+   "file": "p0032.md",
+   "author": "ほらよ。",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 23109,
+   "region_end": 23206,
+   "sha1": "b5da8cedd784467c8070ce9835f1edc9c5f19535"
+  },
+  {
+   "file": "p0033.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 23206,
+   "region_end": 24187,
+   "sha1": "0db4251cab83aa534cea9e1444058b0a32b06579"
+  },
+  {
+   "file": "p0034.md",
+   "author": "よあけ",
+   "deleted": false,
+   "post_range": [
+    34,
+    34
+   ],
+   "n_posts": 1,
+   "region_start": 24187,
+   "region_end": 25454,
+   "sha1": "7aef44f035129de36ee5b1ba1db83f97c179bc37"
+  },
+  {
+   "file": "p0035-0036.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    35,
+    36
+   ],
+   "n_posts": 2,
+   "region_start": 25454,
+   "region_end": 25892,
+   "sha1": "ea412e82301d2bac7908346922f9ac64c8717772"
+  },
+  {
+   "file": "p0037.md",
+   "author": "よあけ",
+   "deleted": false,
+   "post_range": [
+    37,
+    37
+   ],
+   "n_posts": 1,
+   "region_start": 25892,
+   "region_end": 26549,
+   "sha1": "4fd6ca08112c6ede944ba15075d64cc363155a61"
+  },
+  {
+   "file": "p0038-0039.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    38,
+    39
+   ],
+   "n_posts": 2,
+   "region_start": 26549,
+   "region_end": 27102,
+   "sha1": "2d7dba9fc9011cd66abb6acad20e9bde973dacf9"
+  },
+  {
+   "file": "p0040.md",
+   "author": "よあけ",
+   "deleted": false,
+   "post_range": [
+    40,
+    40
+   ],
+   "n_posts": 1,
+   "region_start": 27102,
+   "region_end": 27624,
+   "sha1": "c461c0b6d13f2e33b3e43714330c04c2fdd9706f"
+  },
+  {
+   "file": "p0041.md",
+   "author": "ＵＧ774",
+   "deleted": false,
+   "post_range": [
+    41,
+    41
+   ],
+   "n_posts": 1,
+   "region_start": 27624,
+   "region_end": 28489,
+   "sha1": "eaa4b75f50de294ee3c678027c154a483b702308"
+  },
+  {
+   "file": "p0042.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    42,
+    42
+   ],
+   "n_posts": 1,
+   "region_start": 28489,
+   "region_end": 29026,
+   "sha1": "f0ba24d9b4d1f28af9bd9082293b911ce0c064a2"
+  },
+  {
+   "file": "p0043.md",
+   "author": "リジェネレイトスライム",
+   "deleted": false,
+   "post_range": [
+    43,
+    43
+   ],
+   "n_posts": 1,
+   "region_start": 29026,
+   "region_end": 29239,
+   "sha1": "80c9d9144981e814c6346f1b5082d3d7c4edc301"
+  },
+  {
+   "file": "p0044-0046.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    44,
+    46
+   ],
+   "n_posts": 3,
+   "region_start": 29239,
+   "region_end": 30772,
+   "sha1": "88a2afa1190db73454249b0e6f2b16500454261d"
+  },
+  {
+   "file": "p0047-0048.md",
+   "author": "歌わない船",
+   "deleted": false,
+   "post_range": [
+    47,
+    48
+   ],
+   "n_posts": 2,
+   "region_start": 30772,
+   "region_end": 31969,
+   "sha1": "5f80a5b0f1d3fb70fa90f8d0230a8e3fbd61a531"
+  },
+  {
+   "file": "p0049-0053.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    49,
+    53
+   ],
+   "n_posts": 5,
+   "region_start": 31969,
+   "region_end": 34297,
+   "sha1": "30a80a5f8043a4b29f35bc6d7ec25e703d16f510"
+  },
+  {
+   "file": "p0054.md",
+   "author": "無駄毛処理の魔女",
+   "deleted": false,
+   "post_range": [
+    54,
+    54
+   ],
+   "n_posts": 1,
+   "region_start": 34297,
+   "region_end": 34792,
+   "sha1": "5cf8976f96560d81030a8efa484868e24d6fbd57"
+  },
+  {
+   "file": "p0055-0056.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    55,
+    56
+   ],
+   "n_posts": 2,
+   "region_start": 34792,
+   "region_end": 35660,
+   "sha1": "94a3f85b8a7b420e2e838c104c91ce9fbaad7282"
+  },
+  {
+   "file": "p0057-0060.md",
+   "author": "niv",
+   "deleted": false,
+   "post_range": [
+    57,
+    60
+   ],
+   "n_posts": 4,
+   "region_start": 35660,
+   "region_end": 37093,
+   "sha1": "d107956f54cf9c8514559aa5ed2fa7af18204fec"
+  },
+  {
+   "file": "p0061-0075.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    61,
+    75
+   ],
+   "n_posts": 15,
+   "region_start": 37093,
+   "region_end": 43438,
+   "sha1": "3b7237064b36d37339260c9e25b847ec6430dcc7"
+  },
+  {
+   "file": "p0076.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    76,
+    76
+   ],
+   "n_posts": 1,
+   "region_start": 43438,
+   "region_end": 43477,
+   "sha1": "93091e7c5a6444940b1d47f20dcd487e8a5a7467"
+  },
+  {
+   "file": "p0077.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    77,
+    77
+   ],
+   "n_posts": 1,
+   "region_start": 43477,
+   "region_end": 44149,
+   "sha1": "d694672805c8b8cd1967d8ae116430e6c76f5bbb"
+  }
+ ]
+}

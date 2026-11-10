@@ -1,0 +1,102 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "838aa83537b6801a960d446be741ab5c5825932b",
+ "n_posts": 50,
+ "n_groups": 7,
+ "preamble_len": 141,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 141,
+   "region_end": 251,
+   "sha1": "601905d143f5c12d8403911bbafb6c5af295b5b3"
+  },
+  {
+   "file": "p0002.md",
+   "author": "１",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 251,
+   "region_end": 451,
+   "sha1": "abd50a50136ccbf00531a93cb5bcafcd4d67ff4e"
+  },
+  {
+   "file": "p0003-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    3,
+    8
+   ],
+   "n_posts": 6,
+   "region_start": 451,
+   "region_end": 1435,
+   "sha1": "b2d018cb68115b09e23682167c1ab6c193b15352"
+  },
+  {
+   "file": "p0009.md",
+   "author": "１",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1435,
+   "region_end": 1505,
+   "sha1": "8f74b0d482d10047d4d7dedba4378d38a5280ded"
+  },
+  {
+   "file": "p0010-0012.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    12
+   ],
+   "n_posts": 3,
+   "region_start": 1505,
+   "region_end": 1780,
+   "sha1": "20328ae41dce8da153aa24a7d875a68263dcdd5d"
+  },
+  {
+   "file": "p0013.md",
+   "author": "猫仮面学者ナナニャンニャ",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 1780,
+   "region_end": 2022,
+   "sha1": "20c75d3a550c9af85c1b9fd33ce714a9fe015516"
+  },
+  {
+   "file": "p0014-0050.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    50
+   ],
+   "n_posts": 37,
+   "region_start": 2022,
+   "region_end": 6691,
+   "sha1": "0b6271ea4c2c08a31d0152a9801c6c4d316aa642"
+  }
+ ]
+}

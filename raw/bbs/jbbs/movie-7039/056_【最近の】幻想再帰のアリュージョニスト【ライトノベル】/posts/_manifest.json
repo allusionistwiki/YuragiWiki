@@ -1,0 +1,232 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "0fa9b3fa1d523831c9399291a25be42735f67dbf",
+ "n_posts": 576,
+ "n_groups": 17,
+ "preamble_len": 149,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "orangestar",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 149,
+   "region_end": 312,
+   "sha1": "7416eacf2c822b7f2ce4b9a597a082055cdc5b8e"
+  },
+  {
+   "file": "p0002-0080.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    2,
+    80
+   ],
+   "n_posts": 79,
+   "region_start": 312,
+   "region_end": 8331,
+   "sha1": "3e8ac278c25ab9e3a316df63d667d524129d614c"
+  },
+  {
+   "file": "p0081.md",
+   "author": "人形姫語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    81,
+    81
+   ],
+   "n_posts": 1,
+   "region_start": 8331,
+   "region_end": 8407,
+   "sha1": "07f4880884526e7a71bdd4875e447c00ff23fb26"
+  },
+  {
+   "file": "p0082.md",
+   "author": "聖猫姫語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    82,
+    82
+   ],
+   "n_posts": 1,
+   "region_start": 8407,
+   "region_end": 8456,
+   "sha1": "19ace4f1b07e6d60714151028f491937baaab2ad"
+  },
+  {
+   "file": "p0083.md",
+   "author": "月触の猫ジャエトルニャージャ語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    83,
+    83
+   ],
+   "n_posts": 1,
+   "region_start": 8456,
+   "region_end": 8517,
+   "sha1": "d44d800d4fd6a58a517b4edfe42d433da3e19b15"
+  },
+  {
+   "file": "p0084.md",
+   "author": "人形姫語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    84,
+    84
+   ],
+   "n_posts": 1,
+   "region_start": 8517,
+   "region_end": 8590,
+   "sha1": "bcb361d1949038aed9f05e3c9a5c46f336337550"
+  },
+  {
+   "file": "p0085-0224.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    85,
+    224
+   ],
+   "n_posts": 140,
+   "region_start": 8590,
+   "region_end": 24599,
+   "sha1": "4d1b7c5b2f1fec84767ba23a6ec36266f9519f56"
+  },
+  {
+   "file": "p0225.md",
+   "author": "sage",
+   "deleted": false,
+   "post_range": [
+    225,
+    225
+   ],
+   "n_posts": 1,
+   "region_start": 24599,
+   "region_end": 24701,
+   "sha1": "eb1d45c4feb70c429089ad5cba4b85fe9c738b12"
+  },
+  {
+   "file": "p0226-0295.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    226,
+    295
+   ],
+   "n_posts": 70,
+   "region_start": 24701,
+   "region_end": 31622,
+   "sha1": "21c26a970671ce31d82273a5588986eb114046d6"
+  },
+  {
+   "file": "p0296.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    296,
+    296
+   ],
+   "n_posts": 1,
+   "region_start": 31622,
+   "region_end": 31662,
+   "sha1": "3ec2d83b83e567c313ff628f0c95f22d6d1f54c9"
+  },
+  {
+   "file": "p0297-0312.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    297,
+    312
+   ],
+   "n_posts": 15,
+   "region_start": 31662,
+   "region_end": 33213,
+   "sha1": "c41381866888c395675e1bb42128073ba6cd42eb"
+  },
+  {
+   "file": "p0313.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    313,
+    313
+   ],
+   "n_posts": 1,
+   "region_start": 33213,
+   "region_end": 33253,
+   "sha1": "faa708ced7ca1dbe734ac90063cc588714befe0b"
+  },
+  {
+   "file": "p0314-0316.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    314,
+    316
+   ],
+   "n_posts": 3,
+   "region_start": 33253,
+   "region_end": 33488,
+   "sha1": "78e4e6ad82ad9b0f9403531e2d9f8ddb22f6edfe"
+  },
+  {
+   "file": "p0317.md",
+   "author": "sage",
+   "deleted": false,
+   "post_range": [
+    317,
+    317
+   ],
+   "n_posts": 1,
+   "region_start": 33488,
+   "region_end": 33634,
+   "sha1": "bf01009bdd89b0f0d0fe8c70c455ef79ddd62bf4"
+  },
+  {
+   "file": "p0318-0337.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    318,
+    337
+   ],
+   "n_posts": 20,
+   "region_start": 33634,
+   "region_end": 35370,
+   "sha1": "7b0bded8a41b2ad25f981d17522b33fbcb985e3c"
+  },
+  {
+   "file": "p0338.md",
+   "author": "囚われの美姫＠氷の中で退屈中",
+   "deleted": false,
+   "post_range": [
+    338,
+    338
+   ],
+   "n_posts": 1,
+   "region_start": 35370,
+   "region_end": 35451,
+   "sha1": "aa00e29617b2ba7de63be3e398b3dd32c607661d"
+  },
+  {
+   "file": "p0339-0581.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    339,
+    581
+   ],
+   "n_posts": 239,
+   "region_start": 35451,
+   "region_end": 59821,
+   "sha1": "bc58fd1705a52a6570ff3797fec3944b283665b1"
+  }
+ ]
+}

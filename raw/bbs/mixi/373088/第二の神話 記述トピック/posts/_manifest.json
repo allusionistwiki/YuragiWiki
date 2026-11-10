@@ -1,0 +1,284 @@
+{
+ "src": "6948914_topic_comment.md",
+ "src_sha1": "a2ee0e07857536e26a17e888f25a2962101b47e1",
+ "n_posts": 33,
+ "n_groups": 21,
+ "preamble_len": 25,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "蛮族　狩男",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 25,
+   "region_end": 338,
+   "sha1": "29fce0c5602019eff6b3cf49cbacc43643a1f278"
+  },
+  {
+   "file": "p0002-0003.md",
+   "author": "(匿名)",
+   "deleted": false,
+   "post_range": [
+    2,
+    3
+   ],
+   "n_posts": 2,
+   "region_start": 338,
+   "region_end": 4057,
+   "sha1": "64006350bd43999c8baab7a325bc50f771cd9e6a"
+  },
+  {
+   "file": "p0004.md",
+   "author": "ドラッヘンリーゼ",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 4057,
+   "region_end": 5953,
+   "sha1": "3cd822405ff6875137cd424281f8166b661c292f"
+  },
+  {
+   "file": "p0005-0012.md",
+   "author": "(匿名)",
+   "deleted": false,
+   "post_range": [
+    5,
+    12
+   ],
+   "n_posts": 7,
+   "region_start": 5953,
+   "region_end": 10910,
+   "sha1": "a831a139d7c5e23882254d0b282be51b5d879ac5"
+  },
+  {
+   "file": "p0014-0015.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    14,
+    15
+   ],
+   "n_posts": 2,
+   "region_start": 10910,
+   "region_end": 12446,
+   "sha1": "31ae1b861bd43f01004f69e35ec9140961d8fa5e"
+  },
+  {
+   "file": "p0016.md",
+   "author": "(匿名)",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 12446,
+   "region_end": 15855,
+   "sha1": "a576bcbe4700fe8c80951f36ab7b612908e2a53a"
+  },
+  {
+   "file": "p0018.md",
+   "author": "ドラッヘンリーゼ",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 15855,
+   "region_end": 16437,
+   "sha1": "0e17d7237f8878888bbd3776ca3e91906d3de694"
+  },
+  {
+   "file": "p0019-0020.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    19,
+    20
+   ],
+   "n_posts": 2,
+   "region_start": 16437,
+   "region_end": 16858,
+   "sha1": "ac8ef42f6262013b96d9fc3cac85f2f19e062fc1"
+  },
+  {
+   "file": "p0021.md",
+   "author": "ファンキーウィンプ",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 16858,
+   "region_end": 17402,
+   "sha1": "0301fc76c507b3de47bf48d0783dbe9d4b3c4a7d"
+  },
+  {
+   "file": "p0022.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 17402,
+   "region_end": 17513,
+   "sha1": "3406edee3f901e77c17a506c3c595a549cbea99f"
+  },
+  {
+   "file": "p0023.md",
+   "author": "(匿名)",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 17513,
+   "region_end": 17639,
+   "sha1": "533c55a23d1102146b2e93aad48f9ee73b9506de"
+  },
+  {
+   "file": "p0024.md",
+   "author": "ファンキーウィンプ",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 17639,
+   "region_end": 18758,
+   "sha1": "40e39763d47295397f0dbd7c263f21a7314b522a"
+  },
+  {
+   "file": "p0025.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 18758,
+   "region_end": 18852,
+   "sha1": "fcbab063e1901a832e39ba5e347a2d2f7f68330b"
+  },
+  {
+   "file": "p0026.md",
+   "author": "ファンキーウィンプ",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 18852,
+   "region_end": 19543,
+   "sha1": "022a77a19d105b0ba336296fbcf56fab383c5855"
+  },
+  {
+   "file": "p0027.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 19543,
+   "region_end": 19613,
+   "sha1": "843daea8493494ec8fb0f4ab2c5241778ac5700e"
+  },
+  {
+   "file": "p0028.md",
+   "author": "ファンキーウィンプ",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 19613,
+   "region_end": 20519,
+   "sha1": "b6e2869a0c9f58f478072e42f74dc56f5f8086ed"
+  },
+  {
+   "file": "p0029.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 20519,
+   "region_end": 20657,
+   "sha1": "7f15d123899432b43bea600ccca4e24105dae4c5"
+  },
+  {
+   "file": "p0031.md",
+   "author": "ファンキーウィンプ",
+   "deleted": false,
+   "post_range": [
+    31,
+    31
+   ],
+   "n_posts": 1,
+   "region_start": 20657,
+   "region_end": 21176,
+   "sha1": "f6f8b9d23c12cb880ebbb83043a32743ce37fecb"
+  },
+  {
+   "file": "p0032.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 21176,
+   "region_end": 21349,
+   "sha1": "9a13796f0119edfad78d187e3c10f0eed4aa76fb"
+  },
+  {
+   "file": "p0033-0035.md",
+   "author": "青い鴉",
+   "deleted": false,
+   "post_range": [
+    33,
+    35
+   ],
+   "n_posts": 3,
+   "region_start": 21349,
+   "region_end": 21806,
+   "sha1": "52272d0861438e55895da81776060101aa075e99"
+  },
+  {
+   "file": "p0036-0037.md",
+   "author": "月秀",
+   "deleted": false,
+   "post_range": [
+    36,
+    37
+   ],
+   "n_posts": 2,
+   "region_start": 21806,
+   "region_end": 22165,
+   "sha1": "ab0cd8f8ca63b7f796497cc305dd50f672065ede"
+  }
+ ]
+}

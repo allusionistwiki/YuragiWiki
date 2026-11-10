@@ -1,0 +1,76 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "da25a2db8ea775d195f2324e1c5e93bad99eb376",
+ "n_posts": 23,
+ "n_groups": 5,
+ "preamble_len": 128,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0004.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    4
+   ],
+   "n_posts": 4,
+   "region_start": 128,
+   "region_end": 761,
+   "sha1": "a73d69afe371ea7faf7cb9dc33c68fa7659833ef"
+  },
+  {
+   "file": "p0005-0007.md",
+   "author": "ノエル",
+   "deleted": false,
+   "post_range": [
+    5,
+    7
+   ],
+   "n_posts": 3,
+   "region_start": 761,
+   "region_end": 1009,
+   "sha1": "1cb722e88075990be73bdea56889e6432e12dc17"
+  },
+  {
+   "file": "p0008-0012.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    12
+   ],
+   "n_posts": 5,
+   "region_start": 1009,
+   "region_end": 1400,
+   "sha1": "367ee1dcb4662232357f25d9b4224daf470b0559"
+  },
+  {
+   "file": "p0013.md",
+   "author": "前髪をポニテにしている男",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 1400,
+   "region_end": 1785,
+   "sha1": "cae6ac0dd0967fc48ceb9f0fbfe71c3ee1c39b48"
+  },
+  {
+   "file": "p0014-0023.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    23
+   ],
+   "n_posts": 10,
+   "region_start": 1785,
+   "region_end": 2944,
+   "sha1": "8e3c9674a84cac79963c9237e25050a9c21edddf"
+  }
+ ]
+}

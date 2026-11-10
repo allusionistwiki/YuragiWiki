@@ -1,0 +1,102 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "10a9d8f0fb11b51640b80472a2784dc157e6ad38",
+ "n_posts": 27,
+ "n_groups": 7,
+ "preamble_len": 124,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0009.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    9
+   ],
+   "n_posts": 9,
+   "region_start": 124,
+   "region_end": 1033,
+   "sha1": "0f7e68f02384eb849a134ec4c6468479834cf65d"
+  },
+  {
+   "file": "p0010.md",
+   "author": "病床の悪魔",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 1033,
+   "region_end": 1153,
+   "sha1": "1ff63b01e977de3505596c1541361b43b50a1ba3"
+  },
+  {
+   "file": "p0011-0020.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    20
+   ],
+   "n_posts": 10,
+   "region_start": 1153,
+   "region_end": 2023,
+   "sha1": "a42fb14a4a67e679c8e9601d18dc289a46be12e0"
+  },
+  {
+   "file": "p0021.md",
+   "author": "ポニー教徒",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 2023,
+   "region_end": 2134,
+   "sha1": "6c7b80cd27fb864f52a4f31d339a1219ff6068cd"
+  },
+  {
+   "file": "p0022.md",
+   "author": "ウルフカット宗信徒",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 2134,
+   "region_end": 2228,
+   "sha1": "06115d534c058c055064fa653f135a00e981a254"
+  },
+  {
+   "file": "p0023.md",
+   "author": "スス＠面白いからテンプレとしてゲシュタルト崩壊させちゃおう。",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 2228,
+   "region_end": 2330,
+   "sha1": "337f5861383a9cb362cea223eddbd342b1a20dac"
+  },
+  {
+   "file": "p0024-0027.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    24,
+    27
+   ],
+   "n_posts": 4,
+   "region_start": 2330,
+   "region_end": 3166,
+   "sha1": "f5f1037d576e1bf2e31f2c19a93d4a8963d1c669"
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "12205af35fa945c998d9ef704b4ad6349d0d89af",
+ "n_posts": 521,
+ "n_groups": 19,
+ "preamble_len": 131,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0055.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    55
+   ],
+   "n_posts": 55,
+   "region_start": 131,
+   "region_end": 6075,
+   "sha1": "71c8d6ae0c19f61581b4eceb164c2fe6afa31995"
+  },
+  {
+   "file": "p0056.md",
+   "author": "宮崎純人問ひて曰く、",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 6075,
+   "region_end": 6161,
+   "sha1": "19cc964816a9c4016e725027f9ffeb24b45c0abb"
+  },
+  {
+   "file": "p0057-0060.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    57,
+    60
+   ],
+   "n_posts": 4,
+   "region_start": 6161,
+   "region_end": 6503,
+   "sha1": "9b57d29a2cb4c6bbd2223f683bfc087760e0d484"
+  },
+  {
+   "file": "p0061.md",
+   "author": "ラノベ語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 6503,
+   "region_end": 6598,
+   "sha1": "72a400a1cde7fcf631e37e98f1888fdb41a0ae3d"
+  },
+  {
+   "file": "p0062-0125.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    62,
+    125
+   ],
+   "n_posts": 64,
+   "region_start": 6598,
+   "region_end": 15314,
+   "sha1": "3e7eefb6e8928613bee726175d58dc85ac7cb90e"
+  },
+  {
+   "file": "p0126.md",
+   "author": "岐阜本求輝",
+   "deleted": false,
+   "post_range": [
+    126,
+    126
+   ],
+   "n_posts": 1,
+   "region_start": 15314,
+   "region_end": 15386,
+   "sha1": "38f3347c4cce05eb0e908d8f6b54233aa8efa346"
+  },
+  {
+   "file": "p0127-0158.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    127,
+    158
+   ],
+   "n_posts": 32,
+   "region_start": 15386,
+   "region_end": 19139,
+   "sha1": "cc91dbe0f120f5d3fca8b7275d75807557d9e3d2"
+  },
+  {
+   "file": "p0159.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    159,
+    159
+   ],
+   "n_posts": 1,
+   "region_start": 19139,
+   "region_end": 19264,
+   "sha1": "e86de4ab01f5a999e01910fe62ed26860b894cf0"
+  },
+  {
+   "file": "p0160-0174.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    160,
+    174
+   ],
+   "n_posts": 15,
+   "region_start": 19264,
+   "region_end": 22125,
+   "sha1": "7a913e8df91ae9f7390f1d0b83c6e03b702d0599"
+  },
+  {
+   "file": "p0175.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    175,
+    175
+   ],
+   "n_posts": 1,
+   "region_start": 22125,
+   "region_end": 22244,
+   "sha1": "1eb53ebbc4975279c3cd2e77a6fa70148855878b"
+  },
+  {
+   "file": "p0176.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    176,
+    176
+   ],
+   "n_posts": 1,
+   "region_start": 22244,
+   "region_end": 22349,
+   "sha1": "8ea1295e058220a9dfc4129a38e50d50e7c88aff"
+  },
+  {
+   "file": "p0177.md",
+   "author": "この子です。",
+   "deleted": false,
+   "post_range": [
+    177,
+    177
+   ],
+   "n_posts": 1,
+   "region_start": 22349,
+   "region_end": 22512,
+   "sha1": "0d763a7957257aabbbe9d95cc6f8096e9f23551b"
+  },
+  {
+   "file": "p0178-0245.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    178,
+    245
+   ],
+   "n_posts": 68,
+   "region_start": 22512,
+   "region_end": 35467,
+   "sha1": "df20108ac7694dab71ade17ea604ae9625071c4e"
+  },
+  {
+   "file": "p0246.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    246,
+    246
+   ],
+   "n_posts": 1,
+   "region_start": 35467,
+   "region_end": 35507,
+   "sha1": "c5ad3f63624d5dcb000a1be3004e83ae4cd7fca1"
+  },
+  {
+   "file": "p0247-0515.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    247,
+    515
+   ],
+   "n_posts": 268,
+   "region_start": 35507,
+   "region_end": 100070,
+   "sha1": "7f0bd244c1789e21450a0d1bf3066440c44cc6c4"
+  },
+  {
+   "file": "p0516.md",
+   "author": "プロセスド・チンパンジーの学者語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    516,
+    516
+   ],
+   "n_posts": 1,
+   "region_start": 100070,
+   "region_end": 100824,
+   "sha1": "830b743751055d01dad74e6a4fbaea62321fc346"
+  },
+  {
+   "file": "p0517-0518.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    517,
+    518
+   ],
+   "n_posts": 2,
+   "region_start": 100824,
+   "region_end": 101872,
+   "sha1": "cf6aa38b1110173e2e9158dfc1ba2f5ac13a2f9a"
+  },
+  {
+   "file": "p0519.md",
+   "author": "プロセスド・ボノボの研究員語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    519,
+    519
+   ],
+   "n_posts": 1,
+   "region_start": 101872,
+   "region_end": 102220,
+   "sha1": "b0cfa42efc384956c457a010caa10d0f6e197f2b"
+  },
+  {
+   "file": "p0520-0522.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    520,
+    522
+   ],
+   "n_posts": 3,
+   "region_start": 102220,
+   "region_end": 105478,
+   "sha1": "43a97d0d9621f8f42f5e7f7aef09bc2630e0bfb0"
+  }
+ ]
+}

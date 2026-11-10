@@ -1,0 +1,414 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "f720653fbc113519f273a61b0ba22b90fc658cf7",
+ "n_posts": 68,
+ "n_groups": 31,
+ "preamble_len": 142,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 142,
+   "region_end": 721,
+   "sha1": "058374cb5b15c137a9ccc9e3a219fa7825245c2d"
+  },
+  {
+   "file": "p0002-0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    2,
+    5
+   ],
+   "n_posts": 4,
+   "region_start": 721,
+   "region_end": 1041,
+   "sha1": "1a6ef13a14b31299ad717297e6affdf1a094b1b9"
+  },
+  {
+   "file": "p0006.md",
+   "author": "2",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 1041,
+   "region_end": 1129,
+   "sha1": "03d5f8d63d0a3ea213399a1e6b7ca1605e60fe90"
+  },
+  {
+   "file": "p0007-0009.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    7,
+    9
+   ],
+   "n_posts": 3,
+   "region_start": 1129,
+   "region_end": 2035,
+   "sha1": "ae777f3d28aa5f828e998d76f4abef714ba37e3f"
+  },
+  {
+   "file": "p0010.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 2035,
+   "region_end": 2150,
+   "sha1": "549f1128395b602de1e615bca86aff63eca2167a"
+  },
+  {
+   "file": "p0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 2150,
+   "region_end": 2508,
+   "sha1": "b289635f04de23fb9ca25bfa1ae13277a024e511"
+  },
+  {
+   "file": "p0012.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 2508,
+   "region_end": 2614,
+   "sha1": "4bc1071c613e3e0908e865a635a15573ea3b0420"
+  },
+  {
+   "file": "p0013-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    13,
+    16
+   ],
+   "n_posts": 4,
+   "region_start": 2614,
+   "region_end": 3031,
+   "sha1": "488c2e90e87a6562e7613ae3538496d5c4736491"
+  },
+  {
+   "file": "p0017.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 3031,
+   "region_end": 3243,
+   "sha1": "677f863769a572c54d5c89b6ccbefdc403c3c076"
+  },
+  {
+   "file": "p0018.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 3243,
+   "region_end": 3356,
+   "sha1": "ea8bfeccd3e076d9adf08fd176c70defe16bd0bf"
+  },
+  {
+   "file": "p0019.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 3356,
+   "region_end": 3529,
+   "sha1": "084f79c631e636782c521c6638aed106731baca9"
+  },
+  {
+   "file": "p0020-0034.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    20,
+    34
+   ],
+   "n_posts": 15,
+   "region_start": 3529,
+   "region_end": 5084,
+   "sha1": "6818a9b73af2e77a767691b82bb8da82ac116e7a"
+  },
+  {
+   "file": "p0035.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 5084,
+   "region_end": 5248,
+   "sha1": "09b9035798b2d40f1de38520e1a03228d4d4b2b3"
+  },
+  {
+   "file": "p0036.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    36,
+    36
+   ],
+   "n_posts": 1,
+   "region_start": 5248,
+   "region_end": 5339,
+   "sha1": "6205d6a9f31fb7b89056b87f3111ba5fafee0715"
+  },
+  {
+   "file": "p0037.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    37,
+    37
+   ],
+   "n_posts": 1,
+   "region_start": 5339,
+   "region_end": 5500,
+   "sha1": "bc98da4b377581d95995d5582ca5b21e8369e075"
+  },
+  {
+   "file": "p0038.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    38,
+    38
+   ],
+   "n_posts": 1,
+   "region_start": 5500,
+   "region_end": 5603,
+   "sha1": "12ae76dd73fd5758b4958b6ab6527e0ac2f1a263"
+  },
+  {
+   "file": "p0039.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    39,
+    39
+   ],
+   "n_posts": 1,
+   "region_start": 5603,
+   "region_end": 5740,
+   "sha1": "e9d70b3081d963b5db01294cf4674557fe8560d8"
+  },
+  {
+   "file": "p0040.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    40,
+    40
+   ],
+   "n_posts": 1,
+   "region_start": 5740,
+   "region_end": 5868,
+   "sha1": "030358eaf70c64c99cb70c5c29aa2e1f1049bc04"
+  },
+  {
+   "file": "p0041.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    41,
+    41
+   ],
+   "n_posts": 1,
+   "region_start": 5868,
+   "region_end": 5931,
+   "sha1": "ee31274cf08cf6bc20ef4d5c3c8c89d2f46a86f1"
+  },
+  {
+   "file": "p0042.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    42,
+    42
+   ],
+   "n_posts": 1,
+   "region_start": 5931,
+   "region_end": 6210,
+   "sha1": "546481d27cbc4b7957b202cac10e9baa5f234767"
+  },
+  {
+   "file": "p0043.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    43,
+    43
+   ],
+   "n_posts": 1,
+   "region_start": 6210,
+   "region_end": 6394,
+   "sha1": "184c02ca05473edaaac54d5d76b6742843f95c7c"
+  },
+  {
+   "file": "p0044.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    44,
+    44
+   ],
+   "n_posts": 1,
+   "region_start": 6394,
+   "region_end": 6458,
+   "sha1": "5a2074607330f3c6a0d12baf5f3016201ba74c06"
+  },
+  {
+   "file": "p0045.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 6458,
+   "region_end": 6604,
+   "sha1": "2243e886bdb464864645bfa93d3e33d6b7eb02ad"
+  },
+  {
+   "file": "p0046-0049.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    46,
+    49
+   ],
+   "n_posts": 4,
+   "region_start": 6604,
+   "region_end": 7075,
+   "sha1": "239cf19997ee8656e1acea4b3bbaf2a25b891d4f"
+  },
+  {
+   "file": "p0050.md",
+   "author": "愛を送りたい",
+   "deleted": false,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 7075,
+   "region_end": 7405,
+   "sha1": "0d4e12dc0c2c279d857c2df356fa21cf320a6295"
+  },
+  {
+   "file": "p0051-0054.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    51,
+    54
+   ],
+   "n_posts": 4,
+   "region_start": 7405,
+   "region_end": 7868,
+   "sha1": "10f341730ac41af28519dc779fdd27b839b2f8e1"
+  },
+  {
+   "file": "p0055.md",
+   "author": "52",
+   "deleted": false,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 7868,
+   "region_end": 7920,
+   "sha1": "917beb307b8a245693e0164ca05b4746e0f5b7f4"
+  },
+  {
+   "file": "p0056.md",
+   "author": "54",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 7920,
+   "region_end": 7988,
+   "sha1": "4e2d8e4b9ca3385fed8e2af49345302fa776e097"
+  },
+  {
+   "file": "p0057-0066.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    57,
+    66
+   ],
+   "n_posts": 10,
+   "region_start": 7988,
+   "region_end": 9403,
+   "sha1": "c7f6c3b56ec8f7d067717a3299ce6453e5e0a20a"
+  },
+  {
+   "file": "p0067.md",
+   "author": "ザザ大聖ファン",
+   "deleted": false,
+   "post_range": [
+    67,
+    67
+   ],
+   "n_posts": 1,
+   "region_start": 9403,
+   "region_end": 9542,
+   "sha1": "c322ed836d666e37c499860d33a8c8d79b52342c"
+  },
+  {
+   "file": "p0068.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    68,
+    68
+   ],
+   "n_posts": 1,
+   "region_start": 9542,
+   "region_end": 9716,
+   "sha1": "f2a64566efdf94d2ab58b7ec2a01a7ea977eb20c"
+  }
+ ]
+}

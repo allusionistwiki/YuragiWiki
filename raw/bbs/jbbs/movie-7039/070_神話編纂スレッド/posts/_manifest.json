@@ -1,0 +1,310 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "5f343b54da742c6ce8e17f44496b6daf1c3631ec",
+ "n_posts": 61,
+ "n_groups": 23,
+ "preamble_len": 128,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 128,
+   "region_end": 231,
+   "sha1": "31bc672d340951c6e72d5661402c8a7dc105a083"
+  },
+  {
+   "file": "p0002.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 231,
+   "region_end": 436,
+   "sha1": "b45502fa85bbc79f5c66aa3b6a1f69e2b26b3ac2"
+  },
+  {
+   "file": "p0003.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 436,
+   "region_end": 487,
+   "sha1": "5b6ad01d68eb7c0d545a34932947de52f94d92d2"
+  },
+  {
+   "file": "p0004-0006.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    4,
+    6
+   ],
+   "n_posts": 3,
+   "region_start": 487,
+   "region_end": 1400,
+   "sha1": "69344f6827cbda5c0388a5353f26880063460d47"
+  },
+  {
+   "file": "p0007-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    7,
+    8
+   ],
+   "n_posts": 2,
+   "region_start": 1400,
+   "region_end": 1534,
+   "sha1": "8f7a5ab3831f0b73811405578c12efe301cc8d6a"
+  },
+  {
+   "file": "p0009-0010.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    9,
+    10
+   ],
+   "n_posts": 2,
+   "region_start": 1534,
+   "region_end": 1873,
+   "sha1": "68e4a6737a497cdf902f22add3edf5ec0c24461b"
+  },
+  {
+   "file": "p0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 1873,
+   "region_end": 2006,
+   "sha1": "eaa62e4d15a66bd10bf222132955071c64cb5442"
+  },
+  {
+   "file": "p0012.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 2006,
+   "region_end": 2254,
+   "sha1": "287b4ab7f9b2ce16f507b16f78d8b7882d895bcd"
+  },
+  {
+   "file": "p0013-0014.md",
+   "author": "猫と竜系のおおざっぱなまとめ",
+   "deleted": false,
+   "post_range": [
+    13,
+    14
+   ],
+   "n_posts": 2,
+   "region_start": 2254,
+   "region_end": 3097,
+   "sha1": "ee4c05773cf1506c7932981018a20e9b7417b991"
+  },
+  {
+   "file": "p0015.md",
+   "author": "悪魔と異獣まとめ",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 3097,
+   "region_end": 3598,
+   "sha1": "62cf13731f9bd40084a20b4cb177ebb7564961ef"
+  },
+  {
+   "file": "p0016-0025.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    16,
+    25
+   ],
+   "n_posts": 10,
+   "region_start": 3598,
+   "region_end": 5166,
+   "sha1": "f41871e55f5bfa2b0b676ac0042220301a6aa63b"
+  },
+  {
+   "file": "p0026.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 5166,
+   "region_end": 5792,
+   "sha1": "83b92b28dc26fe1e9228973db02183c6047fcad4"
+  },
+  {
+   "file": "p0027-0029.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    27,
+    29
+   ],
+   "n_posts": 3,
+   "region_start": 5792,
+   "region_end": 6077,
+   "sha1": "417696cf5803f83520a499a2945175bc0dcc7d45"
+  },
+  {
+   "file": "p0030-0032.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    30,
+    32
+   ],
+   "n_posts": 3,
+   "region_start": 6077,
+   "region_end": 6865,
+   "sha1": "fcae6b68efd26bd56fa2c9e5d12596fbe0e29934"
+  },
+  {
+   "file": "p0033-0034.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    33,
+    34
+   ],
+   "n_posts": 2,
+   "region_start": 6865,
+   "region_end": 7087,
+   "sha1": "7f32310b2d820747e1157a1cb322f0359b1b091f"
+  },
+  {
+   "file": "p0035.md",
+   "author": "アルセス",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 7087,
+   "region_end": 7170,
+   "sha1": "a83a4614e1e6912f2aa096b2c026d48303f696c4"
+  },
+  {
+   "file": "p0036-0046.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    36,
+    46
+   ],
+   "n_posts": 11,
+   "region_start": 7170,
+   "region_end": 8014,
+   "sha1": "01e962bc5d0da8d9bc5c4849463535b4c7002bd0"
+  },
+  {
+   "file": "p0047.md",
+   "author": "ワレリィ",
+   "deleted": false,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 8014,
+   "region_end": 8164,
+   "sha1": "45a9ee815c716651376452c4b49ffac5fb76cb0a"
+  },
+  {
+   "file": "p0048-0050.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    48,
+    50
+   ],
+   "n_posts": 3,
+   "region_start": 8164,
+   "region_end": 8437,
+   "sha1": "aeedcdf895d3b8b453397ae970c31f8bf2e12541"
+  },
+  {
+   "file": "p0051-0052.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    51,
+    52
+   ],
+   "n_posts": 2,
+   "region_start": 8437,
+   "region_end": 8642,
+   "sha1": "31a330511b84df050d815fa48f15b68654998810"
+  },
+  {
+   "file": "p0053-0059.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    53,
+    59
+   ],
+   "n_posts": 7,
+   "region_start": 8642,
+   "region_end": 9225,
+   "sha1": "256425f8b3e524434ba4008c15606dfeb038f64d"
+  },
+  {
+   "file": "p0060.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 9225,
+   "region_end": 9264,
+   "sha1": "bae94becfcf861453028b684cc0a19f6d4fc8e20"
+  },
+  {
+   "file": "p0061.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 9264,
+   "region_end": 9322,
+   "sha1": "c6869a6fe60afb59706c15f1252c0a3d85734d18"
+  }
+ ]
+}

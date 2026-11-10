@@ -1,0 +1,232 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "0e0f021a4621b83c1f61527d7307c178de5448d5",
+ "n_posts": 28,
+ "n_groups": 17,
+ "preamble_len": 135,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "秘密のあっこちゃん",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 135,
+   "region_end": 243,
+   "sha1": "fc568cb264f1729f78d608664260aceb8c83a702"
+  },
+  {
+   "file": "p0002.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 243,
+   "region_end": 331,
+   "sha1": "0b8f4d67f858862a32d081f3f8ec3870640d71d4"
+  },
+  {
+   "file": "p0003.md",
+   "author": "ぜんぜん",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 331,
+   "region_end": 388,
+   "sha1": "d4da7b118e1271bcb3e4c12a6bead84a7b0fea8c"
+  },
+  {
+   "file": "p0004-0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    4,
+    5
+   ],
+   "n_posts": 2,
+   "region_start": 388,
+   "region_end": 505,
+   "sha1": "bfc7859cdcb17e46b2ea0ad84cfcbfc81f49b0e2"
+  },
+  {
+   "file": "p0006.md",
+   "author": "芸能人のいとこ",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 505,
+   "region_end": 653,
+   "sha1": "727b9edd25df8180ad707b8419d7d4e983d8699e"
+  },
+  {
+   "file": "p0007.md",
+   "author": "うーわ",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 653,
+   "region_end": 730,
+   "sha1": "b5d089de5ab984285f9da64daecaf214f4b85c2f"
+  },
+  {
+   "file": "p0008-0010.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    10
+   ],
+   "n_posts": 3,
+   "region_start": 730,
+   "region_end": 1008,
+   "sha1": "f79cb8c41e6d72d7d1dd7c24b22daeb200b7e28c"
+  },
+  {
+   "file": "p0011.md",
+   "author": "芸能人のいとこ",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 1008,
+   "region_end": 1273,
+   "sha1": "8c0a192a312c1c828da341e2edec9a51162a1a10"
+  },
+  {
+   "file": "p0012.md",
+   "author": "不連続体ノエレッテ",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 1273,
+   "region_end": 1381,
+   "sha1": "66409e43a00a32b98fa98c4fa9d03b88e9462676"
+  },
+  {
+   "file": "p0013.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 1381,
+   "region_end": 1454,
+   "sha1": "97e733058764effad1798edcabb6ef7ac0cce610"
+  },
+  {
+   "file": "p0014.md",
+   "author": "裕翔",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 1454,
+   "region_end": 1500,
+   "sha1": "fd6cdf9b7d3c5f219bd486f6ab5d3b9354cea533"
+  },
+  {
+   "file": "p0015.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 1500,
+   "region_end": 1568,
+   "sha1": "15b384e65517ec1b9732aa412faf20ad324f83f8"
+  },
+  {
+   "file": "p0016.md",
+   "author": "芸能人のやとこ",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 1568,
+   "region_end": 1689,
+   "sha1": "69a268632c87914e6f079415c67dcc427ae0a68a"
+  },
+  {
+   "file": "p0017.md",
+   "author": "芸能人のはとこ",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 1689,
+   "region_end": 1776,
+   "sha1": "100e4cda62151b467e3539a9766f474b7c93a7c9"
+  },
+  {
+   "file": "p0018-0021.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    21
+   ],
+   "n_posts": 4,
+   "region_start": 1776,
+   "region_end": 2022,
+   "sha1": "1183c3807f3b33a2872ee0781ecf2b8265de9fde"
+  },
+  {
+   "file": "p0022.md",
+   "author": "裕翔",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 2022,
+   "region_end": 2082,
+   "sha1": "d51c72a30fe9e7926df095f0d31a3a488179886d"
+  },
+  {
+   "file": "p0023-0028.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    23,
+    28
+   ],
+   "n_posts": 6,
+   "region_start": 2082,
+   "region_end": 2575,
+   "sha1": "e5b530719d130387437720e8b3fbcaf6758d4781"
+  }
+ ]
+}

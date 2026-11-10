@@ -1,0 +1,89 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "69c41d33e9a708aeb79e95c5a58180f805b074f6",
+ "n_posts": 14,
+ "n_groups": 6,
+ "preamble_len": 124,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0005.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    1,
+    5
+   ],
+   "n_posts": 5,
+   "region_start": 124,
+   "region_end": 1797,
+   "sha1": "1508ce18290a53f137bb74ea7baef28197f0892c"
+  },
+  {
+   "file": "p0006-0007.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    6,
+    7
+   ],
+   "n_posts": 2,
+   "region_start": 1797,
+   "region_end": 2812,
+   "sha1": "bed09eb657a657307ae7271c70e0753ae784ca91"
+  },
+  {
+   "file": "p0008-0010.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    8,
+    10
+   ],
+   "n_posts": 3,
+   "region_start": 2812,
+   "region_end": 3742,
+   "sha1": "2bf56f99877449843183f9680fd77145a503a8ca"
+  },
+  {
+   "file": "p0011-0012.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    11,
+    12
+   ],
+   "n_posts": 2,
+   "region_start": 3742,
+   "region_end": 4374,
+   "sha1": "e1388127521b05835eabba4c09ec2e585bfc0081"
+  },
+  {
+   "file": "p0013.md",
+   "author": "ｃ。",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 4374,
+   "region_end": 5085,
+   "sha1": "87e55c3185198f6c82a592614a3e63f020e6ec46"
+  },
+  {
+   "file": "p0014.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 5085,
+   "region_end": 5651,
+   "sha1": "f529e7ac977a2dab88595ea8ebe28caff2fc51ad"
+  }
+ ]
+}

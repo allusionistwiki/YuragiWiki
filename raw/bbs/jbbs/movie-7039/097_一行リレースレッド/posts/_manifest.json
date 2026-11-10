@@ -1,0 +1,102 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "accc7bea41695b51118c280bf132df99dddde90b",
+ "n_posts": 264,
+ "n_groups": 7,
+ "preamble_len": 131,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0006.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    6
+   ],
+   "n_posts": 6,
+   "region_start": 131,
+   "region_end": 586,
+   "sha1": "ba7987f20f5e76ec131cc55508ff10d770ea4c48"
+  },
+  {
+   "file": "p0007.md",
+   "author": "ヒグマ",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 586,
+   "region_end": 630,
+   "sha1": "75d87c8bc7c434635229a23ab13d77f114b9e903"
+  },
+  {
+   "file": "p0008-0125.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    125
+   ],
+   "n_posts": 118,
+   "region_start": 630,
+   "region_end": 9188,
+   "sha1": "84f7dc177bd289615a670a4d3b01bf098d74ac7d"
+  },
+  {
+   "file": "p0126.md",
+   "author": "語り部",
+   "deleted": false,
+   "post_range": [
+    126,
+    126
+   ],
+   "n_posts": 1,
+   "region_start": 9188,
+   "region_end": 9259,
+   "sha1": "f1ff4a1a385296ba44a31e0a4d0c1d84773ca4f7"
+  },
+  {
+   "file": "p0127-0135.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    127,
+    135
+   ],
+   "n_posts": 9,
+   "region_start": 9259,
+   "region_end": 9982,
+   "sha1": "04466b4773d1c64ca8982ba2f1519973381fe841"
+  },
+  {
+   "file": "p0136.md",
+   "author": "1",
+   "deleted": false,
+   "post_range": [
+    136,
+    136
+   ],
+   "n_posts": 1,
+   "region_start": 9982,
+   "region_end": 10244,
+   "sha1": "2cf348ea5af29ca6cec6e8a61e40724529128a24"
+  },
+  {
+   "file": "p0137-0264.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    137,
+    264
+   ],
+   "n_posts": 128,
+   "region_start": 10244,
+   "region_end": 20774,
+   "sha1": "00a75c9e875f7958962b81f30de7dc190f761776"
+  }
+ ]
+}

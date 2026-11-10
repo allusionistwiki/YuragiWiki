@@ -1,0 +1,219 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "7b641985ff7df989857c910eee6c12580b7288e6",
+ "n_posts": 218,
+ "n_groups": 16,
+ "preamble_len": 126,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0049.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    49
+   ],
+   "n_posts": 49,
+   "region_start": 126,
+   "region_end": 5410,
+   "sha1": "86da6dd42182ade9f3260f00981cbd44d4c535c7"
+  },
+  {
+   "file": "p0050-0051.md",
+   "author": "案内アリ",
+   "deleted": false,
+   "post_range": [
+    50,
+    51
+   ],
+   "n_posts": 2,
+   "region_start": 5410,
+   "region_end": 5602,
+   "sha1": "1940676a01d2d648d27ed71dfdfddbabe749ef6d"
+  },
+  {
+   "file": "p0052-0054.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    52,
+    54
+   ],
+   "n_posts": 3,
+   "region_start": 5602,
+   "region_end": 5802,
+   "sha1": "f66b8513eb1db78fe5b3aaceef2f3f4dcc4c95b1"
+  },
+  {
+   "file": "p0055.md",
+   "author": "京都の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 5802,
+   "region_end": 5896,
+   "sha1": "761b7daabf607b4721db45656674eeb3cbc31a2f"
+  },
+  {
+   "file": "p0056-0078.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    56,
+    78
+   ],
+   "n_posts": 23,
+   "region_start": 5896,
+   "region_end": 7888,
+   "sha1": "ed05858719dd46ded46dc2f14755597e81c8e572"
+  },
+  {
+   "file": "p0079.md",
+   "author": "現代神話",
+   "deleted": false,
+   "post_range": [
+    79,
+    79
+   ],
+   "n_posts": 1,
+   "region_start": 7888,
+   "region_end": 8060,
+   "sha1": "7f2f415a1eab395d3003d82ba66beb35ec9a79fa"
+  },
+  {
+   "file": "p0080-0120.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    80,
+    120
+   ],
+   "n_posts": 41,
+   "region_start": 8060,
+   "region_end": 12681,
+   "sha1": "5737b4f75acdd4f1edf4c44cca9e06dd0974f6ef"
+  },
+  {
+   "file": "p0121.md",
+   "author": "黒子さん語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    121,
+    121
+   ],
+   "n_posts": 1,
+   "region_start": 12681,
+   "region_end": 12752,
+   "sha1": "6da1d6411f33fc95fa9ab7556711526824fa31a5"
+  },
+  {
+   "file": "p0122.md",
+   "author": "118",
+   "deleted": false,
+   "post_range": [
+    122,
+    122
+   ],
+   "n_posts": 1,
+   "region_start": 12752,
+   "region_end": 12852,
+   "sha1": "04f9c7b5df7c579131f49043a80244f3bc93e073"
+  },
+  {
+   "file": "p0123-0143.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    123,
+    143
+   ],
+   "n_posts": 21,
+   "region_start": 12852,
+   "region_end": 15166,
+   "sha1": "74ed3588cd1233c05ffa75cb1a9a36c76853f743"
+  },
+  {
+   "file": "p0144.md",
+   "author": "【木村さなえ】",
+   "deleted": false,
+   "post_range": [
+    144,
+    144
+   ],
+   "n_posts": 1,
+   "region_start": 15166,
+   "region_end": 15261,
+   "sha1": "93cac5415b7f57977d9e21ba328b2adff5fdd1d1"
+  },
+  {
+   "file": "p0145-0149.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    145,
+    149
+   ],
+   "n_posts": 5,
+   "region_start": 15261,
+   "region_end": 15646,
+   "sha1": "eb76f7a7b0d2c408d0dc4b6e788b79bb90349a3d"
+  },
+  {
+   "file": "p0150.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    150,
+    150
+   ],
+   "n_posts": 1,
+   "region_start": 15646,
+   "region_end": 15735,
+   "sha1": "3915b92c445af9de3f29645f7a19d3a0d0884f76"
+  },
+  {
+   "file": "p0151-0182.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    151,
+    182
+   ],
+   "n_posts": 32,
+   "region_start": 15735,
+   "region_end": 20172,
+   "sha1": "707e26e6f3a6bce42b7cba8384c3588ddaef1170"
+  },
+  {
+   "file": "p0183.md",
+   "author": "街角のTV語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    183,
+    183
+   ],
+   "n_posts": 1,
+   "region_start": 20172,
+   "region_end": 20309,
+   "sha1": "5533311b80d33516b2d0bbab9910631242acdb1e"
+  },
+  {
+   "file": "p0184-0218.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    184,
+    218
+   ],
+   "n_posts": 35,
+   "region_start": 20309,
+   "region_end": 26679,
+   "sha1": "d7c41400552da8a76fc71368f89e6331c879c96b"
+  }
+ ]
+}

@@ -1,0 +1,622 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "d5d3e6f779ed6a57dce9bda1304eb4c036627fc1",
+ "n_posts": 89,
+ "n_groups": 47,
+ "preamble_len": 136,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0010.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    10
+   ],
+   "n_posts": 10,
+   "region_start": 136,
+   "region_end": 2744,
+   "sha1": "a7bc403e8f0fe77631e327b71fe44a3b56f4ddd1"
+  },
+  {
+   "file": "p0011.md",
+   "author": "ムランカ",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 2744,
+   "region_end": 3108,
+   "sha1": "fc1599cbfd4d7a57a117af7cd8c24f54e10b61bf"
+  },
+  {
+   "file": "p0012.md",
+   "author": "旅の坊主",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 3108,
+   "region_end": 3310,
+   "sha1": "e76a6c504a9a618bb1fe5db1737788f479f6be91"
+  },
+  {
+   "file": "p0013.md",
+   "author": "野武士",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 3310,
+   "region_end": 3420,
+   "sha1": "86d87adeb0e716950d0c01890eef0a0b66eb7083"
+  },
+  {
+   "file": "p0014.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 3420,
+   "region_end": 3521,
+   "sha1": "1b8be3c504c675147f5603d8d1dee61a73953c16"
+  },
+  {
+   "file": "p0015.md",
+   "author": "野武士",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 3521,
+   "region_end": 3660,
+   "sha1": "3e6fbac4e4c98b87e37b77e24e5a17b5e95d9de2"
+  },
+  {
+   "file": "p0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 3660,
+   "region_end": 3794,
+   "sha1": "80125fbb1db4926692dc15e60e4a7a4fc36da94d"
+  },
+  {
+   "file": "p0017.md",
+   "author": "野武士",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 3794,
+   "region_end": 3931,
+   "sha1": "4380fcdb6ed93f5985717989a18a4301ed7a1a52"
+  },
+  {
+   "file": "p0018-0023.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    23
+   ],
+   "n_posts": 6,
+   "region_start": 3931,
+   "region_end": 5555,
+   "sha1": "50ef4f8823634257f2ff8b96cd70b66f8ad710bd"
+  },
+  {
+   "file": "p0024.md",
+   "author": "野武士",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 5555,
+   "region_end": 6002,
+   "sha1": "9ac05bebefb15aa7e22c64dc2b5100dcdb502fbd"
+  },
+  {
+   "file": "p0025.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 6002,
+   "region_end": 6268,
+   "sha1": "a69e36222718ba4404e8ef7eb9ac49ead0c2e666"
+  },
+  {
+   "file": "p0026.md",
+   "author": "ある元将軍の老人",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 6268,
+   "region_end": 6935,
+   "sha1": "f944cbdf4372c58efca381179431c39f460063e1"
+  },
+  {
+   "file": "p0027.md",
+   "author": "リクシャマー帝国軍務大臣",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 6935,
+   "region_end": 7352,
+   "sha1": "12b89a76bd6553bef65556559d93164feb20b311"
+  },
+  {
+   "file": "p0028.md",
+   "author": "鍛冶屋",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 7352,
+   "region_end": 7502,
+   "sha1": "a8651eded671d596d76410b33fc37a3d6640e0b7"
+  },
+  {
+   "file": "p0029.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 7502,
+   "region_end": 7560,
+   "sha1": "d2a02836ba137e5a042d6da07468aed6896dda95"
+  },
+  {
+   "file": "p0030.md",
+   "author": "商人",
+   "deleted": false,
+   "post_range": [
+    30,
+    30
+   ],
+   "n_posts": 1,
+   "region_start": 7560,
+   "region_end": 7771,
+   "sha1": "aacd5331127816d18ca88a649301ae5b53c90331"
+  },
+  {
+   "file": "p0031.md",
+   "author": "ある地方領主",
+   "deleted": false,
+   "post_range": [
+    31,
+    31
+   ],
+   "n_posts": 1,
+   "region_start": 7771,
+   "region_end": 8128,
+   "sha1": "7d76fc42a218ca28a769701793b9afeb029c4bea"
+  },
+  {
+   "file": "p0032.md",
+   "author": "ゼダ家本邸にて",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 8128,
+   "region_end": 8771,
+   "sha1": "73ba307c593f365a034e7df59da3fd5385a51294"
+  },
+  {
+   "file": "p0033.md",
+   "author": "???",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 8771,
+   "region_end": 9393,
+   "sha1": "a9f3664bcd2f46d98517bf62e4ddb3a1cb35f5b7"
+  },
+  {
+   "file": "p0034-0041.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    34,
+    41
+   ],
+   "n_posts": 8,
+   "region_start": 9393,
+   "region_end": 10395,
+   "sha1": "8a11042c322142af28381fe301c4fb45bac9359d"
+  },
+  {
+   "file": "p0042.md",
+   "author": "ボストール家",
+   "deleted": false,
+   "post_range": [
+    42,
+    42
+   ],
+   "n_posts": 1,
+   "region_start": 10395,
+   "region_end": 10793,
+   "sha1": "c4d5885abf110169a87fc10cd3e1038f4f4da9b6"
+  },
+  {
+   "file": "p0043-0044.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    43,
+    44
+   ],
+   "n_posts": 2,
+   "region_start": 10793,
+   "region_end": 11204,
+   "sha1": "2e1988bb3478dd32a39d5a1538c37942447e6cb4"
+  },
+  {
+   "file": "p0045.md",
+   "author": "ガスパール・デュガン",
+   "deleted": false,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 11204,
+   "region_end": 11458,
+   "sha1": "77a9624ed71938f13bcffa42729f155959cde4ae"
+  },
+  {
+   "file": "p0046.md",
+   "author": "司祭",
+   "deleted": false,
+   "post_range": [
+    46,
+    46
+   ],
+   "n_posts": 1,
+   "region_start": 11458,
+   "region_end": 11523,
+   "sha1": "58ad5d347f5f8727a1dceecb2c43289dca68d7f9"
+  },
+  {
+   "file": "p0047.md",
+   "author": "野盗",
+   "deleted": false,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 11523,
+   "region_end": 11660,
+   "sha1": "2c76c68082c6b1ed3ceb48b503a665036d35f27c"
+  },
+  {
+   "file": "p0048.md",
+   "author": "司祭",
+   "deleted": false,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 11660,
+   "region_end": 11828,
+   "sha1": "18a4caa9406d20eebdf2fdd0e58a3d10a01394b3"
+  },
+  {
+   "file": "p0049.md",
+   "author": "村人",
+   "deleted": false,
+   "post_range": [
+    49,
+    49
+   ],
+   "n_posts": 1,
+   "region_start": 11828,
+   "region_end": 11924,
+   "sha1": "fdfd0645233a2420ccf5150627bc355961edec1d"
+  },
+  {
+   "file": "p0050.md",
+   "author": "隠れて見ている旅人",
+   "deleted": false,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 11924,
+   "region_end": 12102,
+   "sha1": "5045f4777fda5e75314f2a7768055e91f459ada3"
+  },
+  {
+   "file": "p0051.md",
+   "author": "司祭",
+   "deleted": false,
+   "post_range": [
+    51,
+    51
+   ],
+   "n_posts": 1,
+   "region_start": 12102,
+   "region_end": 12378,
+   "sha1": "92fa9ebecc2d1c270447281395902f1601e6ef33"
+  },
+  {
+   "file": "p0052-0056.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    52,
+    56
+   ],
+   "n_posts": 5,
+   "region_start": 12378,
+   "region_end": 13325,
+   "sha1": "d7f207f3dde6dfc7779fbb1faa3ce104a7de45a6"
+  },
+  {
+   "file": "p0057.md",
+   "author": "正しき魔術師",
+   "deleted": false,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 13325,
+   "region_end": 13593,
+   "sha1": "1f61f3a5b1754aa4e830e617ec2a982563d9ad2f"
+  },
+  {
+   "file": "p0058-0060.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    58,
+    60
+   ],
+   "n_posts": 3,
+   "region_start": 13593,
+   "region_end": 14056,
+   "sha1": "1ea19bd1046fee4a290b484a4dd7618c67817fea"
+  },
+  {
+   "file": "p0061.md",
+   "author": "リクシャマー帝国国教会本部",
+   "deleted": false,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 14056,
+   "region_end": 14268,
+   "sha1": "fe63c994ecb8257fd6f23ae8115ace1db4d397a1"
+  },
+  {
+   "file": "p0062.md",
+   "author": "鉱山地方領主",
+   "deleted": false,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 14268,
+   "region_end": 14616,
+   "sha1": "fe7d077d29940410bfc97098e9a7aa50791f318e"
+  },
+  {
+   "file": "p0063.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    63,
+    63
+   ],
+   "n_posts": 1,
+   "region_start": 14616,
+   "region_end": 14869,
+   "sha1": "4199fa0caddc35ff93d81134da392befd7757b8c"
+  },
+  {
+   "file": "p0064.md",
+   "author": "委員会",
+   "deleted": false,
+   "post_range": [
+    64,
+    64
+   ],
+   "n_posts": 1,
+   "region_start": 14869,
+   "region_end": 15282,
+   "sha1": "c5ae149490e64890198e2e29da9b507135881b96"
+  },
+  {
+   "file": "p0065-0068.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    65,
+    68
+   ],
+   "n_posts": 4,
+   "region_start": 15282,
+   "region_end": 16004,
+   "sha1": "f7b1e17a11c94cf07911747a72eafded27bb82d8"
+  },
+  {
+   "file": "p0069.md",
+   "author": "集落に逃げ帰ってきた傭兵",
+   "deleted": false,
+   "post_range": [
+    69,
+    69
+   ],
+   "n_posts": 1,
+   "region_start": 16004,
+   "region_end": 16298,
+   "sha1": "01c7b96dedbc23346240c0b01f64dcfee1940dda"
+  },
+  {
+   "file": "p0070.md",
+   "author": "集落の少年",
+   "deleted": false,
+   "post_range": [
+    70,
+    70
+   ],
+   "n_posts": 1,
+   "region_start": 16298,
+   "region_end": 16363,
+   "sha1": "71ab23d858d688ecb4abec7a6d8f05cb0bc2d565"
+  },
+  {
+   "file": "p0071.md",
+   "author": "聖職者＠化け物",
+   "deleted": false,
+   "post_range": [
+    71,
+    71
+   ],
+   "n_posts": 1,
+   "region_start": 16363,
+   "region_end": 16435,
+   "sha1": "0ea78d7efa59e8eebfab51d410d6a43b081b7ff0"
+  },
+  {
+   "file": "p0072.md",
+   "author": "占領軍統治官",
+   "deleted": false,
+   "post_range": [
+    72,
+    72
+   ],
+   "n_posts": 1,
+   "region_start": 16435,
+   "region_end": 16636,
+   "sha1": "9998f8be88a4b732dc264f7f00a77c0f8dadb2d7"
+  },
+  {
+   "file": "p0073.md",
+   "author": "統治官代行",
+   "deleted": false,
+   "post_range": [
+    73,
+    73
+   ],
+   "n_posts": 1,
+   "region_start": 16636,
+   "region_end": 16727,
+   "sha1": "d2c0ec35fdd0cdc2618d676cab99df74bd4e7d75"
+  },
+  {
+   "file": "p0074.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    74,
+    74
+   ],
+   "n_posts": 1,
+   "region_start": 16727,
+   "region_end": 16792,
+   "sha1": "d43092537265ce0405bee6e01475f7c6d84ac799"
+  },
+  {
+   "file": "p0075.md",
+   "author": "魔術師師団師団長",
+   "deleted": false,
+   "post_range": [
+    75,
+    75
+   ],
+   "n_posts": 1,
+   "region_start": 16792,
+   "region_end": 16883,
+   "sha1": "9cf5f68bf735bc6d95f47b103be727f706c4ebba"
+  },
+  {
+   "file": "p0076-0077.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    76,
+    77
+   ],
+   "n_posts": 2,
+   "region_start": 16883,
+   "region_end": 17012,
+   "sha1": "381db727f281c5a407ea0e8bc6db33f5ffcbf25e"
+  },
+  {
+   "file": "p0078.md",
+   "author": "植物学者",
+   "deleted": false,
+   "post_range": [
+    78,
+    78
+   ],
+   "n_posts": 1,
+   "region_start": 17012,
+   "region_end": 17264,
+   "sha1": "4822209867cf9f1a02d183a3aae9ba83cc94fb7c"
+  },
+  {
+   "file": "p0079-0089.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    79,
+    89
+   ],
+   "n_posts": 11,
+   "region_start": 17264,
+   "region_end": 18281,
+   "sha1": "d51da5fd443febde2622f7483810296b68179463"
+  }
+ ]
+}

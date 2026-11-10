@@ -1,0 +1,193 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "3dbd7cd35a5cc4e0a369e65f74c56b98ea914ce7",
+ "n_posts": 29,
+ "n_groups": 14,
+ "preamble_len": 134,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "薫桜子",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 134,
+   "region_end": 224,
+   "sha1": "dcfcd37bdf1bb41be5b366d99663b6ace698a501"
+  },
+  {
+   "file": "p0002-0003.md",
+   "author": "アルセス（紀神（えらい））",
+   "deleted": false,
+   "post_range": [
+    2,
+    3
+   ],
+   "n_posts": 2,
+   "region_start": 224,
+   "region_end": 636,
+   "sha1": "104411aa993255a458a4171bad5a673120d994cd"
+  },
+  {
+   "file": "p0004.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 636,
+   "region_end": 801,
+   "sha1": "05ac038d9979ed52dd7a7d7574fe6dd700bbd6ca"
+  },
+  {
+   "file": "p0005.md",
+   "author": "アルセス（紀神（えらい））",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 801,
+   "region_end": 1009,
+   "sha1": "960788a28324dce14410dbdc28f7d634fd8314d5"
+  },
+  {
+   "file": "p0006-0013.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    6,
+    13
+   ],
+   "n_posts": 8,
+   "region_start": 1009,
+   "region_end": 1842,
+   "sha1": "b4746ce79a561a2cca353d82393bb8194aa13604"
+  },
+  {
+   "file": "p0014-0015.md",
+   "author": "アルセス（紀神（えらい））",
+   "deleted": false,
+   "post_range": [
+    14,
+    15
+   ],
+   "n_posts": 2,
+   "region_start": 1842,
+   "region_end": 2508,
+   "sha1": "065f2e7193cdbb5784814ff1eebee9ac553b2bb3"
+  },
+  {
+   "file": "p0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 2508,
+   "region_end": 2572,
+   "sha1": "1df677ae6dd16fa8d1e5de7f63eb491c1ffa0b1d"
+  },
+  {
+   "file": "p0017.md",
+   "author": "アルセス（紀神（えらい））",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 2572,
+   "region_end": 2808,
+   "sha1": "8d203cc5c3748ed42cab4cec7d0f20d8da7b4604"
+  },
+  {
+   "file": "p0018-0019.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    19
+   ],
+   "n_posts": 2,
+   "region_start": 2808,
+   "region_end": 2935,
+   "sha1": "ad611d5446f4db29dd884d5d9608cbb018333419"
+  },
+  {
+   "file": "p0020-0021.md",
+   "author": "アルセス",
+   "deleted": false,
+   "post_range": [
+    20,
+    21
+   ],
+   "n_posts": 2,
+   "region_start": 2935,
+   "region_end": 3436,
+   "sha1": "b1f9c5d35cea1bd0a4c41572524d714b16b80141"
+  },
+  {
+   "file": "p0022-0023.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    22,
+    23
+   ],
+   "n_posts": 2,
+   "region_start": 3436,
+   "region_end": 3545,
+   "sha1": "964e71ab311542239f1a063eaae0cb62c0aba952"
+  },
+  {
+   "file": "p0024-0025.md",
+   "author": "アルセス",
+   "deleted": false,
+   "post_range": [
+    24,
+    25
+   ],
+   "n_posts": 2,
+   "region_start": 3545,
+   "region_end": 4057,
+   "sha1": "1af62b4ab4541b3fd23e13971aa0e00d05c56a7d"
+  },
+  {
+   "file": "p0026-0028.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    26,
+    28
+   ],
+   "n_posts": 3,
+   "region_start": 4057,
+   "region_end": 4469,
+   "sha1": "7f8b375c3a1c76052dbeb562ffbbc27f01b5dc66"
+  },
+  {
+   "file": "p0029.md",
+   "author": "たけし",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 4469,
+   "region_end": 4523,
+   "sha1": "6da50831ca6d80a2fece7f605c063c7358a38ea2"
+  }
+ ]
+}

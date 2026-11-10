@@ -1,0 +1,128 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "b674f9653b54ccec887a7c2f30134d6d3c360f9d",
+ "n_posts": 59,
+ "n_groups": 9,
+ "preamble_len": 123,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    16
+   ],
+   "n_posts": 16,
+   "region_start": 123,
+   "region_end": 1953,
+   "sha1": "49bdcf97f454accc1e2b123298d1fc869262899a"
+  },
+  {
+   "file": "p0017.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 1953,
+   "region_end": 2016,
+   "sha1": "91ead6110725a4e42b6c2a5265b7dad5a7b3d723"
+  },
+  {
+   "file": "p0018.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 2016,
+   "region_end": 2238,
+   "sha1": "9615e0759e6cac705ec9e195419ecb9b742276b1"
+  },
+  {
+   "file": "p0019-0020.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    19,
+    20
+   ],
+   "n_posts": 2,
+   "region_start": 2238,
+   "region_end": 2448,
+   "sha1": "e4a410e949c2e0abd427afbc3ca2f8f482af501c"
+  },
+  {
+   "file": "p0021-0034.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    21,
+    34
+   ],
+   "n_posts": 14,
+   "region_start": 2448,
+   "region_end": 4399,
+   "sha1": "04ed25fd2550c1dd3b40c83885579fb2631b6f9e"
+  },
+  {
+   "file": "p0035.md",
+   "author": "この子です。",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 4399,
+   "region_end": 4561,
+   "sha1": "9cdfee6f70d97217c19fd06b415d823e4529e855"
+  },
+  {
+   "file": "p0036-0046.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    36,
+    46
+   ],
+   "n_posts": 11,
+   "region_start": 4561,
+   "region_end": 5961,
+   "sha1": "1953632225adc4be4ae6138120444d1ca07c164b"
+  },
+  {
+   "file": "p0047.md",
+   "author": "ｽｽ",
+   "deleted": false,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 5961,
+   "region_end": 6026,
+   "sha1": "69e35f8b9691af733c304aa7cbad40bab0e4d807"
+  },
+  {
+   "file": "p0048-0059.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    48,
+    59
+   ],
+   "n_posts": 12,
+   "region_start": 6026,
+   "region_end": 6912,
+   "sha1": "41d2cc4df26432a032f1b512a10ab0ed7d7a50d2"
+  }
+ ]
+}

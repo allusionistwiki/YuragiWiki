@@ -1,0 +1,141 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "b8e4f4923697076ea99daa1cb0484f645a464808",
+ "n_posts": 238,
+ "n_groups": 10,
+ "preamble_len": 135,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    8
+   ],
+   "n_posts": 8,
+   "region_start": 135,
+   "region_end": 1471,
+   "sha1": "d99a97183ee6e4614b6400322285b8982813da18"
+  },
+  {
+   "file": "p0009-0011.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    9,
+    11
+   ],
+   "n_posts": 3,
+   "region_start": 1471,
+   "region_end": 2026,
+   "sha1": "4520c498316a53776dcf33dfa742919aaa0d01be"
+  },
+  {
+   "file": "p0012-0049.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    12,
+    49
+   ],
+   "n_posts": 38,
+   "region_start": 2026,
+   "region_end": 8583,
+   "sha1": "da4a3b8a3f23dff53258b18c4add705be8c4cca2"
+  },
+  {
+   "file": "p0050.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 8583,
+   "region_end": 8622,
+   "sha1": "f4c8a43756ca2b8a1f9152698bc67bf99308bc02"
+  },
+  {
+   "file": "p0051-0063.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    51,
+    63
+   ],
+   "n_posts": 13,
+   "region_start": 8622,
+   "region_end": 12277,
+   "sha1": "e14c10ed7f75034c2d16f7143af07bffe7eaa16b"
+  },
+  {
+   "file": "p0064.md",
+   "author": "【人類絶滅マシーン】",
+   "deleted": false,
+   "post_range": [
+    64,
+    64
+   ],
+   "n_posts": 1,
+   "region_start": 12277,
+   "region_end": 12844,
+   "sha1": "f27f3ae6a576e8353be4918d4418da62b3cccf74"
+  },
+  {
+   "file": "p0065-0072.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    65,
+    72
+   ],
+   "n_posts": 8,
+   "region_start": 12844,
+   "region_end": 16042,
+   "sha1": "e59d1733de41b51939092ddb3670c71dc86110ca"
+  },
+  {
+   "file": "p0073.md",
+   "author": "チョコ理の妖精、語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    73,
+    73
+   ],
+   "n_posts": 1,
+   "region_start": 16042,
+   "region_end": 17827,
+   "sha1": "74b69df78c87ba54f66b8426b98f188311c8eae1"
+  },
+  {
+   "file": "p0074.md",
+   "author": "７２および７３の記述について",
+   "deleted": false,
+   "post_range": [
+    74,
+    74
+   ],
+   "n_posts": 1,
+   "region_start": 17827,
+   "region_end": 18120,
+   "sha1": "692152258a8712a8c651c54cc413ac32c86a3c85"
+  },
+  {
+   "file": "p0075-0238.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    75,
+    238
+   ],
+   "n_posts": 164,
+   "region_start": 18120,
+   "region_end": 63478,
+   "sha1": "cc3b29c2c3d4b1dffbc83994af3730e466846df0"
+  }
+ ]
+}

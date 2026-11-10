@@ -1,0 +1,544 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "b09e9a6c46e8465300192ed9e0fe1bbdc566e721",
+ "n_posts": 54,
+ "n_groups": 41,
+ "preamble_len": 132,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0002.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    1,
+    2
+   ],
+   "n_posts": 2,
+   "region_start": 132,
+   "region_end": 382,
+   "sha1": "84c3a86b27b7a5914a0d4388eb802ecab25042ae"
+  },
+  {
+   "file": "p0003.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 382,
+   "region_end": 470,
+   "sha1": "8629c1e2ab8c849e967e49a4d79c93b916d49a0f"
+  },
+  {
+   "file": "p0004.md",
+   "author": "上井ラナ",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 470,
+   "region_end": 540,
+   "sha1": "376ac6e870a29e223578c858255acb5ef91fd1b5"
+  },
+  {
+   "file": "p0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 540,
+   "region_end": 594,
+   "sha1": "65c66bf481f0a65a61b9d07f83841feb21f39597"
+  },
+  {
+   "file": "p0006.md",
+   "author": "グラン",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 594,
+   "region_end": 663,
+   "sha1": "81d0acf822a507d9dc9af1f5832dfc481c9d23df"
+  },
+  {
+   "file": "p0007.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 663,
+   "region_end": 713,
+   "sha1": "04906dc57e022043bcf673a744c430dd18a0aa38"
+  },
+  {
+   "file": "p0008.md",
+   "author": "phaedra",
+   "deleted": false,
+   "post_range": [
+    8,
+    8
+   ],
+   "n_posts": 1,
+   "region_start": 713,
+   "region_end": 767,
+   "sha1": "b7ad32937d100f69806ab25e5e751fecabc1230b"
+  },
+  {
+   "file": "p0009.md",
+   "author": "かおしゅ",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 767,
+   "region_end": 817,
+   "sha1": "3c7192f072727cb081090b8a6b6771f6404ea4f2"
+  },
+  {
+   "file": "p0010.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 817,
+   "region_end": 921,
+   "sha1": "2fd68ef965837178a772e24e7f64a235cb1941b5"
+  },
+  {
+   "file": "p0011.md",
+   "author": "落日",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 921,
+   "region_end": 977,
+   "sha1": "860e691fce7abf58c7d2e95688089735f5742b89"
+  },
+  {
+   "file": "p0012-0013.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    12,
+    13
+   ],
+   "n_posts": 2,
+   "region_start": 977,
+   "region_end": 1569,
+   "sha1": "3d6aae04f0f4b263a5312e35ff6d187c43546d6a"
+  },
+  {
+   "file": "p0014.md",
+   "author": "上井ラナ",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 1569,
+   "region_end": 1646,
+   "sha1": "c6ebdf2a55899bfb4374c7a34eb8861c9667681b"
+  },
+  {
+   "file": "p0015.md",
+   "author": "グラン",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 1646,
+   "region_end": 1718,
+   "sha1": "33c7d1487ddd324f55628ab5a5de63424be9718d"
+  },
+  {
+   "file": "p0016.md",
+   "author": "落日",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 1718,
+   "region_end": 1772,
+   "sha1": "e908ce090dc414c60804600792f4b9b0e97393d9"
+  },
+  {
+   "file": "p0017.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 1772,
+   "region_end": 1839,
+   "sha1": "cda7b9b73f203c10cf193fff202a9e438e84c4aa"
+  },
+  {
+   "file": "p0018.md",
+   "author": "phaedra",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 1839,
+   "region_end": 1917,
+   "sha1": "b5aa4e92279e7039bbd0f2b326be86d27c8abbb1"
+  },
+  {
+   "file": "p0019.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 1917,
+   "region_end": 1971,
+   "sha1": "2854f6fbab27f8f87f1440749b4a9a3afb479a52"
+  },
+  {
+   "file": "p0020.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    20,
+    20
+   ],
+   "n_posts": 1,
+   "region_start": 1971,
+   "region_end": 2025,
+   "sha1": "6474c3fe35eb37e23565dcd6a041ed9ee8700731"
+  },
+  {
+   "file": "p0021-0022.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    21,
+    22
+   ],
+   "n_posts": 2,
+   "region_start": 2025,
+   "region_end": 2437,
+   "sha1": "71fe44368543383bf29db54c37fea863375f58d7"
+  },
+  {
+   "file": "p0023.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 2437,
+   "region_end": 2491,
+   "sha1": "be039799b407f73cf735cbb50765184bdf5b24d9"
+  },
+  {
+   "file": "p0024.md",
+   "author": "上井ラナ",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 2491,
+   "region_end": 2564,
+   "sha1": "264264c545f3b188243f1876d9e106f6a51f620d"
+  },
+  {
+   "file": "p0025.md",
+   "author": "グラン",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 2564,
+   "region_end": 2643,
+   "sha1": "c0da5c65807d98e07a57b87b23c8681fe1e1e5e3"
+  },
+  {
+   "file": "p0026.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 2643,
+   "region_end": 2691,
+   "sha1": "f9e268f0a5f804fdad73fdf7ac666e8d5a4db2ca"
+  },
+  {
+   "file": "p0027.md",
+   "author": "phaedra",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 2691,
+   "region_end": 2752,
+   "sha1": "a44ca9b01c177bb1d1b71df57927457049d70f49"
+  },
+  {
+   "file": "p0028.md",
+   "author": "落日",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 2752,
+   "region_end": 2795,
+   "sha1": "7ef091ad7db8e2df2ad22dada267b46540883806"
+  },
+  {
+   "file": "p0029-0031.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    29,
+    31
+   ],
+   "n_posts": 3,
+   "region_start": 2795,
+   "region_end": 4028,
+   "sha1": "2d7845782eff9e086d97b400e6cca9e7cf773ff2"
+  },
+  {
+   "file": "p0032.md",
+   "author": "上井ラナ",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 4028,
+   "region_end": 4165,
+   "sha1": "6374ac1caa1b32200fd87e584d4fbd296a2e1787"
+  },
+  {
+   "file": "p0033.md",
+   "author": "落日",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 4165,
+   "region_end": 4209,
+   "sha1": "f6d239e0b0cb4f50e80e1db62aa9ab3f9be672be"
+  },
+  {
+   "file": "p0034.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    34,
+    34
+   ],
+   "n_posts": 1,
+   "region_start": 4209,
+   "region_end": 4295,
+   "sha1": "6231260807cc73cec5863176f5dd6de899936512"
+  },
+  {
+   "file": "p0035.md",
+   "author": "グラン",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 4295,
+   "region_end": 4390,
+   "sha1": "67adf0b10d675f24a3feb227a79e7372385f5e3d"
+  },
+  {
+   "file": "p0036.md",
+   "author": "からすとうさぎ",
+   "deleted": false,
+   "post_range": [
+    36,
+    36
+   ],
+   "n_posts": 1,
+   "region_start": 4390,
+   "region_end": 4446,
+   "sha1": "eb939bfe44c6ae452abcbee66e51cb9b127bf443"
+  },
+  {
+   "file": "p0037.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    37,
+    37
+   ],
+   "n_posts": 1,
+   "region_start": 4446,
+   "region_end": 4498,
+   "sha1": "ae9eb12fea11aa61ef7abf87d4e70c56c5883fd9"
+  },
+  {
+   "file": "p0038.md",
+   "author": "sillat",
+   "deleted": false,
+   "post_range": [
+    38,
+    38
+   ],
+   "n_posts": 1,
+   "region_start": 4498,
+   "region_end": 4546,
+   "sha1": "9faf54f31f2372db4836481c8ea5fa3adb968e55"
+  },
+  {
+   "file": "p0039.md",
+   "author": "phaedra",
+   "deleted": false,
+   "post_range": [
+    39,
+    39
+   ],
+   "n_posts": 1,
+   "region_start": 4546,
+   "region_end": 4650,
+   "sha1": "e99e670aa4a75542d2b90b927c62d601353d9fe6"
+  },
+  {
+   "file": "p0040.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    40,
+    40
+   ],
+   "n_posts": 1,
+   "region_start": 4650,
+   "region_end": 4731,
+   "sha1": "322ba8db82767979d82b18a6692c0401c07002e3"
+  },
+  {
+   "file": "p0041-0044.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    41,
+    44
+   ],
+   "n_posts": 4,
+   "region_start": 4731,
+   "region_end": 5435,
+   "sha1": "bf5573ac25f67e4f9a70d5490643ec6344be4023"
+  },
+  {
+   "file": "p0045.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 5435,
+   "region_end": 5492,
+   "sha1": "71814f0fd97bc1943721716d0f5d997c193532cd"
+  },
+  {
+   "file": "p0046.md",
+   "author": "グラン",
+   "deleted": false,
+   "post_range": [
+    46,
+    46
+   ],
+   "n_posts": 1,
+   "region_start": 5492,
+   "region_end": 5587,
+   "sha1": "04b6b0047fcb98438124e38365de68fb17652442"
+  },
+  {
+   "file": "p0047.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 5587,
+   "region_end": 5640,
+   "sha1": "a59284f86a90cb3abf1af30089923e20a7d7c793"
+  },
+  {
+   "file": "p0048-0051.md",
+   "author": "bothhands",
+   "deleted": false,
+   "post_range": [
+    48,
+    51
+   ],
+   "n_posts": 4,
+   "region_start": 5640,
+   "region_end": 7701,
+   "sha1": "f0822d5f5fdd4458651fc8511652f4ad93cca63c"
+  },
+  {
+   "file": "p0052-0054.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    52,
+    54
+   ],
+   "n_posts": 3,
+   "region_start": 7701,
+   "region_end": 7900,
+   "sha1": "e97245edd32f76970967cd9859dc856c538044ec"
+  }
+ ]
+}

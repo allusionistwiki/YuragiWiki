@@ -1,0 +1,193 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "90850235cf8d19bee726ccfca2f6c26033137630",
+ "n_posts": 42,
+ "n_groups": 14,
+ "preamble_len": 124,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    8
+   ],
+   "n_posts": 8,
+   "region_start": 124,
+   "region_end": 913,
+   "sha1": "63d68c16e8c2b6fa5801689a9a3ba94af51b3b49"
+  },
+  {
+   "file": "p0009.md",
+   "author": "うほ、いいおとこ",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 913,
+   "region_end": 966,
+   "sha1": "b2ebe7e30e652becbdc79cb025336451188a9b08"
+  },
+  {
+   "file": "p0010.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 966,
+   "region_end": 1031,
+   "sha1": "d3215ca62504c1f106b0c2260d2ae5d4fb252435"
+  },
+  {
+   "file": "p0011.md",
+   "author": "ボクは【ボク】なの？それとも・・・",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 1031,
+   "region_end": 1099,
+   "sha1": "8fdbb2d0dcbd9c74cc9a181191a6638d1e14d9b1"
+  },
+  {
+   "file": "p0012-0014.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    12,
+    14
+   ],
+   "n_posts": 3,
+   "region_start": 1099,
+   "region_end": 1326,
+   "sha1": "84798aed425e7ef866077bed009c37be9ca6b698"
+  },
+  {
+   "file": "p0015.md",
+   "author": "ボクは……",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 1326,
+   "region_end": 1373,
+   "sha1": "3387a2009e329131e8c7dcb159a71ae948574701"
+  },
+  {
+   "file": "p0016-0030.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    16,
+    30
+   ],
+   "n_posts": 15,
+   "region_start": 1373,
+   "region_end": 2843,
+   "sha1": "f91b9c53ad14000aad5ea386a63f4dc795bd3929"
+  },
+  {
+   "file": "p0031.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    31,
+    31
+   ],
+   "n_posts": 1,
+   "region_start": 2843,
+   "region_end": 2882,
+   "sha1": "dff025b1e6515993d23741fc3f4fa4e09b7258d8"
+  },
+  {
+   "file": "p0032-0033.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    32,
+    33
+   ],
+   "n_posts": 2,
+   "region_start": 2882,
+   "region_end": 3017,
+   "sha1": "884a503f868a46aa57c474af34afd22693fc552f"
+  },
+  {
+   "file": "p0034.md",
+   "author": "不連続体ノエレッテ",
+   "deleted": false,
+   "post_range": [
+    34,
+    34
+   ],
+   "n_posts": 1,
+   "region_start": 3017,
+   "region_end": 3099,
+   "sha1": "91cb8c19ea4dd6c596c0cf873983cf67d788351a"
+  },
+  {
+   "file": "p0035-0037.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    35,
+    37
+   ],
+   "n_posts": 3,
+   "region_start": 3099,
+   "region_end": 3430,
+   "sha1": "0577fc3f7ec4725804d66680291e87c3d2b70690"
+  },
+  {
+   "file": "p0038.md",
+   "author": "：リーデ・ヘルサル",
+   "deleted": false,
+   "post_range": [
+    38,
+    38
+   ],
+   "n_posts": 1,
+   "region_start": 3430,
+   "region_end": 3901,
+   "sha1": "e61454365f397031dd0e3b4cc4b253b8ddcbad6e"
+  },
+  {
+   "file": "p0039-0041.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    39,
+    41
+   ],
+   "n_posts": 3,
+   "region_start": 3901,
+   "region_end": 4239,
+   "sha1": "3cee656df21bc93acd92a751058fe43f00ec9cff"
+  },
+  {
+   "file": "p0042.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    42,
+    42
+   ],
+   "n_posts": 1,
+   "region_start": 4239,
+   "region_end": 4278,
+   "sha1": "551134bb73af34ce705fcdb63df21377181c47c6"
+  }
+ ]
+}

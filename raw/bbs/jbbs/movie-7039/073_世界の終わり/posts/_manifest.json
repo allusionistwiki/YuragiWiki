@@ -1,0 +1,141 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "dbd82c215c21aa144deff108df6be859a2b42852",
+ "n_posts": 68,
+ "n_groups": 10,
+ "preamble_len": 126,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0012.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    12
+   ],
+   "n_posts": 12,
+   "region_start": 126,
+   "region_end": 1568,
+   "sha1": "36caed8057a149f8a0b2c238408f6c09c7895620"
+  },
+  {
+   "file": "p0013.md",
+   "author": "預言者ポポタマー",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 1568,
+   "region_end": 1651,
+   "sha1": "c0285b865ab98c69ba6f5b99bc3bcb0c3248ce81"
+  },
+  {
+   "file": "p0014.md",
+   "author": "魔人メクセト語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 1651,
+   "region_end": 1723,
+   "sha1": "eb556e02ae706e161373732887dfe8a539bc10e8"
+  },
+  {
+   "file": "p0015-0018.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    18
+   ],
+   "n_posts": 4,
+   "region_start": 1723,
+   "region_end": 2229,
+   "sha1": "35ff3f2f09a8879e8ab7946b01389899fda2adb7"
+  },
+  {
+   "file": "p0019.md",
+   "author": "最後にして最高の預言者曰く、",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 2229,
+   "region_end": 2323,
+   "sha1": "21535db32289ba242da4c6fe160e3f47b4388f46"
+  },
+  {
+   "file": "p0020-0024.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    20,
+    24
+   ],
+   "n_posts": 5,
+   "region_start": 2323,
+   "region_end": 2731,
+   "sha1": "43fce5b65d519aa0ec43fee54ca7ab1f107936f7"
+  },
+  {
+   "file": "p0025.md",
+   "author": "【飛行竜】にまつわる歌",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 2731,
+   "region_end": 2910,
+   "sha1": "0bccb86af54770b7bb49d1e19fde3ed00dc6cae0"
+  },
+  {
+   "file": "p0026-0044.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    26,
+    44
+   ],
+   "n_posts": 19,
+   "region_start": 2910,
+   "region_end": 6481,
+   "sha1": "fcbc3a56b99d32e332379f0e2eabc70810c256ca"
+  },
+  {
+   "file": "p0045.md",
+   "author": "４３",
+   "deleted": false,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 6481,
+   "region_end": 6550,
+   "sha1": "1af1516ef03dfa0a73eaeb91a1262bead5343863"
+  },
+  {
+   "file": "p0046-0068.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    46,
+    68
+   ],
+   "n_posts": 23,
+   "region_start": 6550,
+   "region_end": 10697,
+   "sha1": "d049b89b53553c74a0685d53038474edce481f39"
+  }
+ ]
+}

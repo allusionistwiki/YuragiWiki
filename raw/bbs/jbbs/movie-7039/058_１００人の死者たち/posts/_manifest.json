@@ -1,0 +1,323 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "7b9a789a96d5ec528e9d825d8cbc4c7af3620691",
+ "n_posts": 100,
+ "n_groups": 24,
+ "preamble_len": 131,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 131,
+   "region_end": 340,
+   "sha1": "69e65c2ddb075c202c764eaa97e593f6dace20ea"
+  },
+  {
+   "file": "p0002.md",
+   "author": "１",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 340,
+   "region_end": 417,
+   "sha1": "15374454f1326127c98743603a138741049a3651"
+  },
+  {
+   "file": "p0003-0025.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    3,
+    25
+   ],
+   "n_posts": 23,
+   "region_start": 417,
+   "region_end": 2760,
+   "sha1": "485e53f0d05db1e6d1efb3ff1bdd991946a859c0"
+  },
+  {
+   "file": "p0026.md",
+   "author": "亡霊A",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 2760,
+   "region_end": 3017,
+   "sha1": "a32f1e00a480dbec243835e5122d93bb60fc6749"
+  },
+  {
+   "file": "p0027.md",
+   "author": "亡霊K(仮名)",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 3017,
+   "region_end": 3174,
+   "sha1": "43cc8199f9c6381c212af72e58ea3066af0ee500"
+  },
+  {
+   "file": "p0028.md",
+   "author": "亡霊C",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 3174,
+   "region_end": 3310,
+   "sha1": "170f574f36a30d0a03f87542ddd16e1899fb75ce"
+  },
+  {
+   "file": "p0029-0054.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    29,
+    54
+   ],
+   "n_posts": 26,
+   "region_start": 3310,
+   "region_end": 6392,
+   "sha1": "fe361060841be024867b0468cb5765d37ab1fb53"
+  },
+  {
+   "file": "p0055.md",
+   "author": "ある政府高官曰く",
+   "deleted": false,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 6392,
+   "region_end": 6521,
+   "sha1": "71c9ed1f4b835af5fc6df68e42289d2d522f3c0b"
+  },
+  {
+   "file": "p0056.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 6521,
+   "region_end": 6592,
+   "sha1": "1913e121f78d8eef292a5c9e7c27755136ca03a6"
+  },
+  {
+   "file": "p0057.md",
+   "author": "ムランカ",
+   "deleted": false,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 6592,
+   "region_end": 6665,
+   "sha1": "7f701251fb6c6f561850911b0415deb74b7213db"
+  },
+  {
+   "file": "p0058.md",
+   "author": "木戸野",
+   "deleted": false,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 6665,
+   "region_end": 6837,
+   "sha1": "b815e0a2089fd90a858cc8b440bc03df87141f3f"
+  },
+  {
+   "file": "p0059.md",
+   "author": "ムランカ",
+   "deleted": false,
+   "post_range": [
+    59,
+    59
+   ],
+   "n_posts": 1,
+   "region_start": 6837,
+   "region_end": 7015,
+   "sha1": "b6f8b72d86c1e90ecb9b4c67d71c26e602c27b78"
+  },
+  {
+   "file": "p0060-0061.md",
+   "author": "木戸野",
+   "deleted": false,
+   "post_range": [
+    60,
+    61
+   ],
+   "n_posts": 2,
+   "region_start": 7015,
+   "region_end": 7260,
+   "sha1": "775d1d7418af1de0526297fa6e9b287b604d9afa"
+  },
+  {
+   "file": "p0062.md",
+   "author": "ムランカ",
+   "deleted": false,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 7260,
+   "region_end": 7366,
+   "sha1": "36f620849ea681a29f92e661685686d2114352b0"
+  },
+  {
+   "file": "p0063.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    63,
+    63
+   ],
+   "n_posts": 1,
+   "region_start": 7366,
+   "region_end": 7455,
+   "sha1": "17fd8274ac3e4a01479a77a6dbf91662e4d199cb"
+  },
+  {
+   "file": "p0064.md",
+   "author": "宵",
+   "deleted": false,
+   "post_range": [
+    64,
+    64
+   ],
+   "n_posts": 1,
+   "region_start": 7455,
+   "region_end": 7540,
+   "sha1": "f7394605290765259aadcb074b59539f9c87571d"
+  },
+  {
+   "file": "p0065.md",
+   "author": "アメル",
+   "deleted": false,
+   "post_range": [
+    65,
+    65
+   ],
+   "n_posts": 1,
+   "region_start": 7540,
+   "region_end": 7595,
+   "sha1": "e3600c18e62edcce48e02cfac5e2009946f87441"
+  },
+  {
+   "file": "p0066.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    66,
+    66
+   ],
+   "n_posts": 1,
+   "region_start": 7595,
+   "region_end": 7710,
+   "sha1": "48b9b62f6c40049564361a737bd531e1e6a5fd79"
+  },
+  {
+   "file": "p0067.md",
+   "author": "木戸野",
+   "deleted": false,
+   "post_range": [
+    67,
+    67
+   ],
+   "n_posts": 1,
+   "region_start": 7710,
+   "region_end": 7796,
+   "sha1": "22b03707d136229b956b6b27e792623402882ae2"
+  },
+  {
+   "file": "p0068-0071.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    68,
+    71
+   ],
+   "n_posts": 4,
+   "region_start": 7796,
+   "region_end": 8177,
+   "sha1": "bc0143b0c6ff5b8997100cca7d499c2e2a654803"
+  },
+  {
+   "file": "p0072.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    72,
+    72
+   ],
+   "n_posts": 1,
+   "region_start": 8177,
+   "region_end": 8267,
+   "sha1": "1c2df4703d3a8edc7654e2807aa0b1b4e3cd5dcb"
+  },
+  {
+   "file": "p0073-0085.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    73,
+    85
+   ],
+   "n_posts": 13,
+   "region_start": 8267,
+   "region_end": 9701,
+   "sha1": "60f130b9f93b2dd1a7fb68f3a0d1dc5d85204c9c"
+  },
+  {
+   "file": "p0086.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    86,
+    86
+   ],
+   "n_posts": 1,
+   "region_start": 9701,
+   "region_end": 9740,
+   "sha1": "baa094240c438a79c7494a489660e233629b0aa6"
+  },
+  {
+   "file": "p0087-0100.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    87,
+    100
+   ],
+   "n_posts": 14,
+   "region_start": 9740,
+   "region_end": 11909,
+   "sha1": "562b2d9b97b0c835fb4b6866f5bcaee46514f7e0"
+  }
+ ]
+}

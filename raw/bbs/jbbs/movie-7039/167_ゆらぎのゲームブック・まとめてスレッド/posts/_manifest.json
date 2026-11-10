@@ -1,0 +1,24 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "c647a23645a6bbf42ef03654f26e84f03da7c0e6",
+ "n_posts": 1,
+ "n_groups": 1,
+ "preamble_len": 138,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "1",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 138,
+   "region_end": 575,
+   "sha1": "c613a8970d570f43f6085da036b0b973009db44f"
+  }
+ ]
+}

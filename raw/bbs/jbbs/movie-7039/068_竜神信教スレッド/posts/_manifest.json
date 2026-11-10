@@ -1,0 +1,414 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "352631778f34bffff61c0732a63d58e2b1ec689b",
+ "n_posts": 145,
+ "n_groups": 31,
+ "preamble_len": 130,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0047.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    47
+   ],
+   "n_posts": 47,
+   "region_start": 130,
+   "region_end": 11428,
+   "sha1": "6a0643cf5918c36aca80179219c5a50152dd353f"
+  },
+  {
+   "file": "p0048.md",
+   "author": "ダメ巫女と言理の迷子",
+   "deleted": false,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 11428,
+   "region_end": 11853,
+   "sha1": "8c31f30bb771963e00d593fd3a9cc0b4a4a0c388"
+  },
+  {
+   "file": "p0049.md",
+   "author": "ダメ巫女と言理の迷子2",
+   "deleted": false,
+   "post_range": [
+    49,
+    49
+   ],
+   "n_posts": 1,
+   "region_start": 11853,
+   "region_end": 12362,
+   "sha1": "f991345fca58e2c5467b79c487bbcd34ae0859d9"
+  },
+  {
+   "file": "p0050.md",
+   "author": "ダメ巫女と言理の迷子3",
+   "deleted": false,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 12362,
+   "region_end": 13060,
+   "sha1": "c91ef398cf83f4be14b34a479ec6cabba3164f2e"
+  },
+  {
+   "file": "p0051.md",
+   "author": "ダメ巫女と言理の迷子4",
+   "deleted": false,
+   "post_range": [
+    51,
+    51
+   ],
+   "n_posts": 1,
+   "region_start": 13060,
+   "region_end": 13909,
+   "sha1": "e1701c132ad5879e3244dcef05b8a9c2340da472"
+  },
+  {
+   "file": "p0052.md",
+   "author": "ダメ巫女と言理の迷子5",
+   "deleted": false,
+   "post_range": [
+    52,
+    52
+   ],
+   "n_posts": 1,
+   "region_start": 13909,
+   "region_end": 14723,
+   "sha1": "12cbaa593fb23503672bbd9d73400ee8c7be247d"
+  },
+  {
+   "file": "p0053.md",
+   "author": "ダメ巫女と言理の迷子6",
+   "deleted": false,
+   "post_range": [
+    53,
+    53
+   ],
+   "n_posts": 1,
+   "region_start": 14723,
+   "region_end": 15551,
+   "sha1": "6b55e78e05d41b21c1b250d969da84408866cde6"
+  },
+  {
+   "file": "p0054.md",
+   "author": "ダメ巫女と言理の迷子7",
+   "deleted": false,
+   "post_range": [
+    54,
+    54
+   ],
+   "n_posts": 1,
+   "region_start": 15551,
+   "region_end": 16296,
+   "sha1": "d05822137bc8f8d60cd9c1fcc9b71a4bc983559f"
+  },
+  {
+   "file": "p0055.md",
+   "author": "ダメ巫女と言理の迷子8",
+   "deleted": false,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 16296,
+   "region_end": 17130,
+   "sha1": "040c0df1044035ed9c7dfa3a468edfbdb72146f9"
+  },
+  {
+   "file": "p0056.md",
+   "author": "ダメ巫女と言理の迷子9",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 17130,
+   "region_end": 18094,
+   "sha1": "456ee1957414307c0ae4df9041432808febe5551"
+  },
+  {
+   "file": "p0057.md",
+   "author": "ダメ巫女と言理の迷子10",
+   "deleted": false,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 18094,
+   "region_end": 18835,
+   "sha1": "bac818e51a1e2b63f018db68cd41e905dd20b1a2"
+  },
+  {
+   "file": "p0058.md",
+   "author": "ダメ巫女と言理の迷子11",
+   "deleted": false,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 18835,
+   "region_end": 19737,
+   "sha1": "17695e6582e7f3b31c5f08cab39ee4a2b18b0e32"
+  },
+  {
+   "file": "p0059.md",
+   "author": "ダメ巫女と言理の迷子12",
+   "deleted": false,
+   "post_range": [
+    59,
+    59
+   ],
+   "n_posts": 1,
+   "region_start": 19737,
+   "region_end": 20715,
+   "sha1": "02ea2a3562f71622a8ec822dd6c06e3d64dab573"
+  },
+  {
+   "file": "p0060.md",
+   "author": "ダメ巫女と言理の迷子13",
+   "deleted": false,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 20715,
+   "region_end": 21051,
+   "sha1": "1621f2780e44bb276c1e19761dc20776ca50fffe"
+  },
+  {
+   "file": "p0061.md",
+   "author": "ダメ巫女と言理の迷子14",
+   "deleted": false,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 21051,
+   "region_end": 22116,
+   "sha1": "75047b58b10cca04b838413b9549be407cf291ed"
+  },
+  {
+   "file": "p0062.md",
+   "author": "ダメ巫女と言理の迷子15",
+   "deleted": false,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 22116,
+   "region_end": 23289,
+   "sha1": "9cd7103e9040a51000f4ef277de8966d69037eb7"
+  },
+  {
+   "file": "p0063-0064.md",
+   "author": "ダメ巫女と言理の迷子16",
+   "deleted": false,
+   "post_range": [
+    63,
+    64
+   ],
+   "n_posts": 2,
+   "region_start": 23289,
+   "region_end": 25984,
+   "sha1": "085c17fda8b8844436e322a18bdc55684626480c"
+  },
+  {
+   "file": "p0065.md",
+   "author": "ダメ巫女と言理の迷子18",
+   "deleted": false,
+   "post_range": [
+    65,
+    65
+   ],
+   "n_posts": 1,
+   "region_start": 25984,
+   "region_end": 27257,
+   "sha1": "d1975188c77b1425085debf485ec519dd0603f4b"
+  },
+  {
+   "file": "p0066.md",
+   "author": "ダメ巫女と言理の迷子19",
+   "deleted": false,
+   "post_range": [
+    66,
+    66
+   ],
+   "n_posts": 1,
+   "region_start": 27257,
+   "region_end": 28416,
+   "sha1": "47f3a2f97e20a4f8701f06fe0e2b705f2638158d"
+  },
+  {
+   "file": "p0067.md",
+   "author": "ダメ巫女と言理の迷子20",
+   "deleted": false,
+   "post_range": [
+    67,
+    67
+   ],
+   "n_posts": 1,
+   "region_start": 28416,
+   "region_end": 29523,
+   "sha1": "6455e0aa9f91e99406d0df0dc18b17192b133b28"
+  },
+  {
+   "file": "p0068.md",
+   "author": "ダメ巫女と言理の迷子21",
+   "deleted": false,
+   "post_range": [
+    68,
+    68
+   ],
+   "n_posts": 1,
+   "region_start": 29523,
+   "region_end": 30415,
+   "sha1": "525b3aa4477687232ede74b8324cd69c25064ee9"
+  },
+  {
+   "file": "p0069.md",
+   "author": "ダメ巫女と言理の迷子22",
+   "deleted": false,
+   "post_range": [
+    69,
+    69
+   ],
+   "n_posts": 1,
+   "region_start": 30415,
+   "region_end": 31297,
+   "sha1": "fd36c381db562094fcb9a4bfd3e87c6eeaf1bdf9"
+  },
+  {
+   "file": "p0070.md",
+   "author": "ダメ巫女と言理の迷子23",
+   "deleted": false,
+   "post_range": [
+    70,
+    70
+   ],
+   "n_posts": 1,
+   "region_start": 31297,
+   "region_end": 32183,
+   "sha1": "3953f93ca69cd95e6a5e667e6ff8809fb3a7adb5"
+  },
+  {
+   "file": "p0071.md",
+   "author": "ダメ巫女と言理の迷子24",
+   "deleted": false,
+   "post_range": [
+    71,
+    71
+   ],
+   "n_posts": 1,
+   "region_start": 32183,
+   "region_end": 33361,
+   "sha1": "228cdf48d9aa53ac6b2188a9a9a1484d86070587"
+  },
+  {
+   "file": "p0072.md",
+   "author": "ダメ巫女と言理の迷子25",
+   "deleted": false,
+   "post_range": [
+    72,
+    72
+   ],
+   "n_posts": 1,
+   "region_start": 33361,
+   "region_end": 34615,
+   "sha1": "cf48ba41355c427256ea44741466e680fcfe4720"
+  },
+  {
+   "file": "p0073.md",
+   "author": "ダメ巫女と言理の迷子26",
+   "deleted": false,
+   "post_range": [
+    73,
+    73
+   ],
+   "n_posts": 1,
+   "region_start": 34615,
+   "region_end": 35470,
+   "sha1": "e9ebb46a2ac6300de3caed098e87f31fb315b0a4"
+  },
+  {
+   "file": "p0074.md",
+   "author": "ダメ巫女と言理の迷子27",
+   "deleted": false,
+   "post_range": [
+    74,
+    74
+   ],
+   "n_posts": 1,
+   "region_start": 35470,
+   "region_end": 36935,
+   "sha1": "80cac4d55ea4e1491833950de290d30f34fc240c"
+  },
+  {
+   "file": "p0075.md",
+   "author": "ダメ巫女と言理の迷子28",
+   "deleted": false,
+   "post_range": [
+    75,
+    75
+   ],
+   "n_posts": 1,
+   "region_start": 36935,
+   "region_end": 37781,
+   "sha1": "13acb6febbfa7a3dde6c847a4c64fd6148ec7b50"
+  },
+  {
+   "file": "p0076.md",
+   "author": "ダメ巫女と言理の迷子29",
+   "deleted": false,
+   "post_range": [
+    76,
+    76
+   ],
+   "n_posts": 1,
+   "region_start": 37781,
+   "region_end": 39081,
+   "sha1": "0090b2b2366d6daaa5c858198f614c28697fbb58"
+  },
+  {
+   "file": "p0077.md",
+   "author": "ダメ巫女と言理の迷子30（おわり）",
+   "deleted": false,
+   "post_range": [
+    77,
+    77
+   ],
+   "n_posts": 1,
+   "region_start": 39081,
+   "region_end": 40786,
+   "sha1": "445bcd841a618c381d85ed695e74e3ca7310f209"
+  },
+  {
+   "file": "p0078-0145.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    78,
+    145
+   ],
+   "n_posts": 68,
+   "region_start": 40786,
+   "region_end": 52386,
+   "sha1": "3f3bcca93f1681947bcebf98981150bc7443694c"
+  }
+ ]
+}

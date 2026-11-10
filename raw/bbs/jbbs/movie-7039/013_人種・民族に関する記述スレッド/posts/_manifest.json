@@ -1,0 +1,297 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "78012b19ac0a8f5e3c2b5ea7cb29b2beea97f863",
+ "n_posts": 93,
+ "n_groups": 22,
+ "preamble_len": 135,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    8
+   ],
+   "n_posts": 8,
+   "region_start": 135,
+   "region_end": 1634,
+   "sha1": "0ffa00de2470bcdbed8cc3e895055cadfb4974f0"
+  },
+  {
+   "file": "p0009.md",
+   "author": "リーデヘルサル語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1634,
+   "region_end": 1695,
+   "sha1": "bac35394e09870b83aec68fbaa33af57cfca60d7"
+  },
+  {
+   "file": "p0010-0028.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    28
+   ],
+   "n_posts": 19,
+   "region_start": 1695,
+   "region_end": 5940,
+   "sha1": "27c6b60ad9e67163f6d8096c0272d63b4a448767"
+  },
+  {
+   "file": "p0029.md",
+   "author": "ライカンスロープ",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 5940,
+   "region_end": 6011,
+   "sha1": "56ce82e184de3a62807e92b9714c5471dd86193d"
+  },
+  {
+   "file": "p0030-0041.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    30,
+    41
+   ],
+   "n_posts": 12,
+   "region_start": 6011,
+   "region_end": 8554,
+   "sha1": "2b60e508e55c604bcc9d4522203180c233b37c9a"
+  },
+  {
+   "file": "p0042.md",
+   "author": "みったけ",
+   "deleted": false,
+   "post_range": [
+    42,
+    42
+   ],
+   "n_posts": 1,
+   "region_start": 8554,
+   "region_end": 8631,
+   "sha1": "e6570dfe18dba7e397d09ed319f8a7daaddcabee"
+  },
+  {
+   "file": "p0043-0045.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    43,
+    45
+   ],
+   "n_posts": 3,
+   "region_start": 8631,
+   "region_end": 9105,
+   "sha1": "ddf90ec28f1cd7d4685d57056bafcc0b7c30063d"
+  },
+  {
+   "file": "p0046.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    46,
+    46
+   ],
+   "n_posts": 1,
+   "region_start": 9105,
+   "region_end": 9144,
+   "sha1": "8a0e6d6a62c4716f085905ceaf19d1228f18173b"
+  },
+  {
+   "file": "p0047.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 9144,
+   "region_end": 9243,
+   "sha1": "daa4ef97104ed638cee890acffe63d6d90a2d9f7"
+  },
+  {
+   "file": "p0048-0051.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    48,
+    51
+   ],
+   "n_posts": 4,
+   "region_start": 9243,
+   "region_end": 10107,
+   "sha1": "28eb22ed29ac4975184bdc8ebd9e957fdda51afb"
+  },
+  {
+   "file": "p0052.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    52,
+    52
+   ],
+   "n_posts": 1,
+   "region_start": 10107,
+   "region_end": 10146,
+   "sha1": "3dcc0c1e124fc5054d6b68d00e562a6bc9fcdbd6"
+  },
+  {
+   "file": "p0053.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    53,
+    53
+   ],
+   "n_posts": 1,
+   "region_start": 10146,
+   "region_end": 10185,
+   "sha1": "2031cb5dfdae5f84bda92f757c21ebb8ac68972f"
+  },
+  {
+   "file": "p0054.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    54,
+    54
+   ],
+   "n_posts": 1,
+   "region_start": 10185,
+   "region_end": 10224,
+   "sha1": "0192038567da87919cd1615ddae18b6be1b38c7c"
+  },
+  {
+   "file": "p0055.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 10224,
+   "region_end": 10263,
+   "sha1": "eee033cfc2714cd29a94307259481e6b496ee731"
+  },
+  {
+   "file": "p0056.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 10263,
+   "region_end": 10302,
+   "sha1": "958e4574a4db7fbf6d9918d953e6172bf908b514"
+  },
+  {
+   "file": "p0057.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 10302,
+   "region_end": 10341,
+   "sha1": "76aacf29f6bd65fcc3b2fc51996ec0b63ab8f0b8"
+  },
+  {
+   "file": "p0058.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 10341,
+   "region_end": 10380,
+   "sha1": "4ed500f7b8a345ebb71b89bf1f94ca9926dbf95e"
+  },
+  {
+   "file": "p0059.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    59,
+    59
+   ],
+   "n_posts": 1,
+   "region_start": 10380,
+   "region_end": 10419,
+   "sha1": "3fcd425d35c42306a4edd9d5e50354704c5b5bed"
+  },
+  {
+   "file": "p0060.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 10419,
+   "region_end": 10458,
+   "sha1": "bae94becfcf861453028b684cc0a19f6d4fc8e20"
+  },
+  {
+   "file": "p0061.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    61,
+    61
+   ],
+   "n_posts": 1,
+   "region_start": 10458,
+   "region_end": 10497,
+   "sha1": "40ca4b3fc7e1760c8c62f4e38f7189fe41686ea0"
+  },
+  {
+   "file": "p0062.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    62,
+    62
+   ],
+   "n_posts": 1,
+   "region_start": 10497,
+   "region_end": 10536,
+   "sha1": "74238a07ffeafe962c8b004e79412aa46ee05e06"
+  },
+  {
+   "file": "p0063-0093.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    63,
+    93
+   ],
+   "n_posts": 31,
+   "region_start": 10536,
+   "region_end": 20237,
+   "sha1": "d2a65d24a2379ff0e42ff68f7ba894e83dc82632"
+  }
+ ]
+}

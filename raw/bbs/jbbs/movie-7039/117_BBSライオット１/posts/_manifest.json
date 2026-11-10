@@ -1,0 +1,24 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "88db59972a51a93ba39055b20d7c743767dcea49",
+ "n_posts": 11,
+ "n_groups": 1,
+ "preamble_len": 130,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0011.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    11
+   ],
+   "n_posts": 11,
+   "region_start": 130,
+   "region_end": 1976,
+   "sha1": "2143b21422270cc22a39c71566b89a6189ae4437"
+  }
+ ]
+}

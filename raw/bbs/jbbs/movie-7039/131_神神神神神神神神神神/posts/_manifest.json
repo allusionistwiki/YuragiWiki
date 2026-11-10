@@ -1,0 +1,479 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "2723ddc7122b466c41909aad1a2c2cc69118b127",
+ "n_posts": 119,
+ "n_groups": 36,
+ "preamble_len": 133,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 133,
+   "region_end": 213,
+   "sha1": "d278dbc213ba21953929638ca568b89322a3782b"
+  },
+  {
+   "file": "p0002-0012.md",
+   "author": "神ゴッド（暫定）",
+   "deleted": false,
+   "post_range": [
+    2,
+    12
+   ],
+   "n_posts": 11,
+   "region_start": 213,
+   "region_end": 4110,
+   "sha1": "802e2624787a5572088abea01d8733d9f13b8022"
+  },
+  {
+   "file": "p0013.md",
+   "author": "悪魔デビル",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 4110,
+   "region_end": 4212,
+   "sha1": "fdf856ef5349ec772703e79d239aaacbc61042f5"
+  },
+  {
+   "file": "p0014.md",
+   "author": "某空の迷子",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 4212,
+   "region_end": 4616,
+   "sha1": "7fa3be161233b54486409f303c99c0d27490af69"
+  },
+  {
+   "file": "p0015-0020.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    15,
+    20
+   ],
+   "n_posts": 6,
+   "region_start": 4616,
+   "region_end": 6070,
+   "sha1": "1c47fa2b36940860f6d82a67528a32832d24fa8e"
+  },
+  {
+   "file": "p0021.md",
+   "author": "神ゴッド（暫定）",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 6070,
+   "region_end": 8049,
+   "sha1": "0d16b9ff9e5ed9ab2298e33659f4be259caebefe"
+  },
+  {
+   "file": "p0022.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 8049,
+   "region_end": 8102,
+   "sha1": "ae0e02837107c4970def03e0bf3d87ef0bee2f3c"
+  },
+  {
+   "file": "p0023.md",
+   "author": "神ゴッド（暫定）",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 8102,
+   "region_end": 8158,
+   "sha1": "37272c5cbf3bcc5e0cb80d6be9624499130c14c9"
+  },
+  {
+   "file": "p0024.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 8158,
+   "region_end": 8204,
+   "sha1": "02520b7a827086f91ddb38e107d8322f20f46641"
+  },
+  {
+   "file": "p0025-0026.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    25,
+    26
+   ],
+   "n_posts": 2,
+   "region_start": 8204,
+   "region_end": 10055,
+   "sha1": "5f198c60520e14a4959809fa1b9b6f08c2fe51d9"
+  },
+  {
+   "file": "p0027.md",
+   "author": "神ゴッド（暫定）",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 10055,
+   "region_end": 10834,
+   "sha1": "19f47c1766ec5e703efa4e6a870781c78310663d"
+  },
+  {
+   "file": "p0028-0052.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    28,
+    52
+   ],
+   "n_posts": 25,
+   "region_start": 10834,
+   "region_end": 17354,
+   "sha1": "1fbd090530c5ae64d6aa7fc84a9e891671947db1"
+  },
+  {
+   "file": "p0053.md",
+   "author": "神ゴッド",
+   "deleted": false,
+   "post_range": [
+    53,
+    53
+   ],
+   "n_posts": 1,
+   "region_start": 17354,
+   "region_end": 17683,
+   "sha1": "79e9ee0ab25b977affd0669bb0a7793ec79ab1a7"
+  },
+  {
+   "file": "p0054-0055.md",
+   "author": "神ゴッド（暫定）",
+   "deleted": false,
+   "post_range": [
+    54,
+    55
+   ],
+   "n_posts": 2,
+   "region_start": 17683,
+   "region_end": 19525,
+   "sha1": "0ac0ba253775c4f95af794a67fde3e0382930067"
+  },
+  {
+   "file": "p0056.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 19525,
+   "region_end": 19589,
+   "sha1": "ace779f9bb3de35c6ebcf99817f47ddced13276e"
+  },
+  {
+   "file": "p0057.md",
+   "author": "母之",
+   "deleted": false,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 19589,
+   "region_end": 20354,
+   "sha1": "cd1e969695c5a8066246261caa5051eb2b2f01ef"
+  },
+  {
+   "file": "p0058-0059.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    58,
+    59
+   ],
+   "n_posts": 2,
+   "region_start": 20354,
+   "region_end": 20467,
+   "sha1": "e4ea19f4dbc5ac702e19159dae84cdffd6b93059"
+  },
+  {
+   "file": "p0060.md",
+   "author": "534",
+   "deleted": false,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 20467,
+   "region_end": 20528,
+   "sha1": "ed6dd05650c6dd72e406cb8ba8fd77c22e379481"
+  },
+  {
+   "file": "p0061-0069.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    61,
+    69
+   ],
+   "n_posts": 9,
+   "region_start": 20528,
+   "region_end": 21502,
+   "sha1": "85eda47fa2571dfc2f4eeede8875d4ba82699449"
+  },
+  {
+   "file": "p0070.md",
+   "author": "67",
+   "deleted": false,
+   "post_range": [
+    70,
+    70
+   ],
+   "n_posts": 1,
+   "region_start": 21502,
+   "region_end": 21592,
+   "sha1": "7be7a633a4d3abc4e63f91924cd086dc2fcde3b1"
+  },
+  {
+   "file": "p0071.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    71,
+    71
+   ],
+   "n_posts": 1,
+   "region_start": 21592,
+   "region_end": 21677,
+   "sha1": "d4833923c9a12728556f7e98ac8025ecbbba4392"
+  },
+  {
+   "file": "p0072-0074.md",
+   "author": "67",
+   "deleted": false,
+   "post_range": [
+    72,
+    74
+   ],
+   "n_posts": 3,
+   "region_start": 21677,
+   "region_end": 21921,
+   "sha1": "45a909cdcc9c174d312710da03eef29970a7dce7"
+  },
+  {
+   "file": "p0075.md",
+   "author": "シュトゥットアテン",
+   "deleted": false,
+   "post_range": [
+    75,
+    75
+   ],
+   "n_posts": 1,
+   "region_start": 21921,
+   "region_end": 21991,
+   "sha1": "50a11565fcbb4fb67e4ce3b9f810d2ece82b920b"
+  },
+  {
+   "file": "p0076.md",
+   "author": "67",
+   "deleted": false,
+   "post_range": [
+    76,
+    76
+   ],
+   "n_posts": 1,
+   "region_start": 21991,
+   "region_end": 22061,
+   "sha1": "10009fcefdbb9619b8b6ea39f503bc5e52c33d2c"
+  },
+  {
+   "file": "p0077.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    77,
+    77
+   ],
+   "n_posts": 1,
+   "region_start": 22061,
+   "region_end": 22116,
+   "sha1": "57ef9eda283880454ebde1b2e483afa8ca3420d3"
+  },
+  {
+   "file": "p0078.md",
+   "author": "67",
+   "deleted": false,
+   "post_range": [
+    78,
+    78
+   ],
+   "n_posts": 1,
+   "region_start": 22116,
+   "region_end": 22189,
+   "sha1": "a8f9adcb578decfbf49dfc77584a9ab9ec5e82c4"
+  },
+  {
+   "file": "p0079.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    79,
+    79
+   ],
+   "n_posts": 1,
+   "region_start": 22189,
+   "region_end": 22243,
+   "sha1": "ea405d28df597e43ef47b59f6b2365064661e9b8"
+  },
+  {
+   "file": "p0080.md",
+   "author": "シュトゥットアテン",
+   "deleted": false,
+   "post_range": [
+    80,
+    80
+   ],
+   "n_posts": 1,
+   "region_start": 22243,
+   "region_end": 22307,
+   "sha1": "1933f94db19d1822e5461a054b9744d0aa1b5414"
+  },
+  {
+   "file": "p0081-0091.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    81,
+    91
+   ],
+   "n_posts": 11,
+   "region_start": 22307,
+   "region_end": 23290,
+   "sha1": "4998b52028603e62fbfc3fc3c88c62384264deb0"
+  },
+  {
+   "file": "p0092.md",
+   "author": "<<妖精は口を噤むがよい>>",
+   "deleted": true,
+   "post_range": [
+    92,
+    92
+   ],
+   "n_posts": 1,
+   "region_start": 23290,
+   "region_end": 23355,
+   "sha1": "0ea1f27fc6603dd2011cb9125674e7db4a67fdae"
+  },
+  {
+   "file": "p0093.md",
+   "author": "スス",
+   "deleted": false,
+   "post_range": [
+    93,
+    93
+   ],
+   "n_posts": 1,
+   "region_start": 23355,
+   "region_end": 23562,
+   "sha1": "f06b38f80bea4dc457dde5ad79502eabaf774f0e"
+  },
+  {
+   "file": "p0094-0112.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    94,
+    112
+   ],
+   "n_posts": 19,
+   "region_start": 23562,
+   "region_end": 26565,
+   "sha1": "82afea871c59f844cfc2a0ff26eba86002c2d16f"
+  },
+  {
+   "file": "p0113.md",
+   "author": "とあるゲームのユウレイマン",
+   "deleted": false,
+   "post_range": [
+    113,
+    113
+   ],
+   "n_posts": 1,
+   "region_start": 26565,
+   "region_end": 26668,
+   "sha1": "433a4c08cc360bb4491181bba380fc5029debfbe"
+  },
+  {
+   "file": "p0114.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    114,
+    114
+   ],
+   "n_posts": 1,
+   "region_start": 26668,
+   "region_end": 26738,
+   "sha1": "9abb543158d9b7e559720f05eec7d53c3502a0db"
+  },
+  {
+   "file": "p0115.md",
+   "author": "言理のユウレイマン語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    115,
+    115
+   ],
+   "n_posts": 1,
+   "region_start": 26738,
+   "region_end": 26817,
+   "sha1": "41eb5711e7ec46a1d42347c336c017a6b1ed2e37"
+  },
+  {
+   "file": "p0116-0119.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    116,
+    119
+   ],
+   "n_posts": 4,
+   "region_start": 26817,
+   "region_end": 27134,
+   "sha1": "050551459ce23811c933a78901564bb7c26cddc3"
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "2a88a505bb9a92d0d71912292ed62d00a4a4c01c",
+ "n_posts": 152,
+ "n_groups": 21,
+ "preamble_len": 123,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0029.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    29
+   ],
+   "n_posts": 29,
+   "region_start": 123,
+   "region_end": 4581,
+   "sha1": "a322f3700e06c8500ea325f0421eb611042d5c1c"
+  },
+  {
+   "file": "p0030.md",
+   "author": "：リーデ・ヘルサル語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    30,
+    30
+   ],
+   "n_posts": 1,
+   "region_start": 4581,
+   "region_end": 4680,
+   "sha1": "04a9c89eee05492033fb97679ebbb463fec6fff8"
+  },
+  {
+   "file": "p0031-0096.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    31,
+    96
+   ],
+   "n_posts": 66,
+   "region_start": 4680,
+   "region_end": 24039,
+   "sha1": "b4206f6c866c1b106de0211963512269e027eb53"
+  },
+  {
+   "file": "p0097.md",
+   "author": "ジャッフハリム前史(1/5)",
+   "deleted": false,
+   "post_range": [
+    97,
+    97
+   ],
+   "n_posts": 1,
+   "region_start": 24039,
+   "region_end": 24534,
+   "sha1": "f7f90cdd6e0baa0432cd0e7ded5d9490296ff665"
+  },
+  {
+   "file": "p0098.md",
+   "author": "ジャッフハリム前史(2/5)",
+   "deleted": false,
+   "post_range": [
+    98,
+    98
+   ],
+   "n_posts": 1,
+   "region_start": 24534,
+   "region_end": 24921,
+   "sha1": "8811a26f762552076798b19d6a5612f5f34a2073"
+  },
+  {
+   "file": "p0099.md",
+   "author": "ジャッフハリム前史(3/5)",
+   "deleted": false,
+   "post_range": [
+    99,
+    99
+   ],
+   "n_posts": 1,
+   "region_start": 24921,
+   "region_end": 25518,
+   "sha1": "51cc415de103842ae732dc985432d4f5147c3be4"
+  },
+  {
+   "file": "p0100.md",
+   "author": "ジャッフハリム前史(4/5)",
+   "deleted": false,
+   "post_range": [
+    100,
+    100
+   ],
+   "n_posts": 1,
+   "region_start": 25518,
+   "region_end": 26095,
+   "sha1": "51c320928abc62ef28785eff38f096e409171f1b"
+  },
+  {
+   "file": "p0101.md",
+   "author": "ジャッフハリム前史(5/5)",
+   "deleted": false,
+   "post_range": [
+    101,
+    101
+   ],
+   "n_posts": 1,
+   "region_start": 26095,
+   "region_end": 26425,
+   "sha1": "95055e6dbf46d1d712b5ee5e7b2404c099d2941b"
+  },
+  {
+   "file": "p0102-0107.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    102,
+    107
+   ],
+   "n_posts": 6,
+   "region_start": 26425,
+   "region_end": 28954,
+   "sha1": "a8863a6372bd8dd1d8e1f2f43e3a29aef7e8d439"
+  },
+  {
+   "file": "p0108.md",
+   "author": "萬",
+   "deleted": false,
+   "post_range": [
+    108,
+    108
+   ],
+   "n_posts": 1,
+   "region_start": 28954,
+   "region_end": 29095,
+   "sha1": "35a1242805efd039a87acc14aabcb33f1a5b8042"
+  },
+  {
+   "file": "p0109-0126.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    109,
+    126
+   ],
+   "n_posts": 18,
+   "region_start": 29095,
+   "region_end": 37397,
+   "sha1": "5b1ffc594363689f2a6b496bf05a6cdba6a5e4f1"
+  },
+  {
+   "file": "p0127.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    127,
+    127
+   ],
+   "n_posts": 1,
+   "region_start": 37397,
+   "region_end": 37437,
+   "sha1": "4bd255a4dce20f513db6cef32a7437e0e8588a07"
+  },
+  {
+   "file": "p0128.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    128,
+    128
+   ],
+   "n_posts": 1,
+   "region_start": 37437,
+   "region_end": 37477,
+   "sha1": "289f6b7d97921cb67b11724545605d30e495ef2f"
+  },
+  {
+   "file": "p0129.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    129,
+    129
+   ],
+   "n_posts": 1,
+   "region_start": 37477,
+   "region_end": 37517,
+   "sha1": "8a9708a56e162b557a44dc48a2b7bf5dfccfa158"
+  },
+  {
+   "file": "p0130.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    130,
+    130
+   ],
+   "n_posts": 1,
+   "region_start": 37517,
+   "region_end": 37557,
+   "sha1": "e3ce78e93c3421112274945e1425916af0b29204"
+  },
+  {
+   "file": "p0131.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    131,
+    131
+   ],
+   "n_posts": 1,
+   "region_start": 37557,
+   "region_end": 37597,
+   "sha1": "486fa73b7c25230e11ad6daa39a1abe3d2e21696"
+  },
+  {
+   "file": "p0132-0144.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    132,
+    144
+   ],
+   "n_posts": 13,
+   "region_start": 37597,
+   "region_end": 42952,
+   "sha1": "7db65d031d7a084206951d597b0c4c4207c71275"
+  },
+  {
+   "file": "p0145-0146.md",
+   "author": "番長クロニクル",
+   "deleted": false,
+   "post_range": [
+    145,
+    146
+   ],
+   "n_posts": 2,
+   "region_start": 42952,
+   "region_end": 43963,
+   "sha1": "988acdad0414e1e8898aa2c5be4879f8b028815b"
+  },
+  {
+   "file": "p0147.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    147,
+    147
+   ],
+   "n_posts": 1,
+   "region_start": 43963,
+   "region_end": 44151,
+   "sha1": "23ac5448fd139764dbd442fbaf1d049c57f6aa16"
+  },
+  {
+   "file": "p0148.md",
+   "author": "番長クロニクル",
+   "deleted": false,
+   "post_range": [
+    148,
+    148
+   ],
+   "n_posts": 1,
+   "region_start": 44151,
+   "region_end": 44713,
+   "sha1": "91742e950ee0f6caf77ef33c0eb510eb02dde62d"
+  },
+  {
+   "file": "p0149-0152.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    149,
+    152
+   ],
+   "n_posts": 4,
+   "region_start": 44713,
+   "region_end": 46025,
+   "sha1": "0629289e43d4182e2810d2358f45ff4bba5dae67"
+  }
+ ]
+}

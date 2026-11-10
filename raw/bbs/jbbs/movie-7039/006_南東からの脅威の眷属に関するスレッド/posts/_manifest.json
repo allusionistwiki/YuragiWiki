@@ -1,0 +1,310 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "58ca1c3cd8b2dc9ec3638719ce54dedb7ddedbfd",
+ "n_posts": 182,
+ "n_groups": 23,
+ "preamble_len": 139,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0016.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    16
+   ],
+   "n_posts": 16,
+   "region_start": 139,
+   "region_end": 2960,
+   "sha1": "2284881b2b3e82f7278f58077a2dd322879b2392"
+  },
+  {
+   "file": "p0017.md",
+   "author": "アリアロー語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 2960,
+   "region_end": 3043,
+   "sha1": "1677c4cd6601cd73f8831d26a35a248689b1ba4b"
+  },
+  {
+   "file": "p0018-0031.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    18,
+    31
+   ],
+   "n_posts": 14,
+   "region_start": 3043,
+   "region_end": 4689,
+   "sha1": "aaf87716c9032d4ee40f541d960743b6a1f2d2eb"
+  },
+  {
+   "file": "p0032.md",
+   "author": "タージェ語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 4689,
+   "region_end": 4888,
+   "sha1": "d25a4d2d4485d19eece854f579e82edacae4ce22"
+  },
+  {
+   "file": "p0033-0067.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    33,
+    67
+   ],
+   "n_posts": 35,
+   "region_start": 4888,
+   "region_end": 9354,
+   "sha1": "01ed12c36b29e4ad4f28083d39debc3c3860a185"
+  },
+  {
+   "file": "p0068.md",
+   "author": "噂神エーラマーン語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    68,
+    68
+   ],
+   "n_posts": 1,
+   "region_start": 9354,
+   "region_end": 9532,
+   "sha1": "a3c45de383d5d2faff0bc78fa00b98b3de808341"
+  },
+  {
+   "file": "p0069.md",
+   "author": "フルシズ激怒して曰く、",
+   "deleted": false,
+   "post_range": [
+    69,
+    69
+   ],
+   "n_posts": 1,
+   "region_start": 9532,
+   "region_end": 9696,
+   "sha1": "af75bab752b92e08627a6032a0b184ad2cd943fb"
+  },
+  {
+   "file": "p0070.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    70,
+    70
+   ],
+   "n_posts": 1,
+   "region_start": 9696,
+   "region_end": 9930,
+   "sha1": "ef29f274393608851a96d13bdd39c1dab371742f"
+  },
+  {
+   "file": "p0071.md",
+   "author": "アシッピール",
+   "deleted": false,
+   "post_range": [
+    71,
+    71
+   ],
+   "n_posts": 1,
+   "region_start": 9930,
+   "region_end": 10116,
+   "sha1": "a7604b762a5a7630445a3fe2832742f48b930829"
+  },
+  {
+   "file": "p0072-0082.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    72,
+    82
+   ],
+   "n_posts": 11,
+   "region_start": 10116,
+   "region_end": 12067,
+   "sha1": "7f0d8e004f7753ff2d7d284d19f695aedb1d27d3"
+  },
+  {
+   "file": "p0083.md",
+   "author": "ゴシップの神・エーラマーン語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    83,
+    83
+   ],
+   "n_posts": 1,
+   "region_start": 12067,
+   "region_end": 12151,
+   "sha1": "1bf73de166a97bd422ed5462a19e264138a91849"
+  },
+  {
+   "file": "p0084-0085.md",
+   "author": "アリアロー語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    84,
+    85
+   ],
+   "n_posts": 2,
+   "region_start": 12151,
+   "region_end": 12322,
+   "sha1": "26416cfaa78af7f67447941b13bcc581d1c30c18"
+  },
+  {
+   "file": "p0086-0107.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    86,
+    107
+   ],
+   "n_posts": 22,
+   "region_start": 12322,
+   "region_end": 15782,
+   "sha1": "1930dc389b822f21204fa98c9ff1352783e93c1f"
+  },
+  {
+   "file": "p0108-0110.md",
+   "author": "エメルザの最期",
+   "deleted": false,
+   "post_range": [
+    108,
+    110
+   ],
+   "n_posts": 3,
+   "region_start": 15782,
+   "region_end": 17165,
+   "sha1": "b4adeef8e82af6d31a0aa88700a17ebb1073efd2"
+  },
+  {
+   "file": "p0111-0141.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    111,
+    141
+   ],
+   "n_posts": 31,
+   "region_start": 17165,
+   "region_end": 22310,
+   "sha1": "9d68961f4caef1d7799fd64ad4e9d48fc42178f8"
+  },
+  {
+   "file": "p0142.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    142,
+    142
+   ],
+   "n_posts": 1,
+   "region_start": 22310,
+   "region_end": 22350,
+   "sha1": "2caf7a4c13c68b503f254efcf0896c63f2cb9a09"
+  },
+  {
+   "file": "p0143.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    143,
+    143
+   ],
+   "n_posts": 1,
+   "region_start": 22350,
+   "region_end": 22478,
+   "sha1": "e4ff62a59f03469ab988a08d852e72c13f017cb3"
+  },
+  {
+   "file": "p0144.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    144,
+    144
+   ],
+   "n_posts": 1,
+   "region_start": 22478,
+   "region_end": 22889,
+   "sha1": "61739a8afe179b249dd1b86e22926e5c51b39191"
+  },
+  {
+   "file": "p0145-0148.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    145,
+    148
+   ],
+   "n_posts": 4,
+   "region_start": 22889,
+   "region_end": 23349,
+   "sha1": "bf89f6c0c35d1c2f923d1f87e60a18319ab84038"
+  },
+  {
+   "file": "p0149-0150.md",
+   "author": "イア＝テムは妻を娶れ",
+   "deleted": false,
+   "post_range": [
+    149,
+    150
+   ],
+   "n_posts": 2,
+   "region_start": 23349,
+   "region_end": 23584,
+   "sha1": "ef645a36990c5ed64698ae6245ace20399317162"
+  },
+  {
+   "file": "p0151-0152.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    151,
+    152
+   ],
+   "n_posts": 2,
+   "region_start": 23584,
+   "region_end": 23876,
+   "sha1": "89558901faec33b69cd337923f30c35d1d5d81ab"
+  },
+  {
+   "file": "p0153.md",
+   "author": "匿名魔女",
+   "deleted": false,
+   "post_range": [
+    153,
+    153
+   ],
+   "n_posts": 1,
+   "region_start": 23876,
+   "region_end": 24244,
+   "sha1": "e453ed57fb0ebeb46559722fd30ddd02c302d1fc"
+  },
+  {
+   "file": "p0154-0182.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    154,
+    182
+   ],
+   "n_posts": 29,
+   "region_start": 24244,
+   "region_end": 27915,
+   "sha1": "144b0aadfcecd89a2c6bb4a6846ae98c43a5c9c5"
+  }
+ ]
+}

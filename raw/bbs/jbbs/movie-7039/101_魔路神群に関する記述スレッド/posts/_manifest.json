@@ -1,0 +1,141 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "51d6859ed5605e6cff0bbc94d5cffe34a48923e9",
+ "n_posts": 60,
+ "n_groups": 10,
+ "preamble_len": 135,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    5
+   ],
+   "n_posts": 5,
+   "region_start": 135,
+   "region_end": 710,
+   "sha1": "89898d9dbc5bbd276df30a73c2c04dd6bb4f13d8"
+  },
+  {
+   "file": "p0006.md",
+   "author": "：リーデ・ヘルサル語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 710,
+   "region_end": 850,
+   "sha1": "78490294cc4d6b56e771ae5838ebd9e0c3a301ec"
+  },
+  {
+   "file": "p0007-0053.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    7,
+    53
+   ],
+   "n_posts": 47,
+   "region_start": 850,
+   "region_end": 5370,
+   "sha1": "28a070f5d32e825a992b2a69a75883ecebdef4d2"
+  },
+  {
+   "file": "p0054.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    54,
+    54
+   ],
+   "n_posts": 1,
+   "region_start": 5370,
+   "region_end": 5409,
+   "sha1": "0192038567da87919cd1615ddae18b6be1b38c7c"
+  },
+  {
+   "file": "p0055.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    55,
+    55
+   ],
+   "n_posts": 1,
+   "region_start": 5409,
+   "region_end": 5448,
+   "sha1": "eee033cfc2714cd29a94307259481e6b496ee731"
+  },
+  {
+   "file": "p0056.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    56,
+    56
+   ],
+   "n_posts": 1,
+   "region_start": 5448,
+   "region_end": 5487,
+   "sha1": "958e4574a4db7fbf6d9918d953e6172bf908b514"
+  },
+  {
+   "file": "p0057.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    57,
+    57
+   ],
+   "n_posts": 1,
+   "region_start": 5487,
+   "region_end": 5526,
+   "sha1": "76aacf29f6bd65fcc3b2fc51996ec0b63ab8f0b8"
+  },
+  {
+   "file": "p0058.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    58,
+    58
+   ],
+   "n_posts": 1,
+   "region_start": 5526,
+   "region_end": 5565,
+   "sha1": "4ed500f7b8a345ebb71b89bf1f94ca9926dbf95e"
+  },
+  {
+   "file": "p0059.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    59,
+    59
+   ],
+   "n_posts": 1,
+   "region_start": 5565,
+   "region_end": 5604,
+   "sha1": "3fcd425d35c42306a4edd9d5e50354704c5b5bed"
+  },
+  {
+   "file": "p0060.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    60,
+    60
+   ],
+   "n_posts": 1,
+   "region_start": 5604,
+   "region_end": 5643,
+   "sha1": "bae94becfcf861453028b684cc0a19f6d4fc8e20"
+  }
+ ]
+}

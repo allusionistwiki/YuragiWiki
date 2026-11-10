@@ -1,0 +1,297 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "d48da8b9ffe18d40d8d044fd1d2b8e14f6833348",
+ "n_posts": 52,
+ "n_groups": 22,
+ "preamble_len": 131,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 131,
+   "region_end": 491,
+   "sha1": "70658385ea0f7416cc90c297aed361d3e9e1fe54"
+  },
+  {
+   "file": "p0002.md",
+   "author": "あるおねえちゃんのものがたり：１",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 491,
+   "region_end": 759,
+   "sha1": "09eee68a9712d8374464350d5caf9ed1f56b8c97"
+  },
+  {
+   "file": "p0003.md",
+   "author": "あるおねえちゃんのものがたり：２",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 759,
+   "region_end": 985,
+   "sha1": "72858c10bac4cdbaea5db6c6f32d10001af9605f"
+  },
+  {
+   "file": "p0004.md",
+   "author": "名探偵アエルガ＝ミクニーの事件簿（1）",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 985,
+   "region_end": 1365,
+   "sha1": "4ae688b0251b4f63358975ac0b6bb1e65545d11c"
+  },
+  {
+   "file": "p0005.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 1365,
+   "region_end": 1606,
+   "sha1": "5f27667c4ccab61a2bee5a4fdb3228d2fe998964"
+  },
+  {
+   "file": "p0006.md",
+   "author": "名探偵アエルガ＝ミクニーの事件簿（2）",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 1606,
+   "region_end": 1991,
+   "sha1": "726f015f5bac52223b059305f99f50d1037cfd50"
+  },
+  {
+   "file": "p0007.md",
+   "author": "トミュニと可哀想な三人の旅人",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 1991,
+   "region_end": 2472,
+   "sha1": "68e3eee98296c9b3bd0764bbcf44f9043d913495"
+  },
+  {
+   "file": "p0008-0010.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    8,
+    10
+   ],
+   "n_posts": 3,
+   "region_start": 2472,
+   "region_end": 4123,
+   "sha1": "66e6993bd460bcc7597acba3c10443d9892afd76"
+  },
+  {
+   "file": "p0011.md",
+   "author": "上もそうだがこっちも「若い頃の木戸野」の話だ",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 4123,
+   "region_end": 6182,
+   "sha1": "e3d501a7bc0f1e448b2961fabea860284f8d8ee3"
+  },
+  {
+   "file": "p0012-0014.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    12,
+    14
+   ],
+   "n_posts": 3,
+   "region_start": 6182,
+   "region_end": 6408,
+   "sha1": "0b13be3c748175a749234701af83009976f068f6"
+  },
+  {
+   "file": "p0015-0019.md",
+   "author": "若い頃の木戸野",
+   "deleted": false,
+   "post_range": [
+    15,
+    19
+   ],
+   "n_posts": 5,
+   "region_start": 6408,
+   "region_end": 14653,
+   "sha1": "a751d38b59d6015765bf63129774a3e1c68fd6f6"
+  },
+  {
+   "file": "p0020.md",
+   "author": "木戸野の若い頃",
+   "deleted": false,
+   "post_range": [
+    20,
+    20
+   ],
+   "n_posts": 1,
+   "region_start": 14653,
+   "region_end": 16781,
+   "sha1": "8d7a96c892d4db99b31bbc4f72b19400bdc5196e"
+  },
+  {
+   "file": "p0021-0043.md",
+   "author": "若い頃の木戸野",
+   "deleted": false,
+   "post_range": [
+    21,
+    43
+   ],
+   "n_posts": 23,
+   "region_start": 16781,
+   "region_end": 44955,
+   "sha1": "27c0a9d738899ec7739a877d1ade9e6793eb918c"
+  },
+  {
+   "file": "p0044.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    44,
+    44
+   ],
+   "n_posts": 1,
+   "region_start": 44955,
+   "region_end": 44994,
+   "sha1": "ed1d71fa2fa021d0f07de64159df3e7538c2ba85"
+  },
+  {
+   "file": "p0045.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    45,
+    45
+   ],
+   "n_posts": 1,
+   "region_start": 44994,
+   "region_end": 45033,
+   "sha1": "552189e71a6a520cfb1e53a409d10e419c4ed040"
+  },
+  {
+   "file": "p0046.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    46,
+    46
+   ],
+   "n_posts": 1,
+   "region_start": 45033,
+   "region_end": 45072,
+   "sha1": "8a0e6d6a62c4716f085905ceaf19d1228f18173b"
+  },
+  {
+   "file": "p0047.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    47,
+    47
+   ],
+   "n_posts": 1,
+   "region_start": 45072,
+   "region_end": 45111,
+   "sha1": "2a99ee3644ba9902992842011dea8e8dba884122"
+  },
+  {
+   "file": "p0048.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    48,
+    48
+   ],
+   "n_posts": 1,
+   "region_start": 45111,
+   "region_end": 45150,
+   "sha1": "a96201e94e10a8fa6a0562f3dd58285b3766cb3f"
+  },
+  {
+   "file": "p0049.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    49,
+    49
+   ],
+   "n_posts": 1,
+   "region_start": 45150,
+   "region_end": 45189,
+   "sha1": "4bb3001fa126fb20db9ca94087c72fe7e0164be8"
+  },
+  {
+   "file": "p0050.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    50,
+    50
+   ],
+   "n_posts": 1,
+   "region_start": 45189,
+   "region_end": 45228,
+   "sha1": "f4c8a43756ca2b8a1f9152698bc67bf99308bc02"
+  },
+  {
+   "file": "p0051.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    51,
+    51
+   ],
+   "n_posts": 1,
+   "region_start": 45228,
+   "region_end": 45267,
+   "sha1": "a6c85778d74453a0417aee946d4a58aa97652dde"
+  },
+  {
+   "file": "p0052.md",
+   "author": "<<妖精は口を噤んだ>>",
+   "deleted": true,
+   "post_range": [
+    52,
+    52
+   ],
+   "n_posts": 1,
+   "region_start": 45267,
+   "region_end": 45306,
+   "sha1": "3dcc0c1e124fc5054d6b68d00e562a6bc9fcdbd6"
+  }
+ ]
+}

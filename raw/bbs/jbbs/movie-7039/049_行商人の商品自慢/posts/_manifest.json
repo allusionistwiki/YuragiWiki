@@ -1,0 +1,518 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "baf86453dff4cc093f5630f4e86e2b04d76f32e3",
+ "n_posts": 39,
+ "n_groups": 39,
+ "preamble_len": 128,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "商館の主バートス",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 128,
+   "region_end": 355,
+   "sha1": "294923078ce1ae540af92e2b9b3210ec884cd345"
+  },
+  {
+   "file": "p0002.md",
+   "author": "頭巾をかぶった行商人",
+   "deleted": false,
+   "post_range": [
+    2,
+    2
+   ],
+   "n_posts": 1,
+   "region_start": 355,
+   "region_end": 533,
+   "sha1": "af0b6ec78ac2d2423e80263096f52e65491ea05b"
+  },
+  {
+   "file": "p0003.md",
+   "author": "額に傷のある商人",
+   "deleted": false,
+   "post_range": [
+    3,
+    3
+   ],
+   "n_posts": 1,
+   "region_start": 533,
+   "region_end": 711,
+   "sha1": "1427733e144ce00ed1415b5b07c6d035af9772bb"
+  },
+  {
+   "file": "p0004.md",
+   "author": "整った髭の行商人",
+   "deleted": false,
+   "post_range": [
+    4,
+    4
+   ],
+   "n_posts": 1,
+   "region_start": 711,
+   "region_end": 1078,
+   "sha1": "89a0618df2b19aa5f5d1e525b746fe48b0888972"
+  },
+  {
+   "file": "p0005.md",
+   "author": "眼帯の商人",
+   "deleted": false,
+   "post_range": [
+    5,
+    5
+   ],
+   "n_posts": 1,
+   "region_start": 1078,
+   "region_end": 1175,
+   "sha1": "ab504d4c3be430d5179bd74060179cabd17fa843"
+  },
+  {
+   "file": "p0006.md",
+   "author": "額に傷のある商人",
+   "deleted": false,
+   "post_range": [
+    6,
+    6
+   ],
+   "n_posts": 1,
+   "region_start": 1175,
+   "region_end": 1340,
+   "sha1": "f7492a742d6641db492acfb4874c8ea519d33bb9"
+  },
+  {
+   "file": "p0007.md",
+   "author": "眼帯の商人",
+   "deleted": false,
+   "post_range": [
+    7,
+    7
+   ],
+   "n_posts": 1,
+   "region_start": 1340,
+   "region_end": 1412,
+   "sha1": "844e4b60a7837a89ce999a0d14d4f53e0e114906"
+  },
+  {
+   "file": "p0008.md",
+   "author": "額に傷のある商人",
+   "deleted": false,
+   "post_range": [
+    8,
+    8
+   ],
+   "n_posts": 1,
+   "region_start": 1412,
+   "region_end": 1628,
+   "sha1": "97bc7dc1b1f8af3bae36a863eda01a4bdf71cc4c"
+  },
+  {
+   "file": "p0009.md",
+   "author": "モヒカン頭の商人",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1628,
+   "region_end": 1730,
+   "sha1": "7a4f8a14168f66060e61b9657ce76c74d7160335"
+  },
+  {
+   "file": "p0010.md",
+   "author": "頭巾をかぶった行商人",
+   "deleted": false,
+   "post_range": [
+    10,
+    10
+   ],
+   "n_posts": 1,
+   "region_start": 1730,
+   "region_end": 1991,
+   "sha1": "6f21b6a4bc6aa4cd57615511607e060d367a210e"
+  },
+  {
+   "file": "p0011.md",
+   "author": "頭に花の咲いた商人",
+   "deleted": false,
+   "post_range": [
+    11,
+    11
+   ],
+   "n_posts": 1,
+   "region_start": 1991,
+   "region_end": 2093,
+   "sha1": "c79b024a054f089f3fe1326f15ff3098c269a05c"
+  },
+  {
+   "file": "p0012.md",
+   "author": "ハゲターバン商人",
+   "deleted": false,
+   "post_range": [
+    12,
+    12
+   ],
+   "n_posts": 1,
+   "region_start": 2093,
+   "region_end": 2186,
+   "sha1": "a1bc0cc96fe5b593fc5bc3df5430df9bbafda15e"
+  },
+  {
+   "file": "p0013.md",
+   "author": "鼻の赤い商人",
+   "deleted": false,
+   "post_range": [
+    13,
+    13
+   ],
+   "n_posts": 1,
+   "region_start": 2186,
+   "region_end": 2272,
+   "sha1": "e33ad1f6104f097c0c6411f4e10695ad40ef9bc7"
+  },
+  {
+   "file": "p0014.md",
+   "author": "細目でマスクの商人",
+   "deleted": false,
+   "post_range": [
+    14,
+    14
+   ],
+   "n_posts": 1,
+   "region_start": 2272,
+   "region_end": 2349,
+   "sha1": "7a2b1e73a12343e95e911bef258ffa5d8629099c"
+  },
+  {
+   "file": "p0015.md",
+   "author": "カウンター席で聞き耳を立てていた食器商人",
+   "deleted": false,
+   "post_range": [
+    15,
+    15
+   ],
+   "n_posts": 1,
+   "region_start": 2349,
+   "region_end": 2487,
+   "sha1": "7477f6a28cc6c499e585cefb65a0e6e8ba90197e"
+  },
+  {
+   "file": "p0016.md",
+   "author": "マントを羽織った商人",
+   "deleted": false,
+   "post_range": [
+    16,
+    16
+   ],
+   "n_posts": 1,
+   "region_start": 2487,
+   "region_end": 2603,
+   "sha1": "7c187b9ef628d2b612b8eb1a708637bae0ce1d01"
+  },
+  {
+   "file": "p0017.md",
+   "author": "鼻の赤い商人",
+   "deleted": false,
+   "post_range": [
+    17,
+    17
+   ],
+   "n_posts": 1,
+   "region_start": 2603,
+   "region_end": 2790,
+   "sha1": "bc124e241ef7e7a60bbf4b4b8b3cb4d917ca9296"
+  },
+  {
+   "file": "p0018.md",
+   "author": "カウンター席で聞き耳を立てていた壷商人",
+   "deleted": false,
+   "post_range": [
+    18,
+    18
+   ],
+   "n_posts": 1,
+   "region_start": 2790,
+   "region_end": 2918,
+   "sha1": "a45d14ec40dacb83c9f0dc91c36081e84be3a494"
+  },
+  {
+   "file": "p0019.md",
+   "author": "もみあげが特徴的な商人",
+   "deleted": false,
+   "post_range": [
+    19,
+    19
+   ],
+   "n_posts": 1,
+   "region_start": 2918,
+   "region_end": 3053,
+   "sha1": "67543f25d02bcda43b4563c3238aedbe002baed1"
+  },
+  {
+   "file": "p0020.md",
+   "author": "軍人風の男",
+   "deleted": false,
+   "post_range": [
+    20,
+    20
+   ],
+   "n_posts": 1,
+   "region_start": 3053,
+   "region_end": 3174,
+   "sha1": "e429c191d8ec8f3a8f4d8c7cdd02a49e5e900d57"
+  },
+  {
+   "file": "p0021.md",
+   "author": "頭巾をかぶった行商人",
+   "deleted": false,
+   "post_range": [
+    21,
+    21
+   ],
+   "n_posts": 1,
+   "region_start": 3174,
+   "region_end": 3545,
+   "sha1": "59d3f84f51e6a9fc823b49587078166d007f4e6b"
+  },
+  {
+   "file": "p0022.md",
+   "author": "細目でマスクの商人",
+   "deleted": false,
+   "post_range": [
+    22,
+    22
+   ],
+   "n_posts": 1,
+   "region_start": 3545,
+   "region_end": 3713,
+   "sha1": "0209e9b063b18bd3efd76737ecf1f48df2780b37"
+  },
+  {
+   "file": "p0023.md",
+   "author": "この場に居合わせた武器商人",
+   "deleted": false,
+   "post_range": [
+    23,
+    23
+   ],
+   "n_posts": 1,
+   "region_start": 3713,
+   "region_end": 3814,
+   "sha1": "a313dab56cb6993e639acb8547a18bbb113190f1"
+  },
+  {
+   "file": "p0024.md",
+   "author": "細目でマスクの商人",
+   "deleted": false,
+   "post_range": [
+    24,
+    24
+   ],
+   "n_posts": 1,
+   "region_start": 3814,
+   "region_end": 3962,
+   "sha1": "a01313988b1e340f3a2baa0ebda4593d3aa63b62"
+  },
+  {
+   "file": "p0025.md",
+   "author": "マントを羽織った商人",
+   "deleted": false,
+   "post_range": [
+    25,
+    25
+   ],
+   "n_posts": 1,
+   "region_start": 3962,
+   "region_end": 4224,
+   "sha1": "968edff88edb295704e924ac84914b4180e8c34b"
+  },
+  {
+   "file": "p0026.md",
+   "author": "隅でショークー酒をちびちびヤッていた運送人夫",
+   "deleted": false,
+   "post_range": [
+    26,
+    26
+   ],
+   "n_posts": 1,
+   "region_start": 4224,
+   "region_end": 4302,
+   "sha1": "26608b0896d1d671ee410a11b5be5ff0a3641821"
+  },
+  {
+   "file": "p0027.md",
+   "author": "ゆらゆらしている商人",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 4302,
+   "region_end": 4400,
+   "sha1": "873d2bf199b9a43212574fd68f8eb475d7b37589"
+  },
+  {
+   "file": "p0028.md",
+   "author": "だいぶゴキゲンになってきている近所の雑貨屋",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 4400,
+   "region_end": 4689,
+   "sha1": "ab18786dccee7a8d58efe014bb3b87365fde6801"
+  },
+  {
+   "file": "p0029.md",
+   "author": "ゆらゆらしている商人",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 4689,
+   "region_end": 4875,
+   "sha1": "e9e3f135f53d8ae4419c097cd92323df5a814001"
+  },
+  {
+   "file": "p0030.md",
+   "author": "マントを羽織った商人",
+   "deleted": false,
+   "post_range": [
+    30,
+    30
+   ],
+   "n_posts": 1,
+   "region_start": 4875,
+   "region_end": 5167,
+   "sha1": "271bc8c7cfe516ccef89faaca61300e0decc9b73"
+  },
+  {
+   "file": "p0031.md",
+   "author": "言理の妖精覗き見て曰く、",
+   "deleted": false,
+   "post_range": [
+    31,
+    31
+   ],
+   "n_posts": 1,
+   "region_start": 5167,
+   "region_end": 5232,
+   "sha1": "c75efb6a68ef7949e9b10a058e9e1e37537684c5"
+  },
+  {
+   "file": "p0032.md",
+   "author": "右足が義足の商人",
+   "deleted": false,
+   "post_range": [
+    32,
+    32
+   ],
+   "n_posts": 1,
+   "region_start": 5232,
+   "region_end": 5425,
+   "sha1": "e41ca2943a85481da63f30700c89ecc9b32154fa"
+  },
+  {
+   "file": "p0033.md",
+   "author": "言理の妖精覗き見て曰く、",
+   "deleted": false,
+   "post_range": [
+    33,
+    33
+   ],
+   "n_posts": 1,
+   "region_start": 5425,
+   "region_end": 5483,
+   "sha1": "99fcd472e14be2dfd6be4f2de1b2f5772b9c9f66"
+  },
+  {
+   "file": "p0034.md",
+   "author": "ゆらゆらしている商人",
+   "deleted": false,
+   "post_range": [
+    34,
+    34
+   ],
+   "n_posts": 1,
+   "region_start": 5483,
+   "region_end": 5811,
+   "sha1": "5d419a64cf5e0d29b5b0f21adff31a02aa7e8412"
+  },
+  {
+   "file": "p0035.md",
+   "author": "酔いどれ商人",
+   "deleted": false,
+   "post_range": [
+    35,
+    35
+   ],
+   "n_posts": 1,
+   "region_start": 5811,
+   "region_end": 6005,
+   "sha1": "bcd369fb519c43e058a5c5db52b1c1d9e04ca116"
+  },
+  {
+   "file": "p0036.md",
+   "author": "頭巾をかぶった行商人",
+   "deleted": false,
+   "post_range": [
+    36,
+    36
+   ],
+   "n_posts": 1,
+   "region_start": 6005,
+   "region_end": 6157,
+   "sha1": "818e41c466bf65fd7142df80d5df3896f1da5c3c"
+  },
+  {
+   "file": "p0037.md",
+   "author": "ボロを纏った男",
+   "deleted": false,
+   "post_range": [
+    37,
+    37
+   ],
+   "n_posts": 1,
+   "region_start": 6157,
+   "region_end": 6965,
+   "sha1": "59e1cf9a84ef41c150b8fec0dc39f3e0c4256007"
+  },
+  {
+   "file": "p0038.md",
+   "author": "包帯だらけの旅商人",
+   "deleted": false,
+   "post_range": [
+    38,
+    38
+   ],
+   "n_posts": 1,
+   "region_start": 6965,
+   "region_end": 7120,
+   "sha1": "0c07d03f841438f21dd310bf5627514b28959a40"
+  },
+  {
+   "file": "p0039.md",
+   "author": "左腕が崩れかけた商人",
+   "deleted": false,
+   "post_range": [
+    39,
+    39
+   ],
+   "n_posts": 1,
+   "region_start": 7120,
+   "region_end": 7424,
+   "sha1": "ee4e3eaf770ae1e89371256da2aa03553156c4dd"
+  }
+ ]
+}

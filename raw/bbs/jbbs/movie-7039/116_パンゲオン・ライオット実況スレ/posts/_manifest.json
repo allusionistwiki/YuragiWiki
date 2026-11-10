@@ -1,0 +1,50 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "d307ec7aa083bbe0b2848597adde9d194818d6e1",
+ "n_posts": 24,
+ "n_groups": 3,
+ "preamble_len": 136,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001-0008.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    1,
+    8
+   ],
+   "n_posts": 8,
+   "region_start": 136,
+   "region_end": 1051,
+   "sha1": "2ced4ceb5b3a16687edd1f523b3b9e902b5e286d"
+  },
+  {
+   "file": "p0009.md",
+   "author": "すす",
+   "deleted": false,
+   "post_range": [
+    9,
+    9
+   ],
+   "n_posts": 1,
+   "region_start": 1051,
+   "region_end": 1160,
+   "sha1": "ed2f2174482950b4a6f7d40df1a922277bd2745c"
+  },
+  {
+   "file": "p0010-0024.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    10,
+    24
+   ],
+   "n_posts": 15,
+   "region_start": 1160,
+   "region_end": 2335,
+   "sha1": "eec0a493970cf9a671967e513a96e98f55dba45d"
+  }
+ ]
+}

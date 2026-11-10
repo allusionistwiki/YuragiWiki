@@ -1,0 +1,76 @@
+{
+ "src": "Thread.md",
+ "src_sha1": "7a8aed5b91733b9fc9195350fe15c59e8d12ce1d",
+ "n_posts": 15,
+ "n_groups": 5,
+ "preamble_len": 133,
+ "footer_len": 0,
+ "verify_concat_exact": true,
+ "files": [
+  {
+   "file": "p0001.md",
+   "author": "アルボムッレ・スマナサーラ",
+   "deleted": false,
+   "post_range": [
+    1,
+    1
+   ],
+   "n_posts": 1,
+   "region_start": 133,
+   "region_end": 380,
+   "sha1": "a113215c592985db8f647c7ac9e0b732d7cd96a8"
+  },
+  {
+   "file": "p0016-0026.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    16,
+    26
+   ],
+   "n_posts": 11,
+   "region_start": 380,
+   "region_end": 1483,
+   "sha1": "75887ce9038f01009519e5083c28e7961d59cb62"
+  },
+  {
+   "file": "p0027.md",
+   "author": "25",
+   "deleted": false,
+   "post_range": [
+    27,
+    27
+   ],
+   "n_posts": 1,
+   "region_start": 1483,
+   "region_end": 1572,
+   "sha1": "577b1a83417f00a1a8bcd38accb3a14d5029a310"
+  },
+  {
+   "file": "p0028.md",
+   "author": "言理の妖精語りて曰く、",
+   "deleted": false,
+   "post_range": [
+    28,
+    28
+   ],
+   "n_posts": 1,
+   "region_start": 1572,
+   "region_end": 1696,
+   "sha1": "a5944e06a8a8545f72af935502b274e394238384"
+  },
+  {
+   "file": "p0029.md",
+   "author": "25",
+   "deleted": false,
+   "post_range": [
+    29,
+    29
+   ],
+   "n_posts": 1,
+   "region_start": 1696,
+   "region_end": 1787,
+   "sha1": "b4881aa140b6406ae57f3c4b9cc8ec0188e61ec1"
+  }
+ ]
+}

@@ -6,6 +6,11 @@
 
 - `raw/bbs/jbbs/movie-7039/` — 外部BBS「ゆらぎの神話BBS」（したらば movie/7039）全スレ・全レス
 - `raw/bbs/mixi/373088/` — mixi コミュ「架空の神話を作ろう」全トピック・全コメント
+- `raw/bbs/**/posts/` — **投稿単位層（2026-11-11〜）**: 各 BBS の各投稿を 1 ファイルに切り分けた層。
+  同一投稿者の隣接連投は 1 ファイルに統合（`p0123-0127.md` 形式・単独は `p0001.md`）。
+  各篇の `posts/_manifest.json` に元ファイル SHA1・領域・無損失連結検証記録。
+  生成: `tools/split_posts.py`（元ファイルは無改変）。はてな portal BBS（bbs/1）は 1 ページ 1 投稿のため対象外。
+  台帳（篇 ID・アンカー）は work repo `AllusionistWiki_work/work/yuragi/` 側。
 - （今後）wiki 解析層
 
 ## ライセンス
