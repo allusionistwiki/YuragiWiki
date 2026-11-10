@@ -80,6 +80,7 @@ def group_posts(posts):
 def group_filename(posts):
     a = posts[0]["post_no"]
     b = posts[-1]["post_no"]
+    # 群の post 範囲は群間で互いに素 → この名前は一意的
     return f"p{a:04d}.md" if len(posts) == 1 else f"p{a:04d}-{b:04d}.md"
 
 
