@@ -5,7 +5,7 @@
  "n_groups": 28,
  "preamble_len": 136,
  "footer_len": 0,
- "verify_concat_exact": true,
+ "verify_disk_roundtrip": true,
  "files": [
   {
    "file": "p0001-0015.md",

@@ -93,13 +93,12 @@ def split_unit(src: Path, posts_dir: Path):
     groups = group_posts(posts)
     posts_dir.mkdir(parents=True, exist_ok=True)
     files = []
-    concat = []
     for g in groups:
         gp = g["posts"]
         seg = text[gp[0]["region_start"]: gp[-1]["region_end"]]
         fname = group_filename(gp)
-        (posts_dir / fname).write_text(seg, encoding="utf-8")
-        concat.append(seg)
+        # newline="" で書き disk 上のバイト列 == 元ファイルの region バイト列（CRLF 保存）
+        (posts_dir / fname).write_text(seg, encoding="utf-8", newline="")
         files.append(
             {
                 "file": fname,
@@ -112,7 +111,10 @@ def split_unit(src: Path, posts_dir: Path):
                 "sha1": sha1_bytes(seg.encode("utf-8")),
             }
         )
-    joined = "".join(concat)
+    # disk round-trip 検証: 書き終えたファイルを disk から raw 読みし連結照合（自己参照ではない）
+    joined = "".join(
+        (posts_dir / f["file"]).read_bytes().decode("utf-8", errors="replace") for f in files
+    )
     ok = joined == text[posts[0]["region_start"]: posts[-1]["region_end"]]
     manifest = {
         "src": src.name,
@@ -121,7 +123,7 @@ def split_unit(src: Path, posts_dir: Path):
         "n_groups": len(groups),
         "preamble_len": posts[0]["region_start"],
         "footer_len": total_len - posts[-1]["region_end"],
-        "verify_concat_exact": ok,
+        "verify_disk_roundtrip": ok,
         "files": files,
     }
     (posts_dir / "_manifest.json").write_text(
