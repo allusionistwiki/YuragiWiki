@@ -201,22 +201,51 @@ def main():
         stats["chain_multi"] += res["n_chain_multi"]
 
     # hatena portal BBS（1 ページ 1 投稿・② = ページそのもの）
+    # 対象は内容ページのみ: bbs_1_<N>_<ts>.md（mode_reply/mode_rss/mode_tree/from は除外）
     pages = {}
-    for f in HATENA_MD.rglob("bbs_1_*_*.md"):
-        mm = re.search(r"bbs_1_(\d+)_", f.name)
-        ts = re.search(r"_(\d{14})\.md$", f.name)
-        pages.setdefault(int(mm.group(1)), []).append((ts.group(1), f))
+    for f in HATENA_MD.rglob("*bbs_1_*.md"):
+        m = re.search(r"bbs_1_(\d+)_(\d{14})\.md$", f.name)
+        if not m:
+            continue
+        pages.setdefault(int(m.group(1)), []).append((m.group(2), f))
     hp = []
     for pno in sorted(pages):
         ts, f = sorted(pages[pno])[-1]
         lines = f.read_bytes().decode("utf-8", errors="replace").splitlines(keepends=True)
-        body = "".join(lines[5:-3]).strip()
-        hp.append(({"post_no": pno, "author": lines[1].strip() if len(lines) > 1 else "",
-                    "date": lines[2].strip() if len(lines) > 2 else "", "file": f.name,
-                    "region_start": 0, "region_end": 0}, body))
+        hi = ni = None
+        for i, ln in enumerate(lines):
+            if hi is None and re.match(r"^##\s+\[\d+\]\(", ln):
+                hi = i
+            if "mode=reply" in ln and "｜" in ln:
+                ni = i
+        head = lines[hi].rstrip("\r\n")
+        m = re.match(r"^##\s+\[(\d+)\]\(/bbs/1/\d+\)：\s*\[([^\]]+)\]\([^\)]*\)\s*(.*)$", head)
+        if m and "![" not in m.group(2):
+            pno_, author, title = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
+        else:
+            m2 = re.match(r"^##\s+\[(\d+)\]\(/bbs/1/\d+\)：\s*(.*)$", head)
+            assert m2, f"hatena header 解析不能: {f.name}"
+            rest = m2.group(2)
+            pno_ = int(m2.group(1))
+            if "削除されました" in head:
+                author, title = "<<このエントリーは削除されました>>", ""
+            elif m and "![" in m.group(2):
+                # 著者なし・レス連なりリンクのみのヘッダ（返信投稿）
+                author, title = "", (m.group(3) or "").strip()
+            else:
+                author, title = "", rest.strip()
+        dm = re.search(r"｜(\d{4}[-/年]\d{1,2}[-/月]\d{1,2}[日)]?.*?\d{1,2}:\d{2}(?::\d{2})?)", lines[ni])
+        body = "".join(lines[hi + 1:ni]).strip()
+        hp.append(({"post_no": pno_, "author": author,
+                    "date": dm.group(1) if dm else "", "title": title,
+                    "file": f.name, "region_start": 0, "region_end": 0}, body))
     res = write_layers("YJ-H01", "hatena_portal", "ふりかーBBS（portal）",
                        f"{HATENA_BASE}/bbs/1/1", hp, None, {"files": []},
                        RAW / "hatena_flicker")
+    (RAW / "hatena_flicker" / "_layers_manifest.json").write_text(json.dumps({
+        "unit_id": "YJ-H01", "src": "(hatena portal pages)", "src_sha1": None,
+        "layers": res, "gates": {"G3_full_text": True, "G4_partition": True, "G5_join": True},
+    }, ensure_ascii=False), encoding="utf-8")
     stats["units"] += 1
     stats["posts"] += res["n_posts"]
     stats["chains"] += res["n_chains"]
