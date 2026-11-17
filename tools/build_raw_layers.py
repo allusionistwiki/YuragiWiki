@@ -103,13 +103,13 @@ def write_layers(unit_id, source, title, url, posts_with_body, posts_dir, manife
             if n in {p["post_no"] for p, _ in posts_with_body}:
                 file_of[n] = f["file"]
 
-    # ③ structured.jsonl
-    lines3 = []
+    # ③ structured.jsonl（1 行目 = 篇メタ・スレッド情報はここにのみ。投稿行は ref 先頭から unit を導出）
+    lines3 = [{"_meta": True, "unit_id": unit_id, "source": source,
+               "thread_title": title, "url": url, "n_posts": len(posts_with_body)}]
     for p, body in posts_with_body:
         iso, ep = iso_date(p["date"])
         lines3.append({
-            "ref": f"{unit_id}:{p['post_no']}", "unit_id": unit_id, "source": source,
-            "thread_title": title, "url": url, "post_no": p["post_no"], "author": p["author"],
+            "ref": f"{unit_id}:{p['post_no']}", "post_no": p["post_no"], "author": p["author"],
             "date_raw": p["date"] or "", "date_iso": iso, "epoch": None if ep is None else round(ep, 3),
             "file": file_of.get(p["post_no"]), "body": body,
         })
@@ -127,7 +127,7 @@ def write_layers(unit_id, source, title, url, posts_with_body, posts_dir, manife
         chain_text = "\n\n".join(body_by_no[n] for n in nos)
         # excerpt 案は不採用（LLM 要約が tools/merge_chain_summaries.py で summary を付与）
         lines4.append({
-            "chain_id": f"{unit_id}#g{g['seq']:03d}", "unit_id": unit_id,
+            "chain_id": f"{unit_id}#g{g['seq']:03d}",  # 先頭 = unit_id（重複字段なし）
             "kind": "deleted" if g["deleted"] else ("chain" if len(nos) > 1 else "post"),
             "author": g["author"], "post_range": [min(nos), max(nos)], "post_nos": nos,
             "n_posts": len(nos), "topics": g["topics"], "chars": chars,

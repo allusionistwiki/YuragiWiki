@@ -10,8 +10,9 @@
   同一投稿者の隣接連投は 1 ファイルに統合（`p0123-0127.md` 形式・単独は `p0001.md`）。
   各篇の `posts/_manifest.json` に元ファイル SHA1・領域・disk round-trip 検証記録。
   生成: `tools/split_posts.py`（元ファイルは無改変）。はてな portal BBS（bbs/1）は 1 ページ 1 投稿のため対象外。
-- **③ `structured.jsonl`（各篇・LLM 用）**: 各投稿を構造化レコード化（unit_id・post_no・作者・日時・URL・**全文省略なし**）。
-- **④ `chains.jsonl`（各篇）**: 同一作者かつ同一話題で ③ を一まとめ。話題規則（決定論）: 隣接＋同一作者＋【…】語彙が群語彙の部分集合なら merge、新規【…】で新群、削除投稿は連鎖を断つ。`summary` 欄に LLM 1 文要約（Strata・work 側 L0 run で生成）＋`summary_sha1`（chain 本文ハッシュ来歴）。全群 LLM 品質監査 100% 合格（2026-11-17）。反映は `tools/merge_chain_summaries.py`（chain_sha1 照合ゲート）。
+- **③ `structured.jsonl`（各篇・LLM 用）**: 1 行目 = 篇メタ（unit_id・source・thread_title・url・n_posts）。投稿行は `ref`（`unit:post_no`）・post_no・作者・日時（raw/ISO）・② ファイル名・**全文省略なし body** のみ（スレッド情報の行内重複なし）。
+- **④ `chains.jsonl`（各篇）**: 同一作者かつ同一話題で ③ を一まとめ。`chain_id` 先頭が unit_id（重複フィールドなし）。話題規則（決定論）: 隣接＋同一作者＋【…】語彙が群語彙の部分集合なら merge、新規【…】で新群、削除投稿は連鎖を断つ。`summary` 欄に LLM 1 文要約（Strata・work 側 L0 run で生成）＋`summary_sha1`（chain 本文ハッシュ来歴）。全群 LLM 品質監査 100% 合格（2026-11-17）。反映は `tools/merge_chain_summaries.py`（chain_sha1 照合ゲート）。
+- LLM への読み取りは work repo `scripts/read_yuragi.py`（unit/chain 単位のペイロード生成・篇ヘッダ 1 回付与）。
 - **⑤ `thread.json`（各篇）**: 一連の話題（スレッド全体）で ③ を一まとめ（全文投稿順連結）。
 - 各篇 `_layers_manifest.json`（③④⑤ SHA1・検証記録）。生成: `tools/build_raw_layers.py`（①〜⑤ の対応は README・tools 冒頭）。
 - 台帳（unit ID 台帳・アンカー・索引）は work repo `AllusionistWiki_work/work/yuragi/` 側。
