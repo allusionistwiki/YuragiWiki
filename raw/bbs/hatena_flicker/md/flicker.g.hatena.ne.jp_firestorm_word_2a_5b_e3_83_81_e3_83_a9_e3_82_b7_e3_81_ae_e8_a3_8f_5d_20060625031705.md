@@ -1,0 +1,233 @@
+[![Hatena::](/images/hatena_lb.gif)](http://www.hatena.ne.jp/)[![Group](/images/grouplb.gif)![::](/images/colonlb.gif)](http://g.hatena.ne.jp/)[![flicker](/images/group/flicker/flickerlb.gif)](/)![tri](/images/tri_lb.gif) |    
+![](/images/dot.gif) | [![はてな](/images/hatenalb.gif)](http://www.hatena.ne.jp/)  
+---|---|---  
+![](/images/dot.gif)  
+|  ようこそゲストさん  |  [トップ](/) |  [最新の日記](/firestorm/) |  [ユーザー登録](https://www.hatena.ne.jp/register) |  [ログイン](https://www.hatena.ne.jp/login?backurl=http%3A%2F%2Fflicker.g.hatena.ne.jp%2F) |  [ヘルプ](http://g.hatena.ne.jp/help)  
+---|---|---|---|---|---  
+  
+![](/images/dot.gif)  
+  
+#  これはだいぶにせものです 
+
+## [2006-05-01](/firestorm/20060501)
+
+### [■](/firestorm/20060501/1146427054) [[にせもん](/firestorm/?word=%2a%5b%e3%81%ab%e3%81%9b%e3%82%82%e3%82%93%5d)][[チラシの裏](/firestorm/?word=%2a%5b%e3%83%81%e3%83%a9%e3%82%b7%e3%81%ae%e8%a3%8f%5d)] 04:57 [![このエントリーを含むブックマーク](/images/b_entry_lb.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/firestorm/20060501/1146427054)
+
+「久しぶり！…その調子だと変わらないみたい、だね」
+
+「んー…まあ、変わらないっちゃ変わらないかな」
+
+「あはは、なら安心だ。こっちも相変わらずさ」
+
+「で、…どうした？わざわざ[手紙](http://d.hatena.ne.jp/keyword/%bc%ea%bb%e6)よこすなんて珍しい…てか、初めてだぞ」
+
+「僕だってたまには普通に『[手紙](http://d.hatena.ne.jp/keyword/%bc%ea%bb%e6)』っていうのを出してみたかったんだよ。まあ楽にして。[コーヒー](http://d.hatena.ne.jp/keyword/%a5%b3%a1%bc%a5%d2%a1%bc)と[紅茶](http://d.hatena.ne.jp/keyword/%b9%c8%c3%e3)どっちがいい？」
+
+「俺[緑茶](http://d.hatena.ne.jp/keyword/%ce%d0%c3%e3)派ー。」
+
+「はいはいっと…そのひねくれも変わらないね」
+
+「アマノジャクの[王様](http://d.hatena.ne.jp/keyword/%b2%a6%cd%cd)みたいなあんたに言われたくないなー」
+
+「じゃあ君はさぞかし[お姫様](http://d.hatena.ne.jp/keyword/%a4%aa%c9%b1%cd%cd)なわけだ」
+
+「殴っていいか」
+
+「あははは、ごめんごめん訂正！女[王様](http://d.hatena.ne.jp/keyword/%b2%a6%cd%cd)だね」
+
+「よし殺す」
+
+「ちょ、ちょっとその壺こないだ地上居住区の[蚤の市](http://d.hatena.ne.jp/keyword/%c7%c2%a4%ce%bb%d4)で５万で買ったばっかりの掘り出しも」
+
+  
+  
+
+
+「でね」
+
+「んー」
+
+「最近、どう、かな？って聞きたいんだけど」
+
+「俺にオシゴトの手伝い頼みたいってなら勘弁な。今は本業で手が空かねー」
+
+「そういう用件じゃないよ…まあ腕っ節もホンットあの頃から変わらないみたいだけどねえ」
+
+「ガキ共の世話と家事で鍛えられてるからな」
+
+「ああ痛い痛い。頭が割れそうだよ」
+
+「割ったってあんたならすぐ元通りになりそうなもんだけどな」
+
+「まあそうかもしれないけれど…って、だから今日は別にそういう血なまぐさい話じゃないよ。…むしろそれよりも、マズいかな」
+
+「なんだ…アレか？」
+
+「そう、アレ」
+
+「！熱ちちちちっ、…ちょっ、冗談はこりごり…」
+
+「冗談じゃなかったらわざわざ両手両足でも足りないぐらい会ってない友達を呼ばないよ」
+
+「くっそー…美味い茶が台無しだよ。なんかムカつくからさっさと帰りたい。その前に詳細教えろ」
+
+「『種』が見つかったってだけの話さ。ただ今はどうなるかはわからない。『種』を抱えたまま何事も起こらずに過ぎるか、それとも」
+
+「かつての俺とあいつのように、だろ」
+
+「…嫌なら別に僕一人でも大丈夫だよ。ただ今回は僕一人じゃキツい。『種』が見つかったのが、久々に大きな…『ゆらぎ』の側だ。そう、呼ばれてる」
+
+「…『ゆらぎ』ね。あんたがそう言うってことは、よっぽどヤバい予感がビンビンするってこったな？」
+
+「うん、わりと。結構、かなり。いやぁもうヤーバいよーあれー。四千年の歴史なんて冠も目じゃないぐらいヤバいよー。ぐちゃぐちゃドロドロギャーだよー。泣いちゃうよー。こっちの世界が７７回滅びてもおつり来ちゃうよー」
+
+「悪ぃなあ…場所が場所なだけに、そーいったヤバさにはここ数年[アンテナ](http://d.hatena.ne.jp/keyword/%a5%a2%a5%f3%a5%c6%a5%ca)張ってなかったからさ。もー[平和ボケ](http://d.hatena.ne.jp/keyword/%ca%bf%cf%c2%a5%dc%a5%b1)寸前だよな」
+
+「…[平和ボケ](http://d.hatena.ne.jp/keyword/%ca%bf%cf%c2%a5%dc%a5%b1)したかった[人間](http://d.hatena.ne.jp/keyword/%bf%cd%b4%d6)まで駆り出さなきゃいけないぐらい、事態を進行させた僕の責任さ。頼む、力を貸してくれ」
+
+「別に構わないけど、ひとつ」
+
+「…なんだい？壺の代金は請求するなって？」
+
+「いや二つだ。壺の代金は無かった事に、あとガキ共の世話役手配してくれ」
+
+「子供達の世話なら適任がいるよ…彼女達ならたとえ海の底から空の果てまで飛んでいって喜んで君を手伝ってくれるよ。でも壺代はちょっと」
+
+「てめえ人をわざわざ呼び出しておいてまたわけのわかんねぇ二束三文のてめえのコレクションをさんざん見せびらかしたあげく修理代まで請求しやがって２発目行くぞコラ」
+
+「あっあっあっちょっと待」
+
+### [■](/firestorm/20060501/1146428831) [[にせもん](/firestorm/?word=%2a%5b%e3%81%ab%e3%81%9b%e3%82%82%e3%82%93%5d)][[チラシの裏](/firestorm/?word=%2a%5b%e3%83%81%e3%83%a9%e3%82%b7%e3%81%ae%e8%a3%8f%5d)][[めも](/firestorm/?word=%2a%5b%e3%82%81%e3%82%82%5d)] 05:27 [![このエントリーを含むブックマーク](/images/b_entry_lb.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/firestorm/20060501/1146428831)
+
+> 親愛なる我が妹 エルスティアへ
+> 
+> 口に出して読んではならない。他の者に読ませてはならない。読んだ後は必ず焼くなどして残さないこと。
+> 
+>   * 君に危険が迫っている。[【竜】](/keyword/%e3%80%90%e7%ab%9c%e3%80%91)に気をつけろ。
+>   * 奴らは[【竜】](/keyword/%e3%80%90%e7%ab%9c%e3%80%91)と呼ばれているが、我々の知る『竜』とは別の存在だ。
+>   * もし万が一、最後の手段として逃げるのなら、地の奥深くに『扉』を探せ。
+>   * 『扉』を開く方法を知るのは、おそらく「根無し草」族長トクラシュの末娘だ。「[草の民](/keyword/%e8%8d%89%e3%81%ae%e6%b0%91)」と呼ばれる[人間](http://d.hatena.ne.jp/keyword/%bf%cd%b4%d6)達の中に紛れて暮らしているが、会えば君なら分かるはずだ。
+>   * 私の事は心配いらない。狩りは順調だ。
+>   * 時間がない、とにかくトクラシュ翁に会え。
+> 
+  
+> 
+> 
+> 君にまた会える事を願う ウェレストより
+
+[[コメントを書く](/firestorm/comment?date=20060501#c)]
+
+トラックバック - http://flicker.g.hatena.ne.jp/firestorm/20060501
+
+
+
+
+## [2006-04-30](/firestorm/20060430)
+
+![firestorm2006-04-30](/images/group/flicker/diary/firestorm/20060430.png)
+
+### [■](/firestorm/20060430/1146336930) [[チラシの裏](/firestorm/?word=%2a%5b%e3%83%81%e3%83%a9%e3%82%b7%e3%81%ae%e8%a3%8f%5d)] 03:55 [![このエントリーを含むブックマーク](/images/b_entry_lb.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/firestorm/20060430/1146336930)
+
+「あんね、[ぶっちゃけ](http://d.hatena.ne.jp/keyword/%a4%d6%a4%c3%a4%c1%a4%e3%a4%b1)さー」
+
+「なあにー？」
+
+「そこまでこねこねして深読み好きな人まで想定するプ[レイヤ](http://d.hatena.ne.jp/keyword/%a5%ec%a5%a4%a5%e4)広げなくていーと思うんだよね、マイナー中のマイナーな[神話](http://d.hatena.ne.jp/keyword/%bf%c0%cf%c3)[ネタ](http://d.hatena.ne.jp/keyword/%a5%cd%a5%bf)だし。」
+
+「そーかなぁ…いや、やっぱり[元ネタ](http://d.hatena.ne.jp/keyword/%b8%b5%a5%cd%a5%bf)に忠実じゃないと」
+
+「ってそういうことやってるからプ[レイヤ](http://d.hatena.ne.jp/keyword/%a5%ec%a5%a4%a5%e4)が引くわけよ。だからさ、極端な話、槍を武器にする仲間の男の子の名前が[アルセス](/keyword/%e3%82%a2%e3%83%ab%e3%82%bb%e3%82%b9)だとか[古代](http://d.hatena.ne.jp/keyword/%b8%c5%c2%e5)[図書館](http://d.hatena.ne.jp/keyword/%bf%de%bd%f1%b4%db)の[司書](http://d.hatena.ne.jp/keyword/%bb%ca%bd%f1)の名前が[エル・ア・フィリス](/keyword/%e3%82%a8%e3%83%ab%e3%83%bb%e3%82%a2%e3%83%bb%e3%83%95%e3%82%a3%e3%83%aa%e3%82%b9)だとかそういうレベルでいいんだって」
+
+「うわあ！なにその」
+
+「あとあれだ[ツンデレ](http://d.hatena.ne.jp/keyword/%a5%c4%a5%f3%a5%c7%a5%ec)通り越して二重[人格](http://d.hatena.ne.jp/keyword/%bf%cd%b3%ca)[スレスレ](http://d.hatena.ne.jp/keyword/%a5%b9%a5%ec%a5%b9%a5%ec)の[ヒロイン](http://d.hatena.ne.jp/keyword/%a5%d2%a5%ed%a5%a4%a5%f3)の名前が[レストロオセ](/keyword/%e3%83%ac%e3%82%b9%e3%83%88%e3%83%ad%e3%82%aa%e3%82%bb)とかさー」
+
+「うわああああああああああ」
+
+「うははｗなんか面白くなってきた！ｗ」
+
+「罰当たり寸前っすよそれっ」
+
+「あと何にしよっかな～（けんさくちぅ）」
+
+「せめて捻ろうよ、こう、なんていうかばれない程度に！」
+
+「いやバレバレなのが面白いんだよっ。あと亡霊・[アンデッド](http://d.hatena.ne.jp/keyword/%a5%a2%a5%f3%a5%c7%a5%c3%a5%c9)[タイ](http://d.hatena.ne.jp/keyword/%a5%bf%a5%a4)プの[モンスター](http://d.hatena.ne.jp/keyword/%a5%e2%a5%f3%a5%b9%a5%bf%a1%bc)の名前に[モフティ](/keyword/%e3%83%a2%e3%83%95%e3%83%86%e3%82%a3)とかどうだ」
+
+「な、なんだっけそれ」
+
+「んとねーこのあたりに[ｋｗｓｋ](http://d.hatena.ne.jp/keyword/%a3%eb%a3%f7%a3%f3%a3%eb)書いてあるおー」
+
+「…ああ、なるへ・・・面白いかも！」
+
+「だろｗｗｗｗｗｗ」
+
+「[クオリティ](http://d.hatena.ne.jp/keyword/%a5%af%a5%aa%a5%ea%a5%c6%a5%a3)ﾀｶｽｸﾘﾆｯｸｗｗｗｗｗｗｗｗ」
+
+[[コメントを書く](/firestorm/comment?date=20060430#c)]
+
+# TimeTide 『クオリティﾀｶｽｸﾘﾆｯｸｗｗｗｗｗｗｗｗ』
+
+トラックバック - http://flicker.g.hatena.ne.jp/firestorm/20060430
+
+
+
+
+カレンダー
+
+[<<](/firestorm/200605 "200605") | [2006/06](/firestorm/200606) | [>>](/firestorm/200607 "200607")  
+---|---|---  
+日 | 月 | 火 | 水 | 木 | 金 | 土  
+|  |  |  | 1 | 2 | 3  
+4 | 5 | 6 | [7](/firestorm/20060607 "7") | 8 | 9 | 10  
+11 | 12 | 13 | 14 | 15 | 16 | 17  
+18 | 19 | 20 | 21 | 22 | 23 | 24  
+25 | 26 | 27 | 28 | 29 | 30 |   
+  
+カテゴリー
+
+  * [チラシの裏](/firestorm/?word=%2a%5b%e3%83%81%e3%83%a9%e3%82%b7%e3%81%ae%e8%a3%8f%5d)
+  * [めも](/firestorm/?word=%2a%5b%e3%82%81%e3%82%82%5d)
+  * [寝言ポエム](/firestorm/?word=%2a%5b%e5%af%9d%e8%a8%80%e3%83%9d%e3%82%a8%e3%83%a0%5d)
+  * [にせもん](/firestorm/?word=%2a%5b%e3%81%ab%e3%81%9b%e3%82%82%e3%82%93%5d)
+  * [こねこね](/firestorm/?word=%2a%5b%e3%81%93%e3%81%ad%e3%81%93%e3%81%ad%5d)
+
+
+
+最近のコメント
+
+  * [2006-04-30](/firestorm/20060430#c) TimeTide
+  * [2006-04-27](/firestorm/20060427#c) deillumination
+
+
+
+最近のトラックバック
+
+
+
+
+[最新日記一覧](/diarylist)
+
+  * [幻想文学講義旧校舎](/Niv-Mizzet/)
+  * [相対引用フリッカー](/hakuma/)
+  * [我がとうそう](/runa_way/)
+  * [烏兎紀](/TimeTide/)
+  * [オルザウン・ノート](/Erlkonig/)
+  * [The Tangram of the Myth](/deillumination/)
+  * [これはだいぶにせものです](/firestorm/)
+  * [流星ドライブ](/bigi_mixi/)
+  * [夜明けの紀](/yoakero/)
+  * [雲上神話](/sinden/)
+
+
+
+カウンター
+
+919
+
+リンク集
+
+  * [有給の風邪伝説。](http://d.hatena.ne.jp/firestorm/)
+  * [これはにせものです](http://thefake.g.hatena.ne.jp/firestorm/)
+
+

@@ -1,0 +1,1 @@
+汎用スレッド http://flicker.g.hatena.ne.jp/bbs/1  Re:Re:自己トラバ http://flicker.g.hatena.ne.jp/bbs/1/9  返事遅れてごめんなさい。 えーと、はてな内のURLにリンクを貼ると、自動トラックバックが発生するのは仕様ですけれど、それのことでしょうか？ 違います。 例えばhttp://flicker.g.hatena.ne.jp/TimeTide/comment?date=20061017#cを見てください。何もURLを貼っていないにも関わらず、この記事からこの記事に対してトラックバックが発生しています。 具体的な実害は大きくないですが気持ち悪いので。 runa_way 2006-10-24T22:20:44+09:00

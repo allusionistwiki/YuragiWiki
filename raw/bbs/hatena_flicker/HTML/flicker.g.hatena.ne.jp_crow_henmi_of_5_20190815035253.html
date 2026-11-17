@@ -1,0 +1,809 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:og="http://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="google-site-verification" content="ttlVZ7HNF1e932JTCUzcuLsfU6KD0KgcNQJMDKFquYw" />
+
+<title>脚のないはてなガラス（BoB flicker side） - ゆらぎの神話　ポータル</title>
+
+<link rel="stylesheet" href="/diary_css/base.css" type="text/css" media="all" charset="euc-jp">
+
+
+<link rel="stylesheet" href="/theme/hatena-darkgray/hatena-darkgray.css" type="text/css" media="all" charset="euc-jp">
+
+
+
+  
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://flicker.g.hatena.ne.jp/crow_henmi/rss2">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://flicker.g.hatena.ne.jp/crow_henmi/rss">
+<link rel="search" type="application/opensearchdescription+xml" href="http://flicker.g.hatena.ne.jp/crow_henmi/opensearch/diary.xml" title="脚のないはてなガラス（BoB flicker side）内日記検索" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://flicker.g.hatena.ne.jp/crow_henmi/opensearch/archive.xml" title="脚のないはてなガラス（BoB flicker side）内一覧検索" />
+
+
+
+
+<link rel="start" href="./" title="脚のないはてなガラス（BoB flicker side）">
+<link rel="help" href="http://g.hatena.ne.jp/help" title="ヘルプ">
+<link rel="prev" href="/crow_henmi/?of=10" title="前の5日分">
+<link rel="next" href="/crow_henmi/?of=0" title="次の5日分">
+
+
+
+
+<link rel="shortcut icon" href="/images/group/flicker/favicon.ico">
+
+
+
+
+<style type="text/css">
+<!-- 
+-->
+</style>
+
+
+
+  <script type="text/javascript" src="//s.hatena.ne.jp/js/HatenaStar.js"></script>
+  <script type="text/javascript">
+  Hatena.Author  = new Hatena.User('crow_henmi');
+  
+  </script>
+
+
+
+
+
+
+
+<meta property="og:type" content="blog">
+<meta property="og:title" content="脚のないはてなガラス（BoB flicker side）">
+<meta property="og:image" content="http://www.st-hatena.com/users/cr/crow_henmi/user_p.gif?">
+<meta property="og:url" content="http://flicker.g.hatena.ne.jp/crow_henmi/">
+<meta property="og:description" content="飯を食い、やがて死ぬ程度の能力">
+<meta property="og:site_name" content="ゆらぎの神話　ポータル">
+
+
+<script type="text/javascript">if(/[\x3c\x3e]/.test(location.hash))location.hash=location.hash.replace(/[\x3c\x3e]/g,'');if(/[\x3c\x3e]/.test(document.referrer))location.href=location.href;</script>  
+
+
+
+<!--
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<rdf:Description rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/">
+   <foaf:maker rdf:parseType="Resource">
+     <foaf:holdsAccount>
+       <foaf:OnlineAccount foaf:accountName="crow_henmi">
+         <foaf:accountServiceHomepage rdf:resource="http://www.hatena.ne.jp/" />
+       </foaf:OnlineAccount>
+     </foaf:holdsAccount>
+   </foaf:maker>
+</rdf:Description>
+</rdf:RDF>
+-->
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1"
+  dc:title="[紀述][組織]赤槍騎士団のパラドックス問題について"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2"
+  dc:title="[雑記]もにょ"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1"
+  dc:title="[TCG][物語]百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1"
+  dc:title="[TCG][物語]野試合リハーサルプレストーリー"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1"
+  dc:title="[TCG][人物]百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版）"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1"
+  dc:title="[紀述][組織][歴史]【会社】と【長椅子】の興亡史"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1" />
+</rdf:RDF>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2"
+  trackback:ping="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2"
+  dc:title="[TCG][人物]ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団"
+  dc:identifier="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2" />
+</rdf:RDF>
+-->
+
+<script type="text/javascript" src="/js/MochiKit/1125/Base.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Iter.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/DOM.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Style.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Signal.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Async.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Logging.js"></script>
+<script type="text/javascript" src="/js/BookmarkCommentViewer.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/js/embed_movie_player.js"></script>
+
+<link rel="microsummary" href="/microsummary/entry_title.xml">
+
+
+<script type="text/javascript">
+
+Hatena.Star.SiteConfig = {
+  entryNodes: {
+    'div.section': {
+      uri: 'h3 a',
+      title: 'h3',
+      container: 'h3'
+    }
+  }
+};
+
+</script>
+
+<script type="text/javascript" src="//d.hatena.ne.jp/js/quick_pager.js" charset="euc-jp"></script>
+
+
+
+</head>
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KF5JFN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KF5JFN');</script>
+<!-- End Google Tag Manager -->
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="banner">
+  <tr>
+    <td bgcolor="#FFFFFF" nowrap>
+      <a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatena_wh.gif" width="104" height="40" alt="Hatena::"></a><a href="http://g.hatena.ne.jp/"><img border="0" src="/images/groupwh.gif" width="73" height="40" alt="Group"><img border="0" src="/images/colonwh.gif" width="12" height="40" alt="::"></a><a href="/"><img border="0" src="/images/group/flicker/flickerwh.gif" height="40" alt="flicker"></a>
+    </td>
+    <td valign="bottom" align="left" bgcolor="#FFFFFF" width="60%" nowrap><form method="GET" action="/search" style="margin: 0;"><font color="#FFFFFF" size="2">&nbsp;&nbsp;<input type="text" name="word" value="" size="18" style="font-size: 8pt">&nbsp;<input type="hidden" name="name" value="crow_henmi"><input type="image" name="diary" alt="日記" src="/images/search_diarywh.gif" align="top" style="width:34px;height:20px;border:0px;">&nbsp;<input type="image" name=".submit" alt="キーワード" src="/images/search_keywordwh.gif" align="top" style="width:56px;height:20px;border:0px;">&nbsp;<input type="image" name=".searchword" alt="検索" src="/images/searchwh.gif" align="top" style="width:34px;height:20px;border:0px;"><br><img border="0" src="/images/dot.gif" width="1" height="3" alt=""></font></form></td>
+    <td align="right" bgcolor="#FFFFFF"><a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatenawh.gif" width="82" height="40" alt="はてな"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td width="100%" bgColor="#ffffff" colspan="3">
+      <div align="center">
+        <center>
+        <table cellSpacing="0" cellPadding="2" width="100%" border="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#FFFFFF" width="50%" nowrap><font color="#999999" size="2">&nbsp;ようこそゲストさん&nbsp;</font></td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">トップ</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/crow_henmi/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">最新の日記</font></a>
+</td>
+	
+	
+	
+
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ユーザー登録</font></a>
+</td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/login?backurl=http%3A%2F%2Fflicker.g.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ログイン</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+<a href="http://g.hatena.ne.jp/help" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ヘルプ</font></a>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+<h1>
+<a href="http://flicker.g.hatena.ne.jp/crow_henmi/">脚のないはてなガラス（BoB flicker side）</a>
+
+
+ <a href="http://a.hatena.ne.jp/append?http://flicker.g.hatena.ne.jp/crow_henmi/"><img src="/images/a_append_wh.gif" title="このページをアンテナに追加" alt="このページをアンテナに追加" border="0" width="16" height="12" class="icon"></a>
+
+
+</h1>
+
+
+
+
+<div class="hatena-body">
+
+
+
+
+
+<div class="main">
+
+
+<div class="calendar" id="pager-top">
+	<a rel="prev" href="/crow_henmi/?of=10" class="prev">&lt;前の5日分</a> <span class="delimiter">|</span> <a rel="next" href="/crow_henmi/?of=0" class="next">次の5日分&gt;</a><span id="edit-in-place-add"></span>
+</div>
+<div id="days">
+
+<div class="day">
+<h2><a href="/crow_henmi/20071217"><span class="date">2007-12-17</span></a></h2>
+<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D">紀述</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%B5%84%E7%B9%94%5D">組織</a>]<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>のパラドックス問題について <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1" title="はてなブックマーク - 赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p1', event);" title="赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="赤槍騎士団のパラドックス問題について - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>が時空を超える騎士団である以上、タイム・パラドックスの問題はついて回るのだけど、これについては多世界解釈を用いることで無矛盾となります。具体的には以下のような感じ。</p>
+			<blockquote>
+			<p>A→B→C→Dと流れる時間線で、Bで生まれた<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員がC、Dで活動した後、Aで死んだら、Aで「<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員の死」Bで「<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員の誕生」C、Dで「<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員の活動」が観測できる。</p>
+			<p>「B：<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員の誕生」を阻止した場合、そこで時間線が分岐して、A'、C'、D’の時間点では、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員は存在しないが、分岐前の時間線A、C、Dでは存在し続ける。みたいな感じではないかと。</p>
+			<p><a href="http://jbbs.livedoor.jp/bbs/read.cgi/movie/7039/1182212851/475" target="_blank">http://jbbs.livedoor.jp/bbs/read.cgi/movie/7039/1182212851/475</a></p>
+			</blockquote>
+			<p>ただ、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員の生まれた時間線自体が【大長虫】による捕食その他の理由で消滅した場合、遡及効果で<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>員も消滅してしまうのですが、これについては<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%91%E3%83%B3%E3%82%B2%E3%82%AA%E3%83%B3">パンゲオン</a>宇宙のフラクタル性を利用したホログラフィック・メモリー理論を用いることで対処しようかと。つまりは、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%91%E3%83%B3%E3%82%B2%E3%82%AA%E3%83%B3">パンゲオン</a>宇宙に存在するある事象は、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%91%E3%83%B3%E3%82%B2%E3%82%AA%E3%83%B3">パンゲオン</a>宇宙全体にホログラフィックに刻印されている要素の集合が顕在化しているものであり、その一部が欠損しても、他の部分にある刻印された要素によって補完されるがゆえに、存在し続けられる、というような感じで。</p>
+			<p>なんか無限をもてあそぶと頭がおかしくなるというのが実感できる内容になりましたが、まあそんなところでいかがでしょうか。</p>
+		</div>
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2" name="p2"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E9%9B%91%E8%A8%98%5D">雑記</a>]もにょ <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="もにょ - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="もにょ - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2" title="はてなブックマーク - もにょ - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - もにょ - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071217/p2', event);" title="もにょ - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="もにょ - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>の団員を募るスレ、とか立てても需要はあるのかなあ。</p>
+		</div>
+
+</div>
+
+	<div class="comment">
+		<div class="caption"><a name="c" href="/crow_henmi/comment?date=20071217#c">コメントを書く</a></div>
+
+		<div class="commentshort">
+
+			<p><span class="commentator"><a href="/homiya/" class="hatena-id-icon"><img src="//www.hatena.ne.jp/users/ho/homiya/profile_s.gif" class="hatena-id-icon" alt="homiya" title="homiya" height="16" width="16">homiya</a></span><span class="timestamp"><a name="c1197941017" href="/crow_henmi/20071217#c1197941017">2007/12/18 10:23</a></span><span class="commentbody">いっそ赤槍騎士団グループとか作ってみてはどうでしょうか</span></p>
+
+			<p><span class="commentator"><a href="/crow_henmi/" class="hatena-id-icon"><img src="//www.hatena.ne.jp/users/cr/crow_henmi/profile_s.gif" class="hatena-id-icon" alt="crow_henmi" title="crow_henmi" height="16" width="16">crow_henmi</a></span><span class="timestamp"><a name="c1197984363" href="/crow_henmi/20071217#c1197984363">2007/12/18 22:26</a></span><span class="commentbody">グループまで作るとかなり孤立した感じになりそうなのでちょっと怖いです。</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="Aira" title="Aira" height="16" width="16">Aira</span><span class="timestamp"><a name="c1329283763" href="/crow_henmi/20071217#c1329283763">2012/02/15 14:29</a></span><span class="commentbody">That's the smart thinking we could all benieft from.</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="uxwgrvdyep" title="uxwgrvdyep" height="16" width="16">uxwgrvdyep</span><span class="timestamp"><a name="c1329405846" href="/crow_henmi/20071217#c1329405846">2012/02/17 00:24</a></span><span class="commentbody">vTXGw8 , [url=http://rjdakjntejzm.com/]rjdakjntejzm[/url], [link=http://gtjbjqyjvetc.com/]gtjbjqyjvetc[/link], http://efrgjzkqdbrt.com/</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="rxmegbyt" title="rxmegbyt" height="16" width="16">rxmegbyt</span><span class="timestamp"><a name="c1329500463" href="/crow_henmi/20071217#c1329500463">2012/02/18 02:41</a></span><span class="commentbody">1cPEUm  &lt;a href="http://lzaxsxeclprz.com/"&gt;lzaxsxeclprz&lt;/a&gt;</span></p>
+
+		</div>
+
+	</div>
+
+
+</div>
+
+<div class="day">
+<h2><a href="/crow_henmi/20071215"><span class="date">2007-12-15</span></a></h2>
+<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%89%A9%E8%AA%9E%5D">物語</a>]百年迷宮の魔女アステリア・<a class="okeyword" href="http://d.hatena.ne.jp/keyword/TCG">TCG</a>バトルロワイヤルプレストーリー <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1" title="はてなブックマーク - 百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071215/p1', event);" title="百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="百年迷宮の魔女アステリア・TCGバトルロワイヤルプレストーリー - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<h4>／1</h4>
+			<p>長い名前の人間は死ね！　なんたる理不尽な根源衝動にして戦闘原理だろうか。その不条理に捕捉され、アステリアと精霊は業火の中に包まれた。</p>
+			<p>「こんなところで、こんなに理不尽に力尽きるなんて……ッ」</p>
+			<p>アステリアは業火の苦痛と、それに勝る心中の無念に身も焦がれる思いであった。</p>
+			<p>「しかたがないのです。またリセットしてやりなおせばいいだけなのです……」</p>
+			<p>精霊の応えにも力がない。それがただの気休めにもならない、さらなる苦難の延長にすぎないことを理解しているためである。</p>
+			<p>「納得いかないッ！　ここまで百年、全ての選択肢を過たず、リスクを完全に制御して、やっとたどり着いたのに、こんなランダムイベントで理不尽に巻き戻されるなんて許せないッ!!」</p>
+			<p>アステリアは崩れ行く自らの肉体を振り絞るようにして叫ぶ。</p>
+			<p>「神よッ!!　いるなら返事しろ!!　なぜこんな苦難を私に与える!!」</p>
+			<p>すでに手足は燃え尽き、身に潜めた魔力のみが上半身を守るに過ぎない。しかしそれでもアステリアは叫ぶ。</p>
+			<p>「苦難を与えるなら、勝機も与えろッ!!　不運を与えるなら、幸運も与えろッ!!」</p>
+			<p>胸も肩も焼け落ち、ただ首だけが残る体で、なお声にならない叫びを上げる。</p>
+			<p>「この世の均衡と秩序とやらを、この私に見せてみろ！　神よ！」</p>
+			<p>そしてアステリアは業火の中に灰となって崩れ落ちた。</p>
+			<h4>／2</h4>
+			<p>再びアステリアが目覚めたとき、そこはまったく身も知らぬ空間だった。無数の薬棚と実験道具、そしてグリモアが並ぶ壁。いずれ名のある魔道士の居室だろう。しかし、それは彼女の「過去」において見てきたどの風景とも異なっていた。そして――寝台に横たわる彼女を見下ろす、ふたつの人影。一方は嫣然とした微笑を浮かべる、妖艶な魔女。もう一方は、魔女に比べればまったく特徴のない――あえていえば不精さが目立つ<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9C%BC%E9%8F%A1">眼鏡</a>の女。しかし、いずれも巨大な魔力を隠そうともせず周囲に放っていた。その煌きは、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9C%BC%E9%8F%A1">眼鏡</a>の女のほうが強い。</p>
+			<p>そして、最初に口を開いたのは、その<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9C%BC%E9%8F%A1">眼鏡</a>の女だった。</p>
+			<p>「神を試すとはなんとも豪胆な娘ね。気に入ったわ」</p>
+			<p>「あなたは――いったい？」</p>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9C%BC%E9%8F%A1">眼鏡</a>の女の背負う強大な魔力の光背に気圧されながらも、かろうじてアステリアは問う。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9C%BC%E9%8F%A1">眼鏡</a>の女は何気なく応えた。</p>
+			<p>「あたしは<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%8F%E3%83%84%E3%82%A3%E3%83%92%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%B3">アハツィヒ・アイン</a>。主なる<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%B9">アルセス</a>の娘にして、森羅万象の攻め受けを司る、まあ、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%B4%80%E7%A5%9E">紀神</a>、かな？」</p>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%B4%80%E7%A5%9E">紀神</a>！　強大な力を持つ召喚士として生まれ、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>の呪いを受けて百年もの主観時間を生きてきたアステリアも、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%B4%80%E7%A5%9E">紀神</a>と遭遇するのは――ましてやそれに話しかけられるのは初めての経験だった。主神<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%B9">アルセス</a>や戦神セルラ＝テリスには及ばないマイナーな神格とはいえ、目前に居るのはまぎれもない神の眷属。アステリアは畏怖し、驚愕し、言葉を失った。</p>
+			<p>「アハツィヒ様。少し驚かせてしまったようですわ」</p>
+			<p>魔女がアハツィヒに向かって云った。アハツィヒは頭をぽりぽりと掻きながら、魔女に向かって応える。</p>
+			<p>「あー。なんか最近付き合ってる人間はみんな不感症だから、神とか云っても冗談くらいにしか思わないんだよね。だからうっかり云っちゃった。この世界線では一応あたしでも権威らしきものがあるんだって忘れてたわ」</p>
+			<p>確かに、全く神らしくない。威厳というものがかけらもない。ただの、そこらにいる地味でがさつな女にしか見えない。むしろ、魔女のほうがよほど「それらしさ」を備えているだろう。ようやく驚愕から立ち直りつつあったアステリアがそこまで考えたところで、アハツィヒは彼女に向き直った。</p>
+			<p>「で、あんたがあたしを試すようなことを云ったから、気まぐれで拾い上げてあげたんだけど、よけいなお世話だったかしら？」</p>
+			<p>「――拾い上げた？」</p>
+			<p>まだ完全に思考能力が戻っていないアステリアは、そう鸚鵡返しに問い返すのみだ。</p>
+			<p>「そう。あんたが<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>の《ゲーム》でバッドエンドを迎えて、巻き戻しに入るところに介入して、この時間線に拾い上げたってこと。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E6%98%9F%E8%A6%8B%E3%81%AE%E5%A1%94">星見の塔</a>トーナメントの直前にね」</p>
+			<p>「まあ、実際に拾い上げたのは私なのですけどね。アハツィヒ様自体は時空構造線に干渉できないのですから」</p>
+			<p>アハツィヒと魔女が云うその内容を咀嚼して、アステリアはようやく自分が「リセット」の窮地を脱したことを知った。強烈な安堵と感謝の念が沸き起こる。それを見て取ったアハツィヒは、一転して厳しい表情でアステリアに告げた。</p>
+			<p>「おっと。ありがとうとか云われる筋合いはないからね。あんたが神を試したように、神もあんたを試す権利がある」</p>
+			<p>「――それは、一体？」</p>
+			<p>恐れと疑惑を覚えつつ、アステリアは問う。</p>
+			<p>「あんたは<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E6%98%9F%E8%A6%8B%E3%81%AE%E5%A1%94">星見の塔</a>トーナメントに行って、もう一度あの<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>の閉鎖空間で戦うんだ。そして、それを勝ち抜いて来い。それができなきゃ、あんたはそのまま《ゲーム》の虜。いつまでもぐるぐる回っているがいいさ。でも、もし勝ち抜いたら――」</p>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>と交渉して《ゲーム》を終わらせてやる。神の権威と公正を、身を持って知らしめてやる。アハツィヒは確かにそう云った。</p>
+			<p>「やります！　やらせてください！」</p>
+			<p>余りにも魅力的な条件だった。アステリアは身も蓋もなくそれに飛びついた。アハツィヒは苦笑いを浮かべると、アステリアに云った。</p>
+			<p>「現金なもんだ。だけど今のあんたじゃ、何度やっても勝機はない。勝機をよこせといったね？　くれてやるとも――システィーナ、例のものは用意できてる？」</p>
+			<p>システィーナと呼ばれた魔女はアハツィヒに応えた。</p>
+			<p>「勿論です――ではアステリア。貴方に問うけど、これは一度交わしたら消えることのない契約。いえ、むしろ呪詛というべきもの。これを交わしたら、貴方はふたたび元の貴方に戻ることはない。貴方の振るう力は全て赤き血に塗れ、貴方が契約を交わした精霊もまた血に飢えたそれとなる。血塗られた殺戮の魔女。それが貴方の宿命となるのだけど――それでもいいかしら？」</p>
+			<p>システィーナの問いは酷く重いものだったが、アステリアにとってはそれすらも《ゲーム》の呪縛よりはるかに軽かった。</p>
+			<p>「ええ。それで勝機が得られるのならば、たとえ悪魔にでも魂を売ってみせる」</p>
+			<p>「それこそ神を試したものにふさわしい態度よ。嘉するべきね」</p>
+			<p>システィーナは微笑みを浮かべたまま、アステリアの胸元に指を這わせた。じっとしているように、と告げると、その赤い爪先を、アステリアの胸に沈み込ませていく。たちまち血が溢れ、薄絹を濡らし、寝台へと滴り落ちていく。不思議と痛みはない。ただ、爪が胸の奥深くに沈み込んでいくと共に、そこから熱い塊が生まれ、全身へと広がっていく感覚を覚えた。</p>
+			<p>「森羅万象の攻め受けを司る<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%B4%80%E7%A5%9E">紀神</a><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%8F%E3%83%84%E3%82%A3%E3%83%92%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%B3">アハツィヒ・アイン</a>が命により、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E8%B5%A4%E6%A7%8D%E9%A8%8E%E5%A3%AB%E5%9B%A3">赤槍騎士団</a>が2位、赤き月の眷属、赤き爪のシスティーナの名において、時迷宮の魔女アステリアとの契約を締結す。この赤き爪宿りし者に、我等が真祖の恩寵を与えん。真祖の恩寵は赤き月の恩寵。真祖の恩寵は赤き血肉の恩寵。その魂と血肉の全てに、我等が真祖の真紅の恩寵を与えん――」</p>
+			<p>システィーナの詠唱と共に、意識が書き換えられていく。莫大な量の定言命令と論理式がなだれ込む。魂の初期化。魂の座に位置する根源衝動の書き換えと、それによる存在定義の更新。システィーナの恩寵が、アステリアを侵食していく。それは殺戮本能。敵の血肉を喰らい、啜り、自らの血肉とせんとする赤い狂気。そのおぞましさにアステリアは悲鳴を上げようとした。だが、声を出すことすらままならぬ。既に全身に及んだ契約の力が、彼女を縛り、支配しているのだ。視界が真紅に染まる。理性が獣性に駆逐される。そして、自らの意識が途切れようとする瞬間、アステリアは獣の咆哮を聞いた。それが自らの喉から出ているものだと意識することなく――。</p>
+			<p>やがて再び眼を覚ましたとき、全ては終わっていた。あれだけ溢れた血の跡は欠片も残っておらず、システィーナがアステリアを覗き込んでいる。</p>
+			<p>「どうかしら、我等が赤き月の一族として生まれ変わった気分は？」</p>
+			<p>視界は赤く染まっていた。全身が熱く煮えたぎっていた。血に飢えた獣の殺戮衝動が胸中で荒れ狂っていた。それを押さえ込むのに精一杯で、アステリアは声を発することすらできなかった。その様を見て、システィーナは会心の笑みを浮かべた。</p>
+			<p>「その調子なら大丈夫よ。貴方は貴方の自由意志で力を使える。獣を押さえ込むことができる。だけど――」</p>
+			<p>貴方は一生、その獣と共にあり続けるのよ、と、システィーナは云った。その口元には、鋭い牙が光っていた。</p>
+			<h4>／3</h4>
+			<p>「で、なんであの子に与えた力が<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%AC">アレ</a>なわけ？」</p>
+			<p>アハツィヒはシスティーナに問う。システィーナがアステリアに与えた力は、確かに強いが、絶対的といえるほどではない。手練の戦士<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E7%9B%B8%E6%89%8B">相手</a>には通用しないだろう。彼女はそう読んでいた。</p>
+			<p>システィーナは嫣然と応える。</p>
+			<p>「局面の攻め受けを変換したいという貴方の願いに応えたまでですよ。それ以上でも、それ以下でもありません」</p>
+			<p>アハツィヒは眉をわずかにひそめた。</p>
+			<p>「――なるほどね。別にあの子が勝ち抜かなくてもいい、そう考えているわけだ」</p>
+			<p>この魔女め。つくづく根性が捻じ曲がっている、と、アハツィヒは思う。あの哀れな娘を更なる試練に突き落とし、もてあそぶことにしか興味がない。不快さが募る。その顔色を窺ってか、システィーナは怪訝そうにした。</p>
+			<p>「意外です。貴方こそ、局面の攻め受け以外に興味はないと思っていたのですが」</p>
+			<p>「ああ――そうね。だからこそ、気に入らないんだけど」</p>
+			<p>アハツィヒの求める攻め受けの調和とは、万物が攻めでありながら同時に受けでもありうる構図。陰陽両儀から発し四象を生じて八卦に至る壮大な攻防一体の曼荼羅。その鬩ぎあいの中に宇宙は常に生成消滅し、安定してあり続ける。であるからこそ、過大に「受け」を背負わされ、それゆえに魂からの叫びを上げたあの娘に、それに応じた、強い「攻め」の機を与えたかったのだ。だというのに、この魔女は。</p>
+			<p>「――では、私を罰しますか？　私は主神<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%B9">アルセス</a>の忠実な僕。その娘である貴方にも逆らうつもりはありません」</p>
+			<p>システィーナはしおらしく問うた。しかし、その唇には笑みが浮かんでいる。慇懃無礼な態度に苛立って、アハツィヒは刺々しく応えた。</p>
+			<p>「父<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%B9">アルセス</a>の忠実な僕に私が罰を下す？　それこそありえない。魔道士が言葉をもてあそぶものではないわ」</p>
+			<p>それに、アハツィヒは「賞罰を与えるもの」ではない。あくまで「攻め受けを司るもの」にすぎない。システィーナの台詞は、それを読みきってのものだ。そして、その駆け引きを――策謀と呪詛をこととし、獣性をもてあそぶこの女の性質を厭わしく思いながらも、アステリアへの救いの手として彼女を選んだのはアハツィヒ自身だというのも、また事実だった。だから彼女は溜息交じりに呟く。</p>
+			<p>「まあ、いいさ。少なくとも、アステリアは機会を手に入れた。あんたの介入によって。それをどう用いるかは、彼女次第だろうね」</p>
+			<p>「――無事に勝ち抜くといいですわね」</p>
+			<p>システィーナはくすくすと笑う。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E6%B0%B8%E5%8A%AB%E7%B7%9A">永劫線</a>を渡り、見通す術を手にしたこの魔女には、次なる戦いの経緯すら見えているのだろう。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%80%90%E7%B4%80%E3%80%91">【紀】</a>性を持つがゆえに、全ての可能性を見る反面、ひとつの線的時間軸内での経緯を見ることは、アハツィヒには不可能だ。しかし魔女にはそれができる。彼女の【眼】――そこにはどのような結末が写っているのか。問おうとして、アハツィヒは止まった。そこまで関わることではない。所詮は気まぐれに過ぎないのなら、自分もこの魔女のようにあればいいのだ。いいはずなのだ。</p>
+			<p>だが――数多の世界線で人間に触れすぎたアハツィヒには、そこまで割り切ることはできそうになかった。</p>
+		</div>
+
+</div>
+
+	<div class="comment">
+		<div class="caption"><a name="c" href="/crow_henmi/comment?date=20071215#c">コメントを書く</a></div>
+
+		<div class="commentshort">
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="Julianir" title="Julianir" height="16" width="16">Julianir</span><span class="timestamp"><a name="c1344935215" href="/crow_henmi/20071215#c1344935215">2012/08/14 18:06</a></span><span class="commentbody">Please teach the rest of these internet hooligans how to write and resacerh!</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="apqvdyat" title="apqvdyat" height="16" width="16">apqvdyat</span><span class="timestamp"><a name="c1344957223" href="/crow_henmi/20071215#c1344957223">2012/08/15 00:13</a></span><span class="commentbody">atp3fu  &lt;a href="http://jcrnzloggzmm.com/"&gt;jcrnzloggzmm&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="fzghxtomriw" title="fzghxtomriw" height="16" width="16">fzghxtomriw</span><span class="timestamp"><a name="c1345093633" href="/crow_henmi/20071215#c1345093633">2012/08/16 14:07</a></span><span class="commentbody">bIjgYz  &lt;a href="http://wrlgzpzqntnq.com/"&gt;wrlgzpzqntnq&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="oqgjanokvb" title="oqgjanokvb" height="16" width="16">oqgjanokvb</span><span class="timestamp"><a name="c1345139264" href="/crow_henmi/20071215#c1345139264">2012/08/17 02:47</a></span><span class="commentbody">6cRLGK , [url=http://hetzotqqiwxh.com/]hetzotqqiwxh[/url], [link=http://aoqhoppdqkyv.com/]aoqhoppdqkyv[/link], http://dbpzrtoasavs.com/</span></p>
+
+		</div>
+
+	</div>
+
+
+</div>
+
+<div class="day">
+<h2><a href="/crow_henmi/20071214"><span class="date">2007-12-14</span></a></h2>
+<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%89%A9%E8%AA%9E%5D">物語</a>]野試合リハーサルプレストーリー <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1" title="はてなブックマーク - 野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071214/p1', event);" title="野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="野試合リハーサルプレストーリー - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<p>怒号、罵声、振るわれる拳と剣。混沌と暴力の巷と化した観客席の中を潜り抜け、一散に駆け抜けるひとりの少女がいる。小さな身体に見合わぬ大きな呪具を身に纏い、巫女の徴である文身を半ば顕にしたあられない格好で走る姿は、年若き召喚士のそれだ。</p>
+			<p>走る彼女の耳元で、精霊がささやく。</p>
+			<p>「あうあう、このままだとまたバッドエンドなのです」</p>
+			<p>「判っているわ。だからできるだけ遠く離れないと。こんな分岐点でもない場所で野垂れ死にするのはごめんよ」</p>
+			<p>応える少女の口調に年相応の稚さはなく、どこかすさんだ雰囲気を漂わせている。</p>
+			<p>「これもあの魔女の仕業なのでしょうか？」</p>
+			<p>「いや、これは偶発的なもの。あの魔女ならこんなつまらないイベントを仕込んだりしない――」</p>
+			<p>精霊の問いに少女が応えた瞬間。</p>
+			<p>観客席に激震が走ると共に、一帯がまぶしい光に覆われた。</p>
+			<p>「――い、いったい何が!?」</p>
+			<p>「あうあうあうあう!!」</p>
+			<p>少女と精霊はなすすべもなくその中へと巻き込まれていく。やがてそれらが収まった後、ふたりは自分たちがまったく身も知らぬ空間に浮かんでいることに気づいた。柔らかい光に包まれた、巨大な伽藍状の空間。そのあちこちに、先ほどまで騒いでいた観客たちの姿が見える。</p>
+			<p>「あうあう……どうやらここは閉鎖空間のようなのです」</p>
+			<p>周囲に注意を払っていた精霊が結論を出した。少女は眉をひそめ、辺りを窺う。</p>
+			<p>「――<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>の悪戯ね。あいつ、今度は何を企んでるのかしら」</p>
+			<p>そうつぶやいた瞬間、全くの死角から声がした。</p>
+			<p>「企んでるとは人聞きが悪いわねぇ」</p>
+			<p>少女が振り向くと、そこには<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%AD%E3%83%A5%E3%83%88%E3%82%B9%E3%81%AE%E9%AD%94%E5%A5%B3">キュトスの魔女</a>のひとりが、忽然と姿を現していた。</p>
+			<p>「<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>！」</p>
+			<p>少女――召喚士アステリアは<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>を睨みつける。視線で人が殺せるならば、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%AD%E3%83%A5%E3%83%88%E3%82%B9%E3%81%AE%E9%AD%94%E5%A5%B3">キュトスの魔女</a>とて唯ではすまないほどの殺気を乗せて。だが魔女はそれを悠然と受け流し、ケープのすそを引き上げて、悠然と挨拶をしてみせた。</p>
+			<p>「お久しぶりね、アステリア。貴方の主観時間では721万5百15秒ぶりかしら」</p>
+			<p>「おかげさまで、まだ元気にしてるわよ」</p>
+			<p>少女は<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>を睨みつけたまま、口元をゆがめて応える。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>はそれを受けて、楽しそうに微笑んだ。</p>
+			<p>「そうそうその調子よ。でなくちゃ私も《ゲーム》を仕掛けた甲斐がないもの――それにしても、貴方の時間軸内での軌跡はもつれ合い繰り込まれて、まるでひとつのタペストリみたい。ただの人間がここまで面白い模様を描くなんて思っても見なかった」</p>
+			<p>「――その経緯を編み出したのは貴方でしょう。私はそれと気づかず、貴方との契約にサインしてしまった。うかつだったわ」</p>
+			<p>《ゲーム》。それはアステリアが<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>に掛けられた呪い。「永遠の命」を望んだアステリアに与えられた代償。無限にループする時間の中で、最適手順を発見し、それをクリアしていかなければ抜け出せない時の迷宮。</p>
+			<p>「そうね。我ながらステキな思い付きだったわ」</p>
+			<p>ふふふ、私ってなんて芸術のセンスがあるのかしら、と、自画自賛しながら<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>は身をくねくねさせる。内心の憤怒を押し殺して、アステリアは問うた。</p>
+			<p>「そんなことはどうでもいいわ。私たちを閉鎖空間に追い込んでどうするつもりなの？」</p>
+			<p>当然のように<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>は応えた。</p>
+			<p>「もちろん、バトルロワイヤルよ。みなさん拳で決着をつけたがっていたみたいだし、せっかくだから私が舞台を用意して差し上げたわけ。あなたも付き合ってもらうわよ」</p>
+			<p>「なんでそんなことに付き合わなきゃならないのよ！」</p>
+			<p>アステリアの憤怒が噴き出す。自分には《ゲーム》という絶対課題があるのだ。こんなランダムイベントで足止めを喰らっている暇はない。そう主張しようとした矢先、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>が思わせぶりに吐いた一言が、アステリアを沈黙させた。</p>
+			<p>「これが《ゲーム》のイベントだとしても？」</p>
+			<p>「――！」</p>
+			<p>《ゲーム》。それは絶対命題。アステリアの実存を掛けた戦い。それのイベントであるならば、回避はできない。その心胆を見抜いたかのように、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>は畳み掛ける。</p>
+			<p>「勝ち抜いて御覧なさいアステリア。無事に勝ち抜けたら、今後3分岐の重要なヒントを教えてあげるわ」</p>
+			<p>「――負けたらどうなるの？」</p>
+			<p>「いつもの通りよ。巻き戻るだけ。ランダムにね。問題ないでしょう？　そこまでの分岐の最適手順は覚えているんだから」</p>
+			<p>いくばくかの沈黙。アステリアは静かに応諾した。</p>
+			<p>「――判ったわ。その話、乗ってやろうじゃないの」</p>
+			<p>それを聞いて、精霊が慌てる。</p>
+			<p>「冗談じゃないのです。このままだと勝てる見込みは万にひとつもないのです」</p>
+			<p>だがアステリアは力強く応える。</p>
+			<p>「その万にひとつも、1万回繰り返せば突破できる。わたしたちはそうするしかないのよ」</p>
+			<p>「あうあう――わかりましたなのです」</p>
+			<p>精霊はアステリアの気迫に押されて頷く。そのやりとりを見ていた<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>が、会心の笑みを浮かべていった。</p>
+			<p>「なら決まりね。せいぜい頑張ってらっしゃい。また、時のどこかで会いましょう」</p>
+			<p>そして、その笑みを最後にして、空間へと溶け込んでいく。</p>
+			<p>アステリアと精霊は互いに見つめあい、頷くと、戦いの場へと足を踏み入れていった。</p>
+		</div>
+
+</div>
+
+	<div class="comment">
+		<div class="caption"><a name="c" href="/crow_henmi/comment?date=20071214#c">コメントを書く</a></div>
+
+	</div>
+
+
+</div>
+
+<div class="day">
+<h2><a href="/crow_henmi/20071213"><span class="date">2007-12-13</span></a></h2>
+<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E4%BA%BA%E7%89%A9%5D">人物</a>]百年迷宮の魔女アステリアwith<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E5%8D%97%E6%9D%B1%E3%81%8B%E3%82%89%E3%81%AE%E8%84%85%E5%A8%81%E3%81%AE%E7%9C%B7%E5%B1%9E">南東からの脅威の眷属</a>アウアウ（野試合リハーサル版） <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1" title="はてなブックマーク - 百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071213/p1', event);" title="百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="百年迷宮の魔女アステリアwith南東からの脅威の眷属アウアウ（野試合リハーサル版） - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<h4>能力</h4>
+			<p>体力：4</p>
+			<p>神経反射：3</p>
+			<p>知力：2</p>
+			<p><a class="okeyword" href="http://d.hatena.ne.jp/keyword/HP">HP</a>：10</p>
+			<h4>スキル</h4>
+			<p>イア＝テムの呪いの剣</p>
+			<p>修復 〔レストア〕 </p>
+			<p>報復 〔アベンジャー〕</p>
+			<p>斬撃 〔スラッシュ〕</p>
+			<h4>スキルパターン</h4>
+			<p>A：剣地地</p>
+			<p>B：水地地</p>
+			<h4>プラン</h4>
+			<p>1：地パネルは必ず自分の手番になるまでは１つ残す。ただし報復を使わないと自身が死ぬ場合は用いる。</p>
+			<p>2：自分が対戦者の半数より行動順が下の場合スキルパターンをBとするが、そうでない場合Aとする。</p>
+			<h4>設定</h4>
+			<p>かつては大いなる力を持った召喚士だったが、<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%82%AD%E3%83%A5%E3%83%88%E3%82%B9%E3%81%AE%E9%AD%94%E5%A5%B3">キュトスの魔女</a><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>を召喚し「永遠の命」を望んだのが運の尽き。悪戯好きの<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%A8%E3%83%AC%E3%83%83%E3%83%86">ノエレッテ</a>に、同じ時間を繰り返し、何度死のうともそのたびに時間を遡って生きることを繰り返させられるという呪いをかけられた。しかもその繰り返しはゲームとなっており、数限りない選択肢を過たずに選び続け、ごくわずかな可能性を辿っていけば、その呪いから脱出できるらしいが、しくじればすぐに理不尽な死が待ち受けている。もちろんいまだ脱出したことはない。彼女は常に理不尽な死を遂げ、そして不毛な生を繰り返しているのだ。ゆえにその存在を知るものからは「百年迷宮の魔女」と呼ばれている。</p>
+			<p>能力は彼女が召喚した使い魔のもの。<a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E5%8D%97%E6%9D%B1%E3%81%8B%E3%82%89%E3%81%AE%E8%84%85%E5%A8%81%E3%81%AE%E7%9C%B7%E5%B1%9E">南東からの脅威の眷属</a>の一柱らしいが詳細は不明。人のようでありながら人でない、異形の姿をしている。彼女とは意思を通じ合わせることが出来るらしい。</p>
+			<h4>メモ</h4>
+			<p>過去エントリが編集できないのでこちらで更新。</p>
+		</div>
+
+</div>
+
+	<div class="comment">
+		<div class="caption"><a name="c" href="/crow_henmi/comment?date=20071213#c">コメントを書く</a></div>
+
+	</div>
+
+
+</div>
+
+<div class="day">
+<h2><a href="/crow_henmi/20071212"><span class="date">2007-12-12</span></a></h2>
+<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D">紀述</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E7%B5%84%E7%B9%94%5D">組織</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E6%AD%B4%E5%8F%B2%5D">歴史</a>]【会社】と【長椅子】の興亡史 <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1" title="はてなブックマーク - 【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p1', event);" title="【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="【会社】と【長椅子】の興亡史 - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<p>だいたい【会社】がナーナーの栽培にナーナーを使うことを思いついたときから破綻は眼に見えていたのだ。</p>
+			<p>東の盾山地ニノ川支流ロ川の流域に【会社】は勃興した。山師のなりそこないであったある男が、そこにナーナーの国内最大級の生息地を発見すると、一帯を二束三文で買い上げ、そこにいたナーナーたちを商品作物として収穫し始めたのが始まりである。野生のナーナーは労働力、食材、嗜好品などに適しており、需要はいくらでもあった。【会社】は国内におけるナーナー販売の独占勅許を得て、この利益を独占した。</p>
+			<p>当初、野生のナーナーを収穫することで利益を上げていた【会社】は、やがてナーナーをみずから栽培して計画的に出荷することを始めた。これにより、ナーナーの市場における価格を高値安定させると共に、乱獲を防いで安定的に出荷できるようにしたのだ。この過程で、ナーナーの繁殖を手助けするプランテーション労働者が多数沼地に送り込まれた。たくさんの季節労働者や奴隷たち、戦争捕虜など、雑多な種類の人間が、谷間の沼地へと流れ込んできた。</p>
+			<p>しかし、人間にとっては苛酷な環境下での長期間のプランテーション労働は利回りが悪かった。3年も沼地で働いていると、労働者の大半は根を上げてやめてしまうし、奴隷は使い物にならなくなってしまうのだ。</p>
+			<p>そこで【会社】は労働者たちに払う賃金を増やし、福利厚生を図ることで生産性の維持を図った。これにより、労働者たちは安定して暮らしていけるようになったが、利回りの低下はやむをえなかった。勅許会社としてナーナーの独占販売権を手中にしているというのに、これでは埒が明かない。</p>
+			<p>そこで、小ざかしい誰かが考えたわけだ。</p>
+			<p>「ナーナーにナーナーの世話をさせればいいじゃないか」と。</p>
+			<p>まあ、表面的には名案だった。ナーナーは従順で沼地の気候に適しており、しかも給料を払う必要がなかった。きらきら光るビーズやタイピンと引き換えに、ナーナーは黙々と働き、同胞を出荷していった。ナーナーたちがなにを思ってこのように従順な態度を取ったかは知らない。生物の本能として居留地を広げたい、というのがある。それに従ったまでかもしれない。あるいはもっと深遠な何かが。</p>
+			<p>ともあれ、これにより利回りは大いに改善された。【会社】の財政は好転し、収穫の季節にはナーナーを満載した馬車が列を成して沼地から市場へと向かった。まさに【会社】最良のときであった、といえる。</p>
+			<p>しかしおさまらないのは労働者たちであった。ナーナーに仕事を奪われた労働者たちは食い詰め、中には盗賊や流民と化すものもあった。この危機を乗り越えるため、労働者たちは組合を結成した。【長椅子】の誕生である。【長椅子】は【会社】との団交の際、集団でひとつの長椅子に座って交渉することからついたあだ名だった。彼らは自分たちに職を与えるよう、【会社】に訴えた。</p>
+			<p>しかし【会社】はいまさら労働者たちに高い給金と福利厚生を与えるつもりなどさらさらなかった。むしろ、事務職などの従来人間がやっている仕事すらナーナーに任せようとしていたのだ。ここに【会社】と【長椅子】の交渉は決裂し、長い戦いが始まった。</p>
+			<p>【会社】は勅許軍を繰り出し、沼地の各地にバリケードを築いて立てこもった労働者たちを強制排除にかかった。それに対し【長椅子】は周辺の元労働者からなる盗賊・流民までかきあつめ、沼地の複雑な水脈を利用したゲリラ戦を展開した。</p>
+			<p>ナーナーの居留地もその争いに巻き込まれたが、商品であるナーナーはどちらにとっても財源なので、けして手荒くは扱われなかった。たまに兵士として現地徴用されることもあったが、ナーナーは兵隊に向かない、という一般認識があったため、前線に狩り出されることはなかった。</p>
+			<p>【会社】と【長椅子】の消耗戦は結構長く続いた。しかし、戦いによる【会社】の収益の悪化、そして人間が暮らすに適しない気候による【長椅子】側の疲弊が積もり、次第に戦いは小規模で散発的なものになっていった。</p>
+			<p>そして、決定的な事件が起こった。ナーナー相場の暴落である。</p>
+			<p>ナーナーの先物取引市場は【会社】と【長椅子】の紛争による供給不安から高値推移していたが、そこに投機筋が介入し、ナーナーバブルを呈していた。しかし大手投機筋が「【会社】と【長椅子】の停戦があるらしい」という情報を掴み、今後の供給安定を想定した売りに走ったことから、実勢以上の相場になっていたナーナー市場は一夜にして崩壊したのだ。</p>
+			<p>これにより【会社】は息の根を止められ倒産。国内経済に混乱を招いたとして勅許も取り消され、解体された。それに伴い【長椅子】も自然消滅することとなった。</p>
+			<p>後に残ったのは、元の沼地とナーナーたちだけであった。ナーナーたちは口々にささやいた。</p>
+			<p>「人間たちはどうもさわがしくていけないねえ」「これから静かになるねえ」と。</p>
+			<p>その通り、沼地には静けさが帰ってきた。そしてナーナーたちは今も平和に暮らしている。</p>
+		</div>
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2" name="p2"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E4%BA%BA%E7%89%A9%5D">人物</a>]ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2" title="はてなブックマーク - ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071212/p2', event);" title="ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="ユージン・ムラヴィッツwithレングートフィルハーモニー管弦楽団 - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<h4>能力</h4>
+			<p>体力：3</p>
+			<p>神経反射：4</p>
+			<p>知力：2</p>
+			<p>HP：6</p>
+			<h4>スキル</h4>
+			<p>陥穽 〔スキルエンスネア〕</p>
+			<p>修復 〔レストア〕</p>
+			<p>炸撃 〔ファイアクラッカー〕</p>
+			<p>報復 〔アベンジャー〕</p>
+			<h4>スキルパターン</h4>
+			<p>A：風地水地</p>
+			<p>B：火火水地</p>
+			<h4>プラン</h4>
+			<p>1：地パネルは必ず自分の手番になるまでは１つ残す。ただし報復を使わないと自身が死ぬ場合は用いる。</p>
+			<p>2：自分が他の誰よりも先攻であった場合、プランをBとするが、誰かの後攻であった場合プランをAとする。</p>
+			<h4>設定</h4>
+			<p><a class="keyword" href="http://flicker.g.hatena.ne.jp/keyword/%E6%98%9F%E8%A6%8B%E3%81%AE%E5%A1%94">星見の塔</a>トーナメントに華を添えるため呼ばれた西方諸国最高の指揮者と交響楽団。指揮者のユージン・ムラヴィッツは音楽を神への捧げものと考え、ひとつの楽譜を徹底して読み込み何度でも納得がいくまでリハーサルを行う完璧主義者。時に完璧が過ぎて、不満足な状態での演奏をキャンセルすることすらある気難しい人物であるが、その指揮はすでに人の域を超えている、とすら云われる。彼の指揮するレングート・フィルハーモニー管弦楽団（通称レンフィル）は、彼の薫陶のもと、一糸乱れぬ演奏を行うひとつの有機的楽器と化している。トーナメント観客席で起こった騒乱と、それに続く隔離空間でのバトルロワイヤルに巻き込まれた彼らは、彼らの持てる全ての技術――すなわち音楽を通じて、この不毛な戦いを終わらせることを決意。レパートリーの中でももっとも得意とする魔曲を演奏することで、彼らの魂を鎮めんと試みるのであった。</p>
+		</div>
+
+</div>
+
+	<div class="comment">
+		<div class="caption"><a name="c" href="/crow_henmi/comment?date=20071212#c">コメントを書く</a></div>
+
+		<div class="commentshort">
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="Jiahao" title="Jiahao" height="16" width="16">Jiahao</span><span class="timestamp"><a name="c1338715915" href="/crow_henmi/20071212#c1338715915">2012/06/03 18:31</a></span><span class="commentbody">If time is money you've made me a wleatiehr woman.</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="hzgfif" title="hzgfif" height="16" width="16">hzgfif</span><span class="timestamp"><a name="c1338724500" href="/crow_henmi/20071212#c1338724500">2012/06/03 20:55</a></span><span class="commentbody">GFfbsP  &lt;a href="http://sttxxmpkvwnv.com/"&gt;sttxxmpkvwnv&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="ytaxvdmwgqm" title="ytaxvdmwgqm" height="16" width="16">ytaxvdmwgqm</span><span class="timestamp"><a name="c1338732658" href="/crow_henmi/20071212#c1338732658">2012/06/03 23:10</a></span><span class="commentbody">XM8w5S  &lt;a href="http://jtminurappmb.com/"&gt;jtminurappmb&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="drboqepsl" title="drboqepsl" height="16" width="16">drboqepsl</span><span class="timestamp"><a name="c1338740809" href="/crow_henmi/20071212#c1338740809">2012/06/04 01:26</a></span><span class="commentbody">yleAS1  &lt;a href="http://vutgtzzcbzxy.com/"&gt;vutgtzzcbzxy&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="jeajnnkmff" title="jeajnnkmff" height="16" width="16">jeajnnkmff</span><span class="timestamp"><a name="c1338748630" href="/crow_henmi/20071212#c1338748630">2012/06/04 03:37</a></span><span class="commentbody">XhzUzn  &lt;a href="http://uiirwvsebaoq.com/"&gt;uiirwvsebaoq&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="iuibpshi" title="iuibpshi" height="16" width="16">iuibpshi</span><span class="timestamp"><a name="c1338882669" href="/crow_henmi/20071212#c1338882669">2012/06/05 16:51</a></span><span class="commentbody">Zf23Zm  &lt;a href="http://ifwodeqcwixh.com/"&gt;ifwodeqcwixh&lt;/a&gt;</span></p>
+
+			<p><span class="commentator"><img src="//www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="ujxwao" title="ujxwao" height="16" width="16">ujxwao</span><span class="timestamp"><a name="c1338899458" href="/crow_henmi/20071212#c1338899458">2012/06/05 21:30</a></span><span class="commentbody">RLsbA2 , [url=http://acbktuvladwg.com/]acbktuvladwg[/url], [link=http://fjjmnfbkizmm.com/]fjjmnfbkizmm[/link], http://zviaournzjay.com/</span></p>
+
+		</div>
+
+	</div>
+
+
+</div>
+
+
+</div>
+<div class="calendar" id="pager-bottom">
+	<a rel="prev" href="/crow_henmi/?of=10" class="prev">&lt;前の5日分</a> <span class="delimiter">|</span> <a rel="next" href="/crow_henmi/?of=0" class="next">次の5日分&gt;</a>
+</div>
+</div>
+<div class="sidebar">
+	<div class="hatena-module hatena-module-searchform">
+        <div class="hatena-moduletitle">日記の検索</div>
+        <div class="hatena-modulebody">
+<form method="GET" action="/crow_henmi/" class="hatena-searchform"><input type="text" name="word" class="hatena-searchform searchform-word" value=""><input type="submit" name=".submit" value="検索" class="hatena-searchform searchform-button"></form>
+        </div>
+</div>
+
+	<div class="hatena-module hatena-module-calendar2">
+        <div class="hatena-moduletitle">カレンダー</div>
+        <div class="hatena-modulebody">
+<table class="calendar" summary="calendar">
+        <tr>
+                <td class="calendar-prev-month" colspan="2"><a href="/crow_henmi/201907" title="201907" rel="nofollow">&lt;&lt;</a></td>
+                <td class="calendar-current-month" colspan="3"><a href="/crow_henmi/archive/201908" rel="nofollow">2019/08</a></td>
+                <td class="calendar-next-month" colspan="2"><a href="/crow_henmi/201909" title="201909" rel="nofollow">&gt;&gt;</a></td>
+        </tr>
+        <tr>
+                <td class="calendar-sunday">日</td>
+                <td class="calendar-weekday">月</td>
+                <td class="calendar-weekday">火</td>
+                <td class="calendar-weekday">水</td>
+                <td class="calendar-weekday">木</td>
+                <td class="calendar-weekday">金</td>
+                <td class="calendar-saturday">土</td>
+        </tr>
+	<tr>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day">1</td>
+		<td class="calendar-day">2</td>
+		<td class="calendar-day">3</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">4</td>
+		<td class="calendar-day">5</td>
+		<td class="calendar-day">6</td>
+		<td class="calendar-day">7</td>
+		<td class="calendar-day">8</td>
+		<td class="calendar-day">9</td>
+		<td class="calendar-day">10</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">11</td>
+		<td class="calendar-day">12</td>
+		<td class="calendar-day">13</td>
+		<td class="calendar-day">14</td>
+		<td class="calendar-day">15</td>
+		<td class="calendar-day">16</td>
+		<td class="calendar-day">17</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">18</td>
+		<td class="calendar-day">19</td>
+		<td class="calendar-day">20</td>
+		<td class="calendar-day">21</td>
+		<td class="calendar-day">22</td>
+		<td class="calendar-day">23</td>
+		<td class="calendar-day">24</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">25</td>
+		<td class="calendar-day">26</td>
+		<td class="calendar-day">27</td>
+		<td class="calendar-day">28</td>
+		<td class="calendar-day">29</td>
+		<td class="calendar-day">30</td>
+		<td class="calendar-day">31</td>
+	</tr>
+</table>
+	</div>
+</div>
+
+	        <div class="hatena-module hatena-module-section">
+                <div class="hatena-moduletitle"><a href="/crow_henmi/archive">最新タイトル</a></div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-section">
+                                <li><a href="/crow_henmi/20080228/p1">[紀述]決闘企画用メモ</a></li>
+                                <li><a href="/crow_henmi/20080115/p1">[TCG]［紀述］[物語]屠殺彦を巡る冒険（外伝）――幸せな結末</a></li>
+                                <li><a href="/crow_henmi/20080110/p1">[雑記]謹賀新年</a></li>
+                                <li><a href="/crow_henmi/20080110/p2">[紀述][人物]決闘記述「ザリス伝」（お題：「それなりに頑張ったんだからもっと評価しろー！」）</a></li>
+                                <li><a href="/crow_henmi/20071224/p1">[紀述][キュトスの姉妹][物語]クリスマスのクラニス</a></li>
+                                <li><a href="/crow_henmi/20071221/p1">[TCG][人物]さすらいの吟遊詩人デュオ・砂と布巾</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	        <div class="hatena-module hatena-module-sectioncategory">
+                <div class="hatena-moduletitle">カテゴリー</div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-sectioncategory">
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D">紀述</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E3%82%AD%E3%83%A5%E3%83%88%E3%82%B9%E3%81%AE%E5%A7%89%E5%A6%B9%5D">キュトスの姉妹</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B4%80%E7%A5%9E%5D">紀神</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%9B%91%E8%A8%98%5D">雑記</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%A3%9B%E6%9D%A5%E7%A5%9E%E7%BE%A4%5D">飛来神群</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E4%BA%BA%E7%89%A9%5D">人物</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E5%93%B2%E5%AD%A6%5D">哲学</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%8D%E3%82%86%E3%82%89%5D">魔法少女きゆら</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%AD%94%E8%A1%93%5D">魔術</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E8%A8%80%E8%AA%9E%5D">言語</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B5%84%E7%B9%94%5D">組織</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E5%AE%97%E6%95%99%5D">宗教</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E3%82%86%E3%82%89%E3%81%8E%E5%AD%A6%E5%9C%92%5D">ゆらぎ学園</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E6%A9%9F%E6%A2%B0%5D">機械</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E6%AD%B4%E5%8F%B2%5D">歴史</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%89%A9%E8%AA%9E%5D">物語</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	    <div class="hatena-module hatena-module-comment">
+        <div class="hatena-moduletitle">最近のコメント</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;ctzjqtmzqxc</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;mjvejvbjo</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;snmpcigusy</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;flqwjbsqipu</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;Braman</li>
+            </ul>
+        </div>
+    </div>
+
+	    <div class="hatena-module hatena-module-trackback">
+        <div class="hatena-moduletitle">最近のトラックバック</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/Corundum/20080602#p9">深淵ランダムドア - バーニングザリス</a></li>
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/runa_way/20080110/1199969866">我がとうそう - [紀述]決闘紀述「わらわれもの...</a></li>
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/dario04/20080110/1199969087">分断されて、再度 - 決闘記述「四十四騎士ヌウ...</a></li>
+              <li><a href="/crow_henmi/20071224#tb">2007-12-24</a>&nbsp;<a href="http://twitter.g.hatena.ne.jp/keyword/%e3%83%95%e3%83%aa%e3%83%bc%e3%82%b7%e3%82%a7%e3%82%a2%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e9%83%a8?kid=305">はてなグループ - はてなグループ::ついったー...</a></li>
+              <li><a href="/crow_henmi/20071020#tb">2007-10-20</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/TimeTide/20071020/1192890196">烏兎紀 - [ミッタケ]ミッタケ創造物</a></li>
+            </ul>
+        </div>
+    </div>
+
+                <p class="recentitem"><a href="/diarylist">最近更新のページ</a></p>
+        <div class="recentsubtitles">
+                <strong>1</strong>. 2019-05-09 00:05:56<br>
+                
+                <a href="/TimeTide/">烏兎紀</a><br>
+                <strong>2</strong>. 2019-02-08 07:52:43<br>
+                
+                <a href="/hajic/">PTA概論</a><br>
+                <strong>3</strong>. 2018-07-07 19:49:16<br>
+                
+                <a href="/Erlkonig/">フリーシェ</a><br>
+                <strong>4</strong>. 2017-11-01 13:42:14<br>
+                
+                <a href="/Corundum/">深淵ランダ</a><br>
+                <strong>5</strong>. 2016-10-12 02:46:00<br>
+                
+                <a href="/hakuma/">相対引用フ</a><br>
+                <strong>6</strong>. 2016-05-11 15:19:04<br>
+                
+                <a href="/bigi_mixi/">流星ドライ</a><br>
+                <strong>7</strong>. 2015-08-26 15:46:06<br>
+                
+                <a href="/orangestar/">ゆら描き絵</a><br>
+                <strong>8</strong>. 2015-02-17 02:58:12<br>
+                
+                <a href="/amogata/">amogataの日</a><br>
+                <strong>9</strong>. 2014-12-04 00:19:50<br>
+                
+                <a href="/kashmir108/">ゆらゆら</a><br>
+                <strong>10</strong>. 2014-06-15 19:12:54<br>
+                
+                <a href="/runa_way/">我がとうそ</a><br>
+        </div>
+
+</div>
+</div>
+</body>
+</html>

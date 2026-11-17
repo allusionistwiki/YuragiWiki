@@ -1,0 +1,543 @@
+// require Ten.js, RomKan.js
+if (typeof Hatena == 'undefined')
+    Hatena = { };
+if (typeof Hatena.Diary == 'undefined')
+    Hatena.Diary = { };
+Hatena.Diary.BaseURL = location.protocol + '//' + location.hostname + '/';
+
+function diary_search_init(){
+	function $(id){ return document.getElementById(id) }
+	function A(a){
+		if (!a) a = [];
+		a.forEach = A.forEach;
+		a.map = A.map;
+		a.filter = A.filter;
+		return a;
+	}
+	A.forEach = function(callback,thisObject){
+		for(var i=0,len=this.length;i<len;i++)
+			callback.call(thisObject,this[i],i,this)
+	}
+	A.map = function(callback,thisObject){
+		for(var i=0,res=[],len=this.length;i<len;i++)
+			res[i] = callback.call(thisObject,this[i],i,this);
+		return A(res)
+	}
+	A.filter = function(callback,thisObject){
+		for(var i=0,res=[],len=this.length;i<len;i++)
+			callback.call(thisObject,this[i],i,this) && res.push(this[i]);
+		return A(res)
+	}
+
+	function roma_to_regexp(s){
+		var patterns = [s];
+		var hira;
+		if (/[a-zA-Z\-]/.test(s)) {
+			hira = RomKan.to_kana(s);
+			patterns.push(hira);
+		} else {
+			hira = s;
+		}
+		if (/[\u3041-\u3096]/.test(hira)) {
+			patterns.push(RomKan.hira_to_kata(hira))
+		}
+		var str = "(" + patterns.join("|") + ")";
+		try {
+			return new RegExp(str, "i");
+		} catch(e){
+			return new RegExp(regexp_escape(str), "i");
+		}
+	}
+
+	var regexp_escape = function(str){
+		return str.replace(/(\\|\[|\]|\(|\)|\{|\}|\^|\-|\$|\||\+|\*|\?|\.|\!)/g,"\\$1");
+	};
+
+	var tmpl = '<li class="archive archive-section">[[categories]]<a href="[[link]]">[[text]]</a></li>';
+	var tmpl_category = '[<a href="[[link]]" class="sectioncategory">[[text]]</a>]';
+	var tmpl_date = '<li class="archive archive-date"><a href="[[link]]">[[text]]</a></li>';
+
+	function extend(self, other){
+		for (var key in other) self[key] = other[key];
+		return self;
+	}
+
+	function Template(str) {
+		var self = this;
+		var tmpl = str;
+		self.stash = {};
+		var buf = [];
+
+		var builder = (function(b){
+			return function(){
+				var args = A(arguments);
+				self.stash.params = {};
+				args.forEach(function(p){
+					extend(self.stash.params, p)
+				});
+				return b.join("");
+			};
+		})(buf);
+
+		var sep = /\[\[(.*?)\]\]/g;
+		var offset = 0;
+
+		str.replace(sep, function(){
+			var a = arguments;
+			var stash = self.stash;
+			var match_text = a[0];
+			var match_idx = a[2];
+			var key = a[1].replace(/^\s+(.*?)\s+$/, "$1");
+			buf.push(tmpl.slice(offset, match_idx));
+			offset = match_idx + match_text.length;
+			var n = {};
+			if(key.charAt(0) == "#"){
+				var context = [];
+				var expr = key.match(/{(.*)}/)[1];
+				context.push("with(this.params){return(");
+				context.push(expr);
+				context.push(")}");
+				n.toString = new Function(context.join("")).bind(stash);
+			} else {
+				n.toString = function(){
+					var expr = stash.params[key];
+					var res = (expr != null) ?
+						(expr.isFunction) 
+							? "" + expr()
+							: "" + expr
+							: "";
+					return res
+				}
+			};
+			buf.push(n);
+		});
+
+		buf.push(tmpl.slice(offset));
+		return builder;
+	}
+	var formatter = new Template(tmpl);
+	var categories_formatter = new Template(tmpl_category);
+	var date_formatter = new Template(tmpl_date);
+
+	Hatena.Diary.Search = new Ten.Class ({
+		initialize: function(options){
+			var self = this;
+			try {
+				if (Hatena.Star.Entry.HatenaDiaryArchive || Hatena.Star.Entry.HatenaGroupArchive) this.use_hatenastar = true;
+			} catch(e) {
+				this.use_hatenastar =  false;
+			}
+			this.data = options.data || "";
+			this.base = options.base;
+			this.source = options.source;
+			this.max_result = options.max_result;
+			this.interval = options.interval;
+			this.starloader = null;
+			this.view_element = Ten.Selector.getElementsBySelector(options.view)[0]
+			this.input_element = options.input_element;
+			this.categories_element = A(Ten.Selector.getElementsBySelector("div.calendar a")).filter(function(a){
+				var href = a.href;
+				return (/word=%2a/.test(a.href)) && (!/of\=/.test(a.href))
+			});
+			this.categories_to_link = {};
+			this.categories_element.forEach(function(a){
+				self.categories_to_link[a.innerHTML] = a.href;
+			});
+			if (this.categories_element.length){
+				this.observe_category();
+			}
+			this.result_cache = [];
+			this.page = 0;
+			this.search_offset = 0;
+			this.total_count = null;
+			this._has_next = true;
+		},
+		loading_icon: 'http://r.hatena.ne.jp/images/load.gif'
+	},{
+		loadData: function(){
+			if (this.loaded) return;
+			var img = new Ten.Element("img", {src: Hatena.Diary.Search.loading_icon, style:{marginLeft:"5px",border:"none"}});
+			with(Ten.DOM) {
+				insertAfter(img, nextElement(this.input_element))
+			}
+			this.loading_icon = img;
+			new Ten.XHR(this.source, "", this, "_xhrload");
+			this.loaded = true;
+		},
+		searchInit: function(){
+			this.lines = this.data.split(/\r\n|\n/);
+			//console.log(this.lines.length);
+			while (this.lines[this.lines.length-1] == "") {
+				this.lines.pop();
+			}
+			if (this.query()) {
+				this.search();
+			}
+			this._has_next = (this.lines.length > this.max_result) ? true : false;
+		},
+		query: function() {
+			return this.input_element.value;
+		},
+		search: function(e){
+			// console.log(this.page, this.search_offset, this.result_cache.length);
+			if (!this.lines) return;
+			var q = this.input_element.value;
+			if ((!q || q == this.last_input) && e) {
+				switch(true) {
+					case e.isKey("left"): this.searchPrev(); return;
+					case e.isKey("right"): this.searchNext(); return;
+					default: break;
+				}
+			}
+			this.page = 0;
+			if (!q) {
+				return this.clearResult();
+			}
+			if (q == this.last_input) return;
+			this.search_offset = 0;
+			var reg = new Hatena.Diary.Search.QueryParser(q);
+			var result = this._search(this.lines, reg);
+			if(result.length) {
+				this.result_cache = result;
+				this.updateResult(reg, result);
+			}
+			this.last_input = q;
+		},
+		searchNext: function(e){
+			if (e) e.stop();
+
+			if (!this.lines) return;
+			var q = this.input_element.value;
+			if (!q) return this.next();
+			var reg = new Hatena.Diary.Search.QueryParser(q);
+			if (this.result_cache.length > (this.page+1) * this.max_result) {
+				var start = (this.page + 1) * this.max_result;
+				var result = this.result_cache.slice(start, start + this.max_result);
+				this.page++;
+				this.updateResult(reg, result);
+			} else {
+				var result = this._search(this.lines, reg);
+				if (result.length) {
+					this.page++;
+					this.result_cache = this.result_cache.concat(result);
+					this.updateResult(reg, result);
+				}
+			}
+		},
+		searchPrev: function(e){
+			if (e) e.stop();
+			if (!this.lines) return;
+			if (!this.page) return;
+			var q = this.input_element.value;
+			if (!q) return this.prev();
+			var reg = new Hatena.Diary.Search.QueryParser(q);
+			this.page--;
+			var start = this.page * this.max_result;
+			var result = this.result_cache.slice(start, start + this.max_result);
+			this._has_next = true;
+			this.updateResult(reg, result);
+		},
+		_search: function(lines, reg){
+			var result = [];
+			var hit = 0;
+			var max_result = this.max_result + 1;
+			this._has_next = false;
+			for (var i = this.search_offset; i < lines.length; i++) {
+				if (hit >= max_result){
+					this._has_next = true;
+					break;
+				}
+				if (reg.test(lines[i])) {
+					result.push(lines[i]);
+					hit++;
+				}
+			}
+			result = result.slice(0, this.max_result);
+			this.search_offset = i;
+			this.last_result = result;
+			return A(result);
+		},
+		clearResult: function(){
+			var result = this.lines.slice(0, this.max_result);
+			this.page = 0;
+			this.search_offset = 0;
+			this._has_next = (this.lines.length > this.max_result) ? true : false;
+			this.updateResult(null, result);
+		},
+		next: function(){
+			this.page++;
+			var start = this.page * this.max_result;
+			var result = this.lines.slice(start, start + this.max_result);
+			this._has_next = (start + this.max_result < this.lines.length) ? true : false;
+			if (result.length){
+				this.updateResult(null, result);
+			} else {
+				this.page--;
+			}
+		},
+		prev: function(){
+			if (!this.page) return;
+			this.page--;
+			var start = this.page * this.max_result;
+			var result = this.lines.slice(start, start + this.max_result);
+			this._has_next = true;
+			if (result.length){
+				this.updateResult(null, result);
+			}
+		},
+		hasNext: function(){
+			return this._has_next;
+		},
+		hasPrev: function(){
+			return this.page > 0;
+		},
+		updateResult: function(reg, result){
+			var start = new Date;
+			var base = this.base;
+			A(result);
+			// updated_on, path, title
+			var buf = ["<ul class='archives'>"];
+			var current_date;
+			var self = this;
+			var blank_title = "■";
+			result.forEach(function(v){
+				var obj = v.split(",");
+				if (obj.length > 3) {
+					obj[2] = obj.slice(2).join(",");
+					obj.length = 3;
+				}
+				var date_url = obj[1].slice(1, 9);
+				var ymd = date_url.match(/(\d{4})(\d{2})(\d{2})/).slice(1).join("-");
+				if (ymd != current_date) {
+					if (current_date) buf.push("</ul>");
+					buf.push(date_formatter({
+						text: ymd,
+						link: base + "/" + date_url
+					}));
+					buf.push("<ul>")
+					current_date = ymd;
+				}
+				var path = obj[1];
+				var title = obj[2] || ymd;
+				var categories = A();
+				var _limit = 10;
+				var _i = 0;
+				while(/^\s*\[([^\[\]\:]*?)\](?!\])/.test(title)){
+					title = title.replace(/^\s*\[([^\[\]\:]*?)\](?!\])/, function($0, $1){
+						categories.push({
+							text: $1,
+							link: self.categories_to_link[$1]
+						});
+						return ""
+					});
+					_i++;
+					if (_i > _limit) break;
+				}
+				// ignore hatena syntax [http://example.com:title=example]
+				title = title.replace(/\[([^\[\]]*?)\:title=([^\[\]]*?)\](?!\])/g, function($0, $1, $2){
+					return $2
+				});
+				
+				var categories_html = categories.map(categories_formatter).join("");
+				var title_html = reg ? reg.highlight(title) : title;
+				var li = formatter({
+					categories: categories_html,
+					link: base + path,
+					text: title_html.length ? title_html : blank_title
+				});
+				buf.push(li);
+			});
+			buf.push("</ul></ul>");
+			this.view_element.innerHTML = buf.join("");
+			if (this.use_hatenastar) {
+				if (this.starloader) { clearTimeout(this.starloader) }
+				this.starloader = setTimeout(Hatena.Star.EntryLoader.loadNewEntries, this.star_wait || 300);
+			}
+			this.updatePager();
+		},
+		updatePager: function(){
+			var method = (this.hasPrev()) ? "removeClassName" : "addClassName";
+			Ten.DOM[method](this.pager_prev, "disabled");
+			method = (this.hasNext()) ?  "removeClassName" : "addClassName";
+			Ten.DOM[method](this.pager_next, "disabled");
+		},
+		observe: function(){
+			new Ten.Observer(this.input_element, "onkeyup", searcher, "search");
+		},
+		observe_category: function(){
+			this.categories_element.forEach(function(el){
+				new Ten.Observer(el, "onclick", [function(e){
+					searcher.loadData();
+					searcher.input_element.value = "*[" + e.target.innerHTML + "]";
+					searcher.search();
+					e.stop();
+				}], "0");
+				new Ten.Observer(el, "onmouseover", [function(e){
+					searcher.loadData();
+				}], "0");
+			})
+		},
+		create_pager: function(){
+			var pager_style = {};
+			var prev = new Ten.Element("a",
+				{href: "#", className: "search-in-place-prev", style: pager_style},
+				"<前のページ"
+			);
+			var next = new Ten.Element("a",
+				{href: "#", className: "search-in-place-next", style: pager_style},
+				"次のページ>"
+			);
+			var pager = new Ten.Element("span", { className: "search-in-place-pager" }, prev, next);
+			new Ten.Observer(next, "onclick", searcher, "searchNext");
+			new Ten.Observer(prev, "onclick", searcher, "searchPrev");
+			with(Ten.DOM) {
+				insertAfter(pager, nextElement(this.input_element))
+			}
+			this.pager_next = next;
+			this.pager_prev = prev;
+		},
+		_xhrload: function(xhr){
+			// console.log(xhr.responseText.length);
+			this.data = xhr.responseText;
+			Ten.DOM.removeElement(this.loading_icon);
+			this.create_pager();
+			this.searchInit();
+			this.updatePager();
+		}
+	});
+
+	Hatena.Diary.Search.WordFilter = function(word) {
+		// category search
+		if (/^\*\[[^\[\:]*?\]$/.test(word)) {
+			return new RegExp(regexp_escape(word.slice(1)));
+		} else {
+			return roma_to_regexp(word)
+		}
+	};
+	
+	Hatena.Diary.Search.QueryParser = new Ten.Class({
+		initialize: function(word){
+			if (this.has_category(word)){
+				var pair = this.split_category(word);
+				var words = [pair[0]].concat(pair[1].split(/\s|\u3000/));
+			} else {
+				var words = word.split(/\s|\u3000/);
+			}
+			var self = this;
+			this.patterns = A();
+			var rule = this.constructor.default_rule;
+			for(var i=0;i < words.length; i++){
+				if(words[i]){
+					this[rule](words[i])
+				}
+			}
+			return this;
+		},
+		default_rule: "and",
+		word_filter: Hatena.Diary.Search.WordFilter
+	}, {
+		has_category: function(word){
+			return /^\*\[[^\[\:]*?\]/.test(word)
+		},
+		split_category: function(word){
+			var m = word.match(/^(\*\[[^\[\:]*?\])(.*)/);
+			return [m[1], m[2]];
+		},
+		and: function(word){
+			var reg = this.constructor.word_filter(word);
+			this.patterns.push({
+				rule: "and",
+				pattern: reg
+			});
+		},
+		or: function(word){
+			var reg = this.constructor.word_filter(word);
+			this.patterns.push({
+				rule: "or",
+				pattern: reg
+			});
+		},
+		test: function(str){
+			var matched = false;
+			for(var i=0;i < this.patterns.length; i++){
+				var p = this.patterns[i];
+				if (typeof p.pattern == "function"){
+					var m = p.pattern(str);
+				} else {
+					var m = p.pattern.test(str);
+				}
+				if (p.rule == "or" && m) return true;
+				if (p.rule == "and" && !m) return false;
+				matched = m;
+			}
+			return matched;
+		},
+		highlight: function(str){
+			var result = str;
+			this.patterns.forEach(function(p){
+				if (p.pattern.test(str)){
+					result = result.replace(p.pattern, '<$1>');
+				}
+			});
+			// <はて<な>ハイク>
+			while(/<(.*?)<(.*?)>(.*?)>/.test(result)){
+				result = result.replace(/<(.*?)<(.*?)>(.*?)>/g, "<$1$2$3>");
+			}
+			result = result.replace(/<([^<>]*)>/g, '<span class="highlight">$1</span>');
+			return result;
+		}
+	});
+
+	var id = location.pathname.match(/\/([^\/]*?)\//)[1];
+	var base = Hatena.Diary.BaseURL + id;
+
+	var input_element;
+	var inputs = $("hatena-archive").getElementsByTagName("input");
+	for(var i=0,l=inputs.length;i<l;i++){
+		if (inputs[i].name == "word") {
+			input_element = inputs[i];
+			break;
+		}
+	}
+	if(input_element) {
+		var random_string = "";
+		try {
+			// console.log(Ten.Selector.getElementsBySelector("li.archive-section:first-child a:last-child")[0].href);
+			var a = Ten.Selector.getElementsBySelector("li.archive-section:first-child a:last-child")[0].href.slice(-20).split("");
+			random_string = A(a).map(function(v){return v.charCodeAt(0)}).join("");
+		} catch(e){}
+		// var
+		searcher = new Hatena.Diary.Search({
+			base: base,
+			source: "/" + id + "/archive/plaintext?" + random_string,
+			max_result: 15,
+			interval: 100,
+			view: "div.section",
+			input_element: input_element
+		});
+		new Ten.Observer(input_element, "onfocus", searcher, "loadData");
+		searcher.observe();
+	}
+}
+
+
+if (window.Ten) {
+	new Ten.Observer(window, "onload", window, "diary_search_init");
+} else {
+	var loader = function(){
+		var s = document.createElement("script");
+		s.type = "text/javascript";
+		s.charset = "utf-8";
+		s.src = "http://d.hatena.ne.jp/js/Ten.js";
+		document.getElementsByTagName("head")[0].appendChild(s);
+		var wait = setInterval(function(){
+			if (window.Ten) {
+				clearInterval(wait);
+				diary_search_init();
+			}
+		}, 100);
+	};
+	window.addEventListener ?
+		window.addEventListener("load", loader, true) :
+		window.attachEvent("onload", loader);
+}

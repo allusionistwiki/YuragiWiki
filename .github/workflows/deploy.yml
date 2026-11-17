@@ -1,0 +1,64 @@
+name: Deploy YuragiWiki (Quartz) to GitHub Pages
+
+# ゆらぎの神話 BBS 実況 Wiki サイト（/YuragiWiki/）
+#   content/ 直下 = L1 版（units/topics/authors/chronology/nav）
+#   content/full/ = 制約なし版（原文全文 185 ページ）
+# 内容は work repo の監査済み run から publish_yuragi_site.py で同期される。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply Quartz engine patches
+        run: node scripts/apply-quartz-patches.mjs
+
+      - name: Restore node_modules cache
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: yw-npm-${{ hashFiles('package-lock.json') }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Build Quartz
+        run: npx quartz build --directory content
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

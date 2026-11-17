@@ -1,0 +1,469 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="google-site-verification" content="ttlVZ7HNF1e932JTCUzcuLsfU6KD0KgcNQJMDKFquYw" />
+
+<title>脚のないはてなガラス（BoB flicker side） - ゆらぎの神話　ポータル</title>
+
+<link rel="stylesheet" href="/diary_css/base.css" type="text/css" media="all" charset="euc-jp">
+
+
+<link rel="stylesheet" href="/theme/hatena-darkgray/hatena-darkgray.css" type="text/css" media="all" charset="euc-jp">
+
+
+
+  
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss2">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss">
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch/diary.xml" title="脚のないはてなガラス（BoB flicker side）内日記検索" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch/archive.xml" title="脚のないはてなガラス（BoB flicker side）内一覧検索" />
+
+
+
+
+<link rel="start" href="./" title="脚のないはてなガラス（BoB flicker side）">
+<link rel="help" href="http://g.hatena.ne.jp/help" title="ヘルプ">
+<link rel="prev" href="./20071209" title="前の日">
+<link rel="next" href="./20071212" title="次の日">
+
+
+
+
+<link rel="shortcut icon" href="/images/group/flicker/favicon.ico">
+
+
+
+
+<style type="text/css">
+<!-- 
+-->
+</style>
+
+
+
+  <script type="text/javascript" src="//s.hatena.ne.jp/js/HatenaStar.js"></script>
+  <script type="text/javascript">
+  Hatena.Author  = new Hatena.User('crow_henmi');
+  
+  </script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">if(/[\x3c\x3e]/.test(location.hash))location.hash=location.hash.replace(/[\x3c\x3e]/g,'');if(/[\x3c\x3e]/.test(document.referrer))location.href=location.href;</script>  
+
+
+
+<style type="text/css">
+label{
+cursor:pointer;
+}
+</style>
+
+<script type="text/javascript" src="/js/MochiKit/1125/Base.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Iter.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/DOM.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Style.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Signal.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Async.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Logging.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/DateFormat.js"></script>
+<script type="text/javascript" src="/js/BookmarkCommentViewer.js" charset="utf-8"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KF5JFN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KF5JFN');</script>
+<!-- End Google Tag Manager -->
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="banner">
+  <tr>
+    <td bgcolor="#FFFFFF" nowrap>
+      <a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatena_wh.gif" width="104" height="40" alt="Hatena::"></a><a href="http://g.hatena.ne.jp/"><img border="0" src="/images/groupwh.gif" width="73" height="40" alt="Group"><img border="0" src="/images/colonwh.gif" width="12" height="40" alt="::"></a><a href="/"><img border="0" src="/images/group/flicker/flickerwh.gif" height="40" alt="flicker"></a>
+    </td>
+    <td valign="bottom" align="left" bgcolor="#FFFFFF" width="60%" nowrap><form method="GET" action="/search" style="margin: 0;"><font color="#FFFFFF" size="2">&nbsp;&nbsp;<input value="" style="font-size: 8pt" name="word" type="text" size="18">&nbsp;<input value="crow_henmi" name="name" type="hidden"><input align="top" alt="日記" src="/images/search_diarywh.gif" style="width:34px;height:20px;border:0px;" name="diary" type="image">&nbsp;<input align="top" alt="キーワード" src="/images/search_keywordwh.gif" style="width:56px;height:20px;border:0px;" name=".submit" type="image">&nbsp;<input align="top" alt="検索" src="/images/searchwh.gif" style="width:34px;height:20px;border:0px;" name=".searchword" type="image"><br><img border="0" src="/images/dot.gif" width="1" height="3" alt=""></font></form></td>
+    <td align="right" bgcolor="#FFFFFF"><a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatenawh.gif" width="82" height="40" alt="はてな"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td width="100%" bgColor="#ffffff" colspan="3">
+      <div align="center">
+        <center>
+        <table cellSpacing="0" cellPadding="2" width="100%" border="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#FFFFFF" width="50%" nowrap><font color="#999999" size="2">&nbsp;ようこそゲストさん&nbsp;</font></td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">トップ</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/crow_henmi/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">最新の日記</font></a>
+</td>
+	
+	
+	
+
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ユーザー登録</font></a>
+</td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/login?backurl=http%3A%2F%2Fflicker.g.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ログイン</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+<a href="http://g.hatena.ne.jp/help" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ヘルプ</font></a>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+<h1>
+<a href="http://flicker.g.hatena.ne.jp/crow_henmi/">脚のないはてなガラス（BoB flicker side）</a>
+
+
+ <a href="http://a.hatena.ne.jp/append?"><img src="/images/a_append_wh.gif" title="このページをアンテナに追加" alt="このページをアンテナに追加" border="0" width="16" height="12" class="icon"></a>
+
+
+</h1>
+
+
+
+
+<div class="hatena-body">
+
+
+
+
+
+<div class="main">
+
+
+<div class="calendar" id="pager-top">
+	<a rel="prev" href="./20071209" class="prev">&lt;前の日</a>&nbsp;<span class="delimiter">|</span>&nbsp;<a rel="next" href="./20071212" class="next">次の日&gt;</a>
+</div>
+
+<div class="day">
+	<h2><a href="./20071210"><span class="date">2007-12-10</span></a></h2>
+	<div class="body">
+
+
+		<div class="section">
+			<h3><a href="http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1" name="p1"><span class="sanchor">■</span></a> [<a class="sectioncategory" href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a>][<a class="sectioncategory" href="/crow_henmi/?word=%2A%5B%E4%BA%BA%E7%89%A9%5D">人物</a>]仏型<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BD%B0%C0%B8">衆生</a>救済兵器・人造阿羅漢<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%DE%BA%DC%D1">涅槃</a>ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" alt="仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1" title="はてなブックマーク - 仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） " alt="はてなブックマーク - 仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1', event);" title="仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" alt="仏型衆生救済兵器・人造阿羅漢涅槃ゲリオン（ぶつがたしゅじょうきゅうさいへいき・じんぞうあらかんネハンゲリオン） - 脚のないはてなガラス（BoB flicker side） のブックマークコメント" width="13" height="13"></h3>
+			<h4><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C7%BD%CE%CF">能力</a></h4>
+			<p>体力：6</p>
+			<p>神経反射：2</p>
+			<p>知力：1</p>
+			<p>HP：21</p>
+			<h4><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AD%A5%EB">スキル</a></h4>
+			<p>生命吸収[ド<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%EC%A5%A4%A5%F3">レイン</a><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%E9%A5%A4%A5%D5">ライフ</a>]</p>
+			<p><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CA%F3%C9%FC">報復</a>[アベンジャー]</p>
+			<p><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CA%F3%C9%FC">報復</a>[アベンジャー]</p>
+			<h4><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AD%A5%EB">スキル</a><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%D1%A5%BF%A1%BC%A5%F3">パターン</a></h4>
+			<p>A：地地</p>
+			<h4><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%D7%A5%E9%A5%F3">プラン</a></h4>
+			<p>1：まずは妨害系<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AD%A5%EB">スキル</a>などという邪念を持つものからその邪念を取り払うため<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%AE%CA%A9">成仏</a>させる。後は<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C5%AC%C5%F6">適当</a>に<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BD%B0%C0%B8">衆生</a>救済。</p>
+			<h4>設定</h4>
+			<p><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C5%EC%CA%FD">東方</a>諸国のある<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CA%A9%B6%B5">仏教</a>系<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B0%DB%C3%BC">異端</a>宗派によって作られた巨<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C2%E7%C0%EF">大戦</a>闘<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%D0%CA%A9">石仏</a>。仏勅を受けて永くこの世に住し<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BD%B0%C0%B8">衆生</a>を済度する役割をもった16人の阿羅漢を模している。この<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%A4%B3%A6">世界</a>からあらゆる<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C8%D1%C7%BA">煩悩</a>を取り除くことで<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BD%B0%C0%B8">衆生</a>を救済する役割を帯びており、周囲の<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C8%D1%C7%BA">煩悩</a><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%A8%A5%CD%A5%EB%A5%AE%A1%BC">エネルギー</a>を吸収することで起動し、その<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C8%D1%C7%BA">煩悩</a>が全て<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CC%B8%BB%B6">霧散</a>すると停止する、といえば聞こえはいいが、<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C8%D1%C7%BA">煩悩</a><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%A8%A5%CD%A5%EB%A5%AE%A1%BC">エネルギー</a>＝生命力であるため、周囲の生命全てが死に絶えるまで動き続ける極めてはた迷惑な<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CC%B5%BA%B9%CA%CC">無差別</a><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%A6%D9%A4">殺戮</a>兵器。<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%DE%BA%DC%D1">涅槃</a>ゲリオンとは<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%DE%BA%DC%D1">涅槃</a>と<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CA%A1%B2%BB">福音</a>の合成語であり、死による平安こそ<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%CA%A1%B2%BB">福音</a>であるという設計者の<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%D7%C1%DB">思想</a>に基づく名であって、けして某<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%A2%A5%CB%A5%E1">アニメ</a>とはいやそのむにゃむにゃ。</p>
+			<h4><a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%E1%A5%E2">メモ</a></h4>
+			<p>「さすがにこれはまずいだろ」「ごめんなさい」</p>
+		</div>
+
+	</div>
+	<div class="comment">
+		<div class="caption"><a name="c">コメントを書く</a></div>
+		<div class="commentshort">
+
+
+
+
+  <p><span class="commentator"><a href="/runa_way/" class="hatena-id-icon"><img src="//www.hatena.ne.jp/users/ru/runa_way/profile_s.gif" class="hatena-id-icon" alt="runa_way" title="runa_way" height="16" width="16">runa_way</a></span>
+<span class="timestamp"><a name="c1197303198" href="/crow_henmi/20071210#c1197303198">2007/12/11 01:13</a></span>
+<span class="commentbody">古橋さんのブライトライツ・ホーリーランドが元ネタかと思いました。</span></p>
+
+  <p><span class="commentator"><a href="/crow_henmi/" class="hatena-id-icon"><img src="//www.hatena.ne.jp/users/cr/crow_henmi/profile_s.gif" class="hatena-id-icon" alt="crow_henmi" title="crow_henmi" height="16" width="16">crow_henmi</a></span>
+<span class="timestamp"><a name="c1197303733" href="/crow_henmi/20071210#c1197303733">2007/12/11 01:22</a></span>
+<span class="commentbody">古橋さんも発想がものすごいですからねえ。</span></p>
+
+
+
+			<form method="post" action="./comment" class="comment">
+			<input value="enter" name="mode" type="hidden">
+			<input value="" name="rkm" type="hidden">
+			<input value="20071210" name="date" type="hidden">
+			<p class="commentform"><span class="commentator"><img src="http://www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="ゲスト" title="ゲスト" height="16" width="16"><input name="username" class="field" size="15"></span> <label for="trivial"><input value="1" name="trivial" id="trivial" type="checkbox"><span style="font-size: smaller;">ちょっとしたコメント</span></label><br>
+			<textarea name="body" value="" cols="60" rows="3"></textarea>
+                        
+                          <br>
+                          <img src="http://flicker.g.hatena.ne.jp/captcha?key=c09e2d3df4a200e3dd973d9fc70af414_1569090019&amp;username=crow_henmi" class="captcha-image">
+                          <input name="captcha_code" id="comment-captcha" class="captcha-string" type="text" size="10">
+                          <input value="c09e2d3df4a200e3dd973d9fc70af414_1569090019" name="captcha_key" type="hidden"><br>
+                          <br>
+                        
+                        <input value="投稿" type="submit"></p>
+			</form>
+
+		</div>
+	</div>
+
+	<div class="refererlist">
+		<div class="caption">トラックバック - http://flicker.g.hatena.ne.jp/crow_henmi/20071210</div>
+		<ul>
+
+		</ul>
+	</div>
+
+
+
+	<div class="refererlist">
+		<div class="caption">リンク元</div>
+		<ul>
+
+			<li>23 <a href="http://flicker.g.hatena.ne.jp/" rel="nofollow">http://flicker.g.hatena.ne.jp/</a></li>
+
+			<li>19 <a href="http://www.whocares.jp/rdr.jsp?u=http%3A%2F%2Fflicker.g.hatena.ne.jp%2Fcrow_henmi%2F20071210%2Fp1" rel="nofollow">http://www.whocares.jp/rdr.jsp?u=http://flicker.g.hatena.ne.jp/crow_henmi/20071210/p1</a></li>
+
+			<li>2 <a href="http://clip.livedoor.com/clips/flicker2/tag/%e5%be%8c%e3%81%a7%e3%83%9a%e3%83%bc%e3%82%b8%e5%8c%96" rel="nofollow">http://clip.livedoor.com/clips/flicker2/tag/後でページ化</a></li>
+
+			<li>1 <a href="http://www.whocares.jp/rdrm.jsp" rel="nofollow">http://www.whocares.jp/rdrm.jsp</a></li>
+
+			<li>1 <a href="http://flicker.g.hatena.ne.jp/keyword/%e3%82%a2%e3%83%8f%e3%83%84%e3%82%a3%e3%83%92%e3%83%bb%e3%82%a2%e3%82%a4%e3%83%b3" rel="nofollow">http://flicker.g.hatena.ne.jp/keyword/アハツィヒ・アイン</a></li>
+
+			<li>1 <a href="http://flicker.g.hatena.ne.jp/keyword/%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%81%8d%e3%82%86%e3%82%89" rel="nofollow">http://flicker.g.hatena.ne.jp/keyword/魔法少女きゆら</a></li>
+
+			<li>1 <a href="http://flicker.g.hatena.ne.jp/keyword/%e9%87%91%e5%9f%8e%e3%81%b2%e3%82%8d%e3%81%97" rel="nofollow">http://flicker.g.hatena.ne.jp/keyword/金城ひろし</a></li>
+
+			<li>1 <a href="http://flicker.g.hatena.ne.jp/TimeTide/" rel="nofollow">http://flicker.g.hatena.ne.jp/TimeTide/</a></li>
+
+		</ul>
+	</div>
+
+
+</div>
+
+<div class="calendar" id="pager-bottom">
+	<a rel="prev" href="./20071209" class="prev">&lt;前の日</a>&nbsp;<span class="delimiter">|</span>&nbsp;<a rel="next" href="./20071212" class="next">次の日&gt;</a>
+</div>
+</div>
+<div class="sidebar">
+	<div class="hatena-module hatena-module-searchform">
+        <div class="hatena-moduletitle">日記の検索</div>
+        <div class="hatena-modulebody">
+<form method="GET" action="/crow_henmi/" class="hatena-searchform"><input type="text" name="word" class="hatena-searchform searchform-word" value=""><input type="submit" name=".submit" value="検索" class="hatena-searchform searchform-button"></form>
+        </div>
+</div>
+
+	<div class="hatena-module hatena-module-calendar2">
+        <div class="hatena-moduletitle">カレンダー</div>
+        <div class="hatena-modulebody">
+<table class="calendar" summary="calendar">
+        <tr>
+                <td class="calendar-prev-month" colspan="2"><a href="/crow_henmi/200711" title="200711" rel="nofollow">&lt;&lt;</a></td>
+                <td class="calendar-current-month" colspan="3"><a href="/crow_henmi/archive/200712" rel="nofollow">2007/12</a></td>
+                <td class="calendar-next-month" colspan="2"><a href="/crow_henmi/200801" title="200801" rel="nofollow">&gt;&gt;</a></td>
+        </tr>
+        <tr>
+                <td class="calendar-sunday">日</td>
+                <td class="calendar-weekday">月</td>
+                <td class="calendar-weekday">火</td>
+                <td class="calendar-weekday">水</td>
+                <td class="calendar-weekday">木</td>
+                <td class="calendar-weekday">金</td>
+                <td class="calendar-saturday">土</td>
+        </tr>
+	<tr>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day">1</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">2</td>
+		<td class="calendar-day">3</td>
+		<td class="calendar-day">4</td>
+		<td class="calendar-day">5</td>
+		<td class="calendar-day"><a href="/crow_henmi/20071206" title="6">6</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071207" title="7">7</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071208" title="8">8</a></td>
+	</tr>
+	<tr>
+		<td class="calendar-day"><a href="/crow_henmi/20071209" title="9">9</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071210" title="10">10</a></td>
+		<td class="calendar-day">11</td>
+		<td class="calendar-day"><a href="/crow_henmi/20071212" title="12">12</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071213" title="13">13</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071214" title="14">14</a></td>
+		<td class="calendar-day"><a href="/crow_henmi/20071215" title="15">15</a></td>
+	</tr>
+	<tr>
+		<td class="calendar-day">16</td>
+		<td class="calendar-day"><a href="/crow_henmi/20071217" title="17">17</a></td>
+		<td class="calendar-day">18</td>
+		<td class="calendar-day">19</td>
+		<td class="calendar-day">20</td>
+		<td class="calendar-day"><a href="/crow_henmi/20071221" title="21">21</a></td>
+		<td class="calendar-day">22</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">23</td>
+		<td class="calendar-day"><a href="/crow_henmi/20071224" title="24">24</a></td>
+		<td class="calendar-day">25</td>
+		<td class="calendar-day">26</td>
+		<td class="calendar-day">27</td>
+		<td class="calendar-day">28</td>
+		<td class="calendar-day">29</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">30</td>
+		<td class="calendar-day">31</td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+	</tr>
+</table>
+	</div>
+</div>
+
+	        <div class="hatena-module hatena-module-section">
+                <div class="hatena-moduletitle"><a href="/crow_henmi/archive">最新タイトル</a></div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-section">
+                                <li><a href="/crow_henmi/20080228/p1">[紀述]決闘企画用メモ</a></li>
+                                <li><a href="/crow_henmi/20080115/p1">[TCG]［紀述］[物語]屠殺彦を巡る冒険（外伝）――幸せな結末</a></li>
+                                <li><a href="/crow_henmi/20080110/p1">[雑記]謹賀新年</a></li>
+                                <li><a href="/crow_henmi/20080110/p2">[紀述][人物]決闘記述「ザリス伝」（お題：「それなりに頑張ったんだからもっと評価しろー！」）</a></li>
+                                <li><a href="/crow_henmi/20071224/p1">[紀述][キュトスの姉妹][物語]クリスマスのクラニス</a></li>
+                                <li><a href="/crow_henmi/20071221/p1">[TCG][人物]さすらいの吟遊詩人デュオ・砂と布巾</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	        <div class="hatena-module hatena-module-sectioncategory">
+                <div class="hatena-moduletitle">カテゴリー</div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-sectioncategory">
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D">紀述</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E3%82%AD%E3%83%A5%E3%83%88%E3%82%B9%E3%81%AE%E5%A7%89%E5%A6%B9%5D">キュトスの姉妹</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B4%80%E7%A5%9E%5D">紀神</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%9B%91%E8%A8%98%5D">雑記</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%A3%9B%E6%9D%A5%E7%A5%9E%E7%BE%A4%5D">飛来神群</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E4%BA%BA%E7%89%A9%5D">人物</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E5%93%B2%E5%AD%A6%5D">哲学</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%8D%E3%82%86%E3%82%89%5D">魔法少女きゆら</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E9%AD%94%E8%A1%93%5D">魔術</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E8%A8%80%E8%AA%9E%5D">言語</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%B5%84%E7%B9%94%5D">組織</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E5%AE%97%E6%95%99%5D">宗教</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E3%82%86%E3%82%89%E3%81%8E%E5%AD%A6%E5%9C%92%5D">ゆらぎ学園</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E6%A9%9F%E6%A2%B0%5D">機械</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5BTCG%5D">TCG</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E6%AD%B4%E5%8F%B2%5D">歴史</a></li>
+                                <li><a href="/crow_henmi/?word=%2A%5B%E7%89%A9%E8%AA%9E%5D">物語</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	    <div class="hatena-module hatena-module-comment">
+        <div class="hatena-moduletitle">最近のコメント</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;ctzjqtmzqxc</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;mjvejvbjo</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;snmpcigusy</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;flqwjbsqipu</li>
+              <li><a href="/crow_henmi/20071122#c">2007-11-22</a>&nbsp;Braman</li>
+            </ul>
+        </div>
+    </div>
+
+	    <div class="hatena-module hatena-module-trackback">
+        <div class="hatena-moduletitle">最近のトラックバック</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/Corundum/20080602#p9">深淵ランダムドア - バーニングザリス</a></li>
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/runa_way/20080110/1199969866">我がとうそう - [紀述]決闘紀述「わらわれもの...</a></li>
+              <li><a href="/crow_henmi/20080110#tb">2008-01-10</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/dario04/20080110/1199969087">分断されて、再度 - 決闘記述「四十四騎士ヌウ...</a></li>
+              <li><a href="/crow_henmi/20071224#tb">2007-12-24</a>&nbsp;<a href="http://twitter.g.hatena.ne.jp/keyword/%e3%83%95%e3%83%aa%e3%83%bc%e3%82%b7%e3%82%a7%e3%82%a2%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e9%83%a8?kid=305">はてなグループ - はてなグループ::ついったー...</a></li>
+              <li><a href="/crow_henmi/20071020#tb">2007-10-20</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/TimeTide/20071020/1192890196">烏兎紀 - [ミッタケ]ミッタケ創造物</a></li>
+            </ul>
+        </div>
+    </div>
+
+                <p class="recentitem"><a href="/diarylist">最近更新のページ</a></p>
+        <div class="recentsubtitles">
+                <strong>1</strong>. 2019-08-21 19:25:53<br>
+                
+                <a href="/hajic/">PTA概論</a><br>
+                <strong>2</strong>. 2019-05-09 00:05:56<br>
+                
+                <a href="/TimeTide/">烏兎紀</a><br>
+                <strong>3</strong>. 2018-07-07 19:49:16<br>
+                
+                <a href="/Erlkonig/">フリーシェ</a><br>
+                <strong>4</strong>. 2017-11-01 13:42:14<br>
+                
+                <a href="/Corundum/">深淵ランダ</a><br>
+                <strong>5</strong>. 2016-10-12 02:46:00<br>
+                
+                <a href="/hakuma/">相対引用フ</a><br>
+                <strong>6</strong>. 2016-05-11 15:19:04<br>
+                
+                <a href="/bigi_mixi/">流星ドライ</a><br>
+                <strong>7</strong>. 2015-08-26 15:46:06<br>
+                
+                <a href="/orangestar/">ゆら描き絵</a><br>
+                <strong>8</strong>. 2015-02-17 02:58:12<br>
+                
+                <a href="/amogata/">amogataの日</a><br>
+                <strong>9</strong>. 2014-12-04 00:19:50<br>
+                
+                <a href="/kashmir108/">ゆらゆら</a><br>
+                <strong>10</strong>. 2014-06-15 19:12:54<br>
+                
+                <a href="/runa_way/">我がとうそ</a><br>
+        </div>
+
+</div>
+</body>
+</html>

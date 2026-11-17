@@ -1,0 +1,240 @@
+[![Hatena::](/images/hatena-simple_or.gif)](http://www.hatena.ne.jp/)[![Group](/images/group-simple_or.gif)](http://g.hatena.ne.jp/)[![flicker](/images/group/flicker/flicker_slim_or.gif)](/)
+
+  * [トップ](/)
+  * [最新の日記](/Corundum/)
+  * [ユーザー登録](https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F)
+  * [ヘルプ](http://g.hatena.ne.jp/help)
+
+
+
+#  [深淵ランダムドア](http://flicker.g.hatena.ne.jp/Corundum/) [![このページをアンテナに追加](/images/a_append_or.gif)](http://a.hatena.ne.jp/append?http://flicker.g.hatena.ne.jp/Corundum/) [![RSSフィード](/images/rss_or.gif)](/Corundum/rss2)
+
+## いんふぉめーしょん。多すぎ。
+
+ＴＣＧ紅白戦の[ルールはこちら。](http://flicker.g.hatena.ne.jp/Corundum/20071227)試合会場は[ここ。](http://cottonpaper.web.fc2.com/kouhaku/kouhaku_index.html) 本家ＴＣＧについては[ファイアマインドの住み処](http://flicker.g.hatena.ne.jp/Niv-Mizzet/20071015)へ。  
+  
+パンゲオン・ライオット参加中。[インデックスはこちらです。](http://flicker.g.hatena.ne.jp/Corundum/20080507) 。[いんでくすはこっちです。](http://flicker.g.hatena.ne.jp/Corundum/20080505)
+
+[<前の日](./20080517) | [次の日>](./20080527)
+
+## [2008/05/22 (木)](/Corundum/20080522)ライオット８
+
+### [■](http://flicker.g.hatena.ne.jp/Corundum/20080522#P1) F-06 絞罪少女 [![F-06　絞罪少女 - 深淵ランダムドア を含むブックマーク](/images/b_entry_or.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P1) [![はてなブックマーク - F-06　絞罪少女 - 深淵ランダムドア ](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P1)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P1) ![F-06　絞罪少女 - 深淵ランダムドア のブックマークコメント](http://r.hatena.ne.jp/images/popup.gif)
+
+「その手を下ろせ！」
+
+夏椿は車椅子の少女を持ち上げ、首を絞めている聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)に警告した。
+
+聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)はうんざりした顔でが首だけ振り向いた。
+
+「……ちっ、またオマエかよ」
+
+「二度は言わぬ」
+
+渋々手を下ろし、
+
+「どうせ離したって斬りかかってくるんだろ？ さっさとやれよ」
+
+「たとえ罪深き者とはいえ背後から切るような真似はしたくないのだ」
+
+「は、なるほどね。でもアンタ、一つ忘れてんじゃない？」
+
+「何……！」
+
+「既に宣言は終わっているんだよ！ 愉絶の力、[レーラァ](http://flicker.g.hatena.ne.jp/keyword/%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A1)！」
+
+  
+  
+  
+
+
+### [■](http://flicker.g.hatena.ne.jp/Corundum/20080522#P2) G-18 [ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)の逃走２ [![G-18　ザリスの逃走２ - 深淵ランダムドア を含むブックマーク](/images/b_entry_or.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P2) [![はてなブックマーク - G-18　ザリスの逃走２ - 深淵ランダムドア ](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P2)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P2) ![G-18　ザリスの逃走２ - 深淵ランダムドア のブックマークコメント](http://r.hatena.ne.jp/images/popup.gif)
+
+「あああああああああンッ！」
+
+刀を構えた女が叫び声を上げたかと思うと、その腹が爆発した。
+
+腹が破れ、内蔵が飛び散り、血が吹き出た。
+
+膝を付く刀女。聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)はこちらを見ていない……今なら逃げられる！
+
+[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は車椅子に手を伸ばした。魔力で動く車椅子は瞬時に[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)の手の届くところへ移動する。
+
+「な……！ テメェ！」
+
+[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は椅子を掴んだ。座っている時間はない。引きずられる形で走り出す。
+
+背後を確認する余裕もない逃げ方だが、いまはこうするほか無かった。
+
+土、岩、木の幹に身体を打ちつけられながら走るうちに[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は気を失った。
+
+  
+  
+  
+
+
+### [■](http://flicker.g.hatena.ne.jp/Corundum/20080522#P3) G-06 贓物罪少女 [![G-06　贓物罪少女 - 深淵ランダムドア を含むブックマーク](/images/b_entry_or.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P3) [![はてなブックマーク - G-06　贓物罪少女 - 深淵ランダムドア ](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P3)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P3) ![G-06　贓物罪少女 - 深淵ランダムドア のブックマークコメント](http://r.hatena.ne.jp/images/popup.gif)
+
+「ぬ……！」
+
+腹が開いている。人としての要素が悲鳴をあげていた。
+
+重要な臓器がいくつも破壊されていたが、正体が処刑刀（エクスキューショナーズソード）である椿はこの程度で死に至ることはない。
+
+だが傷を負った身体での椿の反撃は聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)を仕留めるに至らなかった。
+
+取り逃がしてしまった聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)と、逃げた車椅子の少女の安否が気になるが、しばらくは肉体の回復に勤めなければならないだろう。
+
+椿は深い眠りに落ちた。
+
+  
+  
+  
+
+
+### [■](http://flicker.g.hatena.ne.jp/Corundum/20080522#P4) G-15 苦手な[相手](http://flicker.g.hatena.ne.jp/keyword/%E7%9B%B8%E6%89%8B) [![G-15　苦手な相手 - 深淵ランダムドア を含むブックマーク](/images/b_entry_or.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P4) [![はてなブックマーク - G-15　苦手な相手 - 深淵ランダムドア ](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P4)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/Corundum/20080522%23P4) ![G-15　苦手な相手 - 深淵ランダムドア のブックマークコメント](http://r.hatena.ne.jp/images/popup.gif)
+
+聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は増強された肉体で森の中を駆ける。逃走だ。
+
+二刀流の少女は腹の中をぐちゃぐちゃにされながらも返し技を放ってきた。聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は辛うじてその攻撃を躱すことが出来たが、瞬時に自分の不利を悟った。
+
+聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)が持つ臓器を破壊する能力は当然ながら臓物を持たない器物などには効果がない。ある程度は効果があったことからまったく生物ではないというわけではないのだろうが、恐らく半分以上は鉱物で出来ていると聖[ザリス](http://flicker.g.hatena.ne.jp/keyword/%E3%82%B6%E3%83%AA%E3%82%B9)は踏んでいた。
+
+[コメントを書く](/Corundum/comment?date=20080522#c)
+
+トラックバック - http://flicker.g.hatena.ne.jp/Corundum/20080522
+
+  * [深淵ランダムドア - 更新日別リンク](http://flicker.g.hatena.ne.jp/Corundum/20080507#p5 "更新日別リンク 05月08日\(木\)　http://flicker.g.hatena.ne.jp/Corundum/20080508 05月09日\(金\)　http://flicker.g.hatena.ne.jp/Corundum/20080509 05月10日\(土\)　http://flicker.g.hatena.ne.jp/Corundum/20080510 05月11日\(日\)　http://flicker.g.")
+  * [深淵ランダムドア - 歴史 -fragment-](http://flicker.g.hatena.ne.jp/Corundum/20080507#p4 "歴史　-fragment- アルファベットは大まかな出来事の順番と時間軸、数字は獣のナンバーです。 E-18　ザリスの敗走　http://flicker.g.hatena.ne.jp/Corundum/20080509#p4 A-04　兎と猫　http://flicker.g.hatena.ne.jp/C")
+
+
+
+[<前の日](./20080517) | [次の日>](./20080527)
+
+カレンダー
+
+[<<](/Corundum/200804 "200804") | [2008/05](/Corundum/archive/200805) | [>>](/Corundum/200806 "200806")  
+---|---|---  
+日 | 月 | 火 | 水 | 木 | 金 | 土  
+|  |  |  | 1 | 2 | 3  
+4 | [5](/Corundum/20080505 "5") | [6](/Corundum/20080506 "6") | [7](/Corundum/20080507 "7") | [8](/Corundum/20080508 "8") | [9](/Corundum/20080509 "9") | [10](/Corundum/20080510 "10")  
+[11](/Corundum/20080511 "11") | [12](/Corundum/20080512 "12") | [13](/Corundum/20080513 "13") | 14 | 15 | 16 | [17](/Corundum/20080517 "17")  
+18 | 19 | 20 | 21 | [22](/Corundum/20080522 "22") | 23 | 24  
+25 | 26 | [27](/Corundum/20080527 "27") | 28 | 29 | 30 | 31  
+  
+最新の画像
+
+  * [![si-ru](/images/group/flicker/diary/Corundum/20080101_m.gif)](/Corundum/20080101)
+
+
+
+[最新タイトル](/Corundum/archive)
+
+  * [C-05 下位人格](/Corundum/20080629#p1)
+  * [B-04 兎と旅人](/Corundum/20080629#p2)
+  * [C-04 兎と牛の図書館](/Corundum/20080629#p3)
+  * [E-04 兎と花](/Corundum/20080629#p4)
+  * [F-04 兎と夢](/Corundum/20080629#p5)
+  * [A-08 弟賢者](/Corundum/20080606#p1)
+  * [B-08 読書兎](/Corundum/20080606#p2)
+  * [A-13 花の獣](/Corundum/20080605#p1)
+  * [B-13 花獣ナーナー](/Corundum/20080605#p2)
+  * [C-13 花獣の呪い](/Corundum/20080605#p3)
+  * [D-13 花獣の罪](/Corundum/20080605#p4)
+  * [E-13 花](/Corundum/20080605#p5)
+  * [D-13 花の一生](/Corundum/20080605#p6)
+  * [D-04 兎と兵士](/Corundum/20080605#p7)
+  * [ハムスター](/Corundum/20080605#p8)
+  * [コキューネー](/Corundum/20080605#p9)
+  * [A-15 聖ザリス教団](/Corundum/20080602#p1)
+  * [B-15 二刀流の少女](/Corundum/20080602#p2)
+  * [C-15 街道レース](/Corundum/20080602#p3)
+  * [D-15 広い森の奥](/Corundum/20080602#p4)
+  * [A-02 偉大なる魔術師](/Corundum/20080602#p5)
+  * [B-02 王者の塔の垣根に居る賢者](/Corundum/20080602#p6)
+  * [C-02 十万の死体と流星](/Corundum/20080602#p7)
+  * [D-02 とある死骸とその臓器](/Corundum/20080602#p8)
+  * [バーニングザリス](/Corundum/20080602#p9)
+  * [マグヌス](/Corundum/20080602#p10)
+  * [子宮がビクビクするよ ](/Corundum/20080602#p11)
+  * [TCG紅白ターン０５～０７](/Corundum/20080527)
+
+
+
+カテゴリー
+
+  * [企画](/Corundum/?word=%2A%5B%E4%BC%81%E7%94%BB%5D)
+  * [画像](/Corundum/?word=%2A%5B%E7%94%BB%E5%83%8F%5D)
+  * [紀述](/Corundum/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D)
+  * [初心者ガイド](/Corundum/?word=%2A%5B%E5%88%9D%E5%BF%83%E8%80%85%E3%82%AC%E3%82%A4%E3%83%89%5D)
+  * [メモ](/Corundum/?word=%2A%5B%E3%83%A1%E3%83%A2%5D)
+  * [コピペ](/Corundum/?word=%2A%5B%E3%82%B3%E3%83%94%E3%83%9A%5D)
+  * [紹介](/Corundum/?word=%2A%5B%E7%B4%B9%E4%BB%8B%5D)
+  * [日紀](/Corundum/?word=%2A%5B%E6%97%A5%E7%B4%80%5D)
+  * [挨拶](/Corundum/?word=%2A%5B%E6%8C%A8%E6%8B%B6%5D)
+  * [自己](/Corundum/?word=%2A%5B%E8%87%AA%E5%B7%B1%5D)
+  * [ＴＣＧ](/Corundum/?word=%2A%5B%EF%BC%B4%EF%BC%A3%EF%BC%A7%5D)
+  * [剣華物語](/Corundum/?word=%2A%5B%E5%89%A3%E8%8F%AF%E7%89%A9%E8%AA%9E%5D)
+  * [絵](/Corundum/?word=%2A%5B%E7%B5%B5%5D)
+
+
+
+最近のコメント
+
+  * [2007-12-23](/Corundum/20071223#c) tfijaxepibe
+  * [2007-12-23](/Corundum/20071223#c) adiseruvoti
+  * [2007-12-23](/Corundum/20071223#c) jiulifkb
+  * [2007-12-23](/Corundum/20071223#c) NesNrey
+  * [2007-11-27](/Corundum/20071127#c) hxttrynmgw
+
+
+
+最近のトラックバック
+
+  * [2008-06-29](/Corundum/20080629#tb) [深淵ランダムドア - 歴史 -fragment-](http://flicker.g.hatena.ne.jp/Corundum/20080507#p4)
+  * [2008-06-29](/Corundum/20080629#tb) [深淵ランダムドア - 更新日別リンク](http://flicker.g.hatena.ne.jp/Corundum/20080507#p5)
+  * [2008-05-11](/Corundum/20080511#tb) [深淵ランダムドア - C-05 下位人格](http://flicker.g.hatena.ne.jp/Corundum/20080629#p1)
+  * [2008-06-06](/Corundum/20080606#tb) [深淵ランダムドア - 歴史 -fragment-](http://flicker.g.hatena.ne.jp/Corundum/20080507#p4)
+  * [2008-06-06](/Corundum/20080606#tb) [深淵ランダムドア - 更新日別リンク](http://flicker.g.hatena.ne.jp/Corundum/20080507#p5)
+
+
+
+[最新日記一覧](/diarylist)
+
+  * [蒼い空の夜明け](/yoakero/)
+  * [PTA概論](/hajic/)
+  * [世界最終舞踏](/the-last-dance/)
+  * [フリーシェアワールド・エクスプローラ](/Erlkonig/)
+  * [烏兎紀](/TimeTide/)
+  * [深淵ランダムドア](/Corundum/)
+  * [相対引用フリッカー](/hakuma/)
+  * [流星ドライブ](/bigi_mixi/)
+  * [ゆら描き絵保管庫](/orangestar/)
+  * [amogataの日記](/amogata/)
+  * [ゆらゆら](/kashmir108/)
+  * [我がとうそう](/runa_way/)
+  * [快楽と衆目](/homiya/)
+  * [さよならフラベウファ](/ticktacks/)
+  * [脚のないはてなガラス（BoB flicker side）](/crow_henmi/)
+  * [只今きょむはゆらいでおります](/dottokyom/)
+  * [パンゲオ・テクニカ](/BELive/)
+  * [逆さに落ちた日](/rakujitu/)
+  * [分断されて、再度](/dario04/)
+  * [虎すぐるの日記](/trsgr/)
+  * [編者の記録](/flick2/)
+  * [これはだいぶにせものです](/firestorm/)
+  * [ゆらぎ市立図書館書庫](/sillat/)
+  * [ファイアマインドの住み処](/Niv-Mizzet/)
+  * [nukosukiの日記](/nukosuki/)
+  * [der Lichtstrahl](/itnullpo/)
+  * [勝手に使うがいいよ](/Rikerike/)
+  * [正弦](/firstheaven/)
+  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [増田伊織の冒険](/iorimasuda/)
+  * [雲上神話](/sinden/)
+
+
+
+カウンター
+
+203422

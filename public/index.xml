@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>ゆらぎの神話 BBS 実況 Wiki</title>
+      <link>https://allusionistwiki.github.io/YuragiWiki</link>
+      <description>最新の10件 on ゆらぎの神話 BBS 実況 Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>ライセンス</title>
+    <link>https://allusionistwiki.github.io/YuragiWiki/license</link>
+    <guid>https://allusionistwiki.github.io/YuragiWiki/license</guid>
+    <description><![CDATA[ ライセンス 各投稿の著作権・著作者人格権は各投稿者に帰属します。本 Wiki の解析・要約はファン活動としての二次著作です。 L1 版（units/topics/authors/chronology）は引用（100 字以内）と ref アンカーによる紹介です。 制約なし版（full/）は原文全文を掲載しています。掲載を望まない投稿者は管理者までご連絡ください。削除要請には速やかに対応します。 コーパス生データ（raw/）と解析来歴は YuragiWiki repo に置く。 . ]]></description>
+    <pubDate>Tue, 17 Nov 2026 21:56:18 GMT</pubDate>
+  </item><item>
+    <title>ゆらぎの神話 BBS 実況 Wiki トップ</title>
+    <link>https://allusionistwiki.github.io/YuragiWiki/</link>
+    <guid>https://allusionistwiki.github.io/YuragiWiki/</guid>
+    <description><![CDATA[ ゆらぎの神話 BBS 実況 Wiki 『ゆらぎの神話』関連 BBS（japan board / はてな / mixi）の実況・議論スレッド 185 篇・48,891 投稿を、 解析パイプライン（L0 台帳 → 検索 → LLM 生成 → LLM 全量品質監査 100%）で構築した Wiki です。 版 L1 版（当サイト主要面）: 要約・整理記事。引用は 100 字以内＋ ref アンカー（原文ファイルへのリンク付き）。 制約なし版: full（原文全文同梱） — 各篇の投稿全文をそのまま掲載。投稿の著作権は各投稿者に帰属します（ライセンス）。 節 篇索引 — 185 篇 topics 索引 ... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 21:56:18 GMT</pubDate>
+  </item><item>
+    <title>篇索引</title>
+    <link>https://allusionistwiki.github.io/YuragiWiki/nav</link>
+    <guid>https://allusionistwiki.github.io/YuragiWiki/nav</guid>
+    <description><![CDATA[ 篇索引（185 篇） ふりかーBBS（portal）（10 投稿） 日常の中に潜む神話（45 投稿） ゆらぎ報告・紹介・観測トピック（14 投稿） 雑談・質問・挨拶・その他（129 投稿） 神話の記述（322 投稿） 第二の神話 記述トピック（33 投稿） 武具・道具・祭具（668 投稿） 魔法・科学（558 投稿） 生態（421 投稿） 芸術品・建築物・楽曲その他（134 投稿） 汎用記述スレッド３（308 投稿） 南東からの脅威の眷属に関するスレッド（182 投稿） 二大祖国（65 投稿） 歴史（152 投稿） ラナ信仰（59 投稿） 面白かった記述を紹介するスレッド（109 投稿） 国家... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 21:56:18 GMT</pubDate>
+  </item><item>
+    <title>年表</title>
+    <link>https://allusionistwiki.github.io/YuragiWiki/chronology</link>
+    <guid>https://allusionistwiki.github.io/YuragiWiki/chronology</guid>
+    <description><![CDATA[ 『ゆらぎの神話』BBS 実況コーパスの年表 概要 『ゆらぎの神話』に関する BBS（掲示板）での実況・議論を記録したテキストデータ集である。2005 年の開始から 2026 年までの約 20 年間の投稿履歴が含まれている。全期間を通じた総投稿数は約 43,000 件に及ぶが、その分布は極めて不均一であり、2007 年にピークを迎えた後、長期的な沈静化と断続的な再燃を繰り返す特徴を持つ。主要な語彙として「猫の国」「人類」「決闘記述」「眷属」「最果ての二人」などが頻出しており、作品内の世界観やキャラクターに関する議論が中心であったことが示唆される。 編年 2005 年 コーパスの初期段階。投稿数は... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 21:56:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

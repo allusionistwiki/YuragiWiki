@@ -1,0 +1,472 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="google-site-verification" content="ttlVZ7HNF1e932JTCUzcuLsfU6KD0KgcNQJMDKFquYw" />
+
+<title>我がとうそう - ゆらぎの神話　ポータル</title>
+
+<link rel="stylesheet" href="/diary_css/base.css" type="text/css" media="all" charset="euc-jp">
+
+
+<link rel="stylesheet" href="/theme/sakura-core/sakura-core.css" type="text/css" media="all" charset="euc-jp">
+
+
+
+  
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss2">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss">
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch/diary.xml" title="我がとうそう内日記検索" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch/archive.xml" title="我がとうそう内一覧検索" />
+
+
+
+
+<link rel="start" href="./" title="我がとうそう">
+<link rel="help" href="http://g.hatena.ne.jp/help" title="ヘルプ">
+<link rel="prev" href="./20080522" title="前の日">
+<link rel="next" href="./20080601" title="次の日">
+
+
+
+
+<link rel="shortcut icon" href="/images/group/flicker/favicon.ico">
+
+
+
+
+<style type="text/css">
+<!-- div.section p { 
+line-height: 2;
+margin: 10px;}
+a.keyword{ color:yellow; }
+a.keyword:link{ color:green; }
+a.keyword:visited{ color:purple; }
+a.keyword:hover { color:blue; }
+-->
+</style>
+
+
+
+  <script type="text/javascript" src="//s.hatena.ne.jp/js/HatenaStar.js"></script>
+  <script type="text/javascript">
+  Hatena.Author  = new Hatena.User('runa_way');
+  
+  </script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">if(/[\x3c\x3e]/.test(location.hash))location.hash=location.hash.replace(/[\x3c\x3e]/g,'');if(/[\x3c\x3e]/.test(document.referrer))location.href=location.href;</script>  
+
+
+
+<style type="text/css">
+label{
+cursor:pointer;
+}
+</style>
+
+<script type="text/javascript" src="/js/MochiKit/1125/Base.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Iter.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/DOM.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Style.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Signal.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Async.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/Logging.js"></script>
+<script type="text/javascript" src="/js/MochiKit/1125/DateFormat.js"></script>
+<script type="text/javascript" src="/js/BookmarkCommentViewer.js" charset="utf-8"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KF5JFN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KF5JFN');</script>
+<!-- End Google Tag Manager -->
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="banner">
+  <tr>
+    <td bgcolor="#FFFFFF" nowrap>
+      <a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatena_wh.gif" width="104" height="40" alt="Hatena::"></a><a href="http://g.hatena.ne.jp/"><img border="0" src="/images/groupwh.gif" width="73" height="40" alt="Group"><img border="0" src="/images/colonwh.gif" width="12" height="40" alt="::"></a><a href="/"><img border="0" src="/images/group/flicker/flickerwh.gif" height="40" alt="flicker"></a>
+    </td>
+    <td valign="bottom" align="left" bgcolor="#FFFFFF" width="60%" nowrap><form method="GET" action="/search" style="margin: 0;"><font color="#FFFFFF" size="2">&nbsp;&nbsp;<input value="" style="font-size: 8pt" name="word" type="text" size="18">&nbsp;<input value="runa_way" name="name" type="hidden"><input align="top" alt="日記" src="/images/search_diarywh.gif" style="width:34px;height:20px;border:0px;" name="diary" type="image">&nbsp;<input align="top" alt="キーワード" src="/images/search_keywordwh.gif" style="width:56px;height:20px;border:0px;" name=".submit" type="image">&nbsp;<input align="top" alt="検索" src="/images/searchwh.gif" style="width:34px;height:20px;border:0px;" name=".searchword" type="image"><br><img border="0" src="/images/dot.gif" width="1" height="3" alt=""></font></form></td>
+    <td align="right" bgcolor="#FFFFFF"><a href="http://www.hatena.ne.jp/"><img border="0" src="/images/hatenawh.gif" width="82" height="40" alt="はてな"></a></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td width="100%" bgColor="#ffffff" colspan="3">
+      <div align="center">
+        <center>
+        <table cellSpacing="0" cellPadding="2" width="100%" border="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#FFFFFF" width="50%" nowrap><font color="#999999" size="2">&nbsp;ようこそゲストさん&nbsp;</font></td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">トップ</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="/runa_way/" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">最新の日記</font></a>
+</td>
+	
+	
+	
+
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ユーザー登録</font></a>
+</td>
+<td bgcolor="#FFFFFF" nowrap align="center">
+	<a href="https://www.hatena.ne.jp/login?backurl=http%3A%2F%2Fflicker.g.hatena.ne.jp%2F" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ログイン</font></a>
+</td>
+
+<td bgcolor="#FFFFFF" nowrap align="center">
+<a href="http://g.hatena.ne.jp/help" style="text-decoration:none; font-weight:100;"><font size="2" color="#999999">ヘルプ</font></a>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#999999" colspan="3"><img border="0" src="/images/dot.gif" width="1" height="1" alt=""></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+<h1>
+<a href="http://flicker.g.hatena.ne.jp/runa_way/">我がとうそう</a>
+
+
+ <a href="http://a.hatena.ne.jp/append?"><img src="/images/a_append_wh.gif" title="このページをアンテナに追加" alt="このページをアンテナに追加" border="0" width="16" height="12" class="icon"></a> <a href="/runa_way/rss2"><img src="/images/rss_wh.gif" alt="RSSフィード" title="RSSフィード" border="0" width="24" height="12" class="icon"></a>
+
+
+</h1>
+
+
+
+
+<div class="hatena-body">
+
+
+
+
+
+<div class="main">
+<a href="http://flicker.g.hatena.ne.jp/runa_way/20060525/p1">高島津諦</a><font color="#cc3300">のゆらぎの神話関連ペイジです<br>
+好き勝手やってますので、コメント・トラックバックお気軽にどうぞ</font>
+
+
+<div class="calendar" id="pager-top">
+	<a rel="prev" href="./20080522" class="prev">&lt;前の日</a>&nbsp;<span class="delimiter">|</span>&nbsp;<a rel="next" href="./20080601" class="next">次の日&gt;</a>
+</div>
+
+<div class="day">
+	<h2><a href="./20080527"><span class="date">2008-05-27</span></a></h2>
+	<div class="body">
+
+
+		<div class="section">
+			<h3 class="title"><a href="http://flicker.g.hatena.ne.jp/runa_way/20080527/1211895671" name="1211895671">舌の物語（６）</a></h3>			<p class="sectionheader"><span class="sectioncategory"><a href="/runa_way/?word=%2A%5B%E3%81%B1%E3%82%93%E3%81%92%E3%82%89%5D" class="sectioncategory">ぱんげら</a></span> |  <span class="timestamp">22:41</span> |  <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/runa_way/20080527/1211895671" class="bookmark-icon"><img src="/images/b_entry_wh.gif" border="0" title="舌の物語（６） - 我がとうそう を含むブックマーク" alt="舌の物語（６） - 我がとうそう を含むブックマーク" width="16" height="12" class="icon"></a> <a href="http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/runa_way/20080527/1211895671" class="bookmark-count"><img src="http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/runa_way/20080527/1211895671" title="はてなブックマーク - 舌の物語（６） - 我がとうそう " alt="はてなブックマーク - 舌の物語（６） - 我がとうそう "></a> <img class="hatena-bcomment-view-icon" src="http://r.hatena.ne.jp/images/popup.gif" onclick="javascript:BookmarkCommentViewer.iconImageClickHandler(this, 'http://flicker.g.hatena.ne.jp/runa_way/20080527/1211895671', event);" title="舌の物語（６） - 我がとうそう のブックマークコメント" alt="舌の物語（６） - 我がとうそう のブックマークコメント" width="13" height="13"></p>			<p>　家に着くと、もう夜九時を回っていました。</p>
+			<p>　私は両親からこんな<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%FE%B4%D6">時間</a>まで遊んで心配をかけたことをしかられ、そしていきゅうさんの首を折ったことをしかられました。</p>
+			<p>「こんな<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%FE%B4%D6">時間</a>まで何してるかと心配しとったら！　何考えてるの！」</p>
+			<p>「ごめんなさい」</p>
+			<p>「ごめんなさいじゃないわホントに！　一体どうしたかと散々心配させて！」</p>
+			<p>「……ごめんなさい」</p>
+			<p>　お<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%E2%B6%B5">説教</a>の流れから、両親は、いきゅうさんの首を折ったのが私だということを周囲に隠すことにしたというのが分かりました。</p>
+			<p>「二度と<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C7%CF%BC%AF">馬鹿</a>なことしたらいかんよ！　誰にも言わんのよ！」</p>
+			<p>　その<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B8%C0%CD%D5">言葉</a>で、お<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%E2%B6%B5">説教</a>は終わりました。しかしそれにほっとするより、私は何か大きな<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B1%A2%CB%C5">陰謀</a>に巻き込まれたような不安にさいなまれていました。</p>
+			<p>　<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B2%F2%CA%FC">解放</a>された私は、<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%D2%B6%A1">子供</a>部屋に戻りました。私は不安を強くしながら、何とか<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BD%C9%C2%EA">宿題</a>を片付けました。それから母が暖めなおしてくれた遅い夕ご飯を食べ、お<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C9%F7%CF%A4">風呂</a>に入り、歯を磨きました。ベッドに入ったものの、一睡もできぬまま朝を迎えました。</p>
+			<p>　翌朝、母に起こされ、食卓で<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C4%AB%A4%B4%A4%CF%A4%F3">朝ごはん</a>を食べ、何年かぶりに一人で<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B3%D8%B9%BB">学校</a>に行きました。<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B3%D8%B9%BB">学校</a>では<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%E8%C0%B8">先生</a>の話をろくに聞かず、昨晩から<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BA%A3%C6%FC">今日</a>のことについて考え続けていました。</p>
+			<p>　一体、どういうことなのでしょう。父母共に、妹の事に全く触れないのです。それこそが一大事であるはずなのに。いきゅうさんにだけ目がいき、転がっている妹には気付かなかった？　まさか。もしそうだとしても、妹と一緒に遊びに行ったことは親も知っています。妹は何処に行ったのかと問われるはずです。けれど、一言たりともそんな事は言われませんでした。</p>
+			<p>　おかしなことはそれだけではありません。私の家は特に<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A4%AA%B6%E2">お金</a>持ちというわけではなく、<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%D2%B6%A1">子供</a>部屋は私と妹の共用でした。しかし部屋には、机も、<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%E9%A5%F3%A5%C9%A5%BB%A5%EB">ランドセル</a>も、一人分――私の分しかありませんでした。親が、何かの理由で妹の<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B2%C8%B6%F1">家具</a>や、<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C0%B8%B3%E8%CD%D1%C9%CA">生活用品</a>や、その他もろもろを片付けてしまったのでしょうか。しかしそれらがあったはずの場所を調べても、床のへこみや色の違いのような痕跡すらありませんでした。そして、もちろんと言うべきでしょうか、夕食や朝食の席にも妹の姿はなく、妹のための準備というものもありませんでした。</p>
+			<p>　<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B3%D8%B9%BB">学校</a>でも、毎日一緒に登校していた妹が一緒でないことについて、誰も何も言いませんでした。登校中に妹の友達ともすれ違った時も、普段なら「<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C9%F7%BC%D9">風邪</a>？」などと声をかけてくるのに、何も聞かれませんでした。</p>
+			<p>　誰かにどういうことか尋ねめよう、という気にはなりませんでした。話題にしてしまったなら、私が妹を殺害したことに話が及ぶかもしれません。どういう理由かは分からないけれど、それを誤魔化せているようなら、少しでも先延ばしにしたい。<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%BB%D2%B6%A1">子供</a>の私は、まるで妹のように、そんな考えに甘えてしまいました。</p>
+			<p>　家に帰りベッドに横になると、二段ベッドだったものが一段になっていて、何年ぶりかで寝ながら<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%C5%B7%B0%E6">天井</a>が目に入ることに<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B5%A4%A4%C5%A4%AD">気づき</a>ました。そこに浮かんだ染みを見ながら何が起きたのか考えている内に、私は眠ってしまいました。</p>
+			<p>　夢の中で私は、暗闇の中にいました。それは重い<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B2%BE%CC%CC">仮面</a>を被らせられているようでした。周りが見えず、食事も満足に取れません。いよいよ衰弱してきた時、外から強い衝撃があって<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B2%BE%CC%CC">仮面</a>が割れました。開けた視界には、大きな<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%A5%B1%A1%BC%A5%AD">ケーキ</a>があります。お腹の空いていた私はそれにむしゃぶりつきました。夢中で食べていると、私の前に誰かが立っていることに<a class="okeyword" href="http://d.hatena.ne.jp/keyword/%B5%A4%A4%C5%A4%AD">気づき</a>ました。よく見るとそれは私です。もう一人の私は大きな口を開け、私はそこに飲み込まれて目が覚めました。</p>
+		</div>
+
+	</div>
+	<div class="comment">
+		<div class="caption"><a name="c">コメントを書く</a></div>
+		<div class="commentshort">
+
+
+
+
+
+
+			<form method="post" action="./comment" class="comment">
+			<input value="enter" name="mode" type="hidden">
+			<input value="" name="rkm" type="hidden">
+			<input value="20080527" name="date" type="hidden">
+			<p class="commentform"><span class="commentator"><img src="http://www.hatena.ne.jp/images/guest_icon.gif" class="hatena-id-icon" alt="ゲスト" title="ゲスト" height="16" width="16"><input name="username" class="field" size="15"></span> <label for="trivial"><input value="1" name="trivial" id="trivial" type="checkbox"><span style="font-size: smaller;">ちょっとしたコメント</span></label><br>
+			<textarea name="body" value="" cols="60" rows="3"></textarea>
+                        
+                          <br>
+                          <img src="http://flicker.g.hatena.ne.jp/captcha?key=366ced2c700189b5e574d3dad44efbae_1566695958&amp;username=runa_way" class="captcha-image">
+                          <input name="captcha_code" id="comment-captcha" class="captcha-string" type="text" size="10">
+                          <input value="366ced2c700189b5e574d3dad44efbae_1566695958" name="captcha_key" type="hidden"><br>
+                          <br>
+                        
+                        <input value="投稿" type="submit"></p>
+			</form>
+
+		</div>
+	</div>
+
+	<div class="refererlist">
+		<div class="caption">トラックバック - http://flicker.g.hatena.ne.jp/runa_way/20080527</div>
+		<ul>
+
+		</ul>
+	</div>
+
+
+
+	<div class="refererlist">
+		<div class="caption">リンク元</div>
+		<ul>
+
+			<li>4 <a href="http://flicker.g.hatena.ne.jp/" rel="nofollow">http://flicker.g.hatena.ne.jp/</a></li>
+
+			<li>4 <a href="http://www.google.com/search" rel="nofollow">http://www.google.com/search</a></li>
+
+			<li>3 <a href="http://by165w.bay165.mail.live.com/mail/InboxLight.aspx?n=1177162135" rel="nofollow">http://by165w.bay165.mail.live.com/mail/InboxLight.aspx?n=1177162135</a></li>
+
+			<li>3 flicker.g.hatena.ne.jp</li>
+
+			<li>2 <a href="http://by165w.bay165.mail.live.com/mail/InboxLight.aspx?n=880986425" rel="nofollow">http://by165w.bay165.mail.live.com/mail/InboxLight.aspx?n=880986425</a></li>
+
+			<li>1 ./</li>
+
+			<li>1 ../</li>
+
+			<li>1 <a href="http://www.google.co.jp/search?hl=ja&amp;ie=Shift_JIS&amp;q=%96%85%81%40%90%E3&amp;btnG=Google+%8C%9F%8D%F5&amp;lr=" rel="nofollow">http://www.google.co.jp/search?hl=ja&amp;amp;ie=Shift_JIS&amp;amp;q=���@��&amp;amp;btnG=Google+����&amp;amp;lr=</a></li>
+
+			<li>1 <a href="http://search.yahoo.co.jp/search?p=%E8%88%8C+%E7%A5%9E%E8%A9%B1&amp;aq=-1&amp;ei=UTF-8&amp;pstart=1&amp;fr=slv1-tospcc1&amp;b=11" rel="nofollow">http://search.yahoo.co.jp/search?p=舌+神話&amp;amp;aq=-1&amp;amp;ei=UTF-8&amp;amp;pstart=1&amp;amp;fr=slv1-tospcc1&amp;amp;b=11</a></li>
+
+			<li>1 <a href="http://tw.search.yahoo.com/search;_ylt=A8tUwYEQxg5OT1AAdmBr1gt.;_ylc=X1MDMjE0MjQ3ODk0OARfcgMyBGZyA3lmcARmcjIDc2J0bgRuX2dwcwMwBHF1ZXJ5AyVFMyU4MSVBRSVFOCU4OCU4QyVFMyU4MSVBRSVFNyU4OSVBOSVFOCVBQSU5RQ--?p=%E3%81%AE%E8%88%8C%E3%81%AE%E7%89%A9%E8%AA%9E&amp;fr2=sb-top&amp;fr=yfp&amp;rd=r1" rel="nofollow">http://tw.search.yahoo.com/search;_ylt=A8tUwYEQxg5OT1AAdmBr1gt.;_ylc=X1MDMjE0MjQ3ODk0OARfcgMyBGZyA3lmcARmcjIDc2J0bgRuX2dwcwMwBHF1ZXJ5AyVFMyU4MSVBRSVFOCU4OCU4QyVFMyU4MSVBRSVFNyU4OSVBOSVFOCVBQSU5RQ--?p=の舌の物語&amp;amp;fr2=sb-top&amp;amp;fr=yfp&amp;amp;rd=r1</a></li>
+
+		</ul>
+	</div>
+
+
+</div>
+
+<div class="calendar" id="pager-bottom">
+	<a rel="prev" href="./20080522" class="prev">&lt;前の日</a>&nbsp;<span class="delimiter">|</span>&nbsp;<a rel="next" href="./20080601" class="next">次の日&gt;</a>
+</div>
+</div>
+<div class="sidebar">
+<br>
+<br>
+<br>
+	<img alt="FSWバナー" src="http://www.dsk.zaq.ne.jp/cablenet/chaos/img/fsw-entry.png" border="0">
+　　　　 <div class="hatena-module hatena-module-ring">
+
+<div class="hatena-modulebody">
+  <script type="text/javascript"
+    src="http://ring.hatena.ne.jp/showlogo?rid=flicker&sid=361184&mode=image">
+  </script>
+  <noscript>
+  <a href="http://flicker.ring.hatena.ne.jp"><img src="http://ring.hatena.ne.jp/images/logo/f/flicker/flicker_s.jpg" border=0></a>
+  <a href="http://flicker.ring.hatena.ne.jp/go?type=random&sid=361184">random</a>
+  <a href="http://flicker.ring.hatena.ne.jp/">Hatena Ring flicker</a>
+  </noscript>
+</div>
+</div>
+
+	<div class="hatena-module hatena-module-searchform">
+        <div class="hatena-moduletitle">日記の検索</div>
+        <div class="hatena-modulebody">
+<form method="GET" action="/runa_way/" class="hatena-searchform"><input type="text" name="word" class="hatena-searchform searchform-word" value=""><input type="submit" name=".submit" value="検索" class="hatena-searchform searchform-button"></form>
+        </div>
+</div>
+
+	<div class="hatena-module hatena-module-calendar2">
+        <div class="hatena-moduletitle">カレンダー</div>
+        <div class="hatena-modulebody">
+<table class="calendar" summary="calendar">
+        <tr>
+                <td class="calendar-prev-month" colspan="2"><a href="/runa_way/200804" title="200804" rel="nofollow">&lt;&lt;</a></td>
+                <td class="calendar-current-month" colspan="3"><a href="/runa_way/archive/200805" rel="nofollow">2008/05</a></td>
+                <td class="calendar-next-month" colspan="2"><a href="/runa_way/200806" title="200806" rel="nofollow">&gt;&gt;</a></td>
+        </tr>
+        <tr>
+                <td class="calendar-sunday">日</td>
+                <td class="calendar-weekday">月</td>
+                <td class="calendar-weekday">火</td>
+                <td class="calendar-weekday">水</td>
+                <td class="calendar-weekday">木</td>
+                <td class="calendar-weekday">金</td>
+                <td class="calendar-saturday">土</td>
+        </tr>
+	<tr>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day"></td>
+		<td class="calendar-day">1</td>
+		<td class="calendar-day">2</td>
+		<td class="calendar-day">3</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">4</td>
+		<td class="calendar-day">5</td>
+		<td class="calendar-day">6</td>
+		<td class="calendar-day">7</td>
+		<td class="calendar-day"><a href="/runa_way/20080508" title="8">8</a></td>
+		<td class="calendar-day"><a href="/runa_way/20080509" title="9">9</a></td>
+		<td class="calendar-day"><a href="/runa_way/20080510" title="10">10</a></td>
+	</tr>
+	<tr>
+		<td class="calendar-day"><a href="/runa_way/20080511" title="11">11</a></td>
+		<td class="calendar-day"><a href="/runa_way/20080512" title="12">12</a></td>
+		<td class="calendar-day"><a href="/runa_way/20080513" title="13">13</a></td>
+		<td class="calendar-day"><a href="/runa_way/20080514" title="14">14</a></td>
+		<td class="calendar-day">15</td>
+		<td class="calendar-day">16</td>
+		<td class="calendar-day">17</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">18</td>
+		<td class="calendar-day">19</td>
+		<td class="calendar-day"><a href="/runa_way/20080520" title="20">20</a></td>
+		<td class="calendar-day">21</td>
+		<td class="calendar-day"><a href="/runa_way/20080522" title="22">22</a></td>
+		<td class="calendar-day">23</td>
+		<td class="calendar-day">24</td>
+	</tr>
+	<tr>
+		<td class="calendar-day">25</td>
+		<td class="calendar-day">26</td>
+		<td class="calendar-day"><a href="/runa_way/20080527" title="27">27</a></td>
+		<td class="calendar-day">28</td>
+		<td class="calendar-day">29</td>
+		<td class="calendar-day">30</td>
+		<td class="calendar-day">31</td>
+	</tr>
+</table>
+	</div>
+</div>
+
+	        <div class="hatena-module hatena-module-section">
+                <div class="hatena-moduletitle"><a href="/runa_way/archive">最新タイトル</a></div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-section">
+                                <li><a href="/runa_way/20081113/1226591422">[TCG][紀述]TCGotWキャ「七ツ風を二つ忘れてきたシャーネス・クラララリア」</a></li>
+                                <li><a href="/runa_way/20081029/1225312300">[TCG][紀述]TCGotWキャラ「〈アイシィテイル〉晶子」</a></li>
+                                <li><a href="/runa_way/20080731/1217531509">[片言]</a></li>
+                                <li><a href="/runa_way/20080731/1217531581">[片言]</a></li>
+                                <li><a href="/runa_way/20080601/1226590291">ぱんげら]喫茶ぱんげらメニュ～</a></li>
+                                <li><a href="/runa_way/20080601/1226590292">パンゲオン・ライオット]収得物管理リスト</a></li>
+                                <li><a href="/runa_way/20080527/1211895671">[ぱんげら]舌の物語（６）</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	        <div class="hatena-module hatena-module-sectioncategory">
+                <div class="hatena-moduletitle">カテゴリー</div>
+                <div class="hatena-modulebody">
+                        <ul class="hatena-sectioncategory">
+                                <li><a href="/runa_way/?word=%2A%5B%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%5D">自己紹介</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E9%9B%91%E8%A8%98%5D">雑記</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E4%BA%95%E4%B8%8A%5D">井上</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%81%BD%E3%81%88%E3%81%BF%E3%82%83%E3%83%BC%5D">ぽえみゃー</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%82%A8%E3%82%A4%E3%83%9F%E3%81%95%E3%82%93%E3%81%AE%E8%A9%B1%5D">エイミさんの話</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D">紀述</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E4%BC%BA%E3%81%8B%5D">伺か</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E9%AD%94%E7%8E%8B%5D">魔王</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E4%B8%8A%E4%BA%95%E3%83%A9%E3%83%8A%5D">上井ラナ</a></li>
+                                <li><a href="/runa_way/?word=%2A%5BFSW%5D">FSW</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E8%90%8C%E7%90%86%5D">萌理</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E6%84%9F%E6%83%B3%5D">感想</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E8%80%83%E5%AF%9F%5D">考察</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E7%8A%AC%E3%81%A8%E5%B0%91%E5%A5%B3%E3%81%AF%E8%8D%92%E9%87%8E%E3%82%92%E6%AD%A9%E3%81%8F%5D">犬と少女は荒野を歩く</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%B9%E3%81%A8%E3%82%84%E3%82%8A%E3%82%85%E3%81%86%5D">アルセスとやりゅう</a></li>
+                                <li><a href="/runa_way/?word=%2A%5BTCG%5D">TCG</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%81%9F%E3%82%93%E3%81%8B%5D">たんか</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E6%97%A5%E5%B8%B8%5D">日常</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%83%91%E3%83%B3%E3%82%B2%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%83%E3%83%88%5D">パンゲオン・ライオット</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E3%81%B1%E3%82%93%E3%81%92%E3%82%89%5D">ぱんげら</a></li>
+                                <li><a href="/runa_way/?word=%2A%5B%E7%89%87%E8%A8%80%5D">片言</a></li>
+                        </ul>
+                </div>
+        </div>
+
+	    <div class="hatena-module hatena-module-comment">
+        <div class="hatena-moduletitle">最近のコメント</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/runa_way/20061019#c">2006-10-19</a>&nbsp;Elcin</li>
+              <li><a href="/runa_way/20061202#c">2006-12-02</a>&nbsp;Rochi</li>
+              <li><a href="/runa_way/20061202#c">2006-12-02</a>&nbsp;Munisa</li>
+              <li><a href="/runa_way/20061202#c">2006-12-02</a>&nbsp;Faris</li>
+              <li><a href="/runa_way/20061202#c">2006-12-02</a>&nbsp;Andrew</li>
+            </ul>
+        </div>
+    </div>
+
+	    <div class="hatena-module hatena-module-trackback">
+        <div class="hatena-moduletitle">最近のトラックバック</div>
+        <div class="hatena-modulebody">
+            <ul class="hatena-recentcomment">
+              <li><a href="/runa_way/20081113#tb">2008-11-13</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/keyword/%e9%81%8b%e5%96%b6%3a%3a%e5%90%8d%e7%b0%bf?kid=617">はてなグループ - ゆらぎの神話　ポータル - 運...</a></li>
+              <li><a href="/runa_way/20080601#tb">2008-06-01</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/keyword/%e3%83%91%e3%83%b3%e3%82%b2%e3%82%aa%e3%83%b3%e3%83%bb%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%83%e3%83%88?kid=711">はてなグループ - ゆらぎの神話　ポータル - パ...</a></li>
+              <li><a href="/runa_way/20080131#tb">2008-01-31</a>&nbsp;<a href="http://d.hatena.ne.jp/RAY19907/20081022/p1">WHITE　UNBALANCE - ごったにっき</a></li>
+              <li><a href="/runa_way/20080509#tb">2008-05-09</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/Corundum/20080605#p2">深淵ランダムドア - B-13　花獣ナーナー</a></li>
+              <li><a href="/runa_way/20080522#tb">2008-05-22</a>&nbsp;<a href="http://flicker.g.hatena.ne.jp/runa_way/20201231/1210599892">我がとうそう - [ぱんげら]喫茶ぱんげらメニュ...</a></li>
+            </ul>
+        </div>
+    </div>
+
+	        <div class="hatena-module hatena-module-pv">
+                <div class="hatena-moduletitle">カウンター</div>
+                <div class="hatena-modulebody">
+                        <span class="hatena-counter">370438</span>
+                </div>
+        </div>
+
+        <div class="hatena-module">
+                <div class="hatena-moduletitle">リンク集</div>
+                        <div class="hatena-modulebody">
+                                <ul class="hatena-urllist">
+					<li><a href="http://mixi.jp/show_friend.pl?id=1058321">mixi</a></li>
+					<li><a href="http://twitter.com/takatei/with_friends">Twitter</a></li>
+					<li><a href="http://neo.g.hatena.ne.jp/runa_way/">鰐と雨量 - ファック文芸部</a></li>
+					<li><a target="_blank" href="http://webclap.simplecgi.com/clap.php?id=WayRuna&page_id=wagatousou">web拍手or投書箱</a></li>
+					<li><a href="http://takatei.tumblr.com/">Tumblr</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </div>
+</div>
+</body>
+</html>

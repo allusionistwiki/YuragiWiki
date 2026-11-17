@@ -1,0 +1,594 @@
+@charset "euc-jp";
+
+/*== Japanese ==*/
+/*==  大枠のレイアウト == */
+
+body{
+ margin:0px;
+ padding:0px;
+ text-align:center;
+ width:auto;
+ background:#EEEEEE url(bodybg.jpg) top center
+}
+
+table{
+width:750px;
+margin:auto;
+}
+
+table td table{
+width:100%;
+}
+
+h1{
+font-size:140%;
+width:750px;
+margin:0px auto;
+padding:50px 0px;
+text-indent:20px;
+text-align:left;
+color:#FFFFFF;
+background:#57201C url(h1.gif) top right no-repeat;
+}
+
+div.hatena-body{
+width:750px;
+margin:0px auto;
+padding:5px 0px;
+text-align:left;
+}
+
+div.main {
+width:520px;
+margin:0px 5px;
+padding:0px;
+text-align:left;
+float:left;
+}
+
+div.sidebar {
+width:200px;
+margin-right:5px;
+padding:0px;
+float:right;
+}
+
+img{
+ border:0px;
+}
+
+/*==  前の日次の日 == */
+
+div.calendar {
+ text-align:left;
+ padding:5px;
+ color:#511206;;
+
+ font-size:90%;
+}
+
+div.calendar a {
+ color:#511206;;
+}
+
+div.calendar a:hover {
+color:#F22C05;
+text-decoration:underline;
+}
+/*==  1日全体 == */
+
+div.day {
+ padding-bottom:1px ;
+ margin-bottom:10px;
+ background:#FFFFFF url(body.jpg);
+ line-height:150%;
+ border:1px solid #CCCCCC;
+}
+/*==  タイトルの行 == */
+h2 {
+ font-size:100%;
+ padding:5px;
+ margin:0px;
+ color:#FFFFFF;
+ border-bottom:1px solid #CCCCCC;
+ background:#511206 url(h2.jpg);
+}
+
+h2 a{
+ color:#E3908E;
+}
+
+h2 a:link{
+ color:#E3908E;
+}
+
+h2 a:visited{
+ color:#E3908E;
+}
+
+h2 a .date{
+ padding-right:5px;
+}
+
+h2 a.edit{
+ font-size:90%;
+ text-decoration:underline;
+}
+
+h2 span.title a {
+	color: #ffffff;
+}
+
+/*== タイトルを除いた1日の日記本文全体 ==*/
+div.body {
+ padding:0px;
+ margin:0px 0px 0px 3px;
+ zoom:1;
+}
+
+div.body:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
+
+/*== 1記事全体== */
+div.section{
+ padding:10px;
+ margin:3px;
+ font-size:90%;
+ line-height:150%;
+ color:#333333;
+}
+
+div.section p{
+ padding:0px;
+ margin:5px;
+}
+
+.footnote{
+ font-size:90%;
+ margin-left:5px;
+}
+
+div.section p.sectionfooter { 
+  text-align: right;
+  margin-top: 1em;
+}
+
+/*== コメント全体==*/
+div.comment{
+ padding:5px;
+ background:#F2E7DC;
+ border:1px dotted #CCCCCC;
+ margin:5px;
+ font-size:90%;
+}
+
+/*== トラックバック全体==*/
+div.refererlist{
+ padding:5px;
+ margin:5px;
+ background:#F2E7DC;
+ border:1px dotted #CCCCCC;
+ font-size:90%;
+}
+
+/*== コメント・トラバタイトル部分==*/
+div.caption{
+ padding:0px;
+ margin:0px;
+}
+
+/*== コメント内容部分== */
+div.commentshort{
+ padding:0px;
+ margin:0px;
+}
+
+/*== コメント1つ== */
+div.commentshort p{
+ padding:0px;
+ margin:1px 5px;
+}
+
+/*==コメントのテキストボックス==*/
+div.commentshort textarea{
+ width:350px;
+}
+
+/*== はてなモジュールの大枠 ==*/
+
+div.hatena-module {
+ padding:0px;
+ margin:0px 0px 10px 0px;
+ border:1px solid #CCCCCC
+}
+
+div.hatena-moduletitle{
+ font-size:90%;
+ padding:5px 5px 5px 5px;
+ margin:0px;
+ color:#FFFFFF;
+ border-bottom:1px solid #CCCCCC;
+ background:#511206 url(h2.jpg);
+}
+
+div.hatena-moduletitle a{
+ color:#FFFFFF;
+}
+
+div.hatena-moduletitle a:visited{
+ color:#FFFFFF;
+}
+
+
+.hatena-modulebody {
+ padding:5px;
+ font-size:90%;
+ background:#FFFFFF url(body.jpg);
+}
+
+/*== はてなモジュールカレンダー ==*/
+
+table.calendar{
+text-align:center;
+width:185px;
+font-size:90%;
+}
+
+td.calendar-sunday{
+color:red;
+}
+
+td.calendar-saturday{
+color:blue;
+}
+
+table.calendar tr td.day-today{
+background:#FFFFCC;
+}
+
+table.calendar tr td.day-selected{
+background:#450100;
+}
+
+table.calendar tr td.day-selected a{
+color:#FFF;
+}
+
+td.calendar-day img{
+ width:15px;
+ height:15px;
+ border:1px solid #CCCCCC;
+}
+
+/*== はてなモジュールリスト関連 ==*/
+
+.hatena-modulebody ul {
+ padding:0px;
+ margin:0px;
+ list-style-type:none;
+}
+
+.hatena-modulebody ul li {
+ padding:8px 5px 7px 30px;
+ margin:0px;
+ border-bottom:1px dotted #CCCCCC;
+ background:url(li.gif) no-repeat;
+}
+
+.hatena-modulebody ul li a {
+ text-decoration:underline;
+}
+
+/*== 見出しの設定  ==*/
+
+h3 {
+font-size:100%;
+margin:5px 10px 5px 0px;
+
+}
+
+div.day span.sanchor{
+ padding:20px 0px 10px 30px;
+ font-size:1px;
+ color:#FFFFFF;
+background:no-repeat url(h3.gif);
+
+}
+
+.body h3.title {
+ background:url("h3.gif") no-repeat;
+	padding:4px 0 3px 32px;
+	margin-bottom: 0;
+}
+
+.body h3.title a {
+	color: #333333;
+	text-decoration: none;
+}
+
+h4{
+font-size:100%;
+margin-left:10px;
+padding:2px 5px 2px 7px;
+border-left:5px solid #511206;
+}
+
+/* ==リンク色== */
+a{
+color:#915609;
+text-decoration:none;
+}
+
+a:link{
+color:#915609;
+text-decoration:none;
+}
+
+a:visited {
+color:#A96712;
+text-decoration:none;
+}
+
+a:hover {
+color:#F22C05;
+text-decoration:underline;
+}
+
+a, a:link, a:visited, a:hover, {
+word-break:break-all ;
+word-wrap:break-word ;
+}
+
+/*== キーワード部分 ==*/
+
+a.keyword , a.keyword:link , a.keyword:visited , a.keyword:hover{
+  color:#333;
+  border-bottom:1px solid #E0E0E0;
+  padding-bottom:1px;
+  text-decoration:none;
+}
+
+a.okeyword , a.okeyword:link , a.okeyword:visited , a.okeyword:hover{
+  color:#333;
+  border-bottom:1px dashed #E0E0E0;
+  padding-bottom:1px;
+  text-decoration:none;
+}
+
+/*== 記事内の細かい部分 == */
+div.section pre{
+ padding:5px;
+ border:1px solid #511206;
+ background:#FFFFFF;
+}
+
+div.section blockquote{
+ padding:5px;
+ border:1px solid #511206;
+ background:#F2E7DC;
+}
+
+div.section ul li{
+}
+
+div.day img.photo{
+ float:right;
+ margin:5px;
+}
+
+
+
+/*== 以下はてなモジュールの細かい部分 ==*/
+ul.hatena-photo li {
+ margin:3px;
+ background:#FFFFFF;
+ padding:1px;
+ margin:0px;
+}
+
+img.hatena-fotolife {
+}
+
+.hatena-searchform {
+ margin:5px;
+ padding:0px;
+}
+
+div.adminmenu{
+text-align:right;
+font-size:90%;
+margin:3px 0px 3px 0px;
+}
+
+span.adminmenu a{
+padding-left:10px;
+padding-right:7px;
+border-left:1px solid #CCCCCC;
+}
+
+.hatena-rss{
+}
+
+/*== はまぞうリンク ==*/
+div.hatena-asin-detail{
+ margin:3px;
+ padding:3px;
+ border:1px solid #CCCCCC;
+}
+
+.hatena-asin-detail-info{
+ margin:5px;
+}
+
+.hatena-asin-detail-info ul{
+list-style:none;
+}
+
+
+.hatena-asin-detail-image{
+ float:left;
+ margin-right:5px;
+}
+
+.hatena-asin-detail-title{
+ margin:5px;
+ font-weight:bold;
+}
+
+.hatena-asin-detail-foot{
+ clear:both;
+}
+
+/*== フッター ==*/
+
+.footer{
+ clear:both;
+ margin:5px;
+ font-size:90%;
+}
+
+/*== Adsense ==*/
+.ad{
+}
+
+/*== Clock ==*/
+.hatena-clock{
+}
+
+/*== アンケートモジュール ==*/
+.hatena-question-detail{
+width:90%;
+text-align:left;
+border:1px solid #CCCCCC;
+font-size:90%;
+}
+
+.hatena-question-detail-title{
+padding:5px;
+
+}
+
+.hatena-question-detail-label{
+width:30%;
+padding:5px;
+border-top:1px dashed #CCCCCC;
+}
+
+.hatena-question-detail-value{
+width:65%;
+padding:5px;
+border-top:1px dashed #CCCCCC;
+}
+
+/*== プロフィール ==*/
+.hatena-profile{
+}
+
+.hatena-profile-image{
+}
+
+.hatena-profile-id{
+}
+
+.hatena-profile-body{
+}
+
+
+/*== テーブル記法 ==*/
+
+div.section table{
+width:auto;
+border:1px solid #CCC;
+margin:3;
+}
+
+div.section table tr th{
+background:#F7DCD8;
+padding:3px;
+font-size:90%;
+}
+
+div.section table tr td{
+padding:3px;
+font-size:90%;
+}
+
+/* keywordcloud */
+
+ul.keywordcloud {
+  margin: 10px;
+  padding: 0;
+}
+
+ul.keywordcloud li {
+  font-size:90%;
+  display: inline;
+}
+
+div.hatena-modulebody ul.keywordcloud li {
+border:none;
+padding:2px;
+background:url();
+}
+
+div.hatena-modulebody ul.keywordcloud li a{
+display:inline;
+}
+
+a.keywordcloud0 { font-size: 80%; }
+a.keywordcloud1 { font-size: 100%; }
+a.keywordcloud2 { font-size: 120%; }
+a.keywordcloud3 { font-size: 140%; }
+a.keywordcloud4 { font-size: 160%; }
+a.keywordcloud5 { font-size: 180%; }
+a.keywordcloud6 { font-size: 200%; }
+a.keywordcloud7 { font-size: 220%; }
+a.keywordcloud8 { font-size: 240%; }
+a.keywordcloud9 { font-size: 260%; }
+a.keywordcloud10 { font-size: 280%; }
+a.keywordcloud0, a.keywordcloud1, a.keywordcloud2, a.keywordcloud3, a.keywordcloud4, a.keywordcloud5, a.keywordcloud6, a.keywordcloud7, a.keywordcloud8, a.keywordcloud9, a.keywordcloud10 {
+  text-decoration: none;
+}
+
+/* tweet */  
+
+div.twitter-tweet, 
+div.twitter-detail {
+  margin-top:0;
+  margin-bottom:0;
+  border-bottom:1px solid #E4E4E4;
+}
+
+div.twitter-tweet p.twitter-tweet-text, 
+div.twitter-detail p.twitter-detail-text {
+  margin:0;
+  padding-top:7px;
+}
+
+div.twitter-tweet p.twitter-tweet-info, 
+div.twitter-detail p.twitter-detail-info {
+  color:#999999;
+  font-size:80%;
+  padding-top:0;
+  padding-bottom:6px;
+  margin:0;
+}
+div.twitter-detail div.twitter-detail-user img {
+  margin-top:6px;
+}
+
+div.twitter-tweet p.twitter-tweet-info a, 
+div.twitter-detail p.twitter-detail-info a{
+  color:#999999;
+  text-decoration:none;
+}
+
+div.twitter-tweet p.twitter-tweet-info a:hover, 
+div.twitter-detail p.twitter-detail-info a:hover{
+  text-decoration:underline;
+}

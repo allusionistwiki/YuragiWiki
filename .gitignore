@@ -1,5 +1,12 @@
-# Wayback 取得物（当面 gitignore・2026-10-14 指示）
-raw/bbs/hatena_flicker/HTML/
-raw/bbs/hatena_flicker/md/
-raw/bbs/hatena_flicker/Pic/
-raw/bbs/hatena_flicker/mention/
+.DS_Store
+node_modules
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+
+# content は CI が vault リポジトリから取得（ローカルは手動コピー）
+content/

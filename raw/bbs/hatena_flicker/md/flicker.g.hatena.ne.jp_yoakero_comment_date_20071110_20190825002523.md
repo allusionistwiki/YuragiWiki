@@ -1,0 +1,178 @@
+[![Hatena::](/images/hatena-simple_bl.gif)](http://www.hatena.ne.jp/)[![Group](/images/group-simple_bl.gif)](http://g.hatena.ne.jp/)[![flicker](/images/group/flicker/flicker_slim_bl.gif)](/)
+
+  * [トップ](/)
+  * [最新の日記](/yoakero/)
+  * [ユーザー登録](https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F)
+  * [ヘルプ](http://g.hatena.ne.jp/help)
+
+
+
+#  蒼い空の夜明け 
+
+《書いてる人》⇒夜明けの敵  
+  
+**「蒼い空に浮かぶキュトス（仮）」**  
+71の大地と10の星が浮かぶ、果てなく広がる蒼穹世界。この日記は、その世界の創世から終末までの「人と神々の物語」についての設定が集まる場です。**（最近は停滞しています）**  
+  
+しばらくは「星見の塔トーナメント」についての紀述がメインになると思います。  
+  
+  
+
+
+[<前の日](./20071109) | [次の日>](./20071111)
+
+## [2007-11-10](./20071110)
+
+今夜は、ゆらぎの女子高生ラジオですねー。
+
+女子高生分が足りていない方は聴くとよいと思います。
+
+  
+
+
+↓は、自キャラのＳＳ。二つ目。控え室で、トーナメント一回戦が始まるのを待つ三人。商人についてあまり語られてないけど、まあ、そのうち。
+
+たぶん、明日も更新できます。
+
+  
+
+
+### [■](http://flicker.g.hatena.ne.jp/yoakero/20071110/p1) [[紀述](/yoakero/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D)][[フィシ・リ・フィシ・ストーリー](/yoakero/?word=%2A%5B%E3%83%95%E3%82%A3%E3%82%B7%E3%83%BB%E3%83%AA%E3%83%BB%E3%83%95%E3%82%A3%E3%82%B7%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%5D)]一回戦開始前 [![はてなブックマーク - 一回戦開始前 - 蒼い空の夜明け ](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/yoakero/20071110/p1)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/yoakero/20071110/p1)
+
+[星見の塔](http://flicker.g.hatena.ne.jp/keyword/%E6%98%9F%E8%A6%8B%E3%81%AE%E5%A1%94)内部にある、選手の控え室。騎士と商人と魔女は、一回戦を控えてこの部屋に集まっていた。
+
+「頑張れ！ アンタなら楽勝だ！」
+
+一人で熱くなっているのは商人だった。まだ成人して数年しか経っていないだろう彼女は、三人のなかでもっとも若い。希望と夢をあわせて語ることのできる若者であるからこそ、優勝者へあたえられる賞品にたいする期待もそのぶん大きい。なにしろ、彼女の夢は魔女の力でも借りない限りは達成できないかもしれないほどの大きなものだ。彼女にとって、[ノシュトリ](http://flicker.g.hatena.ne.jp/keyword/%E3%83%8E%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AA)からのトーナメントの誘いは渡りに船だったのだ。
+
+逆に、実際にこのトーナメントを戦い抜くことになる騎士のほうは、商人とちがって静かに戦いのときを待っていた。一回戦の[相手](http://flicker.g.hatena.ne.jp/keyword/%E7%9B%B8%E6%89%8B)が誰なのかは知らされていない。もしかしたら、部屋の隅に立っている魔女は知っているかもしれない。だが、騎士はそれを聞き出そうとはまったく考えない。誰が[相手](http://flicker.g.hatena.ne.jp/keyword/%E7%9B%B8%E6%89%8B)であれ関係ない。騎士たる自分は、ただ戦いのなかで全力を尽くすだけだ。[相手](http://flicker.g.hatena.ne.jp/keyword/%E7%9B%B8%E6%89%8B)のその後も、自分のその後も考える必要はない。守るべき君主のいない今の騎士にとって、戦いだけが自分の存在証明であり、生きることはすなわち戦闘だった。
+
+――だが、と騎士は思う。
+
+一人、はしゃいでいる商人を見る。
+
+自分の命の恩人であり、自分に熱く夢を語ってみせ、そして守るべきものを自ら背負う決意をもった彼女。
+
+今の自分は、己の存在証明だけのために戦っているのではない。
+
+彼女の夢のために戦うと、騎士は剣に誓ったのだ。
+
+だから自分はここにいる。この怪しげな大会に参加したのも、すべてはそのためだ。
+
+彼女に対する恩義のためだけではない。彼女はすでに、騎士にとって大事な友人にも等しい存在だ。友人の夢を手伝うことに、抵抗やためらい、義理を感じる人間がどこにいよう？
+
+くすす、と部屋の隅に立つ魔女が笑う。「一回戦が始まったみたい。対戦表も公開されたけど、確認に行く？」
+
+「いや、いい」騎士は言った。
+
+「え、いいの？」商人が言った。
+
+「ああ」騎士はそのまま黙って、戦いのときが訪れるのを静かに待った。
+
+コメントを書く
+
+[![Corundum](//www.hatena.ne.jp/users/Co/Corundum/profile_s.gif)Corundum](/Corundum/) [2007/11/11 00:03](/yoakero/20071110#c1194706991) ここまで読みました。続きを期待してます。。
+
+[![yoakero](//www.hatena.ne.jp/users/yo/yoakero/profile_s.gif)yoakero](/yoakero/) [2007/11/11 00:53](/yoakero/20071110#c1194709987) ありがとうございます。あせらずゆっくり書いていこうと思ってます。お付き合い願えると幸いです。
+
+![ゲスト](http://www.hatena.ne.jp/images/guest_icon.gif) ちょっとしたコメント  
+  
+![](http://flicker.g.hatena.ne.jp/captcha?key=5a20b79eaf14c6f1545cc396697e7f2f_1566692723&username=yoakero)   
+  
+
+
+トラックバック - http://flicker.g.hatena.ne.jp/yoakero/20071110
+
+
+
+
+リンク元
+
+  * 36 <http://flicker.g.hatena.ne.jp/>
+  * 22 <http://jbbs.livedoor.jp/bbs/link.cgi?url=http://flicker.g.hatena.ne.jp/yoakero/20071110>
+  * 3 <http://jbbs.livedoor.jp/bbs/link.cgi?url=http://flicker.g.hatena.ne.jp/yoakero/20071109>
+  * 2 [http://flicker.g.hatena.ne.jp/keyword/運営::名簿](http://flicker.g.hatena.ne.jp/keyword/%e9%81%8b%e5%96%b6%3a%3a%e5%90%8d%e7%b0%bf)
+  * 1 <http://jbbs.livedoor.jp/bbs/i_l.cgi?l=http://flicker.g.hatena.ne.jp/yoakero/20071110>
+  * 1 <http://flicker.g.hatena.ne.jp/diarylist>
+  * 1 [http://by101w.bay101.mail.live.com/mail/ReadMessageLight.aspx?Aux=4|0|8C9F2281CB98800|&amp;FolderID=00000000-0000-0000-0000-000000000001&amp;InboxSortAscending=False&amp;InboxSortBy=Date&amp;ReadMessageId=2b29dae9-1519-4dd9-81b4-b45bf53d647f&amp;n=773262093](http://by101w.bay101.mail.live.com/mail/ReadMessageLight.aspx?Aux=4%7c0%7c8C9F2281CB98800%7c&FolderID=00000000-0000-0000-0000-000000000001&InboxSortAscending=False&InboxSortBy=Date&ReadMessageId=2b29dae9-1519-4dd9-81b4-b45bf53d647f&n=773262093)
+  * 1 <http://flicker.g.hatena.ne.jp/orangestar/20070219>
+
+
+
+[<前の日](./20071109) | [次の日>](./20071111)
+
+日記の検索
+
+カテゴリー
+
+  * [蒼空](/yoakero/?word=%2A%5B%E8%92%BC%E7%A9%BA%5D)
+  * [紀述](/yoakero/?word=%2A%5B%E7%B4%80%E8%BF%B0%5D)
+  * [呟紀](/yoakero/?word=%2A%5B%E5%91%9F%E7%B4%80%5D)
+  * [レイヴァン・ストーリー](/yoakero/?word=%2A%5B%E3%83%AC%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%5D)
+  * [フィシ・リ・フィシ・ストーリー](/yoakero/?word=%2A%5B%E3%83%95%E3%82%A3%E3%82%B7%E3%83%BB%E3%83%AA%E3%83%BB%E3%83%95%E3%82%A3%E3%82%B7%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%5D)
+  * [TCG](/yoakero/?word=%2A%5BTCG%5D)
+
+
+
+[最新タイトル](/yoakero/archive)
+
+  * [[TCG]それぞれの現状](/yoakero/20071226/p1)
+  * [12月10日の日記のうとさんのコメントへの返信。と提案。](/yoakero/20071215/p1)
+  * [追記。上記の案に補足。](/yoakero/20071215/p2)
+  * [「著作権を主張しておきたいものはありますか？」](/yoakero/20071210/p1)
+  * [2007-12-09](/yoakero/20071209)
+  * [[紀述][フィシ・リ・フィシ・ストーリー]星見の塔・三回戦前、控え室](/yoakero/20071209/p1)
+  * [2007-12-05](/yoakero/20071205)
+  * [[紀述][フィシ・リ・フィシ・ストーリー]星見の塔・二回戦直後](/yoakero/20071205/p1)
+
+
+
+最近のコメント
+
+  * [2007-02-24](/yoakero/20070224#c) Jana
+  * [2007-02-24](/yoakero/20070224#c) Natalya
+  * [2007-02-24](/yoakero/20070224#c) Diego
+  * [2007-02-02](/yoakero/20070202#c) Stefan
+  * [2007-02-24](/yoakero/20070224#c) Katherine
+
+
+
+[最新日記一覧](/diarylist)
+
+  * [PTA概論](/hajic/)
+  * [烏兎紀](/TimeTide/)
+  * [フリーシェアワールド・エクスプローラ](/Erlkonig/)
+  * [深淵ランダムドア](/Corundum/)
+  * [相対引用フリッカー](/hakuma/)
+  * [流星ドライブ](/bigi_mixi/)
+  * [ゆら描き絵保管庫](/orangestar/)
+  * [amogataの日記](/amogata/)
+  * [ゆらゆら](/kashmir108/)
+  * [我がとうそう](/runa_way/)
+  * [快楽と衆目](/homiya/)
+  * [蒼い空の夜明け](/yoakero/)
+  * [さよならフラベウファ](/ticktacks/)
+  * [脚のないはてなガラス（BoB flicker side）](/crow_henmi/)
+  * [只今きょむはゆらいでおります](/dottokyom/)
+  * [パンゲオ・テクニカ](/BELive/)
+  * [逆さに落ちた日](/rakujitu/)
+  * [分断されて、再度](/dario04/)
+  * [虎すぐるの日記](/trsgr/)
+  * [編者の記録](/flick2/)
+  * [これはだいぶにせものです](/firestorm/)
+  * [ゆらぎ市立図書館書庫](/sillat/)
+  * [ファイアマインドの住み処](/Niv-Mizzet/)
+  * [nukosukiの日記](/nukosuki/)
+  * [世界最終舞踏](/the-last-dance/)
+  * [der Lichtstrahl](/itnullpo/)
+  * [勝手に使うがいいよ](/Rikerike/)
+  * [正弦](/firstheaven/)
+  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [増田伊織の冒険](/iorimasuda/)
+  * [雲上神話](/sinden/)
+
+
+
+カウンター
+
+119885

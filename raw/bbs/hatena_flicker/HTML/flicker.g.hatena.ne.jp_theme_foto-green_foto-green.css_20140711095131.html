@@ -1,0 +1,680 @@
+@charset "euc-jp";
+
+body {
+  background:#EBF1E7;
+  margin:0;
+  padding:0;
+  font-family:"arial", "helvetica", sans-serif;
+  text-align:center;
+}
+
+input,textarea {
+  border:1px solid #cdcdcd;
+  background:#fff;
+}
+
+textarea {
+  width:100%;
+}
+
+a {
+  color:#2A6B01;
+}
+
+a:visited {
+  color:#4B8923;
+}
+
+a.keyword,a.keyword:visited, a.okeyword,a.okeyword:visited {
+  color:#333;
+  text-decoration:none;
+}
+
+a.keyword:hover, a.okeyword:hover {
+  text-decoration:underline;
+}
+
+img {
+  border: none;
+}
+
+form {
+  display:inline;
+}
+
+div#simple-header,div.adminmenu {
+  width:860px;
+  margin:0 auto;
+  background:#399503 url(simple-header.jpg) top center no-repeat;
+  color:#fff;
+  height:21px;
+ _height:36px;
+ *height:36px;
+  overflow:hidden;
+}
+
+div#simple-header input {
+	color:#fff;
+}
+
+div.adminmenu {
+  text-align:right;
+  font-size:80%;
+  padding-top:10px;
+  height:26px;
+ _height:36px;
+ *height:36px;
+}
+
+div.adminmenu a, div.adminmenu a:visited{
+  color:#fff;
+  margin-right:10px;
+}
+
+
+div#simple-header ul.menu li a{
+  color:#fff;
+}
+
+div#simple-header input.search-word,div#simple-header input.search-button,div#simple-header input.search-button-keyword  {
+  background:transparent;
+  border:1px solid #a2e877;
+}
+
+h1 {
+  color:#fff;
+  text-align:left;
+  width:860px;
+  letter-spacing:-1px;
+  padding:55px 0 0 0;
+  height:95px;
+ _height:150px;
+ *height:150px;
+  margin:0 auto;
+  text-indent:45px;
+  background:#326509 url('h1.jpg') center top no-repeat;
+}
+
+h1 a,h1 a:visited{
+  color:#fff;
+}
+
+div.hatena-body {
+  margin:0 auto;
+  text-align:left;
+  width:860px;
+  background:#fff;
+  zoom:1;
+}
+
+div.hatena-body:after {
+  content:"";
+  display:block;
+  clear:both;
+}
+
+div.day {
+  zoom:1;
+  padding-bottom:20px;
+  padding-left:15px;
+  padding-right:15px;
+  clear:both;
+}
+
+div.day:after {
+  content:"";
+  display:block;
+  clear:both;
+}
+
+div.calendar {
+  padding:15px 15px 3px 7px;
+ _padding-bottom:10px;
+ *padding-bottom:13px;
+  text-align:right;
+  font-size:80%;
+  overflow:hidden;
+}
+
+h2 {
+  font-size:90%;
+  background:url(h2.gif) left top no-repeat;
+  padding:7px;
+  color:#fff;
+  position:relative;
+}
+
+div.main h2 {
+  background:url(h2-main.gif) left top no-repeat;
+}
+
+h2 a,h2 a:visited{
+  color:#fff;
+  text-decoration:none;
+}
+
+h2 a.edit {
+  position:absolute;
+  top:6px;
+  right:6px;
+  font-weight:normal;
+}
+
+div.body img.photo {
+  float:right;
+  margin:10px 0 15px 15px;
+  margin-bottom:10px;
+  margin-left:10px;
+}
+
+div.section {
+  margin:0;
+  padding:5px 0 25px 0;
+  font-weight:normal;
+  color:#333;
+  line-height:1.7;
+}
+
+div.section h3 {
+  font-size:105%;
+  margin:0;
+  line-height:1.35;
+}
+
+div.section h3.title {
+  padding:3px 0 1px 10px;
+  border-left:7px solid #3c8b09;
+
+}
+
+div.section h3 a{
+  text-decoration:none;
+  color:#333;
+}
+
+div.section h3 a.editinplace {
+  margin:0 5px;
+  color:#999;
+  font-size:80%;
+}
+
+div.section h3 span img{
+  vertical-align:middle !important;
+  margin-bottom:4px !important;
+}
+
+div.section p.sectionheader {
+  text-align:left;
+  border-left:7px solid #3c8b09;
+  padding:3px 0 7px 10px;
+  font-size:80%;
+  margin-bottom:5px;
+}
+
+div.section p.sectionfooter {
+  text-align:right;
+  font-size:90%;
+}
+
+div.section h4 {
+  margin:15px 0 7px 0;
+  padding:0 0 2px 0;
+  font-size:100%;
+  border-bottom:1px dotted #3c8b09;
+}
+
+div.section h5 {
+  margin:15px 0 7px 0;
+  padding:0 0 2px 0;
+  font-size:100%;
+}
+
+div.section p {
+  margin:0;
+  padding:4px 0 7px 0;
+}
+
+div.section ul, div.section ol {
+  margin:5px 0 10px 20px;
+  padding-left:0;
+}
+
+div.section table {
+  margin:7px 0 15px 0;
+  border:1px solid #d7d596;
+  border-collapse:collapse;
+}
+
+div.section table th{
+  background:#f0eeb3;
+  border:1px solid #d7d596;
+  padding:5px 7px;
+  width:20%;
+  text-align:center;
+  font-size:90%;
+  white-space:nowrap;
+}
+
+div.section table td{
+  background:#fff;
+  padding:5px 7px;
+  border:1px solid #d7d596;
+}
+
+div.section table td input.txt{
+  padding:3px;
+}
+
+div.section table td input.channel-title{
+  font-weight:bold;
+  font-size:100%;
+}
+
+div.section table td ul {
+  list-style:none;
+  margin-left:0;
+}
+
+div.section blockquote {
+  margin:10px 0;
+  border:1px solid #d7d596;
+}
+
+div.section blockquote p{
+  margin:0 10px 0 10px;
+}
+
+div.section blockquote cite {
+  font-size:90%;
+  padding-left:3px;
+  padding-bottom:2px;
+}
+
+div.section pre {
+  wdith:100%;
+  overflow:auto;
+  background:#f0eeb3;
+  border:1px solid #d7d596;
+  padding:5px;
+  font-size:80%;
+  margin:10px 0;
+}
+
+div.section img.hatena-fotolife{
+  max-width: 825px;
+}
+
+div.main div.section img.hatena-fotolife {
+  max-width: 580px;
+}
+
+div.footnote {
+  margin:0;
+  padding:5px 25px 15px 0;
+  line-height:1.7;
+  clear:both;
+  font-size:80%;
+}
+
+div.ad {
+  margin:10px 0 15px o;
+}
+
+div.comment,div.refererlist {
+  margin:0;
+  padding:5px 0 10px 0;
+  color:#333;
+  font-weight:normal;
+}
+
+div.main div.comment, div.main div.refererlist {
+  overflow:hidden;
+  width:585px;
+}
+
+div.caption {
+  padding:7px ;
+ _padding-bottom:10px;
+ *padding-bottom:10px;
+  font-size:90%;
+  background:url(comment.gif) left top no-repeat;
+}
+
+div.main div.caption {
+  background:url(comment-main.gif) left top no-repeat;
+}
+
+div.caption a{
+}
+
+div.comment div.commentshort p{
+  margin:10px 0;
+  padding:0 0 10px 0;
+  border-bottom:1px solid #efefef;
+}
+
+div.comment div.commentshort p.commentform{
+  border-bottom:none;
+}
+
+div.comment div.commentshort span.commentator {
+  font-size:80%;
+}
+
+div.comment div.commentshort span.commentator {
+  font-weight:bold;
+  text-decoration:none;
+}
+
+div.comment div.commentshort span.commentator a{
+  color:#333;
+}
+
+div.comment div.commentshort span.commentator img.hatena-id-icon{
+  margin-right:2px;
+}
+
+div.comment div.commentshort span.commentator input {
+  margin-bottom:5px;
+  margin-right:5px;
+  vertical-align:middle;
+}
+
+div.comment div.commentshort span.commentator img {
+  vertical-align:middle;
+  margin-bottom:3px;
+}
+
+div.comment div.commentshort p span.commentbody{
+  font-size:80%;
+  line-height:1.5;
+}
+
+div.comment textarea {
+  margin-bottom:5px;
+}
+
+div.refererlist ul {
+  font-size:80%;
+  list-style-type:circle;
+  margin:0 0 0 20px;
+  padding:15px 0 10px 0;
+}
+
+div.refererlist ul li{
+  padding-bottom:4px;
+}
+
+div.section div.hatena-asin-detail {
+  margin:0 0 5px 0;
+  border:1px solid #d7d596;
+  padding:7px;
+}
+
+div.section img.hatena-asin-detail-image{
+  float:left;
+  margin:7px 15px 10px 7px;
+}
+
+div.section p.hatena-asin-detail-title {
+  margin:0;
+  padding:0;
+}
+
+div.section div.hatena-asin-detail-info ul{
+  list-style:none;
+  font-size:80%;
+  margin:5px 0 0 0;
+  padding:0;
+}
+
+div.section div.hatena-asin-detail-foot {
+  clear:both;
+}
+
+div.main {
+  width:615px;
+  overflow:hidden;
+  float:left;
+  font-size:90%;
+  padding-bottom:15px;
+}
+
+div.main table{
+  font-size:90%;
+}
+
+div.main div.section p {
+  padding-top:3px;
+  padding-bottom:6px;
+}
+
+div.sidebar {
+  width:241px;
+  overflow:hidden;
+  float:right;
+}
+
+div.sidebar div.hatena-module{
+  margin-top:15px;
+  padding-bottom:11px;
+  background:#f0eeb3 url(hatena-module.gif) left bottom no-repeat;
+  overflow:hidden;
+  margin-right:15px;
+ _width:226px;
+ *width:226px;
+}
+
+div.sidebar div.hatena-moduletitle {
+  background:url(hatena-moduletitle.gif) left top no-repeat;
+  color:#FFFFFF;
+  font-size:80%;
+  margin:0;
+  padding:12px 0 2px 14px;
+ _padding-top:13px;
+ *padding-top:13px;
+}
+
+div.sidebar div.hatena-moduletitle a{
+  color:#fff;
+}
+
+div.sidebar div.hatena-modulebody {
+  background:url(hatena-modulebody.gif) left top no-repeat;
+  padding:15px 6px 2px 6px;
+  zoom:1;
+  line-height:1.35;
+}
+
+div.sidebar div.hatena-modulebody:after {
+  clear:both;
+  content:"";
+  display:block;
+}
+
+div.sidebar div.hatena-module ul{
+  margin:0;
+  padding:0;
+  border-top:1px solid #E4E29A;
+  list-style:none;
+  font-size:80%;
+}
+
+div.sidebar div.hatena-module ul li{
+  padding:5px 3px;
+  border-bottom:1px solid #E4E29A;
+}
+
+div.sidebar div.hatena-module ul.hatena-photo {
+  border-top:0;
+  margin-left:3px;
+}
+
+div.sidebar div.hatena-module ul.hatena-photo li{
+  border-bottom:0;
+  padding:0;
+  width:64px;
+  margin:0 3px;
+  height:64px;
+  float:left;
+}
+
+div.sidebar div.hatena-module ul.keywordcloud {
+  border-top:0;
+}
+
+div.sidebar div.hatena-module ul.keywordcloud li{
+  border-bottom:0;
+}
+
+div.sidebar div.hatena-module dl {
+  margin:0;
+  padding:0 3px;
+  font-size:80%;
+  border-top:1px solid #E4E29A;
+}
+
+div.sidebar div.hatena-module dt {
+  margin:0;
+  padding:5px;
+}
+
+div.sidebar div.hatena-module dd {
+  margin:0;
+  padding:5px;
+  border-bottom:1px solid #E4E29A;
+}
+
+div.sidebar div.hatena-module p{
+  margin:0;
+  padding:0;
+  font-size:80%;
+}
+
+div.sidebar div.hatena-module p.hatena-profile-image {
+  float:left;
+  margin-right:10px;
+  margin-bottom:10px;
+}
+
+div.sidebar div.hatena-module p.hatena-profile-id {
+  font-weight:bold;
+  padding-bottom:3px;
+}
+
+div.sidebar div.hatena-module span.hatena-counter {
+  font-size:80%;
+  font-weight:bold;
+}
+
+div.sidebar div.hatena-module table.calendar {
+  width:190px;
+  margin:0 auto;
+ _margin-left:10px;
+ *margin-left:10px;
+  font-size:80%;
+  text-align:center;
+  border-collapse:collapse;
+}
+
+div.sidebar div.hatena-module table.calendar td{
+  border:1px solid #E4E29A;
+  padding:3px 5px;
+}
+
+div.sidebar div.hatena-module table.calendar td img{
+  width:12px;
+  height:12px;
+}
+
+div.sidebar div.hatena-module table.calendar td.day-today{
+  background:#fff;
+}
+
+div.sidebar div.hatena-module table.calendar td.day-today a, div.sidebar div.hatena-module table.calendar td.day-today a:visited{
+}
+
+div.sidebar div.hatena-module table.calendar td.calendar-current-month ,div.sidebar div.hatena-module table.calendar td.calendar-next-month ,div.sidebar div.hatena-module table.calendar td.calendar-prev-month {
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  padding-top:0;
+  padding-bottom:7px;
+}
+
+div.sidebar div.hatena-module table.calendar td.calendar-weekday,div.sidebar div.hatena-module table.calendar td.calendar-saturday ,div.sidebar div.hatena-module table.calendar td.calendar-sunday {
+  background:#E4E29A;
+}
+
+div.sidebar form.hatena-searchform {
+  font-size:80%;
+}
+
+div.sidebar form.hatena-searchform input.searchform-word {
+  margin-right:3px;
+}
+
+.hatena-star-add-button-image {
+  background-image: url(http://s.hatena.ne.jp/images/add_dg.gif);
+}
+
+.hatena-star-comment-button-image {
+  background-image: url(http://s.hatena.ne.jp/images/comment_dg.gif);
+}
+
+
+#hatena-about ul.hatena-profile-list{
+  margin-left:0;
+  padding-left:0;
+}
+
+p.message {
+  padding:10px;
+  margin:0;
+}
+
+div#hatena-about {
+  padding-top:20px;
+}
+
+/* tweet */  
+
+div.twitter-tweet, 
+div.twitter-detail {
+  margin-top:0;
+  margin-bottom:0;
+  border-bottom:1px solid #efefef;
+}
+
+div.main div.twitter-tweet p.twitter-tweet-text, 
+div.main div.twitter-detail p.twitter-detail-text,
+div.twitter-tweet p.twitter-tweet-text, 
+div.twitter-detail p.twitter-detail-text {
+  margin:0;
+  padding-top:7px;
+  padding-bottom:0;
+}
+
+div.main div.twitter-tweet p.twitter-tweet-info, 
+div.main div.twitter-detail p.twitter-detail-info, 
+div.twitter-tweet p.twitter-tweet-info, 
+div.twitter-detail p.twitter-detail-info {
+  color:#999999;
+  font-size:80%;
+  padding-top:0;
+  padding-bottom:6px;
+}
+div.twitter-detail div.twitter-detail-user img {
+  margin-top:6px;
+}
+
+div.twitter-tweet p.twitter-tweet-info a, 
+div.twitter-detail p.twitter-detail-info a{
+  color:#999999;
+  text-decoration:none;
+}
+
+div.twitter-tweet p.twitter-tweet-info a:hover, 
+div.twitter-detail p.twitter-detail-info a:hover{
+  text-decoration:underline;
+}

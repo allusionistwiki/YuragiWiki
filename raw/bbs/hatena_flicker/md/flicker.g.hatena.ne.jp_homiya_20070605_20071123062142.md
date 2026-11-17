@@ -1,0 +1,156 @@
+[![Hatena::](/images/hatena-simple_sp.gif)](http://www.hatena.ne.jp/)[![Group](/images/group-simple_sp.gif)](http://g.hatena.ne.jp/)[![flicker](/images/group/flicker/flicker_slim_sp.gif)](/)
+
+  * [トップ](/)
+  * [最新の日記](/homiya/)
+  * [ユーザー登録](https://www.hatena.ne.jp/register?location=http%3A%2F%2Fg.hatena.ne.jp%2F)
+  * [ヘルプ](http://g.hatena.ne.jp/help)
+
+
+
+#  Nomuet Ｓpieriaus [![このページをアンテナに追加](/images/a_append_sp.gif)](http://a.hatena.ne.jp/append?http://flicker.g.hatena.ne.jp/homiya/) [![RSSフィード](/images/rss_sp.gif)](/homiya/rss2)
+
+[<前の日](./20070603) | [次の日>](./20070609)
+
+## [06/05](/homiya/20070605)毎日更新はさすがに無理
+
+### [■](http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983) [[記述](/homiya/?word=%2a%5b%e8%a8%98%e8%bf%b0%5d)][[戯言](/homiya/?word=%2a%5b%e6%88%af%e8%a8%80%5d)]ゆらぐ貴方の微笑みは 01:29 [![このエントリーを含むブックマーク](/images/b_entry_sp.gif)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983) [![](http://b.hatena.ne.jp/entry/image/http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983)](http://b.hatena.ne.jp/entry/http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983) ![このエントリーのブックマークコメント](http://r.hatena.ne.jp/images/popup.gif)
+
+  
+
+
+> みにとまとー。
+> 
+>   
+> 
+> 
+> エクリエッテ
+
+  
+  
+
+
+＝この記述にコメントはありません
+
+  
+  
+  
+  
+
+
+#### 【号】を、緑の君と･･････
+
+  
+
+
+トマトがどこから伝来したものなのか、知る者はもはやこの時代には少ないとか、皆無だとか、
+
+そんなことがまことしやかに囁かれているのだが、実際はそんなことは無くきちんと文献に残っている。
+
+  
+
+
+しかし文献のあるという神々の書庫、最果てのゼオータイルには何人たりとも近寄ることは許されず、したがってそれを確認する術はないのだが。
+
+  
+
+
+絶望的な状況の中、トマトの由来を確かめるべく、一人の少女が立ち上がった。
+
+名をエクリエッテ。
+
+キュトスの姉妹が第二十、緑の君＜The Green＞エクリエッテ・アーベントロート。
+
+ティリビナの夕焼け姫とは彼女のことである。
+
+  
+
+
+さてこのエクリエッテ、思い立ったら即行動が信条というなかなかアグレッシヴな少女である。
+
+植物のことならばその情熱は人一倍、それが好物のトマトならなおさらの事。
+
+トマトの来歴を調べるため、単身最果てのゼオータイルに旅立つエクリエッテである。
+
+[コメントを書く](/homiya/comment?date=20070605#c)
+
+トラックバック - http://flicker.g.hatena.ne.jp/homiya/20070605
+
+
+
+
+[<前の日](./20070603) | [次の日>](./20070609)
+
+[最新タイトル](/homiya/archive)
+
+  * [[戯言][記述]軸線と披見](/homiya/20071115/1195134666)
+  * [[戯言][記述][猫]が我輩である。名前も既にある。](/homiya/20070913/1189666015)
+  * [[戯言][記述][猫]貴方は猫派ですか竜派ですか。私は犬派です。](/homiya/20070910/1189420628)
+  * [[記述][戯言]定番のお題](/homiya/20070901/1188631927)
+  * [[記述][戯言]パロディにすらならない言葉遊びを考えるという事は疲労を蓄積させることはないけれど面倒ではある](/homiya/20070831/1188565020)
+
+
+
+最近のコメント
+
+  * [2007-11-15](/homiya/20071115#c) 言理の妖精
+  * [2007-06-29](/homiya/20070629#c) 言理の幼生
+  * [2007-01-17](/homiya/20070117#c) Cruninov
+  * [2006-09-23](/homiya/20060923#c) aｓ-夷32
+  * [2007-01-17](/homiya/20070117#c) Vikari
+
+
+
+最近のトラックバック
+
+  * [2007-09-10](/homiya/20070910#tb) [烏兎紀 - [記述]](http://flicker.g.hatena.ne.jp/TimeTide/20071115/1195090511)
+  * [2007-09-10](/homiya/20070910#tb) [烏兎紀 - 2007-11-15](http://flicker.g.hatena.ne.jp/TimeTide/20071115)
+  * [2007-09-13](/homiya/20070913#tb) [はてなグループ - ゆらぎの神話 ポータル - 運...](http://flicker.g.hatena.ne.jp/keyword/%e9%81%8b%e5%96%b6%3a%3a%e5%90%8d%e7%b0%bf?kid=617)
+  * [2006-09-19](/homiya/20060919#tb) [我がとうそう - [感想][犬と少女は荒野を歩く]...](http://flicker.g.hatena.ne.jp/runa_way/20070614/1181792921)
+  * [2007-06-03](/homiya/20070603#tb) [はてなグループ - ゆらぎの神話 ポータル - 運...](http://flicker.g.hatena.ne.jp/keyword/%e9%81%8b%e5%96%b6%3a%3a%e5%90%8d%e7%b0%bf?kid=617)
+
+
+
+[最新日記一覧](/diarylist)
+
+  * [深淵ランダムドア](/Corundum/)
+  * [ファイアマインドの住み処](/Niv-Mizzet/)
+  * [脚のないはてなガラス（BoB flicker side）](/crow_henmi/)
+  * [蒼い空の夜明け](/yoakero/)
+  * [ゆらぎ市立図書館書庫](/sillat/)
+  * [Nomuet Ｓpieriaus](/homiya/)
+  * [烏兎紀](/TimeTide/)
+  * [K.626](/vancat/)
+  * [我がとうそう](/runa_way/)
+  * [パンゲオ・テクニカ](/BELive/)
+  * [逆さに落ちた日](/rakujitu/)
+  * [フリーシェアワールド・エクスプローラ](/Erlkonig/)
+  * [KIYURAの日記](/KIYURA/)
+  * [流星ドライブ](/bigi_mixi/)
+  * [PTA概論](/hajic/)
+  * [ゆら描き-絵保管庫-](/orangestar/)
+  * [相対引用フリッカー](/hakuma/)
+  * [正弦](/firstheaven/)
+  * [『ヘスティアに土産話を』跡地](/bothhands/)
+  * [これはだいぶにせものです](/firestorm/)
+  * [さよならフラベウファ](/ticktacks/)
+  * [ゆらゆら](/kashmir108/)
+  * [紀人教ヲチ室](/yugui/)
+  * [増田伊織の冒険](/iorimasuda/)
+  * [雲上神話](/sinden/)
+
+
+
+[最新キーワード](/keywordlist)
+
+  * [神話を記述する際には](/keyword/%e7%a5%9e%e8%a9%b1%e3%82%92%e8%a8%98%e8%bf%b0%e3%81%99%e3%82%8b%e9%9a%9b%e3%81%ab%e3%81%af)
+  * [聖ゾロイップ・理](/keyword/%e8%81%96%e3%82%be%e3%83%ad%e3%82%a4%e3%83%83%e3%83%97%e3%83%bb%e7%90%86)
+  * [サクリファイア](/keyword/%e3%82%b5%e3%82%af%e3%83%aa%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2)
+  * [ゆらぎの神話::ABOUT/まず最初にお読みください](/keyword/%e3%82%86%e3%82%89%e3%81%8e%e3%81%ae%e7%a5%9e%e8%a9%b1%3a%3aABOUT/%e3%81%be%e3%81%9a%e6%9c%80%e5%88%9d%e3%81%ab%e3%81%8a%e8%aa%ad%e3%81%bf%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84)
+  * [あわあわ](/keyword/%e3%81%82%e3%82%8f%e3%81%82%e3%82%8f)
+  * [運営::「ゆらぎの神話」について](/keyword/%e9%81%8b%e5%96%b6%3a%3a%e3%80%8c%e3%82%86%e3%82%89%e3%81%8e%e3%81%ae%e7%a5%9e%e8%a9%b1%e3%80%8d%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6)
+  * [快楽と衆目](/keyword/%e5%bf%ab%e6%a5%bd%e3%81%a8%e8%a1%86%e7%9b%ae)
+  * [リーデ・ヘルサル](/keyword/%e3%83%aa%e3%83%bc%e3%83%87%e3%83%bb%e3%83%98%e3%83%ab%e3%82%b5%e3%83%ab)
+  * [運営::名簿](/keyword/%e9%81%8b%e5%96%b6%3a%3a%e5%90%8d%e7%b0%bf)
+  * [リスト::キュトスの姉妹](/keyword/%e3%83%aa%e3%82%b9%e3%83%88%3a%3a%e3%82%ad%e3%83%a5%e3%83%88%e3%82%b9%e3%81%ae%e5%a7%89%e5%a6%b9)
+
+

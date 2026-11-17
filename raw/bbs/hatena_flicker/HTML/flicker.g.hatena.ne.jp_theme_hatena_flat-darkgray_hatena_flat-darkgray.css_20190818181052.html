@@ -1,0 +1,621 @@
+@charset "euc-jp";
+/*
+base
+ */      
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box ;
+  -moz-box-sizing: border-box ;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+img{
+  border: 0;
+}
+
+body {
+  text-align: center;
+  line-height: 1.45;
+}
+
+table { 
+  font-size: inherit;
+  font: 100%;
+}
+
+select, input, textarea {
+  font: 99% 
+}
+
+h1,h2,h3,h4,h5,h6,strong,dt,th {
+  font-weight: bold;
+  text-align: left;
+  font-size: 100%;
+}
+
+dl, ul, ol { margin: 1em 0; }
+li ul, li ol { margin: 0; }
+dd, li { margin-left: 1.5em; }
+ul  { list-style-position: outside; }
+p { margin: .6em 0; }
+
+.day { zoom: 1;}
+.day:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.section pre, blockquote {
+  border: 2px solid;
+  padding: .5em;
+  margin: .5em;
+  font-size: 95%;
+}
+
+.section pre {
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+
+.section pre {
+  width: 100%;
+  overflow: auto;
+}
+
+.section table {
+  border-top: 2px solid;
+  border-left: 2px solid;
+}
+
+.section td, .section th {
+  border-right: 2px solid;
+  border-bottom: 2px solid;
+  padding: .5em;
+}
+
+/*
+anchor
+ */
+
+a {
+  word-wrap: break-word;
+}
+
+a:link,
+a:visited,
+a:hover {
+  text-decoration: none;
+}
+
+/*
+header
+ */      
+
+h1 {
+  font-size: 160%;
+  padding:  50px;
+  text-align: left;
+  font-family: arial, helvetica, sans-serif;
+}
+
+/*
+layout
+ */      
+
+div.hatena-body {
+  padding: 0 50px 50px 50px;
+  text-align: left;
+  display: inline-block;
+  width: -moz-available;
+}
+
+div.main {
+  float: left;
+  margin: 0;
+  margin-bottom: 6em;
+  padding-right: 12em;
+}
+
+div.sidebar {
+  margin-left: -13em;
+  width: 13em;
+  float: left;
+  overflow: hidden;
+}
+
+h1, .hatena-body {
+  max-width: 910px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 
+hatena
+ */
+
+img.photo {
+  float: right;
+  margin: 1em;
+}
+
+span.timestamp {
+  font-size: 75%;
+  font-weight: normal;
+}
+
+p.seemore {
+  font-size: 90%;
+  font-weight: bold;
+}
+
+.hatena-asin-detail {
+  font-size: 85%;
+  border: 2px solid;
+  padding: .5em;
+  margin: .5em;
+}
+.hatena-asin-detail p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.hatena-asin-detail ul li {
+  list-style-type: none;
+  list-style-position: outside;
+  padding: 0;
+  margin: 0;
+}
+.hatena-asin-detail ul {
+  padding: 0;
+  margin: 0;
+}
+.hatena-asin-detail-foot {
+  clear: both;
+}
+
+.hatena-asin-detail a img {
+  float: left;
+  margin-right: 1em;
+  position: relative;
+}
+
+.body .footnote {
+  font-size: 85%;
+}
+
+/*
+main
+ */        
+
+h2 {
+  border-bottom: 4px solid;
+  font-family: arial, helvetica, sans-serif;
+  position: relative;
+  text-align: right;
+  width: 100%;
+  height: 1.7em;
+}
+
+h2 .title {
+  position: absolute;
+  left: 0;
+}
+
+div.calendar, div.day {
+  border-right: 4px solid;
+  padding: 0 30px 2em 20px;
+}
+
+div.day {
+  overflow: hidden;
+}
+
+div.section {
+  margin: 0 .5em;
+  letter-spacing: .06em;
+}
+
+div.section h3 {
+  margin: 1em 0 1em -.3em;
+}
+
+.body h3.title {
+    border-left: 9px solid #434858;
+    padding-left: 0.5em;
+    margin-bottom: 0;
+}
+
+.body h3.title a {
+    text-decoration: none;
+    color: #333;
+}
+
+div.section h4 {
+  border-bottom: 2px solid;
+  padding: 0;
+  margin: 1.5em 0 .5em 0;
+}
+
+div.calendar {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: right;
+  font-size: 80%;
+}
+
+div.section blockquote p {
+  margin: 0;
+  padding: 0;
+}
+
+div.section blockquote cite {
+  font-size: 80%;
+  display: block;
+  text-align: right;
+  font-style: italic;
+  margin-bottom: -.5em;
+  font-family: arial, helvetica, sans-serif;
+}
+
+div.section pre, code {
+  font-family: monospace;
+  font-size: 90%;
+}
+
+div.section span.title {
+  font-size: 77%;
+  font-weight: normal;
+} 
+
+.sectionfooter {
+  clear: both;
+  text-align: right;
+  font-size: 80%;
+  padding: 1em 0;
+}
+
+.edit {
+  font-size: 77%;
+  font-weight: normal;
+}
+
+/*
+comment
+ */        
+
+.comment {
+  clear: both;
+}
+
+.caption {
+  border: 1px solid;
+  padding: .2em .5em;
+  margin: 1.5em 0 1em 0;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 85%;
+}
+
+.commentator {
+  font-weight: bold;
+}
+
+.commentshort p {
+  margin: .5em;
+  font-size: 80%;
+}
+
+.refererlist ul {
+  margin: .5em 1em;
+  list-style-type: none;
+  margin: .5em;
+  padding: 0;
+}
+
+.refererlist ul li {
+  font-size: 80%;
+  margin: 0;
+  padding: 0;
+}
+
+.canchor img {
+  vertical-align: middle;
+}
+
+.comment textarea {
+  width: 100%;
+  height: 5em;
+}
+
+/*
+sidebar
+ */        
+
+.sidebar {
+  font-size: 85%;
+}
+
+.hatena-moduletitle {
+  font-weight: bold;
+  border-bottom: 2px solid;
+  padding: 0 0 .1em 0;
+  margin: 0 0 .3em 0;
+}
+
+.hatena-modulebody {
+  margin-bottom: 2em;
+}
+
+.hatena-modulebody ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.hatena-modulebody li {
+  margin: .2em 0;
+  padding: .2em 0;
+  border-bottom: 1px dotted;
+}
+
+table.calendar {
+  width: 100%;
+}
+
+table.calendar td {
+  text-align: center;
+}
+table.calendar td.calendar-current-month {
+  padding: .4em 0;
+}
+
+table.calendar td.calendar-sunday {
+  color: #f66;
+}
+
+table.calendar td.calendar-saturday {
+  color: #66f;
+}
+
+table.calendar td.day-today {
+  font-weight: bold;
+}
+
+table.calendar td img{
+  width: 17px;
+}
+
+a.keywordcloud0 { font-size: .8em }
+a.keywordcloud1 { font-size: .9em }
+a.keywordcloud2 { font-size: 1em }
+a.keywordcloud3 { font-size: 1.1em }
+a.keywordcloud4 { font-size: 1.2em }
+a.keywordcloud5 { font-size: 1.3em }
+a.keywordcloud6 { font-size: 1.4em }
+a.keywordcloud7 { font-size: 1.5em }
+a.keywordcloud8 { font-size: 1.6em }
+a.keywordcloud9 { font-size: 1.7em }
+a.keywordcloud10 { font-size: 1.8em }
+
+/*
+about
+ */
+
+#hatena-about h2 {
+  margin: 0;
+  padding: 1em 0 0 .2em;
+  text-align: left;
+}
+#hatena-about h2 .title {
+  position: relative;
+}
+#hatena-about .hatena-profile-list {
+  list-style-position: inside;
+  list-style-type: none;
+  padding: .5em;
+}
+#hatena-about .hatena-profile-list li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+archive
+ */
+#hatena-archive h2 {
+  padding-bottom: .3em;
+}
+#hatena-archive h2 .title {
+  text-align: left;
+  margin: 0 0 -1.7em .2em;
+}
+
+#hatena-archive div.calendar {
+  text-align: right;
+}
+
+#hatena-archive ul {
+  letter-spacing: .02em;
+  font-size: 100%;
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 0;
+  padding: 0;
+}
+
+#hatena-archive ul li {
+  font-weight: bold;
+  margin: .5em 0 0 0;
+  padding: 0;
+}
+
+#hatena-archive ul ul li {
+  font-weight: normal;
+  margin: 0 0 0 1em;
+  font-size: 95%;
+}
+
+/*
+edit
+ */
+
+.body textarea {
+  margin-top: 1em;
+  width: 100%;
+}
+
+.adminmenu {
+  font-size: 90%;
+  text-align: right;
+  padding: 5px;
+}
+
+.adminmenu span {
+  padding: 5px;
+}
+/*
+colors lightgray
+ */      
+
+/****** link ******/
+.adminmenu a:link,
+.hatena-body a:link {
+  color: #434858;
+}
+
+.hatena-body a.keyword:link,
+.hatena-body a.okeyword:link {
+  color: #444;
+  border-bottom: 1px dotted #ddd;
+}
+
+.adminmenu a:visited,
+.hatena-body a:visited {
+  color: #5e6579;
+}
+
+.adminmenu a:hover,
+.hatena-body a:hover,
+.hatena-body a.keyword:hover,
+.hatena-body a.okeyword:hover {
+  color: #fff;
+  background-color: #6d758f;
+  border: none;
+}
+
+h1,
+h1 a:link,
+h1 a:visited,
+h1 a:hover {
+  color: #434858;
+  border: none;
+  background: transparent;
+}
+
+/****** font ******/
+body {
+  color: #444;
+}
+
+/****** border ******/
+h2,
+.section table,
+.section td,
+.section th,
+div.calendar,
+div.day,
+div.section h4,
+.caption,
+.hatena-asin-detail,
+.section pre,
+.section blockquote,
+.hatena-moduletitle,
+.hatena-modulebody li {
+  border-color: #9a9fae;
+}
+
+/****** background ******/
+.caption, body {
+  background-color: #b1b4bc;
+}
+
+div.calendar, div.day {
+  border-width: 0;
+  background: #fff url(darkgray_bg.gif) top right repeat-y;
+}
+
+/* Hatena-Star */
+
+.hatena-star-comment-button-image {
+  background-image: url("http://s.hatena.ne.jp/images/comment_dg.gif");
+}
+
+.hatena-star-add-button-image {
+  background-image: url("http://s.hatena.ne.jp/images/add_dg.gif");
+}
+
+/* adsense */
+
+.google_color_text { color:#444444; }
+.google_color_link { color:#434858; }
+.google_color_url { color:#444444; }
+.google_color_bg { color:#ffffff; }
+.google_color_border { color:#ffffff; }
+
+/* safari only \*/
+html:\66irst-child div.main {
+  width: auto;
+}
+
+/*\*/ html* div.main {
+  width: auto;
+}
+
+/* tweet */
+
+div.twitter-tweet-wrapper {
+  margin: 1em 0;
+}
+
+div.twitter-tweet,
+div.twitter-detail {
+  margin-top:0;
+  margin-bottom:0;
+  border-bottom:1px solid #eee;
+}
+
+div.twitter-tweet p.twitter-tweet-text,
+div.twitter-detail p.twitter-detail-text {
+  margin:0;
+  padding-top:7px;
+}
+
+div.twitter-tweet p.twitter-tweet-info,
+div.twitter-detail p.twitter-detail-info {
+  color:#999999;
+  font-size:80%;
+  padding-top:0;
+  padding-bottom:6px;
+}
+div.twitter-detail div.twitter-detail-user img {
+  margin-top:6px;
+}
+
+div.twitter-tweet p.twitter-tweet-info a,
+div.twitter-detail p.twitter-detail-info a{
+  color:#999999;
+  text-decoration:none;
+}
+
+div.twitter-tweet p.twitter-tweet-info a:hover,
+div.twitter-detail p.twitter-detail-info a:hover{
+  text-decoration:underline;
+  background: transparent;
+}

@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr"><head><title>一行リレースレッド</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="ゆらぎの神話 BBS 実況 Wiki"/><meta property="og:title" content="一行リレースレッド"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="一行リレースレッド"/><meta name="twitter:description" content="一行リレースレッド 概要 『ゆらぎの神話』における一行リレースレッドの実況記録である。言理の妖精語りて曰く、を筆頭に、ヒグマや一槍斎などのキャラクターが登場し、殺し合いや蟲毒といった要素を含む混沌とした物語が展開された。ルール説明を挟みつつも、テリース川や上井ラナといった世界の根源を示唆する記述へと収束していく様子が実況されている。 流れ g000でヒグマとトルソミニカによる一行リレーが開始され、g001でヒグマが応答した。g002では委員長コーキュネーや先生キュトスが登場し、暴発舌の暴れやキングコブラの襲撃など激しい展開を見せた。g003では義国の名家の令嬢を名乗る語り部が現れ、g004で一..."/><meta property="og:description" content="一行リレースレッド 概要 『ゆらぎの神話』における一行リレースレッドの実況記録である。言理の妖精語りて曰く、を筆頭に、ヒグマや一槍斎などのキャラクターが登場し、殺し合いや蟲毒といった要素を含む混沌とした物語が展開された。ルール説明を挟みつつも、テリース川や上井ラナといった世界の根源を示唆する記述へと収束していく様子が実況されている。 流れ g000でヒグマとトルソミニカによる一行リレーが開始され、g001でヒグマが応答した。g002では委員長コーキュネーや先生キュトスが登場し、暴発舌の暴れやキングコブラの襲撃など激しい展開を見せた。g003では義国の名家の令嬢を名乗る語り部が現れ、g004で一..."/><meta property="og:image:alt" content="一行リレースレッド 概要 『ゆらぎの神話』における一行リレースレッドの実況記録である。言理の妖精語りて曰く、を筆頭に、ヒグマや一槍斎などのキャラクターが登場し、殺し合いや蟲毒といった要素を含む混沌とした物語が展開された。ルール説明を挟みつつも、テリース川や上井ラナといった世界の根源を示唆する記述へと収束していく様子が実況されている。 流れ g000でヒグマとトルソミニカによる一行リレーが開始され、g001でヒグマが応答した。g002では委員長コーキュネーや先生キュトスが登場し、暴発舌の暴れやキングコブラの襲撃など激しい展開を見せた。g003では義国の名家の令嬢を名乗る語り部が現れ、g004で一..."/><meta property="og:image" content="https://allusionistwiki.github.io/YuragiWiki/static/og-image.png"/><meta property="og:image:url" content="https://allusionistwiki.github.io/YuragiWiki/static/og-image.png"/><meta name="twitter:image" content="https://allusionistwiki.github.io/YuragiWiki/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="allusionistwiki.github.io/YuragiWiki"/><meta property="og:url" content="https://allusionistwiki.github.io/YuragiWiki/full/YJ-T097"/><meta property="twitter:url" content="https://allusionistwiki.github.io/YuragiWiki/full/YJ-T097"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="一行リレースレッド 概要 『ゆらぎの神話』における一行リレースレッドの実況記録である。言理の妖精語りて曰く、を筆頭に、ヒグマや一槍斎などのキャラクターが登場し、殺し合いや蟲毒といった要素を含む混沌とした物語が展開された。ルール説明を挟みつつも、テリース川や上井ラナといった世界の根源を示唆する記述へと収束していく様子が実況されている。 流れ g000でヒグマとトルソミニカによる一行リレーが開始され、g001でヒグマが応答した。g002では委員長コーキュネーや先生キュトスが登場し、暴発舌の暴れやキングコブラの襲撃など激しい展開を見せた。g003では義国の名家の令嬢を名乗る語り部が現れ、g004で一..."/><meta name="generator" content="Quartz"/><link href="../index.css?v=dev" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxkNWR4XFxEb3dubG9hZHNcXENvZGVcXFl1cmFnaVdpa2lcXHF1YXJ0elxcY29tcG9uZW50c1xcc3R5bGVzIiwic291cmNlcyI6WyJtZXJtYWlkLmlubGluZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFHRjtFQUNFOzs7QUFLRjtFQUNFO0VBQ0E7OztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBhZGRpbmc6IDJyZW07XG4gICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICB0cmFuc2Zvcm0tb3JpZ2luOiAwIDA7XG4gICAgICB0cmFuc2l0aW9uOiB0cmFuc2Zvcm0gMC4xcyBlYXNlO1xuICAgICAgb3ZlcmZsb3c6IHZpc2libGU7XG4gICAgICBtaW4taGVpZ2h0OiAyMDBweDtcbiAgICAgIG1pbi13aWR0aDogMjAwcHg7XG5cbiAgICAgIHByZSB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgYm9yZGVyOiBub25lO1xuICAgICAgfVxuXG4gICAgICBzdmcge1xuICAgICAgICBtYXgtd2lkdGg6IG5vbmU7XG4gICAgICAgIGhlaWdodDogYXV0bztcbiAgICAgIH1cbiAgICB9XG5cbiAgICAmID4gLm1lcm1haWQtY29udHJvbHMge1xuICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgYm90dG9tOiAyMHB4O1xuICAgICAgcmlnaHQ6IDIwcHg7XG4gICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgZ2FwOiA4cHg7XG4gICAgICBwYWRkaW5nOiA4cHg7XG4gICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IHJnYmEoMCwgMCwgMCwgMC4xKTtcbiAgICAgIHotaW5kZXg6IDI7XG5cbiAgICAgIC5tZXJtYWlkLWNvbnRyb2wtYnV0dG9uIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHdpZHRoOiAzMnB4O1xuICAgICAgICBoZWlnaHQ6IDMycHg7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgICAgY29sb3I6IHZhcigtLWRhcmspO1xuICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgZm9udC1zaXplOiAxNnB4O1xuICAgICAgICBmb250LWZhbWlseTogdmFyKC0tYm9keUZvbnQpO1xuICAgICAgICB0cmFuc2l0aW9uOiBhbGwgMC4ycyBlYXNlO1xuXG4gICAgICAgICY6aG92ZXIge1xuICAgICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIH1cblxuICAgICAgICAmOmFjdGl2ZSB7XG4gICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDFweCk7XG4gICAgICAgIH1cblxuICAgICAgICAvLyBTdHlsZSB0aGUgcmVzZXQgYnV0dG9uIGRpZmZlcmVudGx5XG4gICAgICAgICY6bnRoLWNoaWxkKDIpIHtcbiAgICAgICAgICB3aWR0aDogYXV0bztcbiAgICAgICAgICBwYWRkaW5nOiAwIDEycHg7XG4gICAgICAgICAgZm9udC1zaXplOiAxNHB4O1xuICAgICAgICB9XG4gICAgICB9XG4gICAgfVxuICB9XG59XG4iXX0= */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js?v=dev" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://allusionistwiki.github.io/YuragiWiki/index.xml"/></head><body data-slug="full/YJ-T097"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">ゆらぎの神話 BBS 実況 Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>検索</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="検索ワードを入力" placeholder="検索ワードを入力"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="ダークモード"><title>ダークモード</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="ライトモード"><title>ライトモード</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="リーダーモード"><title>リーダーモード</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="false" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>(node.children.length>40&amp;&amp;(node.collapsed=!0,node.children=[]),node)&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-134"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>エクスプローラー</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-134" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../full/">full</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>一行リレースレッド</a></div></nav><h1 class="article-title">一行リレースレッド</h1><p class="content-meta"><span class="content-meta-segment"><span>作成 <time datetime="2026-11-17T21:51:03.352Z">2026年11月18日</time></span></span><span class="content-meta-segment"><span>最終更新 <time datetime="2026-11-17T21:56:16.291Z">2026年11月18日</time></span></span><span class="content-meta-segment"><span>51 min read</span></span></p></div></div><article class="popover-hint"><h1 id="一行リレースレッド">一行リレースレッド<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#一行リレースレッド" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="概要">概要<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#概要" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>『ゆらぎの神話』における一行リレースレッドの実況記録である。言理の妖精語りて曰く、を筆頭に、ヒグマや一槍斎などのキャラクターが登場し、殺し合いや蟲毒といった要素を含む混沌とした物語が展開された。ルール説明を挟みつつも、テリース川や上井ラナといった世界の根源を示唆する記述へと収束していく様子が実況されている。</p>
+<h2 id="流れ">流れ<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#流れ" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>g000でヒグマとトルソミニカによる一行リレーが開始され、g001でヒグマが応答した。g002では委員長コーキュネーや先生キュトスが登場し、暴発舌の暴れやキングコブラの襲撃など激しい展開を見せた。g003では義国の名家の令嬢を名乗る語り部が現れ、g004で一槍斎と衆道による槍の修行への誘いが語られた。g005でリレーのルール（一文を短く区切る等）が説明された後、g006ではテリース川と上井ラナを介して世界の根源を仄めかす記述へと至った。</p>
+<h2 id="主要な話題設定">主要な話題・設定<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#主要な話題設定" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>【一行リレー】、【殺し合い】、【蟲毒】、【ヒグマ】、【トルソミニカ】、【先生キュトス】、【キングコブラ】、【義国】、【名家の令嬢】、【一槍斎】、【衆道】、【テリース川】、【上井ラナ】</p>
+<h2 id="注目投稿">注目投稿<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#注目投稿" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>1 (言理の妖精語りて曰く、): 「皆さん71名に、殺し合いをしていただく為です。」
+7 (ヒグマ): 「「クマー」」
+8 (言理の妖精語りて曰く、): 「ガルディエーラ「無理解不能ですのー。」」
+126 (語り部): 「そもそも私、義国の実権ある名家の令嬢だったのでございますが、」
+131 (言理の妖精語りて曰く、): 「「衆生の道、と書いて衆道か。君はなかなか見込みがあるな。私と槍の修行をしないか？君ともっと話したいことがあるのだ……」」
+136 (1): 「錯綜してるからルールを。」</p>
+<hr/>
+<p>raw: YuragiWiki/raw ③④・L0 台帳 <code>L0/runs/20261117T2021_l0c</code></p>
+<h2 id="スレッド原文全文制約なし版">スレッド原文（全文・制約なし版）<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#スレッド原文全文制約なし版" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>原文の著作権は各投稿者に帰属します。出典: YuragiWiki raw（<a href="https://jbbs.shitaraba.net/bbs/read.cgi/movie/7039/97/%EF%BC%89" class="external">https://jbbs.shitaraba.net/bbs/read.cgi/movie/7039/97/）<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</blockquote>
+<p><strong>1</strong> 言理の妖精語りて曰く、 2007-03-18T18:24:33+09:00</p>
+<p>一行づつリレーしていきましょう。</p>
+<p>一行で文章を終わらせる必要はありません。</p>
+<p><strong>2</strong> 言理の妖精語りて曰く、 2007-03-18T18:24:56+09:00</p>
+<p>今宵、皆様を及びいたしましたのは、</p>
+<p><strong>3</strong> 言理の妖精語りて曰く、 2007-03-18T19:32:35+09:00</p>
+<p>他でも在りません。</p>
+<p>皆さん71名に、殺し合いをしていただく為です。</p>
+<p><strong>4</strong> 言理の妖精語りて曰く、 2007-03-18T20:04:24+09:00</p>
+<p>蟲毒、という言葉をご存知でしょうか。</p>
+<p><strong>5</strong> 言理の妖精語りて曰く、 2007-03-18T20:27:21+09:00</p>
+<p>ああっ、しゃべっている途中の先生がヒグマに上半身を吹っ飛ばされた―――ッ！！！</p>
+<p><strong>6</strong> 言理の妖精語りて曰く、 2007-03-18T20:28:41+09:00</p>
+<p>おちつけ、あのヒグマはトルソミニカのお兄様だ。</p>
+<p><strong>7</strong> ヒグマ 2007-03-18T20:28:52+09:00</p>
+<p>「クマー」</p>
+<p><strong>8</strong> 言理の妖精語りて曰く、 2007-03-18T20:29:17+09:00</p>
+<p>ガルディエーラ「無理解不能ですのー。」</p>
+<p><strong>9</strong> 言理の妖精語りて曰く、 2007-03-18T20:32:39+09:00</p>
+<p>そもそもあの先生は何者だったのか、</p>
+<p><strong>10</strong> 言理の妖精語りて曰く、 2007-03-18T20:36:30+09:00</p>
+<p>ビート竹素っていうらしいＺｅ</p>
+<p>タケソな。たけそ。</p>
+<p><strong>11</strong> 言理の妖精語りて曰く、 2007-03-18T20:37:58+09:00</p>
+<p>そんな釣りで俺様が釣られると思うクマー</p>
+<p><strong>12</strong> 言理の妖精語りて曰く、 2007-03-18T20:39:04+09:00</p>
+<p>ヒグマに吹っ飛ばされた私ですが、</p>
+<p><strong>13</strong> 言理の妖精語りて曰く、 2007-03-18T20:39:15+09:00</p>
+<p>おちつけ、と呼びかけているまとめ役っぽいのをまず殺すべきだろう、と相談していた俺らの上にキングコブラがドサドサにょろ―――んッ！？！？</p>
+<p><strong>14</strong> 言理の妖精語りて曰く、 2007-03-18T20:39:26+09:00</p>
+<p>語りはこのまま続けさせていただきましょう。</p>
+<p><strong>15</strong> 言理の妖精語りて曰く、 2007-03-18T20:40:07+09:00</p>
+<p>ああっ、下半身から声を出していた先生が今度はヘビのえさにっ</p>
+<p><strong>16</strong> 言理の妖精語りて曰く、 2007-03-18T20:40:44+09:00</p>
+<p>センセーッ！！！！！</p>
+<p><strong>17</strong> 言理の妖精語りて曰く、 2007-03-18T20:42:03+09:00</p>
+<p>一人でやってろ的に廊下に押し出され、予想外の安全地帯に落ち着いた語り(16歳女)であった。</p>
+<p><strong>18</strong> 言理の妖精語りて曰く、 2007-03-18T20:43:26+09:00</p>
+<p>女か。いいね。ナレーションは少女声に限るってもんだ。でもあんまり高いのはかんべんな。オレ高所恐怖症なんだ。</p>
+<p><strong>19</strong> 言理の妖精語りて曰く、 2007-03-18T20:45:04+09:00</p>
+<p>まて、みんなおちつけ。リレースレッドだろう。一行リレーに集中を……。</p>
+<p><strong>20</strong> 言理の妖精語りて曰く、 2007-03-18T20:46:33+09:00</p>
+<p>先生は全てを語り終える前に自爆した。</p>
+<p><strong>21</strong> 言理の妖精語りて曰く、 2007-03-18T20:46:36+09:00</p>
+<p>その時、銃声がっ！</p>
+<p><strong>22</strong> 言理の妖精語りて曰く、 2007-03-18T20:48:22+09:00</p>
+<p>暴発だ！</p>
+<p>委員長を狙撃しようとしたヤツが暴発をッ</p>
+<p><strong>23</strong> 言理の妖精語りて曰く、 2007-03-18T20:49:14+09:00</p>
+<p>危ない！伏せてください委員長！</p>
+<p><strong>24</strong> 言理の妖精語りて曰く、 2007-03-18T20:50:17+09:00</p>
+<p>見えたぞっ！！</p>
+<p>　　今！　　ヤツは！！　　　舌で引き金を引こうとしていたぁぁぁぁぁ！！！</p>
+<p>間違いなくっ！　　舌が！　　びよーんと伸びて　　だっ！！</p>
+<p><strong>25</strong> 言理の妖精語りて曰く、 2007-03-18T20:51:08+09:00</p>
+<p>うろたえるなっ</p>
+<p>それくらい・・・それくらいオレにだってできらぁぁぁっ！！！！</p>
+<p><strong>26</strong> 言理の妖精語りて曰く、 2007-03-18T20:51:29+09:00</p>
+<p>委員長コーキュネーは手にした洗濯板で悪い子の頭をゴリゴリ削って洗脳もとい再教育します。</p>
+<p><strong>27</strong> 言理の妖精語りて曰く、 2007-03-18T20:52:24+09:00</p>
+<blockquote>
+<blockquote>
+<p>対抗意識を燃やした>>25は４リーデ程突き出した舌を撃ち抜かれた</p>
+</blockquote>
+</blockquote>
+<p><strong>28</strong> 言理の妖精語りて曰く、 2007-03-18T20:53:23+09:00</p>
+<p>だまされるなッ</p>
+<p>そいつは・・・そいつは委員長じゃあないッ！！！！！</p>
+<p>医院長だッ！！！！！！</p>
+<p><strong>29</strong> 言理の妖精語りて曰く、 2007-03-18T20:54:05+09:00</p>
+<p>４リーデって普通人サイズだと思うの。</p>
+<p><strong>30</strong> 言理の妖精語りて曰く、 2007-03-18T20:54:54+09:00</p>
+<p>違いgaわかりmaせn。詳細紀ボンヌ</p>
+<p><strong>31</strong> 言理の妖精語りて曰く、 2007-03-18T20:55:05+09:00</p>
+<p>むしろ短いよ</p>
+<p><strong>32</strong> 言理の妖精語りて曰く、 2007-03-18T20:56:02+09:00</p>
+<p>イ、にアクセントが。</p>
+<p><strong>33</strong> 言理の妖精語りて曰く、 2007-03-18T20:56:30+09:00</p>
+<p>/･･･来る！　　間違いない、俺には分かる、「分かっちまう」んだっ！！！！</p>
+<p>ヤツの「舌」がっ！！！　　空高く、びよーーっん！！！ってよぉっ！　伸び上がってっ！！　　　俺らを狙っていやがるっ！！！！！！</p>
+<p><strong>34</strong> 言理の妖精語りて曰く、 2007-03-18T20:56:58+09:00</p>
+<p>みんな、とりあえず先生を集めて組み立ててみないか。何かわかるかもしれないし。</p>
+<p><strong>35</strong> 言理の妖精語りて曰く、 2007-03-18T20:57:42+09:00</p>
+<blockquote>
+<p>33はスルーされてしまった・・・。</p>
+</blockquote>
+<p><strong>36</strong> 言理の妖精語りて曰く、 2007-03-18T20:58:14+09:00</p>
+<p>先生を、集めて、組み立てる。</p>
+<p>そうか、先生はキュトス</p>
+<p><strong>37</strong> 言理の妖精語りて曰く、 2007-03-18T20:59:22+09:00</p>
+<blockquote>
+<blockquote>
+<p>33は射殺されました。</p>
+</blockquote>
+</blockquote>
+<p><strong>38</strong> 言理の妖精語りて曰く、 2007-03-18T20:59:30+09:00</p>
+<p>とりあえず保健委員は先生を焼却炉に運んどいてね</p>
+<p><strong>39</strong> 言理の妖精語りて曰く、 2007-03-18T20:59:42+09:00</p>
+<p>何はともあれ、</p>
+<p><strong>40</strong> 言理の妖精語りて曰く、 2007-03-18T20:59:50+09:00</p>
+<p>おっけー。</p>
+<p><strong>41</strong> 言理の妖精語りて曰く、 2007-03-18T21:00:31+09:00</p>
+<p>って、箒とちりとりでやんの？</p>
+<p>・・・掃除機ないの？</p>
+<p><strong>42</strong> 言理の妖精語りて曰く、 2007-03-18T21:03:23+09:00</p>
+<p>学校内にクリーチャー進入ぅ〜。</p>
+<p>生徒を取り込んでバイオハザードォ？</p>
+<p>めーでー、めーでぇー、第Ⅰ種緊急警報発令ぇー。衛生班ちゃんと救護しろよぉー。</p>
+<p>ら、らめえええぇ、めくれちゃうよぉ！</p>
+<p><strong>43</strong> 言理の妖精語りて曰く、 2007-03-18T21:04:07+09:00</p>
+<p>ごめん、>>42で一度に書いてしまった</p>
+<p><strong>44</strong> 言理の妖精語りて曰く、 2007-03-18T21:04:07+09:00</p>
+<p>クリーチャーって・・・オレたち？</p>
+<p><strong>45</strong> 言理の妖精語りて曰く、 2007-03-18T21:04:17+09:00</p>
+<p>メクレストレイド！！</p>
+<p><strong>46</strong> 言理の妖精語りて曰く、 2007-03-18T21:04:31+09:00</p>
+<p>らしいな。</p>
+<p><strong>47</strong> 言理の妖精語りて曰く、 2007-03-18T21:04:40+09:00</p>
+<p>全員怪物でしたかそうですか</p>
+<p><strong>48</strong> 言理の妖精語りて曰く、 2007-03-18T21:05:23+09:00</p>
+<p>自称怪物って失笑だよね</p>
+<p><strong>49</strong> 言理の妖精語りて曰く、 2007-03-18T21:05:47+09:00</p>
+<p>ﾌﾟｯ</p>
+<p><strong>50</strong> 言理の妖精語りて曰く、 2007-03-18T21:06:01+09:00</p>
+<p>ボクは中学生時代、脳内設定で自分のことを吸血鬼だと思ってました。</p>
+<p><strong>51</strong> 言理の妖精語りて曰く、 2007-03-18T21:06:49+09:00</p>
+<p>夜の住人、闇の侯爵、暗黒の支配者とか二つ名持ちの特Ａ級ヴァンパイア。</p>
+<p><strong>52</strong> 言理の妖精語りて曰く、 2007-03-18T21:07:33+09:00</p>
+<p>自称鬼か。アウトローを名乗るからにはさぞ気高いのだろうな・・・。うらやましい。</p>
+<p><strong>53</strong> 言理の妖精語りて曰く、 2007-03-18T21:07:44+09:00</p>
+<p>ケイオスブラッドだよオレ</p>
+<p><strong>54</strong> 言理の妖精語りて曰く、 2007-03-18T21:08:15+09:00</p>
+<p>特Ａ、とかって何の分類なんだろうね</p>
+<p><strong>55</strong> 言理の妖精語りて曰く、 2007-03-18T21:09:03+09:00</p>
+<p>その設定今すぐ邪気眼まとめ避難所に晒して来い</p>
+<p><strong>56</strong> 言理の妖精語りて曰く、 2007-03-18T21:09:34+09:00</p>
+<p>いやいや、もったいないからこっちに曝して</p>
+<p><strong>57</strong> 言理の妖精語りて曰く、 2007-03-18T21:10:00+09:00</p>
+<p>いまさら大人気に</p>
+<p><strong>58</strong> 言理の妖精語りて曰く、 2007-03-18T21:10:08+09:00</p>
+<p>とりあえず吸血鬼っぽく日光を嫌っていつも全身真っ黒な服。似合っても居ないサングラスもかけた。</p>
+<p><strong>59</strong> 言理の妖精語りて曰く、 2007-03-18T21:11:40+09:00</p>
+<p>必殺技スレだ！！</p>
+<p><strong>60</strong> 言理の妖精語りて曰く、 2007-03-18T21:11:46+09:00</p>
+<p>血、トマトジュースをいつも飲んで、血っぽくしたり、ちょっとカッターナイフで腕切る真似を周囲に見せ付けた。ドン引きされた。</p>
+<p><strong>61</strong> 言理の妖精語りて曰く、 2007-03-18T21:12:23+09:00</p>
+<p>はなぢが出たときは指とかに塗りたくって舐めた気がする。</p>
+<p><strong>62</strong> 言理の妖精語りて曰く、 2007-03-18T21:15:02+09:00</p>
+<p>ああ、プール(流水)に入るときも先生には「腹痛」と偽り、クラスメイトに「ヴァンパイアは流水を渡れないんだ、俺ってドラキュラ伯爵の子孫〜(単純にかなずち)」とか自己設定を晒した。</p>
+<p><strong>63</strong> 言理の妖精語りて曰く、 2007-03-18T21:15:36+09:00</p>
+<p>体育の時も日光云々で同じ様なこといってた。</p>
+<p><strong>64</strong> 言理の妖精語りて曰く、 2007-03-18T21:16:54+09:00</p>
+<p>学校ではカラコンしたり力が出ない〜的なことを言いふらして授業中寝たり暗黒魔法の呪文を呟いてる姿を目撃されたっけな。</p>
+<p><strong>65</strong> 言理の妖精語りて曰く、 2007-03-18T21:17:17+09:00</p>
+<p>刃物もってたくて、鋏を懐にしのばせようとおもったら冷たくて気持ちよくて、</p>
+<p>パンツの中入れたらちんこ紀持ちよくて</p>
+<p>けどそしたらなんか皮がはさまっていたかった10さいの夏。</p>
+<p><strong>66</strong> 言理の妖精語りて曰く、 2007-03-18T21:18:13+09:00</p>
+<p>夜は百均で買った折りたたみナイフを持って深夜徘徊だ。塾帰りの女子高生に逃げられた。親にばれて怒られた。補導された。</p>
+<p><strong>67</strong> 言理の妖精語りて曰く、 2007-03-18T21:18:50+09:00</p>
+<p>はさみなんか何に使うつもりだったんだ？</p>
+<p><strong>68</strong> 言理の妖精語りて曰く、 2007-03-18T21:18:57+09:00</p>
+<blockquote>
+<blockquote>
+<p>65</p>
+</blockquote>
+</blockquote>
+<p>どこにどう挟まったんだｗｗｗ</p>
+<p><strong>69</strong> 言理の妖精語りて曰く、 2007-03-18T21:19:10+09:00</p>
+<p>とは申しましても、</p>
+<p><strong>70</strong> 言理の妖精語りて曰く、 2007-03-18T21:19:20+09:00</p>
+<p>柄の間だろ。</p>
+<p><strong>71</strong> 言理の妖精語りて曰く、 2007-03-18T21:19:42+09:00</p>
+<p>我が彫刻刀は超聖剣の仮の姿よ・・・</p>
+<p><strong>72</strong> 言理の妖精語りて曰く、 2007-03-18T21:20:20+09:00</p>
+<p>いやぁ、えぐるのはいやぁ。</p>
+<p><strong>73</strong> 言理の妖精語りて曰く、 2007-03-18T21:21:09+09:00</p>
+<p>といったような騒乱がありまして、</p>
+<p><strong>74</strong> 言理の妖精語りて曰く、 2007-03-18T21:21:44+09:00</p>
+<p>結局残りましたのは屍の山でございます。</p>
+<p><strong>75</strong> 言理の妖精語りて曰く、 2007-03-18T21:22:05+09:00</p>
+<p>それはともかく、そんな中二病の奴等がおりなすバトルロワイヤル。</p>
+<p><strong>76</strong> 言理の妖精語りて曰く、 2007-03-18T21:22:30+09:00</p>
+<p>あのときは私も若かった。いや、幼かったのでしょう。でも私にはあの頃がひどく懐かしい……。</p>
+<p><strong>77</strong> 言理の妖精語りて曰く、 2007-03-18T21:22:39+09:00</p>
+<p>よーやく先生集め終わったよー。</p>
+<p><strong>78</strong> 言理の妖精語りて曰く、 2007-03-18T21:23:13+09:00</p>
+<p>ああ、屍の山、か。</p>
+<p><strong>79</strong> 言理の妖精語りて曰く、 2007-03-18T21:23:27+09:00</p>
+<p>あの時を振り返ってみましたら、</p>
+<p><strong>80</strong> 言理の妖精語りて曰く、 2007-03-18T21:24:27+09:00</p>
+<p>ヴァンパイアがヒグマと戦闘を行っていた。凄いね！</p>
+<p><strong>81</strong> 言理の妖精語りて曰く、 2007-03-18T21:40:18+09:00</p>
+<p>それでは一度仕切り直しまして</p>
+<p><strong>82</strong> 言理の妖精語りて曰く、 2007-03-18T21:42:01+09:00</p>
+<p>舌が伸びる下着泥変態狙撃手はどうしたの？</p>
+<p><strong>83</strong> 言理の妖精語りて曰く、 2007-03-18T21:43:25+09:00</p>
+<p>そいつはオレが倒しておいたぜ</p>
+<p><strong>84</strong> 言理の妖精語りて曰く、 2007-03-18T21:44:44+09:00</p>
+<p>ですから、</p>
+<p><strong>85</strong> 言理の妖精語りて曰く、 2007-03-18T21:45:08+09:00</p>
+<p>つまり、</p>
+<p><strong>86</strong> 言理の妖精語りて曰く、 2007-03-18T21:45:31+09:00</p>
+<p>このように、</p>
+<p><strong>87</strong> 言理の妖精語りて曰く、 2007-03-18T21:45:57+09:00</p>
+<p>一言づつの言葉を繋げていくのが、</p>
+<p><strong>88</strong> 言理の妖精語りて曰く、 2007-03-18T21:46:46+09:00</p>
+<p>このスレッドの趣旨であったわけですが、</p>
+<p><strong>89</strong> 言理の妖精語りて曰く、 2007-03-18T21:47:11+09:00</p>
+<p>そういった試みも今は昔、</p>
+<p><strong>90</strong> 言理の妖精語りて曰く、 2007-03-18T21:47:33+09:00</p>
+<p>ちょっとだらだら風味かもしれないけど、</p>
+<p><strong>91</strong> 言理の妖精語りて曰く、 2007-03-18T21:47:57+09:00</p>
+<p>まあこのような感じで、</p>
+<p><strong>92</strong> 言理の妖精語りて曰く、 2007-03-18T21:48:09+09:00</p>
+<p>しかしそうはさせじと、</p>
+<p><strong>93</strong> 言理の妖精語りて曰く、 2007-03-18T21:48:36+09:00</p>
+<p>どっちなのかと思いつつも、</p>
+<p><strong>94</strong> 言理の妖精語りて曰く、 2007-03-18T21:49:11+09:00</p>
+<p>錯綜も味だよなと思いつつ、</p>
+<p><strong>95</strong> 言理の妖精語りて曰く、 2007-03-18T21:49:11+09:00</p>
+<p>のんびりゆっくりやっていければよろしいと思うわけでございます。</p>
+<p><strong>96</strong> 言理の妖精語りて曰く、 2007-03-18T21:49:36+09:00</p>
+<p>あ、一文終わり？</p>
+<p><strong>97</strong> 言理の妖精語りて曰く、 2007-03-18T21:51:02+09:00</p>
+<p>それでは、私の昔の思い出について語ろうと思うわけでございますが、</p>
+<p><strong>98</strong> 言理の妖精語りて曰く、 2007-03-18T21:51:46+09:00</p>
+<p>思いでは昔に決まってるというツッコミは百も承知でして、</p>
+<p><strong>99</strong> 言理の妖精語りて曰く、 2007-03-18T21:52:45+09:00</p>
+<p>お前はガルディエーラか、というのはひょっとしたら褒め言葉やもと噛み締めつつ、</p>
+<p><strong>100</strong> 言理の妖精語りて曰く、 2007-03-18T21:52:46+09:00</p>
+<p>私に下るツッコミの手はあまた、</p>
+<p><strong>101</strong> 言理の妖精語りて曰く、 2007-03-18T21:53:25+09:00</p>
+<p>どれが語り手の言葉なのかも判然とせず、</p>
+<p><strong>102</strong> 言理の妖精語りて曰く、 2007-03-18T21:54:03+09:00</p>
+<p>いえ、それも実は全て私なのかと自問自答し、</p>
+<p><strong>103</strong> 言理の妖精語りて曰く、 2007-03-18T22:02:23+09:00</p>
+<blockquote>
+<blockquote>
+<p>102</p>
+</blockquote>
+</blockquote>
+<p>それ暗に全部自作自演だったということ？</p>
+<p><strong>104</strong> 言理の妖精語りて曰く、 2007-03-18T22:02:55+09:00</p>
+<p>じゃあお前が一人でやればいいだろという声を投げかけるものがいて、</p>
+<p><strong>105</strong> 言理の妖精語りて曰く、 2007-03-18T22:03:35+09:00</p>
+<p>かぶっちまったよ、と頭を抱え、</p>
+<p><strong>106</strong> 言理の妖精語りて曰く、 2007-03-18T22:04:26+09:00</p>
+<p>少なくとも二人はいるようだと安堵しつつ、</p>
+<p><strong>107</strong> 言理の妖精語りて曰く、 2007-03-18T22:04:47+09:00</p>
+<p>そんな日々を生きる私は今日も元気、</p>
+<p><strong>108</strong> 言理の妖精語りて曰く、 2007-03-18T22:05:30+09:00</p>
+<p>これどこで一文終えるのさ、と不安をわずらい始め、</p>
+<p><strong>109</strong> 言理の妖精語りて曰く、 2007-03-18T22:06:10+09:00</p>
+<p>矛盾ｷﾀｺﾚとwktkし、</p>
+<p><strong>110</strong> 言理の妖精語りて曰く、 2007-03-18T22:06:18+09:00</p>
+<p>迷いを断ち切る”ハイショー”との叫びと共に、</p>
+<p><strong>111</strong> 言理の妖精語りて曰く、 2007-03-18T22:06:57+09:00</p>
+<p>断ち切ったフリをして明日を目指す気もして、</p>
+<p><strong>112</strong> 言理の妖精語りて曰く、 2007-03-18T22:07:55+09:00</p>
+<p>とりあえず一文を終える。</p>
+<p><strong>113</strong> 言理の妖精語りて曰く、 2007-03-18T22:08:41+09:00</p>
+<p>じゃあ思い出を語ろうか、</p>
+<p><strong>114</strong> 言理の妖精語りて曰く、 2007-03-18T22:08:46+09:00</p>
+<p>そして時は二大祖国時代、</p>
+<p><strong>115</strong> 言理の妖精語りて曰く、 2007-03-18T22:09:40+09:00</p>
+<p>オレ、祖国の時代の人間だったのかｗとおもいつつ、</p>
+<p><strong>116</strong> 言理の妖精語りて曰く、 2007-03-18T22:18:55+09:00</p>
+<p>富国強兵策を声高に叫ぶお兄様を、</p>
+<p><strong>117</strong> 言理の妖精語りて曰く、 2007-03-18T22:21:05+09:00</p>
+<p>バアルで殴って黙らせました。</p>
+<p><strong>118</strong> 言理の妖精語りて曰く、 2007-03-18T22:27:43+09:00</p>
+<p>「いまお兄様を殴ったのは、あそこに見える双子山のせいです！　いますぐ山を消してください！」</p>
+<p><strong>119</strong> 言理の妖精語りて曰く、 2007-03-18T22:28:49+09:00</p>
+<p>「えー、めんどい」</p>
+<p><strong>120</strong> 言理の妖精語りて曰く、 2007-03-18T22:29:36+09:00</p>
+<p>お兄様は変わってしまわれましたのです。</p>
+<p><strong>121</strong> 言理の妖精語りて曰く、 2007-03-18T22:30:09+09:00</p>
+<p>まぁバールでぶん殴られれば無理もない。</p>
+<p><strong>122</strong> 言理の妖精語りて曰く、 2007-03-18T22:30:52+09:00</p>
+<p>ようやくわたしは、</p>
+<p><strong>123</strong> 言理の妖精語りて曰く、 2007-03-18T22:32:09+09:00</p>
+<p>祖国の過度なる強兵政策を阻止したのでございます。</p>
+<p><strong>124</strong> 言理の妖精語りて曰く、 2007-03-18T22:37:11+09:00</p>
+<p>ハラショー！</p>
+<p><strong>125</strong> 言理の妖精語りて曰く、 2007-03-18T22:38:01+09:00</p>
+<p>・・・ねぇ、一言づつ、ってルールじゃあないの？(汗</p>
+<p><strong>126</strong> 語り部 2007-03-18T22:43:59+09:00</p>
+<p>そもそも私、義国の実権ある名家の令嬢だったのでございますが、</p>
+<p><strong>127</strong> 言理の妖精語りて曰く、 2007-03-18T22:50:00+09:00</p>
+<p>お兄様と「わたし」ってだれ？</p>
+<p><strong>128</strong> 言理の妖精語りて曰く、 2007-03-18T23:48:01+09:00</p>
+<p>一槍斎と妹は義国出身。</p>
+<p><strong>129</strong> 言理の妖精語りて曰く、 2007-03-19T00:03:43+09:00</p>
+<p>剣聖一刀斎と名前こそ似てるが実質は月とスッポンというかお前凡庸だなぁ、とよく言われる。それは認めるが、他人の口から聞かされるのはつらい。</p>
+<p><strong>130</strong> 言理の妖精語りて曰く、 2007-03-19T00:37:24+09:00</p>
+<p>しかし彼は実直な男であった。足りぬ実力を埋めるべく頭を廻らせ、己のうちでなく、外に求めることを思いついた。</p>
+<p><strong>131</strong> 言理の妖精語りて曰く、 2007-03-19T18:41:48+09:00</p>
+<p>それが――――槍。</p>
+<p><strong>132</strong> 言理の妖精語りて曰く、 2007-03-19T19:05:37+09:00</p>
+<blockquote>
+<blockquote>
+<p>131</p>
+</blockquote>
+</blockquote>
+<p>なんて……衆道</p>
+<p><strong>133</strong> 言理の妖精語りて曰く、 2007-03-19T19:46:08+09:00</p>
+<p>「衆生の道、と書いて衆道か。君はなかなか見込みがあるな。私と槍の修行をしないか？君ともっと話したいことがあるのだ……」</p>
+<p><strong>134</strong> 言理の妖精語りて曰く、 2007-03-19T20:00:10+09:00</p>
+<p>あなたには、無知ゆえに思わぬ地獄にはまることがあることを教えておきましょうか。</p>
+<p><strong>135</strong> 言理の妖精語りて曰く、 2007-03-19T21:06:01+09:00</p>
+<p>うほ！　　　　　　　　あー</p>
+<p><strong>136</strong> 1 2007-03-20T15:01:48+09:00</p>
+<p>錯綜してるからルールを。</p>
+<p>「今日はお日柄もよく、」</p>
+<p>「このように盛大な式を挙げられることを」</p>
+<p>「皆様方に感謝したいところですが、」</p>
+<p>「しかしながらこの会場の中に」</p>
+<p>「ネズミが一匹紛れ込んでおる」</p>
+<p>という感じで、一文をさらに短く区切って一レス一レス繋げていく。</p>
+<p>(単に一行の記述を積み重ねるだけなら一行スレで事足りるので)</p>
+<p>横レスを入れたい場合は、名前欄を変えるか何かして流れを切らないようにしたい。</p>
+<p><strong>137</strong> 言理の妖精語りて曰く、 2007-03-20T15:10:13+09:00</p>
+<p>衆道というのは男色の意味もあるらしいが、</p>
+<p><strong>138</strong> 言理の妖精語りて曰く、 2007-03-20T15:12:35+09:00</p>
+<p>俺はもっぱら後者の意味で解釈していたもんだから、</p>
+<p><strong>139</strong> 言理の妖精語りて曰く、 2007-03-20T16:03:09+09:00</p>
+<p>神職関係だと聞いたとき、それは相当な衝撃だった。</p>
+<p><strong>140</strong> 言理の妖精語りて曰く、 2007-03-20T18:25:50+09:00</p>
+<p>そういえば――ところで読点（。←これ）は要らないと思う――このまえ神社に行ったとき、ひどく境内がきれいだったのだが</p>
+<p><strong>141</strong> 言理の妖精語りて曰く、 2007-03-20T19:43:57+09:00</p>
+<p>ただその異様なまでの綺麗さと裏腹に、境内は饐えたような臭いに満ちていたのはどうしたことだろう</p>
+<p><strong>142</strong> 言理の妖精語りて曰く、 2007-03-20T19:59:45+09:00</p>
+<p>「すえたような臭いねぇ……匂う、匂うぜ、ドブ川以下の臭いがぉおおお！」</p>
+<p><strong>143</strong> 言理の妖精語りて曰く、 2007-03-20T20:04:07+09:00</p>
+<p>そう言って、その男はテリース川に飛び込んだのだが</p>
+<p><strong>144</strong> 言理の妖精語りて曰く、 2007-03-20T20:54:38+09:00</p>
+<p>数時間後、上がってきた男は・・・・・</p>
+<p><strong>145</strong> 言理の妖精語りて曰く、 2007-03-20T21:04:19+09:00</p>
+<p>満面に笑みをたたえて、言ったのだ</p>
+<p><strong>146</strong> 言理の妖精語りて曰く、 2007-03-20T21:10:10+09:00</p>
+<p>「おれが、神だ」</p>
+<p><strong>147</strong> 言理の妖精語りて曰く、 2007-03-20T21:11:32+09:00</p>
+<p>「だから、お前たち、願い事を言うといい……ただし、叶えるのはそのうちの一つだけだ」</p>
+<p><strong>148</strong> 言理の妖精語りて曰く、 2007-03-20T21:18:55+09:00</p>
+<p>「そして、俺がかなえるのは俺自身の願いだ。　別にお前達が言った願いはかなえない」</p>
+<p><strong>149</strong> 言理の妖精語りて曰く、 2007-03-20T21:26:03+09:00</p>
+<p>「つまり、あなたはこう言いたいんですね？『願いを叶えたくばそれを俺の欲望と一致させろ』と。」</p>
+<p><strong>150</strong> 言理の妖精語りて曰く、 2007-03-20T21:27:37+09:00</p>
+<p>そんな解釈はしらないよ、と男は嘯いて、頬を薄く染めた</p>
+<p><strong>151</strong> 言理の妖精語りて曰く、 2007-03-20T21:28:45+09:00</p>
+<p>テリース川からは神が生まれるという。かの鉄願神の恩寵だ</p>
+<p><strong>152</strong> 言理の妖精語りて曰く、 2007-03-21T23:07:28+09:00</p>
+<p>と言われていたが</p>
+<p><strong>153</strong> 言理の妖精語りて曰く、 2007-03-21T23:08:40+09:00</p>
+<p>そんな神が生まれるそぶりはいっこうになく</p>
+<p><strong>154</strong> 言理の妖精語りて曰く、 2007-03-21T23:13:10+09:00</p>
+<p>そんな馬鹿なと驚愕した竜が</p>
+<p><strong>155</strong> 言理の妖精語りて曰く、 2007-03-21T23:16:07+09:00</p>
+<p>ならばオレが神だ、と</p>
+<p><strong>156</strong> 言理の妖精語りて曰く、 2007-03-21T23:17:26+09:00</p>
+<p>ものは考えようである。</p>
+<p><strong>157</strong> 言理の妖精語りて曰く、 2007-03-21T23:18:19+09:00</p>
+<p>一文終わりっ！</p>
+<p>はい次っ！</p>
+<p><strong>158</strong> 言理の妖精語りて曰く、 2007-03-21T23:18:28+09:00</p>
+<p>こうして、テリース川から生まれた竜は俺ということになったわけだが</p>
+<p><strong>159</strong> 言理の妖精語りて曰く、 2007-03-21T23:18:58+09:00</p>
+<p>もとい、俺じゃない、オレだったっけか</p>
+<p><strong>160</strong> 言理の妖精語りて曰く、 2007-03-21T23:22:30+09:00</p>
+<p>オレとは西語で牛乳を意味する。</p>
+<p><strong>161</strong> 言理の妖精語りて曰く、 2007-03-21T23:24:08+09:00</p>
+<p>この世界には俺（オレ）を飲み干せるほどの度量が無いらしい……ならばオレ（俺）が</p>
+<p><strong>162</strong> 言理の妖精語りて曰く、 2007-03-21T23:27:47+09:00</p>
+<p>･･･いたた、お腹いたいっ</p>
+<p><strong>163</strong> 言理の妖精語りて曰く、 2007-03-21T23:34:23+09:00</p>
+<p>胃の中で消化されたそれはオーラとなって世界に広がったのだが</p>
+<p><strong>164</strong> 言理の妖精語りて曰く、 2007-03-31T09:28:37+09:00</p>
+<p>やがてその拡散したオーラは、肉片どもによってフィラメントと呼ばれ</p>
+<p><strong>165</strong> 言理の妖精語りて曰く、 2007-03-31T09:49:41+09:00</p>
+<p>露出卿はフィラメントを桃色の結晶に変えた</p>
+<p><strong>166</strong> 言理の妖精語りて曰く、 2007-03-31T11:16:39+09:00</p>
+<p>その結晶は魔石として世界に散らばった</p>
+<p><strong>167</strong> 言理の妖精語りて曰く、 2007-04-08T02:01:28+09:00</p>
+<p>かにみえた</p>
+<p><strong>168</strong> 言理の妖精語りて曰く、 2007-04-08T15:58:12+09:00</p>
+<p>かにに見えた。つまりサハリックは綺麗な桃色の石から生まれた妖精さんだったのね。</p>
+<p><strong>169</strong> 言理の妖精語りて曰く、 2007-04-08T16:23:12+09:00</p>
+<p>と、呟くおネエが一人。その正体は</p>
+<p><strong>170</strong> 言理の妖精語りて曰く、 2007-04-08T16:28:33+09:00</p>
+<p>「だぁめ、いっちゃだめ。」と左の人差し指を唇に添えながら、右手で</p>
+<p><strong>171</strong> 言理の妖精語りて曰く、 2007-04-08T16:28:38+09:00</p>
+<p>上井ラナその人だった</p>
+<p><strong>172</strong> 言理の妖精語りて曰く、 2007-04-08T16:30:39+09:00</p>
+<p>デーデェィア六槍を握り締めた。正体を明かすべきではない、と、言理の妖精は悔やんだ。</p>
+<p><strong>173</strong> 言理の妖精語りて曰く、 2007-04-08T16:38:45+09:00</p>
+<p>デーデェィア六槍が上井ラナその人だったとは、世の中何があるかわかったものではない。</p>
+<p><strong>174</strong> 言理の妖精語りて曰く、 2007-04-09T21:39:30+09:00</p>
+<p>そうやっていつも、彼女（♂）は俺たちを欺くんだな…</p>
+<p><strong>175</strong> 言理の妖精語りて曰く、 2007-04-09T21:42:56+09:00</p>
+<p>(♂)がなにを指し示しているのか非常に気になる</p>
+<p><strong>176</strong> 言理の妖精語りて曰く、 2007-04-09T21:42:59+09:00</p>
+<p>ああそうさ、彼女(♂)はそうしてくすくす笑うんだ。</p>
+<p>そしてそこがいい。</p>
+<p><strong>177</strong> 言理の妖精語りて曰く、 2007-04-09T21:57:35+09:00</p>
+<p>魅力的なのはやはり♂である。♂は、神と人、両方が羨ましがる特別な称号だった。</p>
+<p><strong>178</strong> 言理の妖精語りて曰く、 2007-04-09T22:08:38+09:00</p>
+<p>うほ</p>
+<p><strong>179</strong> 言理の妖精語りて曰く、 2007-04-10T01:09:11+09:00</p>
+<p>UHO</p>
+<p>ユラギ</p>
+<p>フリッカー</p>
+<p>オーガニゼーション</p>
+<p><strong>180</strong> 言理の妖精語りて曰く、 2007-04-10T12:01:35+09:00</p>
+<p>世界の根源に関わる重要なキーワード？</p>
+<p><strong>181</strong> 言理の妖精語りて曰く、 2007-04-12T22:32:24+09:00</p>
+<p>その問いに気付いたものは、全て</p>
+<p><strong>182</strong> 言理の妖精語りて曰く、 2007-04-12T22:52:33+09:00</p>
+<p>自分ではなく大いなる他者によって生かされる。</p>
+<p><strong>183</strong> 言理の妖精語りて曰く、 2007-04-12T22:57:54+09:00</p>
+<p>だが、他者との関連を全て絶ってしまった、あるいは絶たれてしまった者も、世界には存在する。彼らは、</p>
+<p><strong>184</strong> 言理の妖精語りて曰く、 2007-04-12T23:32:34+09:00</p>
+<p>世界の外、宇宙の陰、舞台袖に引き篭もってしまった。</p>
+<p><strong>185</strong> 言理の妖精語りて曰く、 2007-04-13T00:30:44+09:00</p>
+<p>彼らが再び他者との絆を取り戻す方法、それは猫の国で、</p>
+<p><strong>186</strong> 言理の妖精語りて曰く、 2007-04-14T00:01:21+09:00</p>
+<p>鏡の中の世界に戦いを挑むこと。</p>
+<p>しかしそれは、</p>
+<p><strong>187</strong> 言理の妖精語りて曰く、 2007-04-14T18:55:50+09:00</p>
+<p>鏡の向こう側にいる唯一の友人を殺すことでもある。いや、だからこそ</p>
+<p><strong>188</strong> 言理の妖精語りて曰く、 2007-06-26T22:44:06+09:00</p>
+<p>殺る。</p>
+<p>だって大嫌いだもの、鏡に映るあいつはいつだって、</p>
+<p><strong>189</strong> 言理の妖精語りて曰く、 2007-06-26T22:48:42+09:00</p>
+<p>ミッタケはラノベを見下している。</p>
+<p><strong>190</strong> 言理の妖精語りて曰く、 2007-06-26T22:49:37+09:00</p>
+<p>ニャー、書き込む場を間違ったしもた</p>
+<p><strong>191</strong> 言理の妖精語りて曰く、 2007-06-26T22:50:58+09:00</p>
+<p>そう、鏡の向こうのあいつは何時だってこんなふうに馬鹿にしてくるのだ。</p>
+<p>ちくしょう。</p>
+<p>ミッタケめ。</p>
+<p><strong>192</strong> 言理の妖精語りて曰く、 2007-06-27T00:07:37+09:00</p>
+<p>ばか、この部屋は盗聴されているんだぞ…</p>
+<p><strong>193</strong> 言理の妖精語りて曰く、 2007-06-27T20:42:11+09:00</p>
+<p>と、呟くミッタケであった。</p>
+<p>・・・そろそろ登校する時刻だ。</p>
+<p><strong>194</strong> 言理の妖精語りて曰く、 2007-06-27T20:45:19+09:00</p>
+<p>しかしもう彼は２６だ</p>
+<p><strong>195</strong> 言理の妖精語りて曰く、 2007-06-27T20:53:05+09:00</p>
+<p>靴のサイズが。</p>
+<p>どうやら年々縮んでいるらしい。何か病気なのだろうか。</p>
+<p><strong>196</strong> 言理の妖精語りて曰く、 2007-06-27T21:45:23+09:00</p>
+<p>槍も使い物にならない</p>
+<p><strong>197</strong> 言理の妖精語りて曰く、 2007-06-27T21:56:07+09:00</p>
+<p>と自分では思い込んでいた</p>
+<p><strong>198</strong> 言理の妖精語りて曰く、 2007-06-29T22:18:51+09:00</p>
+<p>昔々、どっかの女子が彼に吠えた「延行くんのどこが悪いの！？気に入らないの！岐阜本くん酷いよ！」</p>
+<p><strong>199</strong> 言理の妖精語りて曰く、 2007-06-29T23:32:55+09:00</p>
+<p>ミッタケはにやりにやりと笑いながら「田宮（他の女子の名前）さんの気持ちに気付いていながら</p>
+<p>ウジウジして行動に移そうとしないところが悪いと言っちゃあ悪いところだよね……」と返した。</p>
+<p><strong>200</strong> 言理の妖精語りて曰く、 2007-06-29T23:49:19+09:00</p>
+<p>ミッ「比良くん自身もまんざらな様子でもなかったんだけど、ホントどんな理由があってのことだろうねぇ。」</p>
+<p><strong>201</strong> 言理の妖精語りて曰く、 2007-07-04T23:30:07+09:00</p>
+<p>なにしてるの。急がないとまた遅刻しちゃうわよ。</p>
+<p>・・・母上がお怒りだ。小生少し急ぐとしよう。</p>
+<p><strong>202</strong> 言理の妖精語りて曰く、 2007-07-15T09:31:38+09:00</p>
+<p>通学路で雷に打たれました。</p>
+<p><strong>203</strong> 言理の妖精語りて曰く、 2007-07-15T15:22:25+09:00</p>
+<blockquote>
+<blockquote>
+<p>201</p>
+</blockquote>
+</blockquote>
+<p>じつは上の行がミツタケー。下の行がハハウエー。</p>
+<p><strong>204</strong> 言理の妖精語りて曰く、 2007-07-15T16:37:20+09:00</p>
+<p>おや？雷に打たれたミツタケーの姿がありません。</p>
+<p><strong>205</strong> 言理の妖精語りて曰く、 2007-07-15T17:09:03+09:00</p>
+<p>ミツタケーは避雷針。</p>
+<p><strong>206</strong> 言理の妖精語りて曰く、 2007-07-15T17:10:01+09:00</p>
+<p>避雷針を持っていると雷が避けてくれるものだと思って身に着けていた。</p>
+<p>そして・・・</p>
+<p><strong>207</strong> 言理の妖精語りて曰く、 2007-07-15T17:13:40+09:00</p>
+<p>おめでとう。</p>
+<p>ミツタケーはミツタケ−に成長した。</p>
+<p>さあ学校へ急ごうか。</p>
+<p><strong>208</strong> 言理の妖精語りて曰く、 2007-07-15T20:48:46+09:00</p>
+<p>「雷帝」というあだ名で呼ばれたいのだが、どうだろうか？</p>
+<p><strong>209</strong> 言理の妖精語りて曰く、 2007-07-16T13:02:03+09:00</p>
+<p>自問してみたが、「臣民がいないと帝にはなれないだろう」という脳内議会の結論が出た。</p>
+<p><strong>210</strong> 言理の妖精語りて曰く、 2007-07-16T14:17:24+09:00</p>
+<p>じゃあ、誰かに「雷臣民」というあだ名をつければ？</p>
+<p><strong>211</strong> 言理の妖精語りて曰く、 2007-07-16T14:30:46+09:00</p>
+<p>全力で遠慮された</p>
+<p><strong>212</strong> 言理の妖精語りて曰く、 2007-07-16T17:08:02+09:00</p>
+<p>なので、心の中で呼ぶことにした。</p>
+<p>おや、向こうから登校してきたのは雷臣民１８号の差江崎君だ。</p>
+<p>さて、帝としてどう接するべきか。</p>
+<p><strong>213</strong> 言理の妖精語りて曰く、 2007-07-16T17:16:46+09:00</p>
+<p>「あ、ミカドん。おはようさん。はよせな遅刻やよ」</p>
+<p>考えているうちに向こうから挨拶されてしまった。</p>
+<p>さて、帝としてどのような返答をすべきか。</p>
+<p>･･･ミカドん？</p>
+<p><strong>214</strong> 言理の妖精語りて曰く、 2007-07-16T21:42:36+09:00</p>
+<p>皇帝(すめらぎ・みかど)の愛称か</p>
+<p><strong>215</strong> 言理の妖精語りて曰く、 2007-07-16T21:48:04+09:00</p>
+<p>白王立巾（リッキン・ホワイトキング）の愛称かもよ</p>
+<p><strong>216</strong> 言理の妖精語りて曰く、 2007-07-16T21:49:06+09:00</p>
+<p>ｺｳﾃｲ</p>
+<p>白立</p>
+<p>王巾</p>
+<p><strong>217</strong> 言理の妖精語りて曰く、 2007-07-17T18:33:52+09:00</p>
+<p>ミツタケのクラスにはご両親のネーミングセンスが壊滅的な子が多いようです</p>
+<p><strong>218</strong> 言理の妖精語りて曰く、 2007-07-17T20:14:46+09:00</p>
+<p>苗字は両親の責任ではないので、壊滅的な姓にせめてつりあう名前を、という涙ぐましい親心です</p>
+<p>多分親もそのまた親に対壊滅的姓な名前付けられてると思う</p>
+<p><strong>219</strong> 言理の妖精語りて曰く、 2007-07-17T21:20:24+09:00</p>
+<p>鴉丸金剛という線の細い美少年が平気で存在している。</p>
+<p>ちなみに姓の「鴉丸」は烏丸と違って「からすま」とは読まないので逆に間違えにくい。</p>
+<p><strong>220</strong> 言理の妖精語りて曰く、 2007-07-17T21:30:08+09:00</p>
+<p>リレーしたまえよ君たち</p>
+<p>そう書き込んで、本日のノートとりは終わった。</p>
+<p>午後は体育だ。</p>
+<p>その前に昼食だが。</p>
+<p><strong>221</strong> 言理の妖精語りて曰く、 2007-07-17T23:17:46+09:00</p>
+<p>エレガントな箸遣いを心がけるのが雷帝（グローズヌイ）の嗜みというものだ……</p>
+<p><strong>222</strong> 言理の妖精語りて曰く、 2007-07-18T00:55:47+09:00</p>
+<p>そんな彼を「イワンの馬鹿」と嗤う者あり。</p>
+<p><strong>223</strong> 言理の妖精語りて曰く、 2007-07-18T00:59:47+09:00</p>
+<p>思い切り的を外しているとも知らず。</p>
+<p><strong>224</strong> 言理の妖精語りて曰く、 2007-07-18T09:18:01+09:00</p>
+<p>でも嗤い返したりはしない。(　・´ー・｀)ぼくは優しい雷帝なのさ。</p>
+<p><strong>225</strong> 言理の妖精語りて曰く、 2007-07-18T18:32:03+09:00</p>
+<p>その笑い方がむかつく、と彼は皮肉をいった</p>
+<p><strong>226</strong> 言理の妖精語りて曰く、 2007-07-18T19:00:07+09:00</p>
+<p>「ラノベ」と略称されるこの少年は、</p>
+<p><strong>227</strong> 言理の妖精語りて曰く、 2007-07-18T19:10:35+09:00</p>
+<p>「この比良延行（ひら・のぶゆき）、何者に対しても屈するつもりはないッ！」っていう</p>
+<p><strong>228</strong> 言理の妖精語りて曰く、 2007-07-18T19:32:05+09:00</p>
+<p>わけではなく、</p>
+<p><strong>229</strong> 言理の妖精語りて曰く、 2007-07-18T19:36:41+09:00</p>
+<p>基本的に日和見低姿勢</p>
+<p><strong>230</strong> 言理の妖精語りて曰く、 2007-07-18T19:45:17+09:00</p>
+<p>ともいえず、</p>
+<p><strong>231</strong> 言理の妖精語りて曰く、 2007-07-18T19:47:33+09:00</p>
+<p>自ら事態を煽り場を乱すことすらあるが、</p>
+<p><strong>232</strong> 言理の妖精語りて曰く、 2007-07-18T19:52:39+09:00</p>
+<p>たいていは和を重んじ、</p>
+<p><strong>233</strong> 言理の妖精語りて曰く、 2007-07-19T22:38:57+09:00</p>
+<p>クラスでの人間関係の滑潤剤として活躍した</p>
+<p><strong>234</strong> 言理の妖精語りて曰く、 2007-07-19T23:51:33+09:00</p>
+<p>というほどのこともなく</p>
+<p><strong>235</strong> 言理の妖精語りて曰く、 2007-07-19T23:57:15+09:00</p>
+<p>それでも「実際、俺はあちこち“トガって”るんだぜ。」とやたらに個性をアピール</p>
+<p><strong>236</strong> 言理の妖精語りて曰く、 2007-07-20T00:03:23+09:00</p>
+<p>する級友たちに混じりつつもどこか一線を画し</p>
+<p><strong>237</strong> 言理の妖精語りて曰く、 2007-07-20T14:29:48+09:00</p>
+<p>平和な学級に似つかわしくない異様な雰囲気を放っていた</p>
+<p><strong>238</strong> 言理の妖精語りて曰く、 2007-07-21T02:02:43+09:00</p>
+<p>……それが別に異性を惹きつけたりはしないことにも気付かずに―――</p>
+<p><strong>239</strong> 言理の妖精語りて曰く、 2007-08-04T14:13:53+09:00</p>
+<p>性別関わらず惹きつけていたので気づくはずもなかったのだが。</p>
+<p><strong>240</strong> 言理の妖精語りて曰く、 2007-08-26T15:35:49+09:00</p>
+<p>ところで彼はテーブルトークロールプレイゲームのプレーヤーだった。</p>
+<p><strong>241</strong> 言理の妖精語りて曰く、 2007-08-27T17:38:47+09:00</p>
+<p>絶版になったルールブックやサプリメントを高額で転売する、そんな大人には絶対にならないぞ、と誓っていた。</p>
+<p><strong>242</strong> 言理の妖精語りて曰く、 2007-08-27T21:45:24+09:00</p>
+<p>だって売れるような状態じゃないしね。</p>
+<p>遊びこんで読み込んで、もうボロボロの補修テープだらけ。</p>
+<p><strong>243</strong> 言理の妖精語りて曰く、 2007-10-05T00:01:10+09:00</p>
+<p>かつて、初プレイで『リュベールの稚天使』の群れに襲われた時の恐怖……あれはリアルに迫るものだった。</p>
+<p><strong>244</strong> 言理の妖精語りて曰く、 2007-10-05T01:52:31+09:00</p>
+<p>無駄に関節を初めとする細部が細かく作りこまれていて、新世代機スゲーと思った</p>
+<p><strong>245</strong> 言理の妖精語りて曰く、 2007-10-06T13:17:48+09:00</p>
+<p>旧世代の天使は「質実剛健」を地で行くからね。</p>
+<p>最初見たときは、どうして冷蔵庫に羽が生えてるんだろう？って思ったものさ。</p>
+<p><strong>246</strong> 言理の妖精語りて曰く、 2007-10-07T23:08:05+09:00</p>
+<p>「天使のなかでは時が留まっている」ことのメタファーなのさ。とはかの雷帝少年の弁である。</p>
+<p><strong>247</strong> 言理の妖精語りて曰く、 2007-10-08T14:48:40+09:00</p>
+<p>そーなのさー</p>
+<p><strong>248</strong> 言理の妖精語りて曰く、 2007-12-11T23:37:31+09:00</p>
+<p>どーゆーこっとなっのさー</p>
+<p><strong>249</strong> 言理の妖精語りて曰く、 2007-12-12T00:54:18+09:00</p>
+<p>馬鹿に知恵の実を食べさせても、賢い馬鹿ができるだけだった。いい意味じゃなくてわるい意味の馬鹿。</p>
+<p><strong>250</strong> 言理の妖精語りて曰く、 2007-12-12T19:02:43+09:00</p>
+<p>雷帝「さしずめ僕は“無謬の愚者”といったところかな。」</p>
+<p><strong>251</strong> 言理の妖精語りて曰く、 2007-12-29T23:36:31+09:00</p>
+<p>偶然にもミスらずにすんできただけの馬鹿？いや貴方それこそミスでしょう。</p>
+<p><strong>252</strong> 言理の妖精語りて曰く、 2007-12-29T23:49:40+09:00</p>
+<p>選択語句が高度すぎて伝わりづらかったかな、と。</p>
+<p>仲の比較的良好だった級友に頼んで解説的ツッコミを入れてもらう雷帝であった。</p>
+<p><strong>253</strong> 言理の妖精語りて曰く、 2008-03-08T16:48:49+09:00</p>
+<p>一方その頃、――と入っても光速度観測限界が発生するためにミッタケ少年の位置からでは観測できないのだが――ハザーリャ星人は劣勢巻き返しのための艦隊を編成しつつあった。</p>
+<p><strong>254</strong> 言理の妖精語りて曰く、 2008-03-18T01:54:24+09:00</p>
+<p>フェンダーの穴さえ塞げば唄うのを止めさせられる、と考える者が多そうな、（宇宙的スパンから見ても）前時代的な種族なのだった。</p>
+<p><strong>255</strong> 言理の妖精語りて曰く、 2008-10-09T20:18:50+09:00</p>
+<p>むかしむかし サバカル王子は 九十八人の臣下をつれて 土の下の大きな家に 行きました。</p>
+<p><strong>256</strong> 言理の妖精語りて曰く、 2008-10-09T22:20:18+09:00</p>
+<p>土の下の大きな家は人の気配が皆無にも関わらず予め用意されたかの様に生活に必要なモノがすべて揃っていました。</p>
+<p><strong>257</strong> 言理の妖精語りて曰く、 2008-10-09T22:37:57+09:00</p>
+<p>土の下、つまり地下にある家とは墓の隠喩である。と思う。王子と臣下はこの墓が特別なモノ、王墓を示している。はずだ。</p>
+<p>ある種の死生観においては、死後にも生前と同じ様な生活が続くと信じられており、装身具や生活必需品、時には兵士や従者をも共に埋葬したという。</p>
+<p>王子は王位継承の為に臣下を引き連れ、自らの王位を認めさせる証となる国家の象徴、秘宝を探していると考えられなくもない。</p>
+<p><strong>258</strong> 言理の妖精語りて曰く、 2008-10-10T08:00:13+09:00</p>
+<p>臣下の一人が「ここにいるだけで自給自足すらできそうですな！」と口を滑らせたところ、サバカル王子は真に受けて蓋をしてしまいました。</p>
+<p><strong>259</strong> 言理の妖精語りて曰く、 2008-10-11T16:48:14+09:00</p>
+<p>十人の臣下は最初から乗りに乗っていました。なぜなら彼らは若く、ワクワクしていたからです。</p>
+<p><strong>260</strong> 言理の妖精語りて曰く、 2008-10-27T00:17:10+09:00</p>
+<p>「さっそく勇敢な25人の勇士がここに集ったわけだが……」</p>
+<p>「表現かぶってますよ殿下」</p>
+<p><strong>261</strong> 言理の妖精語りて曰く、 2008-10-28T23:18:04+09:00</p>
+<p>11人でどうするか、25人をどうするか</p>
+<p><strong>262</strong> 言理の妖精語りて曰く、 2008-12-20T18:35:59+09:00</p>
+<p>食っちまうかあるねーべ！</p>
+<p><strong>263</strong> 言理の妖精語りて曰く、 2008-12-20T23:31:27+09:00</p>
+<p>殿下と臣下で11人のはずが、25人になっていた。それはなぜか。</p>
+<p>いつのまにか14人も増えた計算になるが、これは臣下とその影を</p>
+<p>一緒に数えてしまったためではないか？</p>
+<p>11人＋影11人＝22人。 25人−22人＝3人。</p>
+<p>そう、増えたのは3人であり、本体と影を一緒に数えているのだから</p>
+<p>これを2で割る必要がある。</p>
+<p>「どうやら1.5人増えたようだな」得意そうに結論を出す殿下</p>
+<p><strong>264</strong> 言理の妖精語りて曰く、 2008-12-28T09:19:31+09:00</p>
+<p>「俺を2で割るな！」 うっかり声を荒げてしまう影法師</p>
+<hr/>
+<p>関連: <a href="../units/YJ-T097" class="internal alias" data-slug="units/YJ-T097">L1 版記事</a></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>グラフビュー</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-123" aria-expanded="true"><h3>目次</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#一行リレースレッド" data-for="一行リレースレッド">一行リレースレッド</a></li><li class="depth-1"><a href="#概要" data-for="概要">概要</a></li><li class="depth-1"><a href="#流れ" data-for="流れ">流れ</a></li><li class="depth-1"><a href="#主要な話題設定" data-for="主要な話題設定">主要な話題・設定</a></li><li class="depth-1"><a href="#注目投稿" data-for="注目投稿">注目投稿</a></li><li class="depth-1"><a href="#スレッド原文全文制約なし版" data-for="スレッド原文全文制約なし版">スレッド原文（全文・制約なし版）</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>バックリンク</h3><ul id="list-2" class="overflow"><li><a href="../units/YJ-T097" class="internal">一行リレースレッド</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>作成 <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/allusionistwiki/AllusionistLLMWiki2_Obsidian">Obsidian vault（ソース）</a></li><li><a href="https://github.com/allusionistwiki/AllusionistWiki2">Quartz プロジェクト</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js?v=dev" type="module"></script></html>

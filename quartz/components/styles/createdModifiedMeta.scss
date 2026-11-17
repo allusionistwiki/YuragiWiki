@@ -1,0 +1,13 @@
+@use "./contentMeta.scss" as *;
+
+.content-meta {
+  .content-meta-segment {
+    &:not(:last-child) {
+      margin-right: 8px;
+
+      &::after {
+        content: ",";
+      }
+    }
+  }
+}
