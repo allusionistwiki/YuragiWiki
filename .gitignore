@@ -8,5 +8,6 @@ private/
 .replit
 replit.nix
 
-# content は CI が vault リポジトリから取得（ローカルは手動コピー）
-content/
+# YuragiWiki サイト方針: content/ は git 管理（work repo の監査済み run から
+# publish_yuragi_site.py で同期）、public/ はビルド生成物（CI で生成）。
+public/
