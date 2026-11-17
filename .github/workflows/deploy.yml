@@ -25,9 +25,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Apply Quartz engine patches
-        run: node scripts/apply-quartz-patches.mjs
-
       - name: Restore node_modules cache
         id: cache
         uses: actions/cache@v4
@@ -42,6 +39,9 @@ jobs:
       - name: Install dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: npm ci
+
+      - name: Apply Quartz engine patches
+        run: node scripts/apply-quartz-patches.mjs
 
       - name: Build Quartz
         run: npx quartz build --directory content
