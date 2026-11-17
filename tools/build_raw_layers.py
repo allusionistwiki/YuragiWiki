@@ -124,6 +124,8 @@ def write_layers(unit_id, source, title, url, posts_with_body, posts_dir, manife
     for g in chains:
         nos = [p["post_no"] for p in g["posts"]]
         chars = sum(len(body_by_no[n]) for n in nos)
+        chain_text = "\n\n".join(body_by_no[n] for n in nos)
+        # excerpt 案は不採用（LLM 要約が tools/merge_chain_summaries.py で summary を付与）
         lines4.append({
             "chain_id": f"{unit_id}#g{g['seq']:03d}", "unit_id": unit_id,
             "kind": "deleted" if g["deleted"] else ("chain" if len(nos) > 1 else "post"),
