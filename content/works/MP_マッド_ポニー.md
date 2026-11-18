@@ -4,8 +4,8 @@ work: "MP（マッド・ポニー）"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # MP（マッド・ポニー）
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: MP
 - 掲載文脈: 猫語MPはマッド・ポニーでポニーテールが暴れると記述投稿
 
-**43** 言理の妖精語りて曰く、 2006-09-07T21:48:35+09:00 [#43]()
+**43** 言理の妖精語りて曰く、 2006-09-07T21:48:35+09:00 [#43](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T051/#post-43)
 
 【MP】
 

@@ -4,8 +4,8 @@ work: "Erehwon、第三視者エル"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Erehwon、第三視者エル
@@ -17,12 +17,12 @@ link_audit: "20261119T0435_l1works"
 - 話題: Erehwon、第三視者エル
 - 掲載文脈: 第三視者エルがErehwonに在り非存在月は災害を求め記述
 
-**29** 言理の妖精語りて曰く、 2024-01-23T11:45:50+09:00 [#29]()
+**29** 言理の妖精語りて曰く、 2024-01-23T11:45:50+09:00 [#29](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T034/#post-29)
 
 【第三視者エル】は客観を司る神である。
 
 それはいつも人では触れえぬ外の世界【Erehwon】におり、それと同時に、人しか持ちえぬ思考の枠組みに宿っているという。
 
-**30** 言理の妖精語りて曰く、 2024-03-28T04:01:51+09:00 [#30]()
+**30** 言理の妖精語りて曰く、 2024-03-28T04:01:51+09:00 [#30](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T034/#post-30)
 
 非存在月は異界災害を求めてさまよう神である

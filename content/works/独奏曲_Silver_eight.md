@@ -4,8 +4,8 @@ work: "独奏曲-Silver eight-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 独奏曲-Silver eight-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 独奏曲-Silvereight-
 - 掲載文脈: 言理の妖精語りて曰くが独奏曲の祈りと遺跡巡りを詩的に記述する創作
 
-**18** 言理の妖精語りて曰く、 2007-02-23T23:22:52+09:00 [#18]()
+**18** 言理の妖精語りて曰く、 2007-02-23T23:22:52+09:00 [#18](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-18)
 
 【独奏曲-Silver eight-】
 

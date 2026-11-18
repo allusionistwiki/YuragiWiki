@@ -4,8 +4,8 @@ work: "再会≠再開-Goldtwo-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 再会≠再開-Goldtwo-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 再会≠再開-Goldtwo-
 - 掲載文脈: 言理の妖精語りて曰くが三本の剣と黄昏の戦を詩的に記述する創作投稿
 
-**12** 言理の妖精語りて曰く、 2007-02-23T23:18:03+09:00 [#12]()
+**12** 言理の妖精語りて曰く、 2007-02-23T23:18:03+09:00 [#12](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-12)
 
 【再会≠再開-Gold two-】
 

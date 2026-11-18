@@ -4,8 +4,8 @@ work: "way runner"
 author: "：リーデ・ヘルサル語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # way runner
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: way runnerの神性設定を記述する補足投稿です。
 
-**364** ：リーデ・ヘルサル語りて曰く、 2006-10-26T00:34:34+09:00 [#364]()
+**364** ：リーデ・ヘルサル語りて曰く、 2006-10-26T00:34:34+09:00 [#364](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T135/p4#post-364)
 
 >>363
 

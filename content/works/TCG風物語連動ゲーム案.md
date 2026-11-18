@@ -4,8 +4,8 @@ work: "TCG風物語連動ゲーム案"
 author: "niv"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCG風物語連動ゲーム案
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: nivがTCG風の物語連動ゲーム案を提示し輸入輸出型を提案する記述投稿
 
-**256** niv 2007-12-06T00:40:53+09:00 [#256]()
+**256** niv 2007-12-06T00:40:53+09:00 [#256](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T108/p3#post-256)
 
 >>244
 
@@ -47,7 +47,7 @@ link_audit: "20261119T0435_l1works"
 
 ＴＣＧでキャラ同士が対戦することで、互いが相手キャラの設定に取り込まれたように、ストーリーや設定を展開させるシステムになりえるんじゃないかと。
 
-**257** niv 2007-12-07T03:03:37+09:00 [#257]()
+**257** niv 2007-12-07T03:03:37+09:00 [#257](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T108/p3#post-257)
 
 coさんとこで案が出されています。
 

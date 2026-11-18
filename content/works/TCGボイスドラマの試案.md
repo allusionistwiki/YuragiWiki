@@ -4,8 +4,8 @@ work: "TCGボイスドラマの試案"
 author: "bothhands"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCGボイスドラマの試案
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: bothhandsがTCGボイスドラマ試案を提出し、出来を質問する
 
-**480** bothhands 2007-11-25T23:56:45+09:00 [#480]()
+**480** bothhands 2007-11-25T23:56:45+09:00 [#480](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T152/p5#post-480)
 
 TCGボイスドラマの試案を作ってみました。
 

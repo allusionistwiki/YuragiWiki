@@ -4,8 +4,8 @@ work: "TCGプラン交換システム"
 author: "からすとうさぎ"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCGプラン交換システム
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: TCGのプランをマニュアル化しFF12的交換にする着想を提案する記述
 
-**864** からすとうさぎ 2008-01-04T22:38:17+09:00 [#864]()
+**864** からすとうさぎ 2008-01-04T22:38:17+09:00 [#864](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p9#post-864)
 
 あーそっか。
 

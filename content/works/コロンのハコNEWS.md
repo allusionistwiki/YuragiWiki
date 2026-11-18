@@ -4,8 +4,8 @@ work: "コロンのハコNEWS"
 author: "utsm3"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # コロンのハコNEWS
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: ゲヒャルト様
 - 掲載文脈: 記述投稿: ゲヒャルト様による下着盗難と豪語のコロンのハコNEWSを報じる
 
-**20** utsm3 2008-11-13T23:25:49+09:00 [#20]()
+**20** utsm3 2008-11-13T23:25:49+09:00 [#20](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T106/#post-20)
 
 【ゲヒャルト様】
 

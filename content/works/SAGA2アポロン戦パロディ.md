@@ -4,8 +4,8 @@ work: "SAGA2アポロン戦パロディ"
 author: "26"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # SAGA2アポロン戦パロディ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: SAGA2アポロン戦のパロディ投稿で問題あれば削除依頼する実況。
 
-**28** 26 2006-03-01T20:04:47+09:00 [#28]()
+**28** 26 2006-03-01T20:04:47+09:00 [#28](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T137/#post-28)
 
 「かかったな　アポロン！
 
@@ -27,6 +27,6 @@ link_audit: "20261119T0435_l1works"
 
 です。引用じゃなくパロディの範囲だと思ったので投稿しましたが、問題あったら消してください。
 
-**29** 26 2006-03-01T20:05:23+09:00 [#29]()
+**29** 26 2006-03-01T20:05:23+09:00 [#29](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T137/#post-29)
 
 SAGA2のアポロン戦。

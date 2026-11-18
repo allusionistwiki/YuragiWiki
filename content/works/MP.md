@@ -4,8 +4,8 @@ work: "MP"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # MP
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: MP
 - 掲載文脈: 作者はMPがマーディキ神群の魔力石で素人でも魔法を使わせると記述している。
 
-**93** 言理の妖精語りて曰く、 2006-09-07T20:59:04+09:00 [#93]()
+**93** 言理の妖精語りて曰く、 2006-09-07T20:59:04+09:00 [#93](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T001/#post-93)
 
 【MP】
 

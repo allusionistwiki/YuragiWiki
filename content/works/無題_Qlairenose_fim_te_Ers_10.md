@@ -4,8 +4,8 @@ work: "無題"
 author: "Qlairenose fim te Ers（10）"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿：フラベウファが鎖でクレアノーズを阻止しアルセスを脱出させる創作。
 
-**66** Qlairenose fim te Ers（10） 2006-08-09T00:44:48+09:00 [#66]()
+**66** Qlairenose fim te Ers（10） 2006-08-09T00:44:48+09:00 [#66](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T089/#post-66)
 
 振り下ろされた銀色の閃光は、しかし割って入った金色の光によって停止させられた。
 

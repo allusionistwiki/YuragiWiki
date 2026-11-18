@@ -4,8 +4,8 @@ work: "Ｍ男"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Ｍ男
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: Ｍ男
 - 掲載文脈: 記述投稿。四脚歩行で鞭で加速する乗り物Ｍ男と絆を記す。
 
-**3** 言理の妖精語りて曰く、 2007-07-09T19:18:22+09:00 [#3]()
+**3** 言理の妖精語りて曰く、 2007-07-09T19:18:22+09:00 [#3](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T012/#post-3)
 
 【Ｍ男】
 

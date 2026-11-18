@@ -4,8 +4,8 @@ work: "法楽の廻廊-Silversix-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 法楽の廻廊-Silversix-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 法楽の廻廊-Silversix-
 - 掲載文脈: 言理の妖精語りて曰くが法楽の廻廊での二人の運命を詩的に記述する創作
 
-**16** 言理の妖精語りて曰く、 2007-02-23T23:20:34+09:00 [#16]()
+**16** 言理の妖精語りて曰く、 2007-02-23T23:20:34+09:00 [#16](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-16)
 
 【法楽の廻廊-Silver six-】
 

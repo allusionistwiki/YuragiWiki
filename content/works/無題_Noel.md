@@ -4,8 +4,8 @@ work: "無題"
 author: "Noel"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 最果ての二人
 - 掲載文脈: 批判。ノエルがガルディエーラと最果ての二人をやり直すと述べる。
 
-**15** Noel 2006-07-01T22:51:11+09:00 [#15]()
+**15** Noel 2006-07-01T22:51:11+09:00 [#15](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T041/#post-15)
 
 間違ってガルディエーラと【最果ての二人】になっちまった……
 

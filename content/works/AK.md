@@ -4,8 +4,8 @@ work: "AK"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # AK
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: AK
 - 掲載文脈: 記述：新史暦の略語AKをKalendarius Aramarchemと記す
 
-**63** 言理の妖精語りて曰く、 2008-10-25T02:21:26+09:00 [#63]()
+**63** 言理の妖精語りて曰く、 2008-10-25T02:21:26+09:00 [#63](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T015/#post-63)
 
 【AK】
 

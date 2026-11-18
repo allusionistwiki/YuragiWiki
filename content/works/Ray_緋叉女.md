@@ -4,8 +4,8 @@ work: "Ray＠緋叉女"
 author: "niv"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Ray＠緋叉女
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 設定
 - 掲載文脈: nivが緋叉女守るためRayの空圧全振りキャラを公開記述投稿
 
-**984** niv 2008-11-13T19:52:53+09:00 [#984]()
+**984** niv 2008-11-13T19:52:53+09:00 [#984](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p10#post-984)
 
 久しぶりの情報操作！
 

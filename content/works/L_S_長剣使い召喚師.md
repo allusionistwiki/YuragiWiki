@@ -4,8 +4,8 @@ work: "L/S 長剣使い召喚師"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # L/S 長剣使い召喚師
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: L/S
 - 掲載文脈: 記述投稿: L/S設定で長剣使い召喚師ダイショウらの属性を列挙する
 
-**194** 言理の妖精語りて曰く、 2007-05-08T23:48:32+09:00 [#194]()
+**194** 言理の妖精語りて曰く、 2007-05-08T23:48:32+09:00 [#194](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T026/p2#post-194)
 
 【L/S】
 

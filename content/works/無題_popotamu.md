@@ -4,8 +4,8 @@ work: "無題"
 author: "popotamu"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: popotamuが三人から十人への変化で神の耗を記す記述投稿
 
-**552** popotamu 2008-01-14T09:48:22+09:00 [#552]()
+**552** popotamu 2008-01-14T09:48:22+09:00 [#552](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T081/p6#post-552)
 
 三人が十人になっても、あまり違いはない。
 

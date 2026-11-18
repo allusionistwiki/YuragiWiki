@@ -4,8 +4,8 @@ work: "無題"
 author: "保健所職員（Aチーム）"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 保健所職員が風呂場のサバト対象を確認し狩り開始を報告する実況。
 
-**17** 保健所職員（Aチーム） 2007-02-23T16:01:17+09:00 [#17]()
+**17** 保健所職員（Aチーム） 2007-02-23T16:01:17+09:00 [#17](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T169/#post-17)
 
 （――ザザッ）
 

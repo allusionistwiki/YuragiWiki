@@ -4,8 +4,8 @@ work: "tallisちゃんの迷宮探索"
 author: "言理の妖精語りて曰く、"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # tallisちゃんの迷宮探索
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: tallisちゃんの迷宮探索、右に曲がろう。、地中だ！下を掘ろう。、左に曲がろう。
 - 掲載文脈: 記述投稿: tallisちゃんの迷宮探索を右左下で開始
 
-**185** 言理の妖精語りて曰く、 2007-06-17T21:29:06+09:00 [#185]()
+**185** 言理の妖精語りて曰く、 2007-06-17T21:29:06+09:00 [#185](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T143/p2#post-185)
 
 実はまだ全然書いてないけど一応貼っておく。
 

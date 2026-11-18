@@ -4,8 +4,8 @@ work: "TCG-CGルール"
 author: "Co"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCG-CGルール
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: TCG-CGルールを紹介しおもひでプランシステムに感想を述べる投稿
 
-**550** Co 2007-11-27T00:27:10+09:00 [#550]()
+**550** Co 2007-11-27T00:27:10+09:00 [#550](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-550)
 
 ＴＣＧ−ＣＧのルール考えてみましたー
 
@@ -25,7 +25,7 @@ http://flicker.g.hatena.ne.jp/Corundum/20071126#p2
 
 単純化したのでプラン機能は未実装です。
 
-**551** Co 2007-11-27T00:37:58+09:00 [#551]()
+**551** Co 2007-11-27T00:37:58+09:00 [#551](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-551)
 
 >>548
 

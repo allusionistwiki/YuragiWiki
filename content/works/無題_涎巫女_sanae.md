@@ -4,8 +4,8 @@ work: "無題"
 author: "涎巫女《sanae》"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,6 +17,6 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 涎巫女サネが離れたくないと演じる実況投稿です
 
-**845** 涎巫女《sanae》 2007-05-27T01:55:52+09:00 [#845]()
+**845** 涎巫女《sanae》 2007-05-27T01:55:52+09:00 [#845](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T176/p9#post-845)
 
 いやよ！わたし、わたし、あなたと離れたくないの……

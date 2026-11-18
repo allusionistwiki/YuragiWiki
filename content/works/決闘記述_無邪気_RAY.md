@@ -4,8 +4,8 @@ work: "決闘記述 無邪気/RAY"
 author: "言理の妖精語りて曰く、"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 決闘記述 無邪気/RAY
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 決闘記述
 - 掲載文脈: RAYの記述投稿で、記憶力を嘲る無邪気な会話を断片的に描く内容。
 
-**567** 言理の妖精語りて曰く、 2008-01-15T21:53:52+09:00 [#567]()
+**567** 言理の妖精語りて曰く、 2008-01-15T21:53:52+09:00 [#567](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T065/p6#post-567)
 
 【決闘記述】無邪気/RAY
 

@@ -4,8 +4,8 @@ work: "プランA"
 author: "たんぽぽ"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # プランA
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: SS評とヒーローソードへの感想、カスミスト戦の毒牙陥穽期待を述べる返信。
 
-**311** たんぽぽ 2007-11-13T00:42:03+09:00 [#311]()
+**311** たんぽぽ 2007-11-13T00:42:03+09:00 [#311](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p4#post-311)
 
 >>285
 

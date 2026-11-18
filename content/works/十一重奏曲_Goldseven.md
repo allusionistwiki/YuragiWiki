@@ -4,8 +4,8 @@ work: "十一重奏曲-Goldseven-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 十一重奏曲-Goldseven-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 十一重奏曲-Goldseven-
 - 掲載文脈: 言理の妖精語りて曰くが十一重奏曲の神剣と冒険を詩的に記述する創作
 
-**17** 言理の妖精語りて曰く、 2007-02-23T23:22:19+09:00 [#17]()
+**17** 言理の妖精語りて曰く、 2007-02-23T23:22:19+09:00 [#17](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-17)
 
 【十一重奏曲-Gold seven-】
 

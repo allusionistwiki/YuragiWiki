@@ -4,8 +4,8 @@ work: "塔攻略RPG案"
 author: "niv"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 塔攻略RPG案
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: nivが刃の修正とバトルロイヤル案、塔攻略RPGを記述した投稿。
 
-**928** niv 2008-02-06T03:19:15+09:00 [#928]()
+**928** niv 2008-02-06T03:19:15+09:00 [#928](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p10#post-928)
 
 >>921
 

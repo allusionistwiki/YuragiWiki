@@ -4,8 +4,8 @@ work: "無題"
 author: "tomoe"
 type: "脚本"
 chains: 2
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: tomoeが、ニヴさんに覚えていてもらい喜ぶ記述。
 
-**351** tomoe 2007-02-25T02:00:21+09:00 [#351]()
+**351** tomoe 2007-02-25T02:00:21+09:00 [#351](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T179/p4#post-351)
 
 ニヴさん、私のこと覚えていてくれたのね！
 
@@ -26,7 +26,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: tomoeがニヴへの苛立ちと愛を告白し、ゆらぎ的な心情を記述投稿する。
 
-**358** tomoe 2007-02-25T02:03:30+09:00 [#358]()
+**358** tomoe 2007-02-25T02:03:30+09:00 [#358](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T179/p4#post-358)
 
 私はニヴさんが私の理想とのギャップに苛立つことがある。何故私の想いの機微を汲み取ってくれないのか。
 

@@ -4,8 +4,8 @@ work: "RailLoad"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 2
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # RailLoad
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: G.R.I.M、RailLoad
 - 掲載文脈: エンドミット四大企業G.R.I.MとRailLoad、社長グリュッペンを記述する
 
-**158** 言理の妖精語りて曰く、 2019-03-13T07:46:36+09:00 [#158]()
+**158** 言理の妖精語りて曰く、 2019-03-13T07:46:36+09:00 [#158](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T011/p2#post-158)
 
 ※
 
@@ -36,7 +36,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: RailLoad、東路線区
 - 掲載文脈: RailLoad社長グリュッペンの外見と東路線区の蒸気ビルを記述する
 
-**159** 言理の妖精語りて曰く、 2019-04-10T07:02:48+09:00 [#159]()
+**159** 言理の妖精語りて曰く、 2019-04-10T07:02:48+09:00 [#159](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T011/p2#post-159)
 
 グリュッペンは、小男である。
 

@@ -4,8 +4,8 @@ work: "無題"
 author: "？？？"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: ？？？が、赤魔術師どのに娘の嫁ぎ先をからかう雑談を投稿する。
 
-**231** ？？？ 2007-04-30T22:59:41+09:00 [#231]()
+**231** ？？？ 2007-04-30T22:59:41+09:00 [#231](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T087/p3#post-231)
 
 やけに興奮してるじゃないか赤魔術師どの。
 

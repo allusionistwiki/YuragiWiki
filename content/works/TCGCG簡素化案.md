@@ -4,8 +4,8 @@ work: "TCGCG簡素化案"
 author: "niv"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCGCG簡素化案
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: nivがTCGCGの装備・記憶ルールを簡素化する案と先攻後攻・カード7枚の進行を記述
 
-**557** niv 2007-11-28T00:44:08+09:00 [#557]()
+**557** niv 2007-11-28T00:44:08+09:00 [#557](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-557)
 
 >>548
 

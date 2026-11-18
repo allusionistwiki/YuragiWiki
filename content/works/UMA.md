@@ -4,8 +4,8 @@ work: "UMA"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # UMA
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: UMA
 - 掲載文脈: UMAを未確認神話性異常としてMA・nMAと分類する記述投稿
 
-**25** 言理の妖精語りて曰く、 2008-08-14T20:08:46+09:00 [#25]()
+**25** 言理の妖精語りて曰く、 2008-08-14T20:08:46+09:00 [#25](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T062/#post-25)
 
 【UMA】
 

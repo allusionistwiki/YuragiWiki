@@ -4,8 +4,8 @@ work: "無題"
 author: "RAY"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 対セルラ・テリスでイア＝テムの呪いの剣のbindプランを七ポイントで提案する
 
-**334** RAY 2007-11-13T23:31:37+09:00 [#334]()
+**334** RAY 2007-11-13T23:31:37+09:00 [#334](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p4#post-334)
 
 >332
 

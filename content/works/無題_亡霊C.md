@@ -4,8 +4,8 @@ work: "無題"
 author: "亡霊C"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 実況投稿：亡霊Ｃがメイド服だと知って黒い服を再解釈し、霊媒師が苦しみ出す
 
-**28** 亡霊C 2007-02-22T15:41:22+09:00 [#28]()
+**28** 亡霊C 2007-02-22T15:41:22+09:00 [#28](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T058/#post-28)
 
 なんだってぇ！
 

@@ -4,8 +4,8 @@ work: "無題"
 author: "【P×C】"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: アルセスやキュトスを交えた男女の会話劇を、実況のように書く。
 
-**101** 【P×C】 2006-07-25T18:30:01+09:00 [#101]()
+**101** 【P×C】 2006-07-25T18:30:01+09:00 [#101](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T037/p2#post-101)
 
 「あいつらは？」
 

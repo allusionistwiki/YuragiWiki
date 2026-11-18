@@ -4,8 +4,8 @@ work: "猫竜のASCIIアート"
 author: "【学名アルセスカブリ】"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 猫竜のASCIIアート
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: アルセスカブリを名乗り猫竜のASCIIアートを投稿する実況。
 
-**56** 【学名アルセスカブリ】 2007-04-30T17:06:00+09:00 [#56]()
+**56** 【学名アルセスカブリ】 2007-04-30T17:06:00+09:00 [#56](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T172/#post-56)
 
 ／￣￣￣￣￣￣ ＼
 

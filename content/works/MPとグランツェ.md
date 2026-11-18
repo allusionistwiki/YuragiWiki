@@ -4,8 +4,8 @@ work: "MPとグランツェ"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # MPとグランツェ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: MP
 - 掲載文脈: 記述投稿でMPとグランツェの魔除けを記す。
 
-**124** 言理の妖精語りて曰く、 2006-09-07T15:45:54+09:00 [#124]()
+**124** 言理の妖精語りて曰く、 2006-09-07T15:45:54+09:00 [#124](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T002/p2#post-124)
 
 【MP】
 
@@ -31,7 +31,7 @@ link_audit: "20261119T0435_l1works"
 
 　消費したMPは、睡眠をとることで回復できる。
 
-**125** 言理の妖精語りて曰く、 2006-09-15T22:09:53+09:00 [#125]()
+**125** 言理の妖精語りて曰く、 2006-09-15T22:09:53+09:00 [#125](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T002/p2#post-125)
 
 世界各地に作られた魔物（ガーランゼ）除けの藁人形グランツェ。
 

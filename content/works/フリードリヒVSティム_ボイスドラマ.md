@@ -4,8 +4,8 @@ work: "フリードリヒVSティム ボイスドラマ"
 author: "bothhands"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # フリードリヒVSティム ボイスドラマ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: bothhandsがフリードリヒVSティムのTCGをボイスドラマ化する記述。
 
-**132** bothhands 2007-11-24T23:52:49+09:00 [#132]()
+**132** bothhands 2007-11-24T23:52:49+09:00 [#132](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T162/p2#post-132)
 
 TCGのフリードリヒVSティムをボイスドラマのシナリオに試みに書き換えています。
 

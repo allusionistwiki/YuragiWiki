@@ -4,8 +4,8 @@ work: "ドゥリグァ（Driguha）"
 author: "ドラッヘンリーゼ"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ドゥリグァ（Driguha）
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: ドゥリグァ（Driguha）
 - 掲載文脈: 記述で、クトゥルー神話の邪神ドゥリグァの設定を解説する。
 
-**4** ドラッヘンリーゼ 2006-09-10T06:27:00+09:00 [#4]()
+**4** ドラッヘンリーゼ 2006-09-10T06:27:00+09:00 [#4](https://allusionistwiki.github.io/YuragiWiki/full/YJ-M6948914/#post-4)
 
 【ドゥリグァ（Driguha）】　ドリッガー（Driggor）
 

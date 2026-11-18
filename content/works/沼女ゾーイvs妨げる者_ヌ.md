@@ -4,8 +4,8 @@ work: "沼女ゾーイvs妨げる者・ヌ"
 author: "フネ"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 沼女ゾーイvs妨げる者・ヌ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 沼女ゾーイとヌの戦闘経過を実況し勝利を記述した実況投稿
 
-**532** フネ 2007-11-25T18:29:57+09:00 [#532]()
+**532** フネ 2007-11-25T18:29:57+09:00 [#532](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-532)
 
 昨晩チャットで勃発した野良試合に便乗して一戦交えさせていただきました。
 
@@ -31,7 +31,7 @@ link_audit: "20261119T0435_l1works"
 
 実際の戦闘の流れは次レスにて。
 
-**533** フネ 2007-11-25T18:30:47+09:00 [#533]()
+**533** フネ 2007-11-25T18:30:47+09:00 [#533](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-533)
 
 ターン１
 

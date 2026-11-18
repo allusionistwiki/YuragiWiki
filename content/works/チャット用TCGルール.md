@@ -4,8 +4,8 @@ work: "チャット用TCGルール"
 author: "co"
 type: "劇中作品文(TCGカード・劇中ゲーム・劇中書物等の文面)"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # チャット用TCGルール
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: プランなしのチャット用TCGルールを案内し、ポータルチャットを促す記述
 
-**876** co 2008-01-15T04:36:45+09:00 [#876]()
+**876** co 2008-01-15T04:36:45+09:00 [#876](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p9#post-876)
 
 http://flicker.g.hatena.ne.jp/Corundum/20080114#p3
 

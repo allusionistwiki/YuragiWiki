@@ -4,8 +4,8 @@ work: "PTA、観測庁"
 author: "【PTA】"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # PTA、観測庁
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: PTA、観測庁
 - 掲載文脈: PTAがきゆらのポニー確認を急がせる実況投稿
 
-**17** 【PTA】 2006-11-02T00:30:28+09:00 [#17]()
+**17** 【PTA】 2006-11-02T00:30:28+09:00 [#17](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T059/#post-17)
 
 「【観測庁】からの報告は？」
 

@@ -4,8 +4,8 @@ work: "イドSIM"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # イドSIM
@@ -17,6 +17,6 @@ link_audit: "20261119T0435_l1works"
 - 話題: イドSIM
 - 掲載文脈: 記述投稿でイドSIMが心と世界が溶け合う場所とつながる機能を語る
 
-**142** 言理の妖精語りて曰く、 2020-01-30T10:42:04+09:00 [#142]()
+**142** 言理の妖精語りて曰く、 2020-01-30T10:42:04+09:00 [#142](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T012/p2#post-142)
 
 【イドSIM】は、どこか遠く、人の心と世界が溶け合うところとつながっている

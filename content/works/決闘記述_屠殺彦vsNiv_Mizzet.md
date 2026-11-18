@@ -4,8 +4,8 @@ work: "決闘記述 屠殺彦vsNiv-Mizzet"
 author: "niv"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 決闘記述 屠殺彦vsNiv-Mizzet
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 決闘記述
 - 掲載文脈: 恋空を巡る決闘記述でFate等が文学実況する投稿。
 
-**570** niv 2008-01-16T02:31:34+09:00 [#570]()
+**570** niv 2008-01-16T02:31:34+09:00 [#570](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T065/p6#post-570)
 
 【決闘記述】屠殺彦vsNiv-Mizzet　テーマ：恋空
 

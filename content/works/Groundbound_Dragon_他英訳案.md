@@ -4,8 +4,8 @@ work: "Groundbound Dragon 他英訳案"
 author: "niv"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Groundbound Dragon 他英訳案
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: nivがGroundbound Dragonなどの英訳案を考案し説明する投稿。
 
-**726** niv 2007-12-10T15:49:23+09:00 [#726]()
+**726** niv 2007-12-10T15:49:23+09:00 [#726](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T095/p8#post-726)
 
 *Groundbound Dragon
 
@@ -37,7 +37,7 @@ link_audit: "20261119T0435_l1works"
 
 　どちらもナイス訳だと思いつつ、毎回思うのだが、ちゃんと英語知ってる人からはどう見えるのかが恐ろしい。
 
-**727** niv 2007-12-10T15:52:11+09:00 [#727]()
+**727** niv 2007-12-10T15:52:11+09:00 [#727](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T095/p8#post-727)
 
 ×ここにgone（去る、亡くなる）を合わせ、疾走と死体を重ね合わせた。
 

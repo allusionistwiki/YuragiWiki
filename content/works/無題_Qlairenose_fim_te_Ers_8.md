@@ -4,8 +4,8 @@ work: "無題"
 author: "Qlairenose fim te Ers（8）"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿：クレアノーズがアルセスにキュトスへの思いと贖罪の決意を語る創作。
 
-**64** Qlairenose fim te Ers（8） 2006-08-08T23:38:12+09:00 [#64]()
+**64** Qlairenose fim te Ers（8） 2006-08-08T23:38:12+09:00 [#64](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T089/#post-64)
 
 「ねえアルセス。貴方は、どうしてそこまでしてキュトスを求めるの？」
 

@@ -4,8 +4,8 @@ work: "リィネ・エム.exe"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # リィネ・エム.exe
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 拡張子変換魔法
 - 掲載文脈: 記述投稿で、リィネ・エム.exeが拡張子変換魔法を創始したと記す。
 
-**323** 言理の妖精語りて曰く、 2019-09-17T19:22:18+09:00 [#323]()
+**323** 言理の妖精語りて曰く、 2019-09-17T19:22:18+09:00 [#323](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T046/p4#post-323)
 
 １２１  リィネ・エム.exe
 

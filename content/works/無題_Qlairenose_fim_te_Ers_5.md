@@ -4,8 +4,8 @@ work: "無題"
 author: "Qlairenose fim te Ers（5）"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 対峙で、クレアノーズがアルセスへ封じの刀を取り出し殺意を向ける。
 
-**61** Qlairenose fim te Ers（5） 2006-08-08T22:19:45+09:00 [#61]()
+**61** Qlairenose fim te Ers（5） 2006-08-08T22:19:45+09:00 [#61](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T089/#post-61)
 
 「やあ、久しぶりだね、クレアノーズ」
 

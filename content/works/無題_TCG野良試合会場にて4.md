@@ -4,8 +4,8 @@ work: "無題"
 author: "ＴＣＧ野良試合会場にて４"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 第２ターン
 - 掲載文脈: 宵と祭の第2ターンを記述しプラン確認もする実況
 
-**515** ＴＣＧ野良試合会場にて４ 2007-11-25T03:25:24+09:00 [#515]()
+**515** ＴＣＧ野良試合会場にて４ 2007-11-25T03:25:24+09:00 [#515](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-515)
 
 【第２ターン】
 

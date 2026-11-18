@@ -4,8 +4,8 @@ work: "無題"
 author: "あなたのniv"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 海の中のdropと水死を結びつける無常観の演出を提案
 
-**870** あなたのniv 2008-06-17T23:56:23+09:00 [#870]()
+**870** あなたのniv 2008-06-17T23:56:23+09:00 [#870](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T095/p9#post-870)
 
 海の中にdrop、で死に結びつけらんないだろうか。
 

@@ -4,8 +4,8 @@ work: "硝失した紀事-Asheszero-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 硝失した紀事-Asheszero-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 硝失した紀事-Asheszero-
 - 掲載文脈: 言理の妖精語りて曰くが硝失した紀事での罪の贖えなさを書き記す創作
 
-**15** 言理の妖精語りて曰く、 2007-02-23T23:20:05+09:00 [#15]()
+**15** 言理の妖精語りて曰く、 2007-02-23T23:20:05+09:00 [#15](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-15)
 
 【硝失した紀事-Ashes zero-】
 

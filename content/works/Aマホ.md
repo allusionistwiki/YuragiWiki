@@ -4,8 +4,8 @@ work: "Aマホ"
 author: "bothhands"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Aマホ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: bothhandsがAマホ完結を報告し、ドラッグの描写を語る記述投稿。
 
-**492** bothhands 2007-11-03T23:05:00+09:00 [#492]()
+**492** bothhands 2007-11-03T23:05:00+09:00 [#492](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T166/p5#post-492)
 
 すいません。今日はAマホ終わりました。
 

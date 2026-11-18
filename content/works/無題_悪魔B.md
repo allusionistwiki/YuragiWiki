@@ -4,8 +4,8 @@ work: "無題"
 author: "悪魔Ｂ"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 悪魔Ｂが人間の魔術師から力を取り分を確保する実況
 
-**221** 悪魔Ｂ 2007-04-29T22:25:05+09:00 [#221]()
+**221** 悪魔Ｂ 2007-04-29T22:25:05+09:00 [#221](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T002/p3#post-221)
 
 >>220
 

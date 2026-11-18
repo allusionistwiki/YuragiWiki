@@ -4,8 +4,8 @@ work: "無題"
 author: "Qlairenose fim te Ers（9）"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿：アルセスがアコロアトの幻影計略に嵌まり腕を斬られる創作。
 
-**65** Qlairenose fim te Ers（9） 2006-08-09T00:29:18+09:00 [#65]()
+**65** Qlairenose fim te Ers（9） 2006-08-09T00:29:18+09:00 [#65](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T089/#post-65)
 
 鮮血が飛散する。アルセスの槍はクレアノーズが突き出した右腕の掌から骨を粉砕して肘先までを貫いていた。クレアノーズが左手で持った刀を翳し、振り子を眼前に持ってくる。
 

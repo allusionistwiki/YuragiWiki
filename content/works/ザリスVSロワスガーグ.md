@@ -4,8 +4,8 @@ work: "ザリスVSロワスガーグ"
 author: "言理の妖精語りて曰く、"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ザリスVSロワスガーグ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: ザリスとロワスカーグの決着を記述投稿で村人の讃えとして語る
 
-**135** 言理の妖精語りて曰く、 2007-10-27T23:16:01+09:00 [#135]()
+**135** 言理の妖精語りて曰く、 2007-10-27T23:16:01+09:00 [#135](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T109/p2#post-135)
 
 >>126
 

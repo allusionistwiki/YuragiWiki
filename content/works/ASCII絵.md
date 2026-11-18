@@ -4,8 +4,8 @@ work: "ASCII絵"
 author: "『這い寄る木炭』磯部"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ASCII絵
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 『這い寄る木炭』磯部が、ASCII絵で怪しい女への実況と雑談を交わす。
 
-**223** 『這い寄る木炭』磯部 2007-04-30T15:09:00+09:00 [#223]()
+**223** 『這い寄る木炭』磯部 2007-04-30T15:09:00+09:00 [#223](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T087/p3#post-223)
 
 /＼＿＿_／ヽ  
 

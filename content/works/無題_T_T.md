@@ -4,8 +4,8 @@ work: "無題"
 author: "T&T"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: T&Tがゴルプスッドとマウイとレストロオセの設定を記述する投稿。
 
-**67** T&T 2007-12-20T11:23:00+09:00 [#67]()
+**67** T&T 2007-12-20T11:23:00+09:00 [#67](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T063/#post-67)
 
 ゴルプスッドは豪傑かさもなくば変人揃いの四十四士の中では珍しい純朴な少年である。
 
@@ -31,7 +31,7 @@ link_audit: "20261119T0435_l1works"
 
 レストロオセの元に駆けつけた。
 
-**68** T&T 2007-12-20T11:33:47+09:00 [#68]()
+**68** T&T 2007-12-20T11:33:47+09:00 [#68](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T063/#post-68)
 
 金貸しマウイの誠実さは、性格的なものもあるだろう。
 

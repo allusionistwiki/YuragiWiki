@@ -4,8 +4,8 @@ work: "PUNGEON"
 author: "【PUNGEON THE DUNGEON】"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # PUNGEON
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿で世界の中心の巨大な槍とPUNGEONを提示
 
-**1** 【PUNGEON THE DUNGEON】 2006-07-01T22:00:43+09:00 [#1]()
+**1** 【PUNGEON THE DUNGEON】 2006-07-01T22:00:43+09:00 [#1](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T041/#post-1)
 
 世界の中心には槍がある。
 

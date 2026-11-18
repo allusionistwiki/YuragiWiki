@@ -4,8 +4,8 @@ work: "ビック電器.com"
 author: "2"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ビック電器.com
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 宣伝: ビック電器.comの液晶TV値下げを告知する広告投稿。
 
-**197** 2 2010-09-30T21:21:40+09:00 [#197]()
+**197** 2 2010-09-30T21:21:40+09:00 [#197](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T039/p2#post-197)
 
 netshop ビック電器.com
 

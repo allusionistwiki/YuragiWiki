@@ -4,8 +4,8 @@ work: "無題"
 author: "第1回8番(VIII)"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿:研究所へ出資を求められた私がヘリステラに後見を頼みデフォンに救われる
 
-**67** 第1回8番(VIII) 2008-03-10T00:49:56+09:00 [#67]()
+**67** 第1回8番(VIII) 2008-03-10T00:49:56+09:00 [#67](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T127/#post-67)
 
 それとは逆に、あまり悠長に考えていられない問題もある。たとえば、遺産の使い道がそれだ。
 

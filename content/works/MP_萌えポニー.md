@@ -4,8 +4,8 @@ work: "MP（萌えポニー）"
 author: "模倣者エンピツ"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # MP（萌えポニー）
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: MP
 - 掲載文脈: 猫語MPは萌えポニーでポニテが萌え狂わすと記述投稿
 
-**44** 模倣者エンピツ 2006-09-08T03:26:57+09:00 [#44]()
+**44** 模倣者エンピツ 2006-09-08T03:26:57+09:00 [#44](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T051/#post-44)
 
 【MP】
 

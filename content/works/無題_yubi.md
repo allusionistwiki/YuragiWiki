@@ -4,8 +4,8 @@ work: "無題"
 author: "yubi"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: ラスボスを肯定し、兎は死なないと応える記述実況
 
-**309** yubi 2008-08-18T00:06:52+09:00 [#309]()
+**309** yubi 2008-08-18T00:06:52+09:00 [#309](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T078/p4#post-309)
 
 >>308
 

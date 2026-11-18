@@ -4,8 +4,8 @@ work: "Intention stoneの思考記録"
 author: "Intention stoneの思考記録"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Intention stoneの思考記録
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 茨道のオーナーRAYの能力とスキルプランを記述するプレイ報告
 
-**858** Intention stoneの思考記録 2008-01-02T16:44:34+09:00 [#858]()
+**858** Intention stoneの思考記録 2008-01-02T16:44:34+09:00 [#858](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p9#post-858)
 
 「フン、若造共が何を思い悩んでいるのだ。相手の思考が読めないだと。フッ、愚かな。無限なる時間を経て手に入れた、我が絶対の真理にして究極なる理解、『万理の頂上』（デーモンオブラプラス）をもってすれば、あらゆる偶然は必然となり、全ての確率はその意味を失う。クククッ、仕方ないな、我が深遠なる理解のほんの一片、一かけらにも満たぬ僅かな真実を見せてやろう」
 

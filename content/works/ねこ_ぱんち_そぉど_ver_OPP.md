@@ -4,8 +4,8 @@ work: "ねこ☆ぱんち♪そぉど ver.OPP"
 author: "まもる"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ねこ☆ぱんち♪そぉど ver.OPP
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: ねこ☆ぱんち♪そぉどのスキルとプランを載せた実況風キャラ紹介投稿。
 
-**306** まもる 2007-11-12T22:12:11+09:00 [#306]()
+**306** まもる 2007-11-12T22:12:11+09:00 [#306](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p4#post-306)
 
 さらに情報操作。
 

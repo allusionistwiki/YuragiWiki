@@ -4,8 +4,8 @@ work: "都市船CG製作スレ"
 author: "BELive"
 type: "設定文"
 chains: 2
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 都市船CG製作スレ
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: BELiveが都市船CG製作スレで建造案と発表計画を記述投稿する投稿
 
-**1** BELive 2007-05-21T23:38:37+09:00 [#1]()
+**1** BELive 2007-05-21T23:38:37+09:00 [#1](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T173/#post-1)
 
 空中に浮かぶ巨大都市船に都市を作る計画のスレッドです。
 
@@ -47,7 +47,7 @@ CGの発表も現状グループ日記で行います。
 
 何かあればグループ日記でコメントください。
 
-**2** BELive 2007-05-21T23:45:56+09:00 [#2]()
+**2** BELive 2007-05-21T23:45:56+09:00 [#2](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T173/#post-2)
 
 現在の案…というか状況は以下を参照してください。
 
@@ -76,7 +76,7 @@ CGもないので、考えが出揃ってきたところで内部のCGを作ろ�
 - 話題: —
 - 掲載文脈: BELiveが都市船は単艦不可で船団都市国家案と工場案を記述投稿する投稿
 
-**4** BELive 2007-05-22T00:00:17+09:00 [#4]()
+**4** BELive 2007-05-22T00:00:17+09:00 [#4](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T173/#post-4)
 
 どうでしょうって……どうなんでしょうねｗｗｗ
 

@@ -4,8 +4,8 @@ work: "SM-TB-4"
 author: "模倣者エンピツ"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # SM-TB-4
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 物語投稿で、SM-TB-4の一休や番長らがピラニアに遭う珍道中を描写する。
 
-**16** 模倣者エンピツ 2006-08-21T01:57:20+09:00 [#16]()
+**16** 模倣者エンピツ 2006-08-21T01:57:20+09:00 [#16](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T060/#post-16)
 
 SM-TB-4
 

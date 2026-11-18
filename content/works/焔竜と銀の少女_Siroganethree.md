@@ -4,8 +4,8 @@ work: "焔竜と銀の少女-Siroganethree-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 焔竜と銀の少女-Siroganethree-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 焔竜と銀の少女-Siroganethree-
 - 掲載文脈: 言理の妖精語りて曰くが焔竜と銀の少女の対峙を詩的に記述する創作投稿
 
-**13** 言理の妖精語りて曰く、 2007-02-23T23:18:24+09:00 [#13]()
+**13** 言理の妖精語りて曰く、 2007-02-23T23:18:24+09:00 [#13](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-13)
 
 【焔竜と銀の少女-Sirogane three-】
 

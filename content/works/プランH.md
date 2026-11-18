@@ -4,8 +4,8 @@ work: "プランH"
 author: "たんぽぽ"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # プランH
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: たんぽぽがプランHの旋風で衣服を飛ばす記述と敗者復活戦の剣への羨望を述べる
 
-**564** たんぽぽ 2007-11-29T22:42:43+09:00 [#564]()
+**564** たんぽぽ 2007-11-29T22:42:43+09:00 [#564](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p6#post-564)
 
 >>561くろねこさん
 

@@ -4,8 +4,8 @@ work: "ahzhaldarnawt"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ahzhaldarnawt
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: ahzhaldarnawt
 - 掲載文脈: ahzhaldarnawtは人格に寄生し女王様に振る舞う妖精だと、資料風に説明する。
 
-**418** 言理の妖精語りて曰く、 2006-12-20T06:10:34+09:00 [#418]()
+**418** 言理の妖精語りて曰く、 2006-12-20T06:10:34+09:00 [#418](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T135/p5#post-418)
 
 【ahzhaldarnawt】
 

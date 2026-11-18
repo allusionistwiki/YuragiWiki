@@ -4,8 +4,8 @@ work: "TCGバトルロイヤル団体戦募集"
 author: "Ｃｏ"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCGバトルロイヤル団体戦募集
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: TCGバトルロイヤル団体戦の募集と会議室リンクを告知
 
-**830** Ｃｏ 2007-12-27T02:26:05+09:00 [#830]()
+**830** Ｃｏ 2007-12-27T02:26:05+09:00 [#830](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p9#post-830)
 
 このＴＣＧラッシュのさなか更にＴＣＧやります。
 

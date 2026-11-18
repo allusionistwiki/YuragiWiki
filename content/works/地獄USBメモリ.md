@@ -4,8 +4,8 @@ work: "地獄USBメモリ"
 author: "からすとうさぎ"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 地獄USBメモリ
@@ -17,6 +17,6 @@ link_audit: "20261119T0435_l1works"
 - 話題: 地獄USBメモリ
 - 掲載文脈: 記述投稿で地獄USBメモリというネタを提示している。
 
-**181** からすとうさぎ 2007-04-01T00:14:23+09:00 [#181]()
+**181** からすとうさぎ 2007-04-01T00:14:23+09:00 [#181](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T107/p2#post-181)
 
 【地獄USBメモリ】

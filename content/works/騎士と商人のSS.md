@@ -4,8 +4,8 @@ work: "騎士と商人のSS"
 author: "よあけ"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 騎士と商人のSS
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: よあけが騎士と商人のSS更新を報告し分量に触れる記述投稿
 
-**672** よあけ 2007-12-09T19:53:46+09:00 [#672]()
+**672** よあけ 2007-12-09T19:53:46+09:00 [#672](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p7#post-672)
 
 騎士と商人のＳＳを更新。
 

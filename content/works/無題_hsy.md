@@ -4,8 +4,8 @@ work: "無題"
 author: "hsy"
 type: "短編・小説"
 chains: 4
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: hsyが猛暑の台所で霉た味噌汁を食べ第一次地獄開放を連想した記述投稿。
 
-**11** hsy 2007-08-05T12:36:25+09:00 [#11]()
+**11** hsy 2007-08-05T12:36:25+09:00 [#11](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T004/#post-11)
 
 > いかなるリビドーの元にこの傑作を世に送り出すのか
 
@@ -86,7 +86,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: hsyがゆらぎ世界のリゾート曲やアルセス・ストーリーを想像した記述投稿。
 
-**17** hsy 2007-08-24T00:23:59+09:00 [#17]()
+**17** hsy 2007-08-24T00:23:59+09:00 [#17](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T004/#post-17)
 
 http://homepage3.nifty.com/martianchronicles/resort.mp3
 
@@ -100,7 +100,7 @@ http://homepage3.nifty.com/martianchronicles/resort.mp3
 
 アルマによって食料全部食い荒されとか、酷い目にあう図しか浮かばないのだけど。
 
-**18** hsy 2007-09-21T00:15:25+09:00 [#18]()
+**18** hsy 2007-09-21T00:15:25+09:00 [#18](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T004/#post-18)
 
 http://homepage3.nifty.com/martianchronicles/famicom.mp3
 
@@ -114,7 +114,7 @@ http://homepage3.nifty.com/martianchronicles/famicom.mp3
 
 ファミコン的、RPG的。
 
-**19** hsy 2007-11-04T07:20:26+09:00 [#19]()
+**19** hsy 2007-11-04T07:20:26+09:00 [#19](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T004/#post-19)
 
 http://homepage3.nifty.com/martianchronicles/pianoren.mp3
 
@@ -133,7 +133,7 @@ http://homepage3.nifty.com/martianchronicles/pianoren.mp3
 - 話題: —
 - 掲載文脈: 巫女といちゃいちゃする九柱の神竜は虫に欲情すると雑談
 
-**171** hsy 2007-09-03T01:56:10+09:00 [#171]()
+**171** hsy 2007-09-03T01:56:10+09:00 [#171](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T171/p2#post-171)
 
 >>167
 
@@ -146,7 +146,7 @@ http://homepage3.nifty.com/martianchronicles/pianoren.mp3
 - 話題: —
 - 掲載文脈: 墓守が墓参者や死霊の昔話を聴く形式の掌編集を構想する記述です。
 
-**534** hsy 2007-09-30T00:03:56+09:00 [#534]()
+**534** hsy 2007-09-30T00:03:56+09:00 [#534](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T171/p6#post-534)
 
 墓守が墓参者や死霊の昔話を聴く、
 

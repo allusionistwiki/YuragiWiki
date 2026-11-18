@@ -4,8 +4,8 @@ work: "Assassin of Assassin"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Assassin of Assassin
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 決闘記述
 - 掲載文脈: 高島津諦の記述投稿で、八つの楽器の戦士とザリス・レクイエム等の設定を列挙し自虐的に笑う場面。
 
-**531** 言理の妖精語りて曰く、 2008-01-12T21:55:37+09:00 [#531]()
+**531** 言理の妖精語りて曰く、 2008-01-12T21:55:37+09:00 [#531](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T065/p6#post-531)
 
 【決闘記述】Assassin of Assassinの二つ名を得た者/高島津諦
 

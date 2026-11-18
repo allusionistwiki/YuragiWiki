@@ -4,8 +4,8 @@ work: "Pangeon"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Pangeon
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 言理の妖精が神話由来のPangeonのケーキを記述投稿し、アルセスやハルバンデフの店を紹介する。
 
-**525** 言理の妖精語りて曰く、 2008-01-12T02:21:25+09:00 [#525]()
+**525** 言理の妖精語りて曰く、 2008-01-12T02:21:25+09:00 [#525](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T065/p6#post-525)
 
 六本木ヒルズの１Ｆに最近オープンしたフレッシュメイドケーキ店「Pangeon」。
 

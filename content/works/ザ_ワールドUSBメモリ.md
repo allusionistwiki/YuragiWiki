@@ -4,8 +4,8 @@ work: "ザ・ワールドUSBメモリ"
 author: "よあけ"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ザ・ワールドUSBメモリ
@@ -17,6 +17,6 @@ link_audit: "20261119T0435_l1works"
 - 話題: そして時は止まる・・・ザ・ワールドUSBメモリ
 - 掲載文脈: 記述投稿でザ・ワールドとUSBを掛けたネタを提示している。
 
-**182** よあけ 2007-04-01T00:15:13+09:00 [#182]()
+**182** よあけ 2007-04-01T00:15:13+09:00 [#182](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T107/p2#post-182)
 
 【そして時は止まる・・・ザ・ワールドUSBメモリ】

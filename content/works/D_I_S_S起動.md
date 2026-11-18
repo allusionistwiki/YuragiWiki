@@ -4,8 +4,8 @@ work: "D.I.S.S起動"
 author: "言理の妖精語りて曰く、"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # D.I.S.S起動
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: D.I.S.S、DISS、ディス
 - 掲載文脈: 記述投稿で装置【D.I.S.S】をきゆらが起動する創作を披露している
 
-**295** 言理の妖精語りて曰く、 2007-06-17T14:51:38+09:00 [#295]()
+**295** 言理の妖精語りて曰く、 2007-06-17T14:51:38+09:00 [#295](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T059/p3#post-295)
 
 「台座に文字が……【D.I.S.S】……？」
 

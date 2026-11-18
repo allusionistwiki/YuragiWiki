@@ -4,8 +4,8 @@ work: "Xデー"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # Xデー
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: Xデー
 - 掲載文脈: 記述投稿でXデー後のアーサー・マクドナルドの地雷を語る
 
-**500** 言理の妖精語りて曰く、 2018-06-26T09:06:12+09:00 [#500]()
+**500** 言理の妖精語りて曰く、 2018-06-26T09:06:12+09:00 [#500](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T026/p5#post-500)
 
 アーサー・マクドナルドにとっての地雷は二つある。
 

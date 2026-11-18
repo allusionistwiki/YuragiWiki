@@ -4,8 +4,8 @@ work: "魔王十四歳Online"
 author: "キャラメイクにあたり"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 魔王十四歳Online
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 魔王十四歳Onlineのキャラ設定をレエステルが指南する記述投稿。
 
-**65** キャラメイクにあたり 2006-11-18T21:35:45+09:00 [#65]()
+**65** キャラメイクにあたり 2006-11-18T21:35:45+09:00 [#65](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T076/#post-65)
 
 こんばんは！　はい、こんばんは。いま返事しなかった餓鬼は永久にログインできませんからさようなら。
 

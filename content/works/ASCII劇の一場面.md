@@ -4,8 +4,8 @@ work: "ASCII劇の一場面"
 author: "アリアロー"
 type: "脚本"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # ASCII劇の一場面
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 実況投稿でウィータスティカ送りだと語るASCII劇の一場面を描く
 
-**869** アリアロー 2006-11-26T23:08:06+09:00 [#869]()
+**869** アリアロー 2006-11-26T23:08:06+09:00 [#869](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T136/p9#post-869)
 
 |┃三　　　　 , -.―――--.､
 

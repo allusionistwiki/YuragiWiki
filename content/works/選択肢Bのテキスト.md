@@ -4,8 +4,8 @@ work: "選択肢Bのテキスト"
 author: "bothhands"
 type: "劇中作品文(TCGカード・劇中ゲーム・劇中書物等の文面)"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 選択肢Bのテキスト
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 選択肢Bの結末、果樹園で顔を奪われ女性に追われる記述投稿
 
-**48** bothhands 2007-06-03T00:11:35+09:00 [#48]()
+**48** bothhands 2007-06-03T00:11:35+09:00 [#48](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T149/#post-48)
 
 >>12
 
@@ -35,7 +35,7 @@ A「死霊使い」→０３−０３
 
 B「トカゲ人」→０３−０４
 
-**49** bothhands 2007-06-03T00:12:12+09:00 [#49]()
+**49** bothhands 2007-06-03T00:12:12+09:00 [#49](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T149/#post-49)
 
 >>31
 
@@ -115,7 +115,7 @@ B「トカゲ人」→０３−０４
 
 ＜終＞
 
-**50** bothhands 2007-06-03T00:12:33+09:00 [#50]()
+**50** bothhands 2007-06-03T00:12:33+09:00 [#50](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T149/#post-50)
 
 こちらでこのゲームの全文を公開しています。
 
@@ -125,7 +125,7 @@ B「トカゲ人」→０３−０４
 
 http://bothhands.at.webry.info/200706/article_2.ht
 
-**51** bothhands 2007-06-03T00:13:59+09:00 [#51]()
+**51** bothhands 2007-06-03T00:13:59+09:00 [#51](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T149/#post-51)
 
 失礼。上記のアドレスから飛べないようです。
 

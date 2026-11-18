@@ -4,8 +4,8 @@ work: "無題"
 author: "BELove"
 type: "その他創作"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,6 +17,6 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: BELoveが「ならば私は魂を持って」と宣言する記述投稿。
 
-**106** BELove 2007-06-15T00:39:06+09:00 [#106]()
+**106** BELove 2007-06-15T00:39:06+09:00 [#106](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T112/p2#post-106)
 
 ならば私は魂を持って、

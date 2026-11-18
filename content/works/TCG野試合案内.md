@@ -4,8 +4,8 @@ work: "TCG野試合案内"
 author: "咲ちゃん"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # TCG野試合案内
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 咲ちゃんがTCG野試合の締切とトーナメント参加を案内する記述
 
-**883** 咲ちゃん 2008-01-19T15:14:58+09:00 [#883]()
+**883** 咲ちゃん 2008-01-19T15:14:58+09:00 [#883](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T098/p9#post-883)
 
 http://www7a.biglobe.ne.jp/~chikun/saki-d/tcg/index.html
 

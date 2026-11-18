@@ -4,8 +4,8 @@ work: "崩落の回廊-Goldfour-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 崩落の回廊-Goldfour-
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: 崩落の回廊-Goldfour-
 - 掲載文脈: 言理の妖精語りて曰くが崩落の回廊での少年の運命を詩的に記述する創作
 
-**14** 言理の妖精語りて曰く、 2007-02-23T23:19:43+09:00 [#14]()
+**14** 言理の妖精語りて曰く、 2007-02-23T23:19:43+09:00 [#14](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T168/#post-14)
 
 【崩落の回廊-Gold four-】
 

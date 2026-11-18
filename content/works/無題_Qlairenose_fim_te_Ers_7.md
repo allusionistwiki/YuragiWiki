@@ -4,8 +4,8 @@ work: "無題"
 author: "Qlairenose fim te Ers（7）"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 記述投稿：クレアノーズがアルセスと禁ずる結界の空中戦を繰り広げる創作。
 
-**63** Qlairenose fim te Ers（7） 2006-08-08T23:23:47+09:00 [#63]()
+**63** Qlairenose fim te Ers（7） 2006-08-08T23:23:47+09:00 [#63](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T089/#post-63)
 
 荒野に響く金属音が、その速度を増していく。断続的だった音の間隔は徐々に狭まり、風を斬る刃の音は更に鋭さを増していく。
 

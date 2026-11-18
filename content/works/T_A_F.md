@@ -4,8 +4,8 @@ work: "T・A・F"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # T・A・F
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: Ｔ・Ａ・Ｆ
 - 掲載文脈: 記述投稿で、空気を読めないための略語Ｔ・Ａ・Ｆを定義する
 
-**38** 言理の妖精語りて曰く、 2006-12-08T23:32:36+09:00 [#38]()
+**38** 言理の妖精語りて曰く、 2006-12-08T23:32:36+09:00 [#38](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T025/#post-38)
 
 【Ｔ・Ａ・Ｆ】
 

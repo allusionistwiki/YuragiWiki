@@ -4,8 +4,8 @@ work: "無題"
 author: "悪魔Ｃ"
 type: "短編・小説"
 chains: 1
-run: 20261119T0435_l1works
-link_audit: "20261119T0435_l1works"
+run: 20261119T0453_l1works
+link_audit: "20261119T0453_l1works"
 ---
 
 # 無題
@@ -17,7 +17,7 @@ link_audit: "20261119T0435_l1works"
 - 話題: —
 - 掲載文脈: 悪魔Ｃが人間の錬金術師に契約を懇願された実況
 
-**222** 悪魔Ｃ 2007-04-29T22:43:04+09:00 [#222]()
+**222** 悪魔Ｃ 2007-04-29T22:43:04+09:00 [#222](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T002/p3#post-222)
 
 >>220>>221
 
