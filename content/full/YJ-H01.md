@@ -5,8 +5,8 @@ source: hatena
 url: https://flicker.g.hatena.ne.jp/bbs/1/1
 version: full（制約なし・原文全文同梱）
 article_run: 20261117T2115_l1u
-run: 20261118T0222_l1full
-link_audit: "20261118T0222_l1full"
+run: 20261118T1948_l1full
+link_audit: "20261118T1948_l1full"
 ---
 
 
@@ -36,47 +36,65 @@ raw: YuragiWiki/raw ③④・L0 台帳 `L0/runs/20261117T2021_l0c`
 
 > 原文の著作権は各投稿者に帰属します。出典: YuragiWiki raw（https://flicker.g.hatena.ne.jp/bbs/1/1）
 
-**1** Erlkonig 2006-02-28T04:37:50+09:00
+<a id="post-1"></a>
+
+**1** Erlkonig 2006-02-28T04:37:50+09:00 [#1](#post-1)
 
 用途がどうなるか分かりませんけど、とりあえず立てるだけ立てときます。
 
 質問でも記述でも雑談でも、何でも書いてもらえれば。
 
-**2** Niv-Mizzet 2006-04-28T20:45:50+09:00
+<a id="post-2"></a>
+
+**2** Niv-Mizzet 2006-04-28T20:45:50+09:00 [#2](#post-2)
 
 <http://flicker.g.hatena.ne.jp/Niv-Mizzet/20060428/p1>
 
 にて、[ヘリステラ](http://flicker.g.hatena.ne.jp/keyword/%e3%83%98%e3%83%aa%e3%82%b9%e3%83%86%e3%83%a9)が[ステラ](http://d.hatena.ne.jp/keyword/%a5%b9%a5%c6%a5%e9)に[リンク](http://d.hatena.ne.jp/keyword/%a5%ea%a5%f3%a5%af)を貼られてしまいます。
 
-**3** Erlkonig 2006-04-28T22:38:54+09:00
+<a id="post-3"></a>
+
+**3** Erlkonig 2006-04-28T22:38:54+09:00 [#3](#post-3)
 
 対症療法ですけど、二重大カッコで括ると直るかもしれません。とりあえず[はてな](http://d.hatena.ne.jp/keyword/%a4%cf%a4%c6%a4%ca)の偉い人に言っときます。
 
-**4** deillumination 2006-05-09T23:22:04+09:00
+<a id="post-4"></a>
+
+**4** deillumination 2006-05-09T23:22:04+09:00 [#4](#post-4)
 
 とりあえず、[キーワード](http://d.hatena.ne.jp/keyword/%a5%ad%a1%bc%a5%ef%a1%bc%a5%c9)「[ゲヘナ](http://flicker.g.hatena.ne.jp/keyword/%e3%82%b2%e3%83%98%e3%83%8a)」「[亜大陸](http://flicker.g.hatena.ne.jp/keyword/%e4%ba%9c%e5%a4%a7%e9%99%b8)」「[高麗ニンジン](http://flicker.g.hatena.ne.jp/keyword/%e9%ab%98%e9%ba%97%e3%83%8b%e3%83%b3%e3%82%b8%e3%83%b3)」で各所の記述をまとめてみたんですが、これってゆらぎを求めるっていう趣旨に違反してたりしないでしょうか。だったら自粛しますが、個人的にはこの手のまとめは絶対必要だと思うんですが。ここでやるのがダメだったら、他所で[wiki](http://d.hatena.ne.jp/keyword/wiki)でも借りてやりたいです。
 
-**5** <<このエントリーは削除されました>> 2006-09-14T11:50:54+09:00
+<a id="post-5"></a>
+
+**5** <<このエントリーは削除されました>> 2006-09-14T11:50:54+09:00 [#5](#post-5)
 
 このエントリーは削除されました
 
-**6** <<このエントリーは削除されました>> 2006-09-14T11:53:26+09:00
+<a id="post-6"></a>
+
+**6** <<このエントリーは削除されました>> 2006-09-14T11:53:26+09:00 [#6](#post-6)
 
 このエントリーは削除されました
 
-**7** runa_way 2006-10-17T22:38:27+09:00
+<a id="post-7"></a>
+
+**7** runa_way 2006-10-17T22:38:27+09:00 [#7](#post-7)
 
 ポータルの自分のページで記事を書くと、自己[トラックバック](http://d.hatena.ne.jp/keyword/%a5%c8%a5%e9%a5%c3%a5%af%a5%d0%a5%c3%a5%af)が発生することがあるみたいです。と言っても、現状確認しているのは私の書いたあれこれ（削除済）と、[烏兎紀](http://flicker.g.hatena.ne.jp/keyword/%e7%83%8f%e5%85%8e%e7%b4%80)だけなのですが。
 
 私の記事もからすと[うさぎ](http://d.hatena.ne.jp/keyword/%a4%a6%a4%b5%a4%ae)さんの記事も、[トラックバック](http://d.hatena.ne.jp/keyword/%a5%c8%a5%e9%a5%c3%a5%af%a5%d0%a5%c3%a5%af)[URL](http://d.hatena.ne.jp/keyword/URL)を書いているようには見えないのですが原因が分かる方はいますでしょうか。
 
-**8** Erlkonig 2006-10-24T12:47:31+09:00
+<a id="post-8"></a>
+
+**8** Erlkonig 2006-10-24T12:47:31+09:00 [#8](#post-8)
 
 返事遅れてごめんなさい。
 
 えーと、[はてな](http://d.hatena.ne.jp/keyword/%a4%cf%a4%c6%a4%ca)内の[URL](http://d.hatena.ne.jp/keyword/URL)に[リンク](http://d.hatena.ne.jp/keyword/%a5%ea%a5%f3%a5%af)を貼ると、[自動トラックバック](http://d.hatena.ne.jp/keyword/%bc%ab%c6%b0%a5%c8%a5%e9%a5%c3%a5%af%a5%d0%a5%c3%a5%af)が発生するのは[仕様です](http://d.hatena.ne.jp/keyword/%bb%c5%cd%cd%a4%c7%a4%b9)けれど、それのことでしょうか？
 
-**9** runa_way 2006-10-24T22:20:44+09:00
+<a id="post-9"></a>
+
+**9** runa_way 2006-10-24T22:20:44+09:00 [#9](#post-9)
 
 > 返事遅れてごめんなさい。
 > 
@@ -88,7 +106,9 @@ raw: YuragiWiki/raw ③④・L0 台帳 `L0/runs/20261117T2021_l0c`
 
 具体的な実害は大きくないですが気持ち悪いので。
 
-**10** Erlkonig 2006-11-10T16:17:23+09:00
+<a id="post-10"></a>
+
+**10** Erlkonig 2006-11-10T16:17:23+09:00 [#10](#post-10)
 
 レス遅れましたごめんなさい。
 
