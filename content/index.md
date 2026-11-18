@@ -16,6 +16,7 @@ run: publish
 ## 節
 
 - [[entities_index|实体索引]] — 人物・物品・国などの作中实体（wiki 中核）
+- [[works_top|創作索引]] — 散在する創作的記述（詩・短編・設定文等）の横断索引
 - [[nav|篇索引]] — 185 篇
 - [[topics/index|topics 索引]] — 話題・語句 220
 - [[authors/index|authors 索引]] — 主要投稿者 20
