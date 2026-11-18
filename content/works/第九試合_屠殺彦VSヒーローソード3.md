@@ -4,8 +4,8 @@ work: "第九試合：屠殺彦ＶＳヒーローソード3"
 author: "第九試合：屠殺彦ＶＳヒーローソード3"
 type: "脚本"
 chains: 1
-run: 20261119T0340_l1works
-link_audit: "20261119T0340_l1works"
+run: 20261119T0435_l1works
+link_audit: "20261119T0435_l1works"
 ---
 
 # 第九試合：屠殺彦ＶＳヒーローソード3

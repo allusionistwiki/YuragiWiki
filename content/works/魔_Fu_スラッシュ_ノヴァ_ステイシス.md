@@ -4,8 +4,8 @@ work: "†魔☆Fu☆スラッシュ†、ノヴァ・ステイシス"
 author: "第十八試合：停滞新生ＶＳ神生獣剣3"
 type: "詩/短編・小説"
 chains: 1
-run: 20261119T0340_l1works
-link_audit: "20261119T0340_l1works"
+run: 20261119T0435_l1works
+link_audit: "20261119T0435_l1works"
 ---
 
 # †魔☆Fu☆スラッシュ†、ノヴァ・ステイシス

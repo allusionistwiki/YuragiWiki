@@ -4,8 +4,8 @@ work: "著作権fully"
 author: "言理の妖精語りて曰く、"
 type: "その他創作"
 chains: 1
-run: 20261119T0340_l1works
-link_audit: "20261119T0340_l1works"
+run: 20261119T0435_l1works
+link_audit: "20261119T0435_l1works"
 ---
 
 # 著作権fully

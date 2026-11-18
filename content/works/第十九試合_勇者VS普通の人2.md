@@ -4,8 +4,8 @@ work: "第十九試合：勇者VS普通の人2"
 author: "第十九試合：勇者VS普通の人2"
 type: "短編・小説"
 chains: 1
-run: 20261119T0340_l1works
-link_audit: "20261119T0340_l1works"
+run: 20261119T0435_l1works
+link_audit: "20261119T0435_l1works"
 ---
 
 # 第十九試合：勇者VS普通の人2

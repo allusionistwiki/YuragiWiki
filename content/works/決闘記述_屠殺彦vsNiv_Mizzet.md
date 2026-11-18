@@ -4,8 +4,8 @@ work: "決闘記述 屠殺彦vsNiv-Mizzet"
 author: "niv"
 type: "短編・小説"
 chains: 1
-run: 20261119T0340_l1works
-link_audit: "20261119T0340_l1works"
+run: 20261119T0435_l1works
+link_audit: "20261119T0435_l1works"
 ---
 
 # 決闘記述 屠殺彦vsNiv-Mizzet
