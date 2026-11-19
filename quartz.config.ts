@@ -85,7 +85,7 @@ const config: QuartzConfig = {
         enableRSS: true,
         // 大量ミラーページ（記事・全文）を contentIndex・sitemap・RSS から除外
         // （v2 実務準拠: 全ページ load での巨大化・iOS メモリ対策）。
-        excludePrefixes: ["units/", "topics/", "authors/", "entities/", "full/", "works/", "works_index/"],
+        excludePrefixes: ["units/", "topics/", "authors/", "entities/", "full/", "works/", "works_index/", "free/"],
         excerptChars: 200,
       }),
       Plugin.RecentUpdatesPage({ limit: 1000 }),
