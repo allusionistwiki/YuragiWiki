@@ -21,7 +21,7 @@ run: publish
 - [[free_index|自由記述索引]] — 制約なし自由記述記事（L1＋原文に基づく）
 - [[nav|篇索引]] — 185 篇
 - [[topics/index|topics 索引]] — 話題・語句 429（出現 3 以上）
-- [[authors/index|authors 索引]] — 主要投稿者 31（投稿 50 以上）
+- [[authors/index|authors 索引]] — 主要投稿者 95（投稿 10 以上）
 - [[chronology|年表]]
 - [[full/index|制約なし版 篇索引]]
 
