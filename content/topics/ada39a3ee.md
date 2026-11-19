@@ -8,8 +8,9 @@ generated: 2026-11-19T12:46:11.720691
 link_audit: "20261119T1141_l11tpaud"
 ---
 
+
 ## 概要
-『ゆらぎの神話』(BBS 実況コーパス) における語句「」は、テキスト中の引用や強調を示すための記号（二重鉤括弧）を指す。このコーパスでは、技術的な表示問題への対処法として言及される一方で、架空の神話世界において特定の存在や現象を名指し・定義するために使用されている。
+『ゆらぎの神話』（BBS実況コーパス）における語句「」は、テキスト中の引用や強調を示すための記号（二重鉤括弧）を指す。本コーパスでは、技術的な表示問題への対処法として言及される一方で、架空の神話世界において特定の存在や現象を名指し・定義するために使用されている。
 
 ## 記述の流れ
 語句「」は主に2つのスレッドで登場する。
@@ -17,8 +18,8 @@ link_audit: "20261119T1141_l11tpaud"
 2. **YJ-M15260839**: 架空の神話や日常の不可解な現象を「神」の仕業として解釈するスレッド。投稿5 (匿名) で、特定の神の名前を引用する際に使用される。
 
 ## 主要な設定
-*   **技術的機能**: Webサイト（はてな等）において、二重鉤括弧で括ることで表示上の不具合（対症療法）が直る可能性があることが示唆されている ([YJ-H01:3](https://allusionistwiki.github.io/YuragiWiki/full/YJ-H01/#post-3))。また、キーワードを指定する際に用いられる ([YJ-H01:4](https://allusionistwiki.github.io/YuragiWiki/full/YJ-H01/#post-4))。
-*   **神話的機能**: 架空の神話世界において、特定の神や現象の名前を引用・定義する記号として機能する。具体的には「アエルガ・ミクニー」という名前の引用に使用される ([YJ-M15260839:5](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/mixi/373088/日常の中に潜む神話/p0005.md))。
+*   **技術機能**: Webサイト（はてな等）において、二重鉤括弧で括ることで表示上の不具合（対症療法）が直る可能性があることが示唆されている ([YJ-H01:3](https://allusionistwiki.github.io/YuragiWiki/full/YJ-H01/#post-3))。また、キーワードを指定する際に用いられる ([YJ-H01:4](https://allusionistwiki.github.io/YuragiWiki/full/YJ-H01/#post-4))。
+*   **神話機能**: 架空の神話世界において、特定の神や現象の名前を引用・定義する記号として機能する。具体的には「アエルガ・ミクニー」という名前の引用に使用される ([YJ-M15260839:5](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/mixi/373088/日常の中に潜む神話/p0005.md))。
 
 ## 注目投稿
 *   [YJ-H01:4](https://allusionistwiki.github.io/YuragiWiki/full/YJ-H01/#post-4) (deillumination): キーワード
