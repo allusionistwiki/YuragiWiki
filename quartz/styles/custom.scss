@@ -1,3 +1,59 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// 2026-11-19: 長文記事・CJK 可読性・索引面の見た目品質（軽量・JS なし）
+
+:root {
+  --rougic-line: color-mix(in srgb, var(--accent) 22%, transparent);
+}
+
+article {
+  // 長文実況コーパスの行間・段落リズム
+  line-height: 1.75;
+  font-size: 0.95rem;
+
+  h1 {
+    letter-spacing: 0.02em;
+  }
+
+  h2 {
+    margin-top: 1.8em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid var(--rougic-line);
+  }
+
+  h3 {
+    margin-top: 1.3em;
+  }
+
+  // 引用（原文逐語引用）を視覚的に識別
+  blockquote {
+    border-left: 3px solid var(--rougic-line);
+    padding-left: 0.9em;
+    margin-left: 0.2em;
+    font-style: normal;
+  }
+
+  // 索引ページの長いリストを行送りしやすく
+  ul {
+    line-height: 1.9;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+
+  // 「」の塊読み対策
+  p {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    hanging-punctuation: allow-end;
+  }
+}
+
+// ref 行のインラインコードを軽く整える
+code {
+  font-size: 0.85em;
+  padding: 0.05em 0.35em;
+  border-radius: 4px;
+}
