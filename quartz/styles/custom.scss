@@ -57,3 +57,18 @@ code {
   padding: 0.05em 0.35em;
   border-radius: 4px;
 }
+
+// permalink 投稿ハイライト（:target）
+a[id^="post-"] {
+  scroll-margin-top: 90px;
+}
+a[id^="post-"]:target + p,
+a[id^="post-"]:target + p + p,
+a[id^="post-"]:target + p + p + p,
+a[id^="post-"]:target + p + p + p + p {
+  background: rgba(255, 196, 0, 0.16);
+  background: color-mix(in srgb, var(--accent), transparent 84%);
+  border-radius: 6px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
