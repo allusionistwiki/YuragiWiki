@@ -4,8 +4,8 @@ work: "TCG-C1開催告知"
 author: "かに"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261120T0902_l1works
-link_audit: "20261120T0902_l1works"
+run: 20261121T0743_l1works
+link_audit: "20261121T0743_l1works"
 ---
 
 # TCG-C1開催告知

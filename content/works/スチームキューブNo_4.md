@@ -4,8 +4,8 @@ work: "スチームキューブNo.4"
 author: "スチームキューブＮｏ．4"
 type: "短編・小説"
 chains: 1
-run: 20261120T0902_l1works
-link_audit: "20261120T0902_l1works"
+run: 20261121T0743_l1works
+link_audit: "20261121T0743_l1works"
 ---
 
 # スチームキューブNo.4
@@ -15,7 +15,7 @@ link_audit: "20261120T0902_l1works"
 ## 汎用記述スレッド３（YJ-T005） 群 g003
 
 - 話題: —
-- 掲載文脈: 実況でスチームキューブ四号がエンドミットの交通網を混乱させる。
+- 掲載文脈: 実況でスチームキューブ四號がエンドミットの交通網を混乱させる。
 
 **26** スチームキューブＮｏ．4 2018-10-08T19:57:26+09:00 [#26](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T005/#post-26)
 
