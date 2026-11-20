@@ -4,8 +4,8 @@ work: "TCGバトルロイヤル団体戦募集"
 author: "Ｃｏ"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261119T0453_l1works
-link_audit: "20261119T0453_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # TCGバトルロイヤル団体戦募集

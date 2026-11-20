@@ -4,8 +4,8 @@ work: "無題"
 author: "susu"
 type: "短編・小説"
 chains: 5
-run: 20261119T0453_l1works
-link_audit: "20261119T0453_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題

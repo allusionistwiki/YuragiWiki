@@ -4,8 +4,8 @@ work: "Groundbound Dragon 他英訳案"
 author: "niv"
 type: "その他創作"
 chains: 1
-run: 20261119T0453_l1works
-link_audit: "20261119T0453_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # Groundbound Dragon 他英訳案
