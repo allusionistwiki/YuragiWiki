@@ -6,7 +6,7 @@ term: ""
 type: "概念"
 count: 3
 generated: 2026-11-19T10:19:30.607361
-link_audit: "20261120T1730_l11en3aud"
+link_audit: "20261121T1430_l11en4aud"
 ---
 
 # 神話的因果律（ゆらぎの神話）

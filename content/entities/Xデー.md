@@ -6,7 +6,7 @@ term: "Xデー"
 type: "現象・出来事"
 count: 4
 generated: 2026-11-19T09:59:34.775577
-link_audit: "20261120T1730_l11en3aud"
+link_audit: "20261121T1430_l11en4aud"
 ---
 
 # Xデー
