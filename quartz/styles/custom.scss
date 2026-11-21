@@ -72,3 +72,99 @@ a[id^="post-"]:target + p + p + p + p {
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
+
+// ---- 2026-11-21: 配色アイデンティティ・索引面の品質 ----
+// --accent は Quartz の this-site 変数（未定義だと color-mix 全体が無音で失効し、
+// 上の :target ハイライトや h2 罫線が見えなくなる）。両テーマで必ず定義。
+:root {
+  --accent: #3f6f89;
+}
+:root[saved-theme="dark"] {
+  --accent: #86b4d0;
+}
+
+// 索引ページ（folder page）のヘッダ
+.folder-page {
+  h1,
+  .folder-list h3 {
+    font-weight: 500;
+  }
+}
+
+// 見出し系: 和文の階層を明確に
+article {
+  h1 {
+    font-size: 1.55rem;
+    font-weight: 700;
+  }
+  h2 {
+    font-size: 1.18rem;
+    font-weight: 700;
+  }
+  h3 {
+    font-size: 1.02rem;
+    font-weight: 600;
+  }
+}
+
+// 索引表（年表・統計・篇一覧）: 全幅で読みやすく
+article table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+
+  th {
+    background: var(--highlight);
+    font-weight: 600;
+  }
+  th,
+  td {
+    padding: 0.45em 0.7em;
+    border-bottom: 1px solid var(--rougic-line);
+  }
+}
+
+// 内部リンク（wikilink 解決済み）: 下線で群集合を明示、hover で反転
+a.internal {
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 35%, transparent);
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+    background: var(--highlight);
+  }
+}
+
+// 外部リンク（原文 blob 等）に印
+a[href^="http"]:not(.internal):not(.no-ext)::after {
+  content: "↗";
+  font-size: 0.75em;
+  margin-inline-start: 0.15em;
+  opacity: 0.55;
+}
+
+// 作成/更新メタ行を控えめに
+.meta-created,
+p.meta-created {
+  color: var(--gray);
+  font-size: 0.8rem;
+}
+
+// 篇記事末尾の区切り（---）を軽く
+article > hr {
+  margin: 1.6em 0 1em;
+  border: none;
+  border-top: 1px solid var(--rougic-line);
+}
+
+// 索引サイドバー: 節名は中太で階層感的に
+.folder-title {
+  font-weight: 500;
+}
+
+// callout を和紙配色に馴染ませる
+.callout-info,
+.callout-note {
+  background: color-mix(in srgb, var(--tertiary) 10%, var(--light));
+  border-color: color-mix(in srgb, var(--tertiary) 45%, transparent);
+}

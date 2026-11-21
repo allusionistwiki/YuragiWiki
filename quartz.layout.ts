@@ -12,6 +12,25 @@ const explorerOptions = {
   folderClickBehavior: "collapse" as const,
   filterFn: (node: FileTrieNode) => node.slugSegment !== "tags",
   mapFn: (node: FileTrieNode) => {
+    // 節名の和文表示（Explorer のツリーはスラッグ表示のままなので display 名を付与）。
+    // mapFn は toString してクライアントへシリアライズされるため、外側変数を閉じないこと（必須）。
+    const LABELS: Record<string, string> = {
+      units: "篇記事（L1 版）",
+      full: "原文全文版",
+      free: "自由記述版",
+      entities: "実体索引",
+      topics: "話題索引",
+      authors: "投稿者索引",
+      works: "作品ページ",
+      works_index: "創作類型索引",
+      widx_authors: "創作作者索引",
+      widx_units: "創作篇収容索引",
+      flicker: "日記（Flicker）",
+      static: "static",
+    }
+    if (LABELS[node.slugSegment]) {
+      node.displayName = LABELS[node.slugSegment]
+    }
     if (node.children.length > 40) {
       node.collapsed = true
       node.children = []
@@ -27,8 +46,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Obsidian vault（ソース）": "https://github.com/allusionistwiki/AllusionistLLMWiki2_Obsidian",
-      "Quartz プロジェクト": "https://github.com/allusionistwiki/AllusionistWiki2",
+      "YuragiWiki repo（原文コーパス）": "https://github.com/allusionistwiki/YuragiWiki",
+      "解析パイプライン（work）": "https://github.com/allusionistwiki/AllusionistWiki_work",
+      "AllusionistWiki portal": "https://allusionistwiki.github.io/",
+      "Quartz プロジェクト": "https://github.com/jackyzha0/quartz",
     },
   }),
 }

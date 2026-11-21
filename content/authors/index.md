@@ -7,6 +7,8 @@ run: publish
 
 主要投稿者記事（投稿 10 以上）。
 
+見方: [[guide|読み方ガイド]]（版の関係・引用アンカー・来歴）
+
 - [[authors/ada39a3ee|ada39a3ee]]
 - [[authors/ahz|ahz]]
 - [[authors/ak9|ak9]]

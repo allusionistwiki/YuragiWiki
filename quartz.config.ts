@@ -9,9 +9,10 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "ゆらぎの神話 BBS 実況 Wiki",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | ゆらぎの神話 Wiki",
     enableSPA: false,
-    enablePopovers: true,
+    // popovers（hover プレビュー）は「勝手に飛ぶ」知覚と iOS 負荷により無効（v1/v2 恒久準拠）
+    enablePopovers: false,
     analytics: {
       provider: null,
     },
@@ -23,32 +24,37 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // 和文主体のコーパス: 日本語 webfont を明示指定（旧指定は欧文字のみで
+        // 本文が OS 既定フォールバックだった）。italic 非対応和文フォントへの
+        // ital 要求は Google Fonts css2 が 400 を返し stylesheet ごと失効するため
+        // includeItalic: false + 実在 wght のみ指定（必須）。
+        header: { name: "Zen Kaku Gothic New", weights: [400, 500, 700], includeItalic: false },
+        body: { name: "Noto Sans JP", weights: [400, 500, 700], includeItalic: false },
+        code: { name: "IBM Plex Mono", weights: [400, 600] },
       },
       colors: {
+        // 和紙×藍×松緑の配色（light=和紙基調、dark=藍墨）
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f6f1",
+          lightgray: "#eae5db",
+          gray: "#b3ab9e",
+          darkgray: "#4c463e",
+          dark: "#24211c",
+          secondary: "#2f5d78",
+          tertiary: "#7d9a8c",
+          highlight: "rgba(125, 154, 140, 0.16)",
+          textHighlight: "#ffe9a8",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#191b1f",
+          lightgray: "#2a2d33",
+          gray: "#5f636b",
+          darkgray: "#d1ccc3",
+          dark: "#f0ece3",
+          secondary: "#9ec1da",
+          tertiary: "#93b2a3",
+          highlight: "rgba(158, 193, 218, 0.15)",
+          textHighlight: "#c9a22788",
         },
       },
     },
