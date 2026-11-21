@@ -19,6 +19,7 @@ run: publish
 - [[entities_index|実体索引]] — 人物・物品・国などの作中実体（wiki 中核）
 - [[works_top|創作索引]] — 散在する創作的記述（詩・短編・設定文等）の横断索引
 - [[free_index|自由記述索引]] — 制約なし自由記述記事（L1＋原文に基づく）
+- [[flicker_index|日記索引（Hatena Flicker）]] — 関連日記 19 作者・387 投稿（原文逐語・permalink 付き）
 - [[nav|篇索引]] — 185 篇
 - [[topics/index|topics 索引]] — 話題・語句 429（出現 3 以上）
 - [[authors/index|authors 索引]] — 主要投稿者 95（投稿 10 以上）
