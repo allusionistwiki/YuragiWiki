@@ -11,17 +11,17 @@ run: 20261122T1310_l1allud6
 
 | 類型 | 件数 |
 |---|---:|
-| その他 | 505 |
-| 文学 | 196 |
-| 科学 | 183 |
+| その他 | 516 |
+| 文学 | 197 |
+| 科学 | 184 |
 | 宗教 | 137 |
 | ゲーム | 134 |
 | 人物 | 100 |
 | 地理 | 98 |
-| 神話 | 70 |
+| 神話 | 71 |
 | 映像 | 60 |
 | 歴史 | 47 |
-| ブランド | 41 |
+| ブランド | 42 |
 | 音楽 | 16 |
 
 ## 篇別
@@ -31,20 +31,20 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-M2557927|YJ-M2557927]]（38 件）
 - [[allusions/YJ-M2706511|YJ-M2706511]]（57 件）
 - [[allusions/YJ-M6948914|YJ-M6948914]]（25 件）
-- [[allusions/YJ-T003|YJ-T003]]（44 件）
-- [[allusions/YJ-T004|YJ-T004]]（34 件）
+- [[allusions/YJ-T003|YJ-T003]]（47 件）
+- [[allusions/YJ-T004|YJ-T004]]（35 件）
 - [[allusions/YJ-T006|YJ-T006]]（4 件）
 - [[allusions/YJ-T007|YJ-T007]]（3 件）
 - [[allusions/YJ-T008|YJ-T008]]（7 件）
 - [[allusions/YJ-T009|YJ-T009]]（5 件）
 - [[allusions/YJ-T010|YJ-T010]]（7 件）
 - [[allusions/YJ-T011|YJ-T011]]（31 件）
-- [[allusions/YJ-T012|YJ-T012]]（85 件）
+- [[allusions/YJ-T012|YJ-T012]]（86 件）
 - [[allusions/YJ-T013|YJ-T013]]（6 件）
-- [[allusions/YJ-T014|YJ-T014]]（15 件）
-- [[allusions/YJ-T015|YJ-T015]]（27 件）
+- [[allusions/YJ-T014|YJ-T014]]（16 件）
+- [[allusions/YJ-T015|YJ-T015]]（30 件）
 - [[allusions/YJ-T019|YJ-T019]]（36 件）
-- [[allusions/YJ-T020|YJ-T020]]（12 件）
+- [[allusions/YJ-T020|YJ-T020]]（13 件）
 - [[allusions/YJ-T021|YJ-T021]]（36 件）
 - [[allusions/YJ-T024|YJ-T024]]（23 件）
 - [[allusions/YJ-T027|YJ-T027]]（1 件）
@@ -62,7 +62,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T044|YJ-T044]]（1 件）
 - [[allusions/YJ-T045|YJ-T045]]（5 件）
 - [[allusions/YJ-T046|YJ-T046]]（41 件）
-- [[allusions/YJ-T048|YJ-T048]]（2 件）
+- [[allusions/YJ-T048|YJ-T048]]（3 件）
 - [[allusions/YJ-T050|YJ-T050]]（2 件）
 - [[allusions/YJ-T052|YJ-T052]]（5 件）
 - [[allusions/YJ-T053|YJ-T053]]（46 件）
@@ -95,7 +95,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T092|YJ-T092]]（3 件）
 - [[allusions/YJ-T093|YJ-T093]]（9 件）
 - [[allusions/YJ-T094|YJ-T094]]（2 件）
-- [[allusions/YJ-T096|YJ-T096]]（24 件）
+- [[allusions/YJ-T096|YJ-T096]]（25 件）
 - [[allusions/YJ-T097|YJ-T097]]（14 件）
 - [[allusions/YJ-T099|YJ-T099]]（27 件）
 - [[allusions/YJ-T100|YJ-T100]]（2 件）
@@ -114,7 +114,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T115|YJ-T115]]（11 件）
 - [[allusions/YJ-T116|YJ-T116]]（1 件）
 - [[allusions/YJ-T118|YJ-T118]]（2 件）
-- [[allusions/YJ-T121|YJ-T121]]（6 件）
+- [[allusions/YJ-T121|YJ-T121]]（7 件）
 - [[allusions/YJ-T122|YJ-T122]]（44 件）
 - [[allusions/YJ-T123|YJ-T123]]（1 件）
 - [[allusions/YJ-T124|YJ-T124]]（2 件）
@@ -138,7 +138,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T147|YJ-T147]]（20 件）
 - [[allusions/YJ-T148|YJ-T148]]（6 件）
 - [[allusions/YJ-T150|YJ-T150]]（2 件）
-- [[allusions/YJ-T151|YJ-T151]]（3 件）
+- [[allusions/YJ-T151|YJ-T151]]（4 件）
 - [[allusions/YJ-T153|YJ-T153]]（6 件）
 - [[allusions/YJ-T154|YJ-T154]]（2 件）
 - [[allusions/YJ-T155|YJ-T155]]（12 件）
@@ -149,7 +149,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T164|YJ-T164]]（2 件）
 - [[allusions/YJ-T165|YJ-T165]]（80 件）
 - [[allusions/YJ-T168|YJ-T168]]（7 件）
-- [[allusions/YJ-T169|YJ-T169]]（36 件）
+- [[allusions/YJ-T169|YJ-T169]]（37 件）
 - [[allusions/YJ-T173|YJ-T173]]（5 件）
 - [[allusions/YJ-T176|YJ-T176]]（39 件）
 

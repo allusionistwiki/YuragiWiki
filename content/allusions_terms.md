@@ -7,7 +7,7 @@ run: publish
 
 同一の実世界対象が複数篇で参照されている名寄せ索引。正規化名（・・空白除去・小文字化）で機械統合し、suppressions 裁定を反映。
 
-対象名: 134（全対象名 1367・2 篇以上）
+対象名: 136（全対象名 1380・2 篇以上）
 
 - **TRPG**（23 篇・その他23・ゲーム2）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T013|YJ-T013]]・[[allusions/YJ-T014|YJ-T014]]・[[allusions/YJ-T019|YJ-T019]]・[[allusions/YJ-T024|YJ-T024]]・[[allusions/YJ-T028|YJ-T028]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T066|YJ-T066]]・[[allusions/YJ-T068|YJ-T068]]・[[allusions/YJ-T069|YJ-T069]]・[[allusions/YJ-T096|YJ-T096]]・[[allusions/YJ-T097|YJ-T097]]・[[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T106|YJ-T106]]・[[allusions/YJ-T109|YJ-T109]]・[[allusions/YJ-T114|YJ-T114]]・[[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T127|YJ-T127]]・[[allusions/YJ-T138|YJ-T138]]・[[allusions/YJ-T139|YJ-T139]]・[[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T165|YJ-T165]]
 - **桃太郎**（9 篇・文学10）: [[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T046|YJ-T046]]・[[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T058|YJ-T058]]・[[allusions/YJ-T060|YJ-T060]]・[[allusions/YJ-T109|YJ-T109]]・[[allusions/YJ-T114|YJ-T114]]・[[allusions/YJ-T143|YJ-T143]]
@@ -67,6 +67,7 @@ run: publish
 - **インド**（2 篇・地理2）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T113|YJ-T113]]
 - **ウリエル**（2 篇・宗教3）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T041|YJ-T041]]
 - **ウロボロス**（2 篇・その他1・神話1）: [[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T068|YJ-T068]]
+- **エルフ**（2 篇・神話1・文学1）: [[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T057|YJ-T057]]
 - **オリハルコン**（2 篇・その他1・神話1・文学1）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T064|YJ-T064]]
 - **ガンガン**（2 篇・その他2）: [[allusions/YJ-M6948914|YJ-M6948914]]・[[allusions/YJ-T086|YJ-T086]]
 - **クォーク**（2 篇・科学2）: [[allusions/YJ-T015|YJ-T015]]・[[allusions/YJ-T064|YJ-T064]]
@@ -84,6 +85,7 @@ run: publish
 - **デウス・エクス・マキナ**（2 篇・文学2）: [[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T127|YJ-T127]]
 - **デス・ノート**（2 篇・その他2）: [[allusions/YJ-T028|YJ-T028]]・[[allusions/YJ-T165|YJ-T165]]
 - **トゥアハ・デ・ダナーン**（2 篇・神話2）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T061|YJ-T061]]
+- **トウモロコシ**（2 篇・その他2）: [[allusions/YJ-T014|YJ-T014]]・[[allusions/YJ-T019|YJ-T019]]
 - **トリックスター**（2 篇・その他2）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T024|YJ-T024]]
 - **ナポレオン**（2 篇・人物2）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T021|YJ-T021]]
 - **ニート**（2 篇・その他2）: [[allusions/YJ-T041|YJ-T041]]・[[allusions/YJ-T143|YJ-T143]]
