@@ -4,13 +4,13 @@ work: "THIRD EXCALIBUR"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 8
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # THIRD EXCALIBUR
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 設定文 ／ 収録群: 8）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 設定文 ／ 収録群: 8）
 
 ## 必殺技・大魔法・特殊アイテム（YJ-T025） 群 g051
 

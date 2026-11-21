@@ -4,13 +4,13 @@ work: "無題"
 author: "bigi"
 type: "その他創作"
 chains: 9
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 無題
 
-（作者: bigi ／ 类型: その他創作 ／ 収録群: 9）
+（作者: bigi ／ 類型: その他創作 ／ 収録群: 9）
 
 ## ゆらぎ実況スレッド7（YJ-T162） 群 g204
 

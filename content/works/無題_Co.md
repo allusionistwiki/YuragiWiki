@@ -4,13 +4,13 @@ work: "無題"
 author: "Ｃｏ"
 type: "その他創作"
 chains: 2
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 無題
 
-（作者: Ｃｏ ／ 类型: その他創作 ／ 収録群: 2）
+（作者: Ｃｏ ／ 類型: その他創作 ／ 収録群: 2）
 
 ## ニヴの怪発明（YJ-T098） 群 g167
 

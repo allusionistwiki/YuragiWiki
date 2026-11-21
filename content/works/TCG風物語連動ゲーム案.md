@@ -4,13 +4,13 @@ work: "TCG風物語連動ゲーム案"
 author: "niv"
 type: "設定文"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # TCG風物語連動ゲーム案
 
-（作者: niv ／ 类型: 設定文 ／ 収録群: 1）
+（作者: niv ／ 類型: 設定文 ／ 収録群: 1）
 
 ## 神話企画部（YJ-T108） 群 g137
 

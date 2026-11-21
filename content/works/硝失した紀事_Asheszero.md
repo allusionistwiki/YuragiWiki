@@ -4,13 +4,13 @@ work: "硝失した紀事-Asheszero-"
 author: "言理の妖精語りて曰く、"
 type: "詩"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 硝失した紀事-Asheszero-
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 収録群: 1）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 収録群: 1）
 
 ## 歌曲・歌詞スレ（YJ-T168） 群 g009
 

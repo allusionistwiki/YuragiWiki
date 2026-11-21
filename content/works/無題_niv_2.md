@@ -4,13 +4,13 @@ work: "無題"
 author: "niv"
 type: "その他創作"
 chains: 4
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 無題
 
-（作者: niv ／ 类型: その他創作 ／ 収録群: 4）
+（作者: niv ／ 類型: その他創作 ／ 収録群: 4）
 
 ## 罠トルソー（YJ-T095） 群 g554
 

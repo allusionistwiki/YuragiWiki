@@ -4,13 +4,13 @@ work: "無題"
 author: "sillat"
 type: "詩/短編・小説"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 無題
 
-（作者: sillat ／ 类型: 詩/短編・小説 ／ 収録群: 1）
+（作者: sillat ／ 類型: 詩/短編・小説 ／ 収録群: 1）
 
 ## ゆらぎ実況スレッド3（YJ-T175） 群 g084
 

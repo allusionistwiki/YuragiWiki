@@ -4,13 +4,13 @@ work: "PrettyIsPower"
 author: "言理の妖精語りて曰く、"
 type: "韻文・格言・謎かけ"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # PrettyIsPower
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 韻文・格言・謎かけ ／ 収録群: 1）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 韻文・格言・謎かけ ／ 収録群: 1）
 
 ## 星見の塔　談話の間（YJ-T084） 群 g120
 

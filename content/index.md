@@ -31,7 +31,7 @@ run: publish
 | 篇記事（units） | L1 版の要約・整理記事 | 185 篇 | [[nav|篇索引]] |
 | 原文全文（full） | 投稿全文そのまま・投稿単位 permalink | 186 篇 | [[full/index|full 索引]] |
 | 自由記述（free） | 制約なし自由記述記事 | 185 篇 | [[free_index|自由記述索引]] |
-| 実体（entities） | 人物・物品・国・事件・概念 | 800 件 | [[entities_index|类型別索引]] |
+| 実体（entities） | 人物・物品・国・事件・概念 | 800 件 | [[entities_index|類型別索引]] |
 | 創作（works） | 散在する詩・短編・設定文 | 6,453 作品 | [[works_top|創作索引]] |
 | 話題（topics） | 話題・語句（出現 3 以上） | 429 件 | [[topics/index|topics 索引]] |
 | 投稿者（authors） | 主要投稿者（投稿 10 以上） | 95 名 | [[authors/index|authors 索引]] |

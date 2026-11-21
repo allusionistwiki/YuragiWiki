@@ -4,13 +4,13 @@ work: "魔王14歳Online"
 author: "言理の妖精語りて曰く、"
 type: "その他創作"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 魔王14歳Online
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: その他創作 ／ 収録群: 1）
+（作者: 言理の妖精語りて曰く、 ／ 類型: その他創作 ／ 収録群: 1）
 
 ## 【魔王14歳Online】（YJ-T076） 群 g055
 

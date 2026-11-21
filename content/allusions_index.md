@@ -1,6 +1,6 @@
 ---
 title: "実世界参照 索引"
-run: 20261122T1310_l1allud6
+run: 20261122T0630_l1cnglyph
 ---
 
 # 実世界参照 索引
@@ -11,16 +11,16 @@ run: 20261122T1310_l1allud6
 
 | 類型 | 件数 |
 |---|---:|
-| その他 | 1200 |
-| 文学 | 493 |
-| 科学 | 431 |
+| その他 | 1206 |
+| 文学 | 494 |
+| 科学 | 432 |
 | ゲーム | 354 |
-| 神話 | 293 |
-| 宗教 | 293 |
-| 人物 | 273 |
+| 神話 | 294 |
+| 宗教 | 294 |
+| 人物 | 274 |
 | 地理 | 250 |
 | 映像 | 204 |
-| ブランド | 112 |
+| ブランド | 114 |
 | 歴史 | 95 |
 | 音楽 | 63 |
 
@@ -29,7 +29,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-M15260839|YJ-M15260839]]（11 件）
 - [[allusions/YJ-M24775488|YJ-M24775488]]（1 件）
 - [[allusions/YJ-M2557927|YJ-M2557927]]（38 件）
-- [[allusions/YJ-M2706511|YJ-M2706511]]（57 件）
+- [[allusions/YJ-M2706511|YJ-M2706511]]（60 件）
 - [[allusions/YJ-M6948914|YJ-M6948914]]（25 件）
 - [[allusions/YJ-T001|YJ-T001]]（64 件）
 - [[allusions/YJ-T002|YJ-T002]]（82 件）
@@ -50,10 +50,10 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T018|YJ-T018]]（23 件）
 - [[allusions/YJ-T019|YJ-T019]]（36 件）
 - [[allusions/YJ-T020|YJ-T020]]（13 件）
-- [[allusions/YJ-T021|YJ-T021]]（36 件）
+- [[allusions/YJ-T021|YJ-T021]]（41 件）
 - [[allusions/YJ-T022|YJ-T022]]（30 件）
 - [[allusions/YJ-T023|YJ-T023]]（63 件）
-- [[allusions/YJ-T024|YJ-T024]]（23 件）
+- [[allusions/YJ-T024|YJ-T024]]（26 件）
 - [[allusions/YJ-T025|YJ-T025]]（108 件）
 - [[allusions/YJ-T026|YJ-T026]]（45 件）
 - [[allusions/YJ-T027|YJ-T027]]（1 件）
@@ -75,7 +75,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T043|YJ-T043]]（4 件）
 - [[allusions/YJ-T044|YJ-T044]]（1 件）
 - [[allusions/YJ-T045|YJ-T045]]（5 件）
-- [[allusions/YJ-T046|YJ-T046]]（41 件）
+- [[allusions/YJ-T046|YJ-T046]]（43 件）
 - [[allusions/YJ-T048|YJ-T048]]（3 件）
 - [[allusions/YJ-T050|YJ-T050]]（2 件）
 - [[allusions/YJ-T051|YJ-T051]]（16 件）

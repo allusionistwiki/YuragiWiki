@@ -8,5 +8,5 @@ run: publish
 BBS 各スレッドに散在する創作的記述（詩・短編・設定文・劇中作品文等）の作品単位ページ。
 各ページに収録投稿の原文全文（逐語）と投稿単位 permalink 付き。
 
-- 横断索引: [[works_top|創作索引（トップ）]] ／ 类型別: works_index ／ 作者別: [[widx_authors/|創作作者索引]]
+- 横断索引: [[works_top|創作索引（トップ）]] ／ 類型別: works_index ／ 作者別: [[widx_authors/|創作作者索引]]
 - 見方: [[guide|読み方ガイド]]

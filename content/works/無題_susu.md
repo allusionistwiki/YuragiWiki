@@ -4,13 +4,13 @@ work: "無題"
 author: "susu"
 type: "短編・小説"
 chains: 5
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # 無題
 
-（作者: susu ／ 类型: 短編・小説 ／ 収録群: 5）
+（作者: susu ／ 類型: 短編・小説 ／ 収録群: 5）
 
 ## 人物に関する記述スレッド（YJ-T026） 群 g125
 

@@ -4,13 +4,13 @@ work: "PTA、観測庁"
 author: "【PTA】"
 type: "脚本"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # PTA、観測庁
 
-（作者: 【PTA】 ／ 类型: 脚本 ／ 収録群: 1）
+（作者: 【PTA】 ／ 類型: 脚本 ／ 収録群: 1）
 
 ## 魔法少女きゆら（YJ-T059） 群 g013
 

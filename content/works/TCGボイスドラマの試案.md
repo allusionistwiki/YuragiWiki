@@ -4,13 +4,13 @@ work: "TCGボイスドラマの試案"
 author: "bothhands"
 type: "脚本"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # TCGボイスドラマの試案
 
-（作者: bothhands ／ 类型: 脚本 ／ 収録群: 1）
+（作者: bothhands ／ 類型: 脚本 ／ 収録群: 1）
 
 ## 雑談スレッド3（YJ-T152） 群 g108
 

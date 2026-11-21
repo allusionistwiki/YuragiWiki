@@ -4,13 +4,13 @@ work: "CUTOS ss"
 author: "CUTOS"
 type: "設定文"
 chains: 1
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+run: 20261122T0533_l1works
+link_audit: "20261122T0533_l1works"
 ---
 
 # CUTOS ss
 
-（作者: CUTOS ／ 类型: 設定文 ／ 収録群: 1）
+（作者: CUTOS ／ 類型: 設定文 ／ 収録群: 1）
 
 ## 魔法・科学（YJ-T002） 群 g005
 
