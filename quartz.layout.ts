@@ -43,7 +43,7 @@ const explorerOptions = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.Search({ enablePreview: false })],
   footer: Component.Footer({
     links: {
       "YuragiWiki repo（原文コーパス）": "https://github.com/allusionistwiki/YuragiWiki",
