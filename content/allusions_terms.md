@@ -7,9 +7,9 @@ run: publish
 
 同一の実世界対象が複数篇で参照されている名寄せ索引。正規化名（・・空白除去・小文字化）で機械統合し、suppressions 裁定を反映。
 
-対象名: 427（全対象名 3072・2 篇以上）
+対象名: 428（全対象名 3074・2 篇以上）
 
-- **TRPG**（43 篇・その他41・ゲーム4）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T013|YJ-T013]]・[[allusions/YJ-T014|YJ-T014]]・[[allusions/YJ-T018|YJ-T018]]・[[allusions/YJ-T019|YJ-T019]]・[[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T024|YJ-T024]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T028|YJ-T028]]・[[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T037|YJ-T037]]・[[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T066|YJ-T066]]・[[allusions/YJ-T068|YJ-T068]]・[[allusions/YJ-T069|YJ-T069]]・[[allusions/YJ-T084|YJ-T084]]・[[allusions/YJ-T087|YJ-T087]]・[[allusions/YJ-T096|YJ-T096]]・[[allusions/YJ-T097|YJ-T097]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T106|YJ-T106]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T109|YJ-T109]]・[[allusions/YJ-T114|YJ-T114]]・[[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T127|YJ-T127]]・[[allusions/YJ-T135|YJ-T135]]・[[allusions/YJ-T138|YJ-T138]]・[[allusions/YJ-T139|YJ-T139]]・[[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T177|YJ-T177]]
+- **TRPG**（44 篇・その他42・ゲーム4）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T013|YJ-T013]]・[[allusions/YJ-T014|YJ-T014]]・[[allusions/YJ-T018|YJ-T018]]・[[allusions/YJ-T019|YJ-T019]]・[[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T024|YJ-T024]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T028|YJ-T028]]・[[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T037|YJ-T037]]・[[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T066|YJ-T066]]・[[allusions/YJ-T068|YJ-T068]]・[[allusions/YJ-T069|YJ-T069]]・[[allusions/YJ-T084|YJ-T084]]・[[allusions/YJ-T087|YJ-T087]]・[[allusions/YJ-T096|YJ-T096]]・[[allusions/YJ-T097|YJ-T097]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T106|YJ-T106]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T109|YJ-T109]]・[[allusions/YJ-T114|YJ-T114]]・[[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T127|YJ-T127]]・[[allusions/YJ-T135|YJ-T135]]・[[allusions/YJ-T138|YJ-T138]]・[[allusions/YJ-T139|YJ-T139]]・[[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T177|YJ-T177]]
 - **TCG**（16 篇・ゲーム9・その他7）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T062|YJ-T062]]・[[allusions/YJ-T094|YJ-T094]]・[[allusions/YJ-T095|YJ-T095]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T130|YJ-T130]]・[[allusions/YJ-T139|YJ-T139]]・[[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T162|YJ-T162]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T166|YJ-T166]]
 - **地球**（15 篇・地理17）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T017|YJ-T017]]・[[allusions/YJ-T020|YJ-T020]]・[[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T045|YJ-T045]]・[[allusions/YJ-T057|YJ-T057]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T087|YJ-T087]]・[[allusions/YJ-T113|YJ-T113]]・[[allusions/YJ-T134|YJ-T134]]・[[allusions/YJ-T136|YJ-T136]]
 - **桃太郎**（14 篇・文学15）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T046|YJ-T046]]・[[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T058|YJ-T058]]・[[allusions/YJ-T060|YJ-T060]]・[[allusions/YJ-T084|YJ-T084]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T109|YJ-T109]]・[[allusions/YJ-T114|YJ-T114]]・[[allusions/YJ-T143|YJ-T143]]・[[allusions/YJ-T172|YJ-T172]]
@@ -28,6 +28,7 @@ run: publish
 - **らき☆すた**（7 篇・映像7・その他1）: [[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T162|YJ-T162]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T172|YJ-T172]]・[[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T175|YJ-T175]]・[[allusions/YJ-T176|YJ-T176]]
 - **バハムート**（7 篇・宗教6・神話2）: [[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T036|YJ-T036]]・[[allusions/YJ-T061|YJ-T061]]・[[allusions/YJ-T071|YJ-T071]]・[[allusions/YJ-T134|YJ-T134]]・[[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T169|YJ-T169]]
 - **北欧神話**（7 篇・神話4・宗教3）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T018|YJ-T018]]・[[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T078|YJ-T078]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T178|YJ-T178]]・[[allusions/YJ-T179|YJ-T179]]
+- **日本**（7 篇・地理8）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T092|YJ-T092]]・[[allusions/YJ-T093|YJ-T093]]・[[allusions/YJ-T156|YJ-T156]]・[[allusions/YJ-T169|YJ-T169]]
 - **魔法少女**（7 篇・その他7）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T011|YJ-T011]]・[[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T053|YJ-T053]]・[[allusions/YJ-T081|YJ-T081]]・[[allusions/YJ-T133|YJ-T133]]・[[allusions/YJ-T169|YJ-T169]]
 - **麻雀**（7 篇・その他7）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T032|YJ-T032]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T107|YJ-T107]]
 - **2ちゃんねる**（6 篇・その他6）: [[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T078|YJ-T078]]・[[allusions/YJ-T128|YJ-T128]]・[[allusions/YJ-T137|YJ-T137]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T172|YJ-T172]]
@@ -43,7 +44,6 @@ run: publish
 - **仮面ライダー**（6 篇・映像6）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T162|YJ-T162]]・[[allusions/YJ-T163|YJ-T163]]・[[allusions/YJ-T165|YJ-T165]]
 - **初音ミク**（6 篇・音楽3・その他2・ブランド1）: [[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T099|YJ-T099]]・[[allusions/YJ-T162|YJ-T162]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T171|YJ-T171]]
 - **南極**（6 篇・地理6）: [[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T043|YJ-T043]]・[[allusions/YJ-T045|YJ-T045]]・[[allusions/YJ-T048|YJ-T048]]
-- **日本**（6 篇・地理7）: [[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T092|YJ-T092]]・[[allusions/YJ-T093|YJ-T093]]・[[allusions/YJ-T156|YJ-T156]]・[[allusions/YJ-T169|YJ-T169]]
 - **東方Project**（6 篇・ゲーム6・その他1）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T037|YJ-T037]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T144|YJ-T144]]・[[allusions/YJ-T176|YJ-T176]]・[[allusions/YJ-T178|YJ-T178]]
 - **Fate/stay night**（5 篇・ゲーム5）: [[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T137|YJ-T137]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T179|YJ-T179]]
 - **アメリカ**（5 篇・地理6）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T053|YJ-T053]]・[[allusions/YJ-T113|YJ-T113]]・[[allusions/YJ-T134|YJ-T134]]
@@ -142,7 +142,7 @@ run: publish
 - **パンドラの箱**（3 篇・神話4）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T127|YJ-T127]]・[[allusions/YJ-T143|YJ-T143]]
 - **ヒンドゥー教**（3 篇・宗教3）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T108|YJ-T108]]
 - **ビッグバン**（3 篇・科学3）: [[allusions/YJ-M6948914|YJ-M6948914]]・[[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T017|YJ-T017]]
-- **ヘブライ語**（3 篇・その他3）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T081|YJ-T081]]・[[allusions/YJ-T136|YJ-T136]]
+- **ヘブライ語**（3 篇・その他4）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T081|YJ-T081]]・[[allusions/YJ-T136|YJ-T136]]
 - **マジック:ザ・ギャザリング**（3 篇・ゲーム3）: [[allusions/YJ-T066|YJ-T066]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T166|YJ-T166]]
 - **マジック・ザ・ギャザリング**（3 篇・ゲーム3）: [[allusions/YJ-T028|YJ-T028]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T137|YJ-T137]]
 - **ミーム**（3 篇・科学3）: [[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T018|YJ-T018]]・[[allusions/YJ-T024|YJ-T024]]
@@ -155,7 +155,7 @@ run: publish
 - **人狼**（3 篇・ゲーム2・その他1）: [[allusions/YJ-T050|YJ-T050]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T165|YJ-T165]]
 - **伺か**（3 篇・その他3）: [[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T163|YJ-T163]]・[[allusions/YJ-T179|YJ-T179]]
 - **冷戦**（3 篇・歴史3）: [[allusions/YJ-T015|YJ-T015]]・[[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T106|YJ-T106]]
-- **南極大陸**（3 篇・地理3）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T017|YJ-T017]]・[[allusions/YJ-T021|YJ-T021]]
+- **南極大陸**（3 篇・地理4）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T017|YJ-T017]]・[[allusions/YJ-T021|YJ-T021]]
 - **吉本ばなな**（3 篇・文学3）: [[allusions/YJ-T046|YJ-T046]]・[[allusions/YJ-T067|YJ-T067]]・[[allusions/YJ-T172|YJ-T172]]
 - **堕天使**（3 篇・宗教3）: [[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T071|YJ-T071]]
 - **大塚英志**（3 篇・人物3）: [[allusions/YJ-T095|YJ-T095]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T178|YJ-T178]]
@@ -394,7 +394,7 @@ run: publish
 - **村上龍**（2 篇・文学2）: [[allusions/YJ-T130|YJ-T130]]・[[allusions/YJ-T178|YJ-T178]]
 - **東京**（2 篇・地理2）: [[allusions/YJ-T092|YJ-T092]]・[[allusions/YJ-T093|YJ-T093]]
 - **機動戦士ガンダム**（2 篇・映像2）: [[allusions/YJ-T162|YJ-T162]]・[[allusions/YJ-T166|YJ-T166]]
-- **民主主義**（2 篇・その他2）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T016|YJ-T016]]
+- **民主主義**（2 篇・その他3）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T016|YJ-T016]]
 - **永劫回帰**（2 篇・その他1・ゲーム1）: [[allusions/YJ-T131|YJ-T131]]・[[allusions/YJ-T179|YJ-T179]]
 - **涼宮ハルヒ**（2 篇・文学2）: [[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T165|YJ-T165]]
 - **深きものども**（2 篇・文学3）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
@@ -407,6 +407,7 @@ run: publish
 - **福本伸行**（2 篇・人物3）: [[allusions/YJ-T053|YJ-T053]]・[[allusions/YJ-T166|YJ-T166]]
 - **第六天魔王**（2 篇・歴史1・宗教1）: [[allusions/YJ-T133|YJ-T133]]・[[allusions/YJ-T174|YJ-T174]]
 - **筒井康隆**（2 篇・人物1・文学1）: [[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T174|YJ-T174]]
+- **納豆**（2 篇・その他2）: [[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T017|YJ-T017]]
 - **絨毯爆撃**（2 篇・歴史1・その他1）: [[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T135|YJ-T135]]
 - **絶望先生**（2 篇・文学1・映像1）: [[allusions/YJ-T171|YJ-T171]]・[[allusions/YJ-T174|YJ-T174]]
 - **織田信長**（2 篇・人物2）: [[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T166|YJ-T166]]
