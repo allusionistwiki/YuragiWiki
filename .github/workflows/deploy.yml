@@ -4,6 +4,12 @@ name: Deploy YuragiWiki (Quartz) to GitHub Pages
 #   content/ 直下 = L1 版（units/topics/authors/chronology/nav）
 #   content/full/ = 制約なし版（原文全文 185 ページ）
 # 内容は work repo の監査済み run から publish_yuragi_site.py で同期される。
+#
+# デプロイ戦略（AllusionistWiki2 と同じ 3 段、2026-11-22 適用）:
+#   1. content+engine 連合不変の push（README 等だけ）→ 即スキップ（tree SHA 連合マーカー）。
+#   2. 内容のみの変化 → 差分ビルド（manifest v2 + processed キャッシュ、QUARTZ_DIFF=1、
+#      changed だけ parse・emit 全数。ローカル検証 4m19s→1m18s）。
+#   3. 削除・移動・エンジン/ワークフロー変更・差分基盤なし → フルビルド（従来）。
 
 on:
   push:
@@ -22,36 +28,140 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      deploy: ${{ steps.flag.outputs.deploy }}
+      ctree: ${{ steps.trees.outputs.ctree }}
+      etree: ${{ steps.trees.outputs.etree }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Restore node_modules cache
-        id: cache
-        uses: actions/cache@v4
+      - name: Compute content/engine tree hashes
+        id: trees
+        run: |
+          echo "ctree=$(git rev-parse HEAD:content)" >> "$GITHUB_OUTPUT"
+          etree=$(git ls-tree -r HEAD -- quartz quartz.config.ts quartz.layout.ts .github/workflows package-lock.json scripts | sha256sum | cut -c1-16)
+          echo "etree=$etree" >> "$GITHUB_OUTPUT"
+
+      - name: Check if this content+engine combo was already deployed
+        id: cached
+        uses: actions/cache/restore@v4
         with:
-          path: node_modules
-          key: yw-npm-${{ hashFiles('package-lock.json') }}
+          path: .deploy-marker
+          key: yw-deployed-v1-${{ steps.trees.outputs.ctree }}-${{ steps.trees.outputs.etree }}
+
+      - name: Set deploy flag
+        id: flag
+        run: |
+          if [ "${{ steps.cached.outputs.cache-hit }}" = "true" ]; then
+            echo "content+engine combo unchanged, skipping build"
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Restore last manifest (diff base)
+        id: mancache
+        if: steps.flag.outputs.deploy == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .last-manifest
+          key: yw-last-manifest-${{ runner.os }}
+          restore-keys: |
+            yw-last-manifest-${{ runner.os }}-
+
+      - name: Restore Quartz build cache
+        if: steps.flag.outputs.deploy == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .quartz-cache
+          key: yw-quartz-cache-${{ runner.os }}-${{ github.sha }}
+          restore-keys: |
+            yw-quartz-cache-${{ runner.os }}-
+
+      - name: Decide build mode
+        id: mode
+        if: steps.flag.outputs.deploy == 'true'
+        run: |
+          mode=full
+          reason="no-diff-base"
+          if [ -f .last-manifest/manifest.json ] && [ -f .last-manifest/prev-site.txt ] && [ -f .quartz-cache/processed.jsonl.gz ]; then
+            prev_site=$(cat .last-manifest/prev-site.txt)
+            git fetch -q --no-tags --depth=80 origin main
+            if ! git cat-file -e "${prev_site}^{commit}" 2>/dev/null; then
+              reason="prev-site-unknown"
+            elif git diff --name-only "${prev_site}" "${GITHUB_SHA}" | grep -qE '^(quartz/|quartz\.config\.ts|quartz\.layout\.ts|\.github/workflows/|package(-lock)?\.json|scripts/)'; then
+              reason="engine-or-workflow-changed"
+            elif python3 scripts/diff_gate.py .last-manifest/manifest.json content; then
+              mode=diff
+              reason="content-only-changes"
+            else
+              reason="deletions-or-renames"
+            fi
+          fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          echo "build mode=$mode ($reason)"
 
       - uses: actions/setup-node@v4
+        if: steps.flag.outputs.deploy == 'true'
         with:
           node-version: 20
 
+      - name: Restore node_modules cache
+        if: steps.flag.outputs.deploy == 'true'
+        id: npmcache
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: yw-npm-${{ runner.os }}-node20-${{ hashFiles('package-lock.json') }}
+
       - name: Install dependencies
-        if: steps.cache.outputs.cache-hit != 'true'
+        if: steps.flag.outputs.deploy == 'true' && steps.npmcache.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Apply Quartz engine patches
+        if: steps.flag.outputs.deploy == 'true'
         run: node scripts/apply-quartz-patches.mjs
 
-      - name: Build Quartz
-        run: npx quartz build --directory content
+      - name: Diff build (incremental)
+        id: diffbuild
+        if: steps.flag.outputs.deploy == 'true' && steps.mode.outputs.mode == 'diff'
+        run: |
+          rm -rf public
+          QUARTZ_DIFF=1 QUARTZ_PREV_MANIFEST=.last-manifest/manifest.json npx quartz build --directory content
+
+      - name: Full build
+        if: steps.flag.outputs.deploy == 'true' && (steps.mode.outputs.mode == 'full' || steps.diffbuild.outcome == 'failure')
+        run: rm -rf public && npx quartz build --directory content
+
+      - name: Save Quartz build cache
+        if: steps.flag.outputs.deploy == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .quartz-cache
+          key: yw-quartz-cache-save-${{ runner.os }}-${{ github.sha }}
+
+      - name: Save last manifest
+        if: steps.flag.outputs.deploy == 'true'
+        run: |
+          mkdir -p .last-manifest
+          cp public/index.json .last-manifest/manifest.json
+          echo "${{ github.sha }}" > .last-manifest/prev-site.txt
+
+      - name: Save last manifest cache
+        if: steps.flag.outputs.deploy == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .last-manifest
+          key: yw-last-manifest-${{ runner.os }}
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.flag.outputs.deploy == 'true'
         with:
           path: public
 
   deploy:
     needs: build
+    if: needs.build.outputs.deploy == 'true'
     permissions:
       pages: write
       id-token: write
@@ -62,3 +172,16 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # 実際にビルド・デプロイされた content+engine 連合だけを記録する
+      # （リモート再照会による全固着事故の再発防止・AllusionistWiki2 と同じ原則）。
+      - name: Mark combo as deployed
+        run: |
+          mkdir -p .deploy-marker
+          echo "deployed" > .deploy-marker/deployed.txt
+
+      - name: Save deploy marker
+        uses: actions/cache/save@v4
+        with:
+          path: .deploy-marker
+          key: yw-deployed-v1-${{ needs.build.outputs.ctree }}-${{ needs.build.outputs.etree }}
