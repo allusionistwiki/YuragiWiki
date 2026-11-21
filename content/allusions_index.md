@@ -197,3 +197,4 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T179|YJ-T179]]（62 件）
 
 - 対象名の篇横断名寄せ: [[allusions_terms|実世界参照 対象名索引]]
+- 主題別分類: [[allusions_map|実世界参照 主題分類索引]]
