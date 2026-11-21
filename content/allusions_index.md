@@ -7,22 +7,22 @@ run: 20261122T1310_l1allud6
 
 参加者が実世界の神話・宗教・文学・音楽・歴史・科学などを持ち込んで組んだ参照関係の横断索引。各項目は逐語引用＋ref アンカーで原文に接続（機械保証）。信頼度（明言/蓋然性高/推測）を各項目に付す。
 
-対象篇: 112（抽出 run 9 本・全件実読監査込）
+対象篇: 118（抽出 run 10 本・全件実読監査込）
 
 | 類型 | 件数 |
 |---|---:|
-| その他 | 348 |
-| 文学 | 147 |
-| 科学 | 127 |
-| ゲーム | 105 |
-| 宗教 | 91 |
-| 人物 | 80 |
-| 地理 | 66 |
-| 映像 | 43 |
-| 神話 | 41 |
-| ブランド | 30 |
-| 歴史 | 28 |
-| 音楽 | 11 |
+| その他 | 419 |
+| 文学 | 174 |
+| 科学 | 164 |
+| 宗教 | 118 |
+| ゲーム | 111 |
+| 人物 | 94 |
+| 地理 | 84 |
+| 神話 | 55 |
+| 映像 | 51 |
+| 歴史 | 43 |
+| ブランド | 34 |
+| 音楽 | 12 |
 
 ## 篇別
 
@@ -37,6 +37,8 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T008|YJ-T008]]（7 件）
 - [[allusions/YJ-T009|YJ-T009]]（5 件）
 - [[allusions/YJ-T010|YJ-T010]]（7 件）
+- [[allusions/YJ-T011|YJ-T011]]（32 件）
+- [[allusions/YJ-T012|YJ-T012]]（85 件）
 - [[allusions/YJ-T013|YJ-T013]]（6 件）
 - [[allusions/YJ-T014|YJ-T014]]（15 件）
 - [[allusions/YJ-T015|YJ-T015]]（27 件）
@@ -68,6 +70,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T061|YJ-T061]]（22 件）
 - [[allusions/YJ-T062|YJ-T062]]（2 件）
 - [[allusions/YJ-T063|YJ-T063]]（6 件）
+- [[allusions/YJ-T064|YJ-T064]]（42 件）
 - [[allusions/YJ-T066|YJ-T066]]（5 件）
 - [[allusions/YJ-T067|YJ-T067]]（3 件）
 - [[allusions/YJ-T068|YJ-T068]]（7 件）
@@ -96,6 +99,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T104|YJ-T104]]（3 件）
 - [[allusions/YJ-T105|YJ-T105]]（6 件）
 - [[allusions/YJ-T106|YJ-T106]]（10 件）
+- [[allusions/YJ-T109|YJ-T109]]（11 件）
 - [[allusions/YJ-T110|YJ-T110]]（8 件）
 - [[allusions/YJ-T111|YJ-T111]]（3 件）
 - [[allusions/YJ-T112|YJ-T112]]（6 件）
@@ -105,6 +109,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T116|YJ-T116]]（1 件）
 - [[allusions/YJ-T118|YJ-T118]]（2 件）
 - [[allusions/YJ-T121|YJ-T121]]（6 件）
+- [[allusions/YJ-T122|YJ-T122]]（44 件）
 - [[allusions/YJ-T123|YJ-T123]]（1 件）
 - [[allusions/YJ-T124|YJ-T124]]（2 件）
 - [[allusions/YJ-T125|YJ-T125]]（14 件）
@@ -120,6 +125,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T140|YJ-T140]]（2 件）
 - [[allusions/YJ-T141|YJ-T141]]（3 件）
 - [[allusions/YJ-T142|YJ-T142]]（1 件）
+- [[allusions/YJ-T143|YJ-T143]]（28 件）
 - [[allusions/YJ-T144|YJ-T144]]（1 件）
 - [[allusions/YJ-T145|YJ-T145]]（3 件）
 - [[allusions/YJ-T146|YJ-T146]]（8 件）
@@ -139,4 +145,4 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T168|YJ-T168]]（7 件）
 - [[allusions/YJ-T173|YJ-T173]]（5 件）
 
-※ 対象名（term）の篇横断名寄せは監査収束後の次段階。
+- 対象名の篇横断名寄せ: [[allusions_terms|実世界参照 対象名索引]]
