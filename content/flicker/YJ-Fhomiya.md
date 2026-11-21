@@ -1,13 +1,34 @@
 ---
 title: "homiya の日記（Hatena Flicker）"
-run: flicker
+run: 20261121T2350_l1flgen
+link_audit: "20261122T0500_l1flaud10"
 permaLink: "flicker/YJ-Fhomiya.html"
 ---
 
 # homiya の日記（Hatena Flicker）
 
-出典: <http://flicker.g.hatena.ne.jp/homiya/>（Hatena Flicker）／収録 2 件（2006-09-27〜2007-06-05）・原文逐語・各投稿に permalink 付き。
+出典: <http://flicker.g.hatena.ne.jp/homiya/>（Hatena Flicker）／収録 2 件（2006-09-27〜2007-06-05）・各投稿に permalink 付き。
 元データ: [raw units](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/hatena_flicker/units/YJ-Fhomiya/posts/)
+
+homiya の Hatena Flicker 日記は、同人文学『ゆらぎの神話』の世界観を補完する断片的な記述で構成されている。2006年9月の投稿では、主要キャラクター間の複雑な関係性を簡潔な番号付きリストで提示し、アルセスとキュトスの恋人関係や、アレとガリヨンテの擬似的な夫婦関係といった設定が明示された。これらの記述は、セラティスやピュクティエトら子世代との血縁構造を定義する基礎データとして機能している。
+
+翌2007年6月の投稿では、物語的な導入部が展開される。ここでは「緑の君」と呼ばれるエクリエッテ・アーベントロートというキャラクターに焦点が当てられ、彼女が文献の存在する神々の書庫「最果てのゼオータイル」へ向かう動機が描かれる。トマトの伝来という些末な問いに対し、アグレッシブな行動原理を持つ少女が立ち上がる様子は、同作品特有のユーモラスかつ荘厳なトーンを反映している。日記全体を通じて、作者は世界設定の細部を断片的に開示し、読者に想像の余地を残す手法を用いている。
+
+## 注目投稿（原文逐語引用）
+
+「1・アルセスとキュトスは恋人関係にある」
+[http://flicker.g.hatena.ne.jp/homiya/20060927/1159347832](http://flicker.g.hatena.ne.jp/homiya/20060927/1159347832)
+
+「2・アレとガリヨンテは擬似的な夫婦関係にある」
+[http://flicker.g.hatena.ne.jp/homiya/20060927/1159347832](http://flicker.g.hatena.ne.jp/homiya/20060927/1159347832)
+
+「名をエクリエッテ。キュトスの姉妹が第二十、緑の君＜The Green＞エクリエッテ・アーベントロート。」
+[http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983](http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983)
+
+「思い立ったら即行動が信条というなかなかアグレッシヴな少女である。」
+[http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983](http://flicker.g.hatena.ne.jp/homiya/20070605/1181060983)
+
+## 日記原文（全文・逐語）
 
 <a id="post-1"></a>
 **2006-09-27 ** [permalink](http://flicker.g.hatena.ne.jp/homiya/20060927/1159347832)

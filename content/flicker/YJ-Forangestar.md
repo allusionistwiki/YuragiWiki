@@ -1,13 +1,37 @@
 ---
 title: "orangestar の日記（Hatena Flicker）"
-run: flicker
+run: 20261121T2350_l1flgen
+link_audit: "20261122T0500_l1flaud10"
 permaLink: "flicker/YJ-Forangestar.html"
 ---
 
 # orangestar の日記（Hatena Flicker）
 
-出典: <http://flicker.g.hatena.ne.jp/orangestar/>（Hatena Flicker）／収録 6 件（2007-02-19〜2008-10-28）・原文逐語・各投稿に permalink 付き。
+出典: <http://flicker.g.hatena.ne.jp/orangestar/>（Hatena Flicker）／収録 6 件（2007-02-19〜2008-10-28）・各投稿に permalink 付き。
 元データ: [raw units](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/hatena_flicker/units/YJ-Forangestar/posts/)
+
+orangestar の Hatena Flicker 日記は、同人文学『ゆらぎの神話』という世界観を軸に据えつつも、その周辺で展開される落書きや習作、そして作者自身の創作意識の変遷を記録したものである。初期の投稿では、ラジオ番組の影響からに集う姉妹たちの日常を描く漫画構想が語られ、ネタ切れへの自嘲が混じっている。また、作者は自身の美的感覚について、欠損よりも畸形（奇形）へ惹かれる傾向があることを明かし、過去に受けたコメントを通じて両者のリビドーの発生源が微妙に異なることに気づいた経緯を記述している。これは単なる趣味の嗜好を超え、作品内のキャラクター造形や世界観の深層に関わる重要な自己分析として読み取れる。
+
+日記には本体とは直接関係のないイラストアップロードへの謝罪が含まれており、作者がコーパス外の内容と本編の境界を意識していたことが伺える。一方で、のようなスピンオフ的な漫画の試作や、BBS で展開される議論をという概念へ昇華させようとする構想も綴られている。これらの記述は、固定された物語だけでなく、読者参加型の拡張世界（ワールドビルディング）への関心が早期から存在していたことを示唆している。
+
+## 注目投稿（原文逐語引用）
+
+
+[http://flicker.g.hatena.ne.jp/orangestar/20070219/1171815142]
+
+
+[http://flicker.g.hatena.ne.jp/orangestar/20070220/1171906409]
+
+
+[http://flicker.g.hatena.ne.jp/orangestar/20070221/1171815142]
+
+
+[http://flicker.g.hatena.ne.jp/orangestar/20070224/1172314682]
+
+
+[http://flicker.g.hatena.ne.jp/orangestar/20070226/1172424517]
+
+## 日記原文（全文・逐語）
 
 <a id="post-1"></a>
 **2007-02-19 ** [permalink](http://flicker.g.hatena.ne.jp/orangestar/20070219/1171815142)

@@ -1,13 +1,30 @@
 ---
 title: "trsgr の日記（Hatena Flicker）"
-run: flicker
+run: 20261121T2350_l1flgen
+link_audit: "20261122T0500_l1flaud10"
 permaLink: "flicker/YJ-Ftrsgr.html"
 ---
 
 # trsgr の日記（Hatena Flicker）
 
-出典: <http://flicker.g.hatena.ne.jp/trsgr/>（Hatena Flicker）／収録 78 件（2008-03-23〜2010-05-31）・原文逐語・各投稿に permalink 付き。
+出典: <http://flicker.g.hatena.ne.jp/trsgr/>（Hatena Flicker）／収録 78 件（2008-03-23〜2010-05-31）・各投稿に permalink 付き。
 元データ: [raw units](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/hatena_flicker/units/YJ-Ftrsgr/posts/)
+
+作者trsgrは、同人文学『ゆらぎの神話』の世界観を構築するための設定資料や考察をHatena Flickerに断続的に投稿していた。その内容は、メアレンという亜大陸の地理学から始まり、ゴキプーリ綱に属する生物の生態系、四つの月を持つ天文学的な暦体系、そして魔術と科学の境界線に関する哲学的な論考まで多岐にわたる。
+
+特に注目すべきは、物語の核となると呼ばれる存在たちの定義である。彼らは単なるキャラクターではなく、予言によって呼び寄せられ、世界を混沌へと導く因果律の体現者として描かれている。作者は物理学的な概念（時間の矢や熱力学）を援用し、魔術が科学法則とどう対立し、あるいは融合するのかという理論的な枠組みを提示した。また、鈴国を中心とした政治史や地域ごとの魔力圧の違いといった詳細な世界設定を通じて、ファンタジーでありながら厳密な論理に基づいた神話体系の構築を試みている。
+
+## 注目投稿（原文逐語引用）
+
+ [http://flicker.g.hatena.ne.jp/trsgr/20080515/1210851736]
+
+ [http://flicker.g.hatena.ne.jp/trsgr/20080517/1211037670]
+
+ [http://flicker.g.hatena.ne.jp/trsgr/20080805/1217904999]
+
+ [http://flicker.g.hatena.ne.jp/trsgr/20080511/1210517946]
+
+## 日記原文（全文・逐語）
 
 <a id="post-1"></a>
 **2008-03-23 ** [permalink](http://flicker.g.hatena.ne.jp/trsgr/20080323/1206279781)
