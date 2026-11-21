@@ -4,8 +4,8 @@ work: "魔法少女モアイVS魔法少女触手VS魔法少女狙撃手"
 author: "魔法少女モアイVS魔法少女触手VS魔法少女狙撃手"
 type: "短編・小説"
 chains: 1
-run: 20261122T0533_l1works
-link_audit: "20261122T0533_l1works"
+run: 20261122T0551_l1works
+link_audit: "20261122T0551_l1works"
 ---
 
 # 魔法少女モアイVS魔法少女触手VS魔法少女狙撃手

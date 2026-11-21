@@ -4,8 +4,8 @@ work: "ビオロンVSブラスタ 決闘記"
 author: "第二十二試合：ビオロンＶＳブラスタ2"
 type: "短編・小説"
 chains: 1
-run: 20261122T0533_l1works
-link_audit: "20261122T0533_l1works"
+run: 20261122T0551_l1works
+link_audit: "20261122T0551_l1works"
 ---
 
 # ビオロンVSブラスタ 決闘記

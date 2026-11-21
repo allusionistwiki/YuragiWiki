@@ -4,8 +4,8 @@ work: "宇宙怪獣大決戦2 【言語】VS【世界】！！"
 author: "言理の妖精語りて曰く、"
 type: "短編・小説"
 chains: 1
-run: 20261122T0533_l1works
-link_audit: "20261122T0533_l1works"
+run: 20261122T0551_l1works
+link_audit: "20261122T0551_l1works"
 ---
 
 # 宇宙怪獣大決戦2 【言語】VS【世界】！！

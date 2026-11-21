@@ -4,8 +4,8 @@ work: "ASCII劇の一場面"
 author: "アリアロー"
 type: "脚本"
 chains: 1
-run: 20261122T0533_l1works
-link_audit: "20261122T0533_l1works"
+run: 20261122T0551_l1works
+link_audit: "20261122T0551_l1works"
 ---
 
 # ASCII劇の一場面
