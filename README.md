@@ -17,8 +17,8 @@
 - 各篇 `_layers_manifest.json`（③④⑤ SHA1・検証記録）。生成: `tools/build_raw_layers.py`（①〜⑤ の対応は README・tools 冒頭）。
 - 台帳（unit ID 台帳・アンカー・索引）は work repo `AllusionistWiki_work/work/yuragi/` 側。
 - unit ID: `YJ-T###`（したらば篇）/ `YJ-M<トピックID>`（mixi）/ `YJ-H01`（portal BBS）。
-- **公開 Wiki: https://allusionistwiki.github.io/YuragiWiki/** — L1 版（篇記事 `/units/`: 要約＋100 字以内引用＋ref アンカー）＋制約なし自由記述版（`/free/`）＋原文全文版（`/full/`: 投稿単位 permalink 付き）＋topics（話題横断 430）/authors（投稿者 96）/entities（実体 479・相互リンク・言及篇付き）/works（創作記述 6,453・掲載文脈付き）/chronology（年表・月別集計・主要語句初出）/索引（widx_*・entities_index・free_index）。`content/` は work repo `scripts/publish_yuragi_site.py` で監査済み run から同期（全記事 LLM 全量品質監査 100%・ref は本 repo raw ファイルへリンク）。記事散文の中国語簡体字混入は LLM 整序＋引用逐語保護の字体変体正規化で駆逐済み（投稿者本人の原文 CN は逐語引用で保持）、全 10,589 ページ live 200 確認（2026-11-21）。CI=Quartz→Pages。
-- （今後）はてなふりかー日記ページ（`raw/bbs/hatena_flicker/md` の bbs 以外）の unit 化、wiki 解析層
+- **公開 Wiki: https://allusionistwiki.github.io/YuragiWiki/** — L1 版（篇記事 `/units/`: 要約＋100 字以内引用＋ref アンカー）＋制約なし自由記述版（`/free/`）＋原文全文版（`/full/`: 投稿単位 permalink 付き）＋topics（話題横断 430）/authors（投稿者 96）/entities（実体 479・相互リンク・言及篇付き）/works（創作記述 6,453・掲載文脈付き）/flicker（Hatena Flicker 日記 19 作者 387 投稿・原文逐語・投稿 permalink 付き・装飾行機械除去）/chronology（年表・月別集計・主要語句初出）/索引（widx_*・entities_index・free_index・flicker_index）。`content/` は work repo `scripts/publish_yuragi_site.py` で監査済み run から同期（全記事 LLM 全量品質監査 100%・ref は本 repo raw ファイルへリンク）。記事散文の中国語簡体字混入は LLM 整序＋引用逐語保護の字体変体正規化で駆逐済み（投稿者本人の原文 CN は逐語引用で保持）、全 10,609 ページ live 200 確認（2026-11-21）。CI=Quartz→Pages。
+- **日記 unit ID**: `YJ-F<作者名>`（hatena_flicker・`raw/bbs/hatena_flicker/units.jsonl`＋`units/<uid>/posts/` 逐語チャンク・sha1 検証。生成: `tools/build_flicker_units3.py`＝全クロールページパース・作者/日付は投稿 URL から導出・クロール日以後日付のテスト投稿除外・ブックマーク装飾行除去）。
 
 ## ライセンス
 
