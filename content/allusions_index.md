@@ -7,21 +7,21 @@ run: 20261122T1310_l1allud6
 
 参加者が実世界の神話・宗教・文学・音楽・歴史・科学などを持ち込んで組んだ参照関係の横断索引。各項目は逐語引用＋ref アンカーで原文に接続（機械保証）。信頼度（明言/蓋然性高/推測）を各項目に付す。
 
-対象篇: 127（抽出 run 12 本・全件実読監査込）
+対象篇: 131（抽出 run 13 本・全件実読監査込）
 
 | 類型 | 件数 |
 |---|---:|
-| その他 | 516 |
-| 文学 | 197 |
-| 科学 | 184 |
-| 宗教 | 137 |
-| ゲーム | 134 |
-| 人物 | 100 |
-| 地理 | 98 |
-| 神話 | 71 |
-| 映像 | 60 |
+| その他 | 565 |
+| 科学 | 208 |
+| 文学 | 206 |
+| ゲーム | 153 |
+| 宗教 | 142 |
+| 地理 | 111 |
+| 人物 | 104 |
+| 神話 | 83 |
+| 映像 | 64 |
 | 歴史 | 47 |
-| ブランド | 42 |
+| ブランド | 44 |
 | 音楽 | 16 |
 
 ## 篇別
@@ -43,6 +43,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T013|YJ-T013]]（6 件）
 - [[allusions/YJ-T014|YJ-T014]]（16 件）
 - [[allusions/YJ-T015|YJ-T015]]（30 件）
+- [[allusions/YJ-T017|YJ-T017]]（44 件）
 - [[allusions/YJ-T019|YJ-T019]]（36 件）
 - [[allusions/YJ-T020|YJ-T020]]（13 件）
 - [[allusions/YJ-T021|YJ-T021]]（36 件）
@@ -53,6 +54,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T032|YJ-T032]]（8 件）
 - [[allusions/YJ-T034|YJ-T034]]（1 件）
 - [[allusions/YJ-T036|YJ-T036]]（8 件）
+- [[allusions/YJ-T037|YJ-T037]]（23 件）
 - [[allusions/YJ-T038|YJ-T038]]（1 件）
 - [[allusions/YJ-T039|YJ-T039]]（9 件）
 - [[allusions/YJ-T040|YJ-T040]]（1 件）
@@ -89,6 +91,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T082|YJ-T082]]（1 件）
 - [[allusions/YJ-T083|YJ-T083]]（18 件）
 - [[allusions/YJ-T086|YJ-T086]]（10 件）
+- [[allusions/YJ-T087|YJ-T087]]（17 件）
 - [[allusions/YJ-T088|YJ-T088]]（7 件）
 - [[allusions/YJ-T090|YJ-T090]]（1 件）
 - [[allusions/YJ-T091|YJ-T091]]（19 件）
@@ -105,6 +108,7 @@ run: 20261122T1310_l1allud6
 - [[allusions/YJ-T104|YJ-T104]]（3 件）
 - [[allusions/YJ-T105|YJ-T105]]（6 件）
 - [[allusions/YJ-T106|YJ-T106]]（10 件）
+- [[allusions/YJ-T108|YJ-T108]]（57 件）
 - [[allusions/YJ-T109|YJ-T109]]（11 件）
 - [[allusions/YJ-T110|YJ-T110]]（8 件）
 - [[allusions/YJ-T111|YJ-T111]]（3 件）
