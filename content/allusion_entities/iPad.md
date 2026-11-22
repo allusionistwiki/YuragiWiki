@@ -15,4 +15,4 @@ Apple社の実在タブレット端末の製品名が、家電製品の在庫リ
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

@@ -26,8 +26,8 @@ Contemporal Unificative Thinking Over Synapses（シナプス横断即時思考�
 
 ## 関連創作（作品ページ）
 
-- [[works/CUTOS_ss|CUTOS ss]]
 - [[works/a_2|—]]
+- [[works/cutos_ss|CUTOS ss]]
 - [[works/シナプス同調空間横断即時思考伝達装置|シナプス同調空間横断即時思考伝達装置]]
 - [[works/スマダルツォンら魔法使い|スマダルツォンら魔法使い]]
 - [[works/テララ|テララ]]

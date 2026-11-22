@@ -15,8 +15,8 @@ run: publish
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
 
 ## 作中で参照される創作
 
-- 同名の創作ページ: [[works/UMA|UMA]]（作中の創作作品としての言及。実世界参照としての解析は本ページ参照）
+- 同名の創作ページ: [[works/uma|UMA]]（作中の創作作品としての言及。実世界参照としての解析は本ページ参照）

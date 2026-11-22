@@ -26,13 +26,13 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/PANGEON|PANGEON]]
+- [[works/pangeon|PANGEON]]
 - [[works/アルスタと刑事の対話(PANGEON内劇中)|アルスタと刑事の対話（PANGEON内劇中）]]
 - [[works/アンリエッタとデフォン|アンリエッタとデフォン]]
 - [[works/マグドール卿の遺言とシナリオ|マグドール卿の遺言とシナリオ]]
 - [[works/星見の塔とPANGEON|星見の塔とPANGEON]]
 - [[works/有瀬昴|有瀬昴]]
-- [[works/無題_第1回8番_VI|無題]]
+- [[works/無題_第1回8番_vi|無題]]
 - [[works/無題_第一回4番_1|無題]]
 - [[works/無題_第一回4番_2|無題]]
 - [[works/無題_第一回5番_3|無題]]

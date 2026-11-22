@@ -27,4 +27,4 @@ SNS「ついったー」を介した情報共有（スキャナー購入）へ�
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]

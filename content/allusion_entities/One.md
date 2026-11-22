@@ -15,4 +15,4 @@ Keyの恋愛アドベンチャーゲーム作品名として、Kanon・Airと共
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

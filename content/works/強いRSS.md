@@ -4,8 +4,8 @@ work: "強いRSS"
 author: "言理の妖精語りて曰く、"
 type: "その他創作"
 chains: 1
-run: 20261120T0902_l1works
-link_audit: "20261120T0902_l1works"
+run: 20261122T0551_l1works
+link_audit: "20261122T0551_l1works"
 ---
 
 # 強いRSS
@@ -15,7 +15,7 @@ link_audit: "20261120T0902_l1works"
 ## 魔法少女きゆら（YJ-T059） 群 g049
 
 - 話題: 強いRSS
-- 掲載文脈: 記述投稿：女子高中生間形成“強いRSS”巨人等夸形象。
+- 掲載文脈: 女子高生間で強いRSSの巨人など誇張したイメージが形成されている。
 
 **103** 言理の妖精語りて曰く、 2006-11-18T02:05:21+09:00 [#103](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T059/p2#post-103)
 

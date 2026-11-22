@@ -23,4 +23,4 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/再会_再開_Goldtwo|再会≠再開-Goldtwo-]]
+- [[works/再会_再開_goldtwo|再会≠再開-Goldtwo-]]

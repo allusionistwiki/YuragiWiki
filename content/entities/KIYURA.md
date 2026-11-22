@@ -38,7 +38,7 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/D_I_S_S起動|D.I.S.S起動]]
-- [[works/KIYURA|KIYURA]]
+- [[works/d_i_s_s起動|D.I.S.S起動]]
+- [[works/kiyura|KIYURA]]
 - [[works/株式会社きゆらンド|株式会社きゆらンド]]
 - [[works/無題_言理の妖精語りて曰く_2|無題]]

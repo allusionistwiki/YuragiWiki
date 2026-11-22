@@ -1,7 +1,8 @@
 {
- "scanned_files": 17108,
+ "scanned_files": 17089,
  "cn_total": 0,
  "char_counts": {},
  "top_files": {},
- "method": "quotes(「」『』【】)+wiki/URL links stripped; JIS(shift_jis-encodable) shared chars excluded; explicit shared 的了叶马乌风飞书东车 excluded"
+ "method": "quotes(「」『』【】)+wiki/URL links stripped; JIS(cp932)-encodable shared chars excluded; explicit shared 的了叶马乌风飞书东车 excluded",
+ "scanned_at": "2026-11-22 19:33:02"
 }

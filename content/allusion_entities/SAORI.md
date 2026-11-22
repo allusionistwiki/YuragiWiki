@@ -15,4 +15,4 @@ RSSを読むための実在のソフトウェア（SAORI）について、配布
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

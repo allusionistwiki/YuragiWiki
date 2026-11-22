@@ -60,24 +60,24 @@ PHAEDRA氏（原文ではPHAERRAと表記される箇所あり）が主催する
 
 ## 関連創作（作品ページ）
 
-- [[works/Anti_the_Spear_仰ぎ見る批判者|Anti-the Spear / 仰ぎ見る批判者]]
-- [[works/PTA聖都カバチン大司教の聖戦|PTA聖都カバチン大司教の聖戦]]
-- [[works/Spin_On|Spin On]]
-- [[works/TCG|TCG]]
-- [[works/TCGCG簡素化案|TCGCG簡素化案]]
-- [[works/TCG_C1開催告知|TCG-C1開催告知]]
-- [[works/TCG_CGルール|TCG-CGルール]]
-- [[works/TCGバトルロイヤル団体戦募集|TCGバトルロイヤル団体戦募集]]
-- [[works/TCGプラン交換システム|TCGプラン交換システム]]
-- [[works/TCGボイスドラマの試案|TCGボイスドラマの試案]]
 - [[works/TCGロールプレイ(ダイス計算_会話)|TCGロールプレイ（ダイス計算・会話）]]
 - [[works/TCGロールプレイ(入室_挨拶)|TCGロールプレイ（入室・挨拶）]]
 - [[works/TCGロールプレイ(戦闘進行)|TCGロールプレイ（戦闘進行）]]
 - [[works/TCGロールプレイ(戦闘開始)|TCGロールプレイ（戦闘開始）]]
-- [[works/TCG野試合案内|TCG野試合案内]]
-- [[works/TCG非公式試合参加募集|TCG非公式試合参加募集]]
-- [[works/TCG風物語連動ゲーム案|TCG風物語連動ゲーム案]]
+- [[works/anti_the_spear_仰ぎ見る批判者|Anti-the Spear / 仰ぎ見る批判者]]
 - [[works/h_t_t_pカードゲーム案|h.t.t.pカードゲーム案]]
+- [[works/pta聖都カバチン大司教の聖戦|PTA聖都カバチン大司教の聖戦]]
+- [[works/spin_on|Spin On]]
+- [[works/tcg|TCG]]
+- [[works/tcg_c1開催告知|TCG-C1開催告知]]
+- [[works/tcg_cgルール|TCG-CGルール]]
+- [[works/tcgcg簡素化案|TCGCG簡素化案]]
+- [[works/tcgバトルロイヤル団体戦募集|TCGバトルロイヤル団体戦募集]]
+- [[works/tcgプラン交換システム|TCGプラン交換システム]]
+- [[works/tcgボイスドラマの試案|TCGボイスドラマの試案]]
+- [[works/tcg野試合案内|TCG野試合案内]]
+- [[works/tcg非公式試合参加募集|TCG非公式試合参加募集]]
+- [[works/tcg風物語連動ゲーム案|TCG風物語連動ゲーム案]]
 - [[works/【TCG】【神】ああああ|【TCG】【神】ああああ]]
 - [[works/お団子|お団子]]
 - [[works/お嬢様の未来記述|お嬢様の未来記述]]
@@ -86,12 +86,12 @@ PHAEDRA氏（原文ではPHAERRAと表記される箇所あり）が主催する
 - [[works/お嬢様殺害イベント|お嬢様殺害イベント]]
 - [[works/かき_くり|かき、くり]]
 - [[works/その名はスロウリィ|その名はスロウリィ]]
-- [[works/ゆらぎニュース速報|ゆらぎニュース速報]]
 - [[works/ゆらぎ市ふれあい掲示板_自爆告知|ゆらぎ市ふれあい掲示板 自爆告知]]
 - [[works/ゆらぎ市役所からのお知らせ|ゆらぎ市役所からのお知らせ]]
 - [[works/ゆらぎ新聞号外|ゆらぎ新聞号外]]
+- [[works/アルセスのステータス比較|アルセスのステータス比較]]
 
-（全 198 作品・全一覧は[[entities_map/index|実体索引 体系版]]参照）
+（全 194 作品・全一覧は[[entities_map/index|実体索引 体系版]]参照）
 
 ## 同一名（別面）
 

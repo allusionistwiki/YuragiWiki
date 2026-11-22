@@ -15,4 +15,4 @@ PCの音量設定に関する話題の中で、再生ソフト名として明示
 
 ---
 
-→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[allusion_entities/ルー|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

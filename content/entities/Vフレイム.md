@@ -40,5 +40,5 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/Vフレイム|Vフレイム]]
+- [[works/vフレイム|Vフレイム]]
 - [[works/柴瑠璃姫|柴瑠璃姫]]

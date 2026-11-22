@@ -191,4 +191,4 @@ run: publish
 - [[units/YJ-T178|ゆらぎ実況スレッド]]（1002 投稿）
 - [[units/YJ-T179|ゆらぎラジオ]]（1014 投稿）
 
-各篇の制約なし版: [[widx_authors/___|full 索引]]
+各篇の制約なし版: [[allusion_entities/ルー|full 索引]]

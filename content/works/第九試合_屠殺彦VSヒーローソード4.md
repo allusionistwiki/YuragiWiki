@@ -4,8 +4,8 @@ work: "第九試合：屠殺彦ＶＳヒーローソード4"
 author: "第九試合：屠殺彦ＶＳヒーローソード4"
 type: "短編・小説"
 chains: 1
-run: 20261120T0902_l1works
-link_audit: "20261120T0902_l1works"
+run: 20261121T0743_l1works
+link_audit: "20261121T0743_l1works"
 ---
 
 # 第九試合：屠殺彦ＶＳヒーローソード4

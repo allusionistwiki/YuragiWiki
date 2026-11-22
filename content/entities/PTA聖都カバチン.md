@@ -26,4 +26,4 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/PTA聖都カバチン大司教の聖戦|PTA聖都カバチン大司教の聖戦]]
+- [[works/pta聖都カバチン大司教の聖戦|PTA聖都カバチン大司教の聖戦]]

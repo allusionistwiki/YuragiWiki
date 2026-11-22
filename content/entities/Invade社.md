@@ -23,5 +23,5 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
-- [[works/G_R_I_M|G.R.I.M]]
+- [[works/g_r_i_m|G.R.I.M]]
 - [[works/キリ番|キリ番]]
