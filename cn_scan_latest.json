@@ -4,5 +4,14 @@
  "char_counts": {},
  "top_files": {},
  "method": "quotes(「」『』【】)+wiki/URL links stripped; JIS(cp932)-encodable shared chars excluded; explicit shared 的了叶马乌风飞书东车 excluded",
- "scanned_at": "2026-11-22 19:33:02"
+ "scanned_at": "2026-11-22 19:35:30",
+ "raw_scan_quotes_only": {
+  "cn_total": 3,
+  "char_counts": {
+   "睪": 2,
+   "輭": 1
+  },
+  "note": "「」のみ除外の素体本文スキャン（信頼可）"
+ },
+ "gate_note": "既存ゲート（『』【】除去）は非対称括弧スパンで本文を食い込み偽陰性を出す。2026-11-22 19:26 時点で 类型 6,594+种 族136 混入（body 実在）を raw スキャンで検出、19:34 時点で chain 自浄を確認。残 3 件（睪2/輭1）は标题 Rare 漢字で簡体字ならず。"
 }
