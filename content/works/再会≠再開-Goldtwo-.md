@@ -9,22 +9,34 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 再会≠再開-Gold two-
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 出典: [YJ-T168:12](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T168:12](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【再会≠再開-Gold two-】
-> 
-> 神の家に三振りの剣
-> 
-> 第一は剣は、英雄の刃(Gramr)
-> 
-> 第二は剣は、再生の刃(Nothung)
-> 
-> 第三の剣は、破壊の刃(Balmunc)
-> 
-> 再会するのは(armee)英雄の名剣(Gramr)
-> 
+> 【再会≠再開-Gold two-】
+
+> 
+
+> 神の家に三振りの剣
+
+> 
+
+> 第一は剣は、英雄の刃(Gramr)
+
+> 
+
+> 第二は剣は、再生の刃(Nothung)
+
+> 
+
+> 第三の剣は、破壊の刃(Balmunc)
+
+> 
+
+> 再会するのは(armee)英雄の名剣(Gramr)
+
+> 
+
 
 → 投稿元: [[full/YJ-T168#post-12|[YJ-T168:12](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)]]
 

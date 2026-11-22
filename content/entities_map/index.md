@@ -8,8 +8,8 @@ run: publish
 実体を類型別に細分し、各実体の関連創作（作品ページ）への被リンク数を併記。
 
 - [[entities_map/人物|人物]]（95 件）
-- [[entities_map/人物_种族_生物|人物/种族・生物]]（104 件）
-- [[entities_map/作中实体|作中实体]]（982 件）
+- [[entities_map/人物_種族_生物|人物/種族・生物]]（104 件）
+- [[entities_map/作中実体|作中実体]]（982 件）
 - [[entities_map/作品|作品]]（1 件）
 - [[entities_map/作品_メタ|作品・メタ]]（20 件）
 - [[entities_map/催事|催事]]（1 件）
@@ -24,7 +24,7 @@ run: publish
 - [[entities_map/現象_出来事|現象・出来事]]（49 件）
 - [[entities_map/生物|生物]]（1 件）
 - [[entities_map/用語|用語]]（21 件）
-- [[entities_map/种族_生物|种族・生物]]（60 件）
+- [[entities_map/種族_生物|種族・生物]]（60 件）
 - [[entities_map/組織_勢力|組織・勢力]]（36 件）
 
 ## 創作 全作品 cross-ref（漏れなき収録保証）
