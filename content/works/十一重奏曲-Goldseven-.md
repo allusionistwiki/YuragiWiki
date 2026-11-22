@@ -9,22 +9,34 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 十一重奏曲-Gold seven-
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 出典: [YJ-T168:17](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T168:17](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【十一重奏曲-Gold seven-】
-> 
-> 手の内に神剣、腕の中には消滅の感触
-> 
-> 光り輝く灯りを点すと我は虫に呪われた
-> 
-> 逝く先には竜の骸が螺旋に積まれ
-> 
-> 三匹の蛇がその身を奮わす
-> 
-> 魔物の彩りを色取れば
-> 
+> 【十一重奏曲-Gold seven-】
+
+> 
+
+> 手の内に神剣、腕の中には消滅の感触
+
+> 
+
+> 光り輝く灯りを点すと我は虫に呪われた
+
+> 
+
+> 逝く先には竜の骸が螺旋に積まれ
+
+> 
+
+> 三匹の蛇がその身を奮わす
+
+> 
+
+> 魔物の彩りを色取れば
+
+> 
+
 
 → 投稿元: [[full/YJ-T168#post-17|[YJ-T168:17](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)]]
 
