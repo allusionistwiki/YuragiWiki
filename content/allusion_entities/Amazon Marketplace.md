@@ -1,0 +1,18 @@
+---
+title: "Amazon Marketplace"
+run: publish
+---
+
+# Amazon Marketplace（実世界参照 実体）
+
+分類: ブランド ／ 出現: 1 篇（YJ-T166）
+
+実在のオンライン書店サービス名を明示的に挙げている
+
+## 使用状況（引用逐語・ref 付き）
+
+> 「アマゾンマーケットプレイスを使うしかないのか……！」 [[full/YJ-T166#post-291|YJ-T166:291]]
+
+---
+
+→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
