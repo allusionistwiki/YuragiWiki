@@ -7,25 +7,24 @@ run: publish
 
 実体を類型別に細分し、各実体の関連創作（作品ページ）への被リンク数を併記。
 
-- [[entities_map/人物|人物]]（95 件）
-- [[entities_map/人物_种族_生物|人物/种族・生物]]（104 件）
-- [[entities_map/作中实体|作中实体]]（982 件）
+- [[entities_map/人物|人物]]（69 件）
+- [[entities_map/人物_种族_生物|人物/种族・生物]]（82 件）
+- [[entities_map/作中実体|作中実体]]（2490 件）
 - [[entities_map/作品|作品]]（1 件）
-- [[entities_map/作品_メタ|作品・メタ]]（20 件）
+- [[entities_map/作品_メタ|作品・メタ]]（16 件）
 - [[entities_map/催事|催事]]（1 件）
 - [[entities_map/制度|制度]]（1 件）
 - [[entities_map/団体|団体]]（1 件）
-- [[entities_map/国_地域_場所|国・地域・場所]]（97 件）
-- [[entities_map/場所|場所]]（4 件）
-- [[entities_map/技_能力_方法|技・能力・方法]]（65 件）
-- [[entities_map/概念|概念]]（33 件）
-- [[entities_map/物品|物品]]（2 件）
-- [[entities_map/物品_武具|物品・武具]]（105 件）
-- [[entities_map/現象_出来事|現象・出来事]]（49 件）
+- [[entities_map/国_地域_場所|国・地域・場所]]（82 件）
+- [[entities_map/場所|場所]]（3 件）
+- [[entities_map/技_能力_方法|技・能力・方法]]（59 件）
+- [[entities_map/概念|概念]]（30 件）
+- [[entities_map/物品_武具|物品・武具]]（88 件）
+- [[entities_map/現象_出来事|現象・出来事]]（38 件）
 - [[entities_map/生物|生物]]（1 件）
 - [[entities_map/用語|用語]]（21 件）
-- [[entities_map/种族_生物|种族・生物]]（60 件）
-- [[entities_map/組織_勢力|組織・勢力]]（36 件）
+- [[entities_map/种族_生物|种族・生物]]（51 件）
+- [[entities_map/組織_勢力|組織・勢力]]（28 件）
 
 ## 創作 全作品 cross-ref（漏れなき収録保証）
 
@@ -350,4 +349,4 @@ run: publish
 　[[works/AreYouReadyCats!|Are You Ready Cats！]] ／ [[works/Packaged|Packaged]] ／ [[works/さまよえるギシフ人|さまよえるギシフ人]] ／ [[works/ガーデニア_レクイエム|ガーデニア・レクイエム]] ／ [[works/ドナドナ|ドナドナ]] ／ [[works/ノエレッテの歌|ノエレッテの歌]] ／ [[works/リビングオンプレイヤー|リビングオンプレイヤー]] ／ [[works/呪歌_ガーデニア_レクイエム|呪歌：ガーデニア・レクイエム]]
 
 
-（実体から直接リンクされない作品 385 本も本書記に漏れなく収録。各作品は [[works_index/その他創作_1|類型索引]]・[[works_top|創作索引]]・[[widx_authors|作者索引]]・[[widx_units|篇索引]] からも到達可能です）
+（実体から直接リンクされない作品 159 本も本書記に漏れなく収録。各作品は [[works_index/その他創作_1|類型索引]]・[[works_top|創作索引]]・[[widx_authors|作者索引]]・[[widx_units|篇索引]] からも到達可能です）

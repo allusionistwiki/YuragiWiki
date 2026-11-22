@@ -17,9 +17,9 @@ link_audit: "20261121T1430_l11en4aud"
 スレッド YJ-T011 では、四大企業の一つである鉄道網管理会社「Rail Load」とその社長グリュッペン・アイアンレールについて言及され、エンドミットにおける不動の栄光としての地位が示唆された。
 
 ## 関連する実体
-*   **人物**: リリー（産業スパイ）、ハックルバック（復讐を企む者）、スターシュ、[[entities/ナインスチーム|ナインスチーム]]、グリュッペン・アイアンレール（Rail Load社長）
-*   **企業・組織**: Gyugoo, Ringdoom, Invade, MechTech, Rail Load
-*   **場所・物品**: Gyugooタワー, 蒸気船, スチームキューブ, 付箋紙魔術
+*   **人物**: リリー（産業スパイ）、[[entities/ハックルバック|ハックルバック]]（復讐を企む者）、[[entities/スターシュ|スターシュ]]、[[entities/ナインスチーム|ナインスチーム]]、グリュッペン・アイアンレール（Rail Load社長）
+*   **企業・組織**: [[entities/Gyugoo|Gyugoo]], Ringdoom, Invade, MechTech, Rail Load
+*   **場所・物品**: [[entities/Gyugoo|Gyugoo]]タワー, 蒸気船, [[entities/スチームキューブ|スチームキューブ]], 付箋紙魔術
 
 ## 注目投稿
 [YJ-T005:104](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/005_汎用記述スレッド３/p0027-0232.md) (言理の妖精語りて曰く): 【G.R.I.M】 蒸気航空のGyugoo、蒸気タービンのRingdoom、蒸気通信網のInvade、蒸気パーツのMechTech から成るエンドミット四大企業の通称。
