@@ -4,13 +4,13 @@ work: "無題"
 author: "tomoe"
 type: "脚本"
 chains: 2
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: tomoe ／ 類型: 脚本 ／ 収録群: 2）
+（作者: tomoe ／ 类型: 脚本 ／ 収録群: 2）
 
 ## ゆらぎラジオ（YJ-T179） 群 g156
 

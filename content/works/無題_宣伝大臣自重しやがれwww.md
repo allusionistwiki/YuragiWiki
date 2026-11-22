@@ -4,13 +4,13 @@ work: "無題"
 author: "宣伝大臣自重しやがれwww"
 type: "短編・小説"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: 宣伝大臣自重しやがれwww ／ 類型: 短編・小説 ／ 収録群: 1）
+（作者: 宣伝大臣自重しやがれwww ／ 类型: 短編・小説 ／ 収録群: 1）
 
 ## 悪　魔　地　獄（YJ-T071） 群 g115
 

@@ -4,13 +4,13 @@ work: "無題"
 author: "悪魔Ｂ"
 type: "短編・小説"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: 悪魔Ｂ ／ 類型: 短編・小説 ／ 収録群: 1）
+（作者: 悪魔Ｂ ／ 类型: 短編・小説 ／ 収録群: 1）
 
 ## 魔法・科学（YJ-T002） 群 g120
 

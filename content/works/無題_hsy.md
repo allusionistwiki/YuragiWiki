@@ -4,18 +4,18 @@ work: "無題"
 author: "hsy"
 type: "短編・小説"
 chains: 4
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: hsy ／ 類型: 短編・小説 ／ 収録群: 4）
+（作者: hsy ／ 类型: 短編・小説 ／ 収録群: 4）
 
 ## 芸術品・建築物・楽曲その他（YJ-T004） 群 g003
 
 - 話題: —
-- 掲載文脈: hsyが猛暑の台所で黴びた味噌汁を口にし、第一次地獄開放を連想した記述投稿。
+- 掲載文脈: hsyが猛暑の台所で霉た味噌汁を食べ第一次地獄開放を連想した記述投稿。
 
 **11** hsy 2007-08-05T12:36:25+09:00 [#11](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T004/#post-11)
 

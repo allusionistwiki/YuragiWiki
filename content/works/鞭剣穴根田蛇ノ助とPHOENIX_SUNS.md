@@ -4,13 +4,13 @@ work: "鞭剣穴根田蛇ノ助とPHOENIX SUNS"
 author: "言理の妖精語りて曰く、"
 type: "その他創作"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 鞭剣穴根田蛇ノ助とPHOENIX SUNS
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: その他創作 ／ 収録群: 1）
+（作者: 言理の妖精語りて曰く、 ／ 类型: その他創作 ／ 収録群: 1）
 
 ## おためし記述スレッド（YJ-T143） 群 g042
 

@@ -87,4 +87,4 @@ link_audit: "20261122T2100_l1en_deterministic"
 - [[works/暗殺委託所の怪事件|暗殺委託所の怪事件]]
 - [[works/殺しちゃうぴょん|殺しちゃうぴょん♪]]
 
-（全 52 作品・全一覧は[[entities_map/index|実体索引 体系版]]参照）
+（全 54 作品・全一覧は[[entities_map/index|実体索引 体系版]]参照）

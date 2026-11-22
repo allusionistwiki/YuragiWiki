@@ -4,13 +4,13 @@ work: "無題"
 author: "bothhands"
 type: "その他創作"
 chains: 4
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: bothhands ／ 類型: その他創作 ／ 収録群: 4）
+（作者: bothhands ／ 类型: その他創作 ／ 収録群: 4）
 
 ## 雑談スレッド（YJ-T137） 群 g128
 

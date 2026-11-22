@@ -4,13 +4,13 @@ work: "無題"
 author: "BELove"
 type: "その他創作"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: BELove ／ 類型: その他創作 ／ 収録群: 1）
+（作者: BELove ／ 类型: その他創作 ／ 収録群: 1）
 
 ## アルセスにひどいことされたら報告するスレ（YJ-T112） 群 g041
 

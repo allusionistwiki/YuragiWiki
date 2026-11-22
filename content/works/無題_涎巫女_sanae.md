@@ -4,13 +4,13 @@ work: "無題"
 author: "涎巫女《sanae》"
 type: "脚本"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: 涎巫女《sanae》 ／ 類型: 脚本 ／ 収録群: 1）
+（作者: 涎巫女《sanae》 ／ 类型: 脚本 ／ 収録群: 1）
 
 ## ゆらぎ実況スレッド2（YJ-T176） 群 g221
 

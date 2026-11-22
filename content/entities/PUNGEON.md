@@ -26,6 +26,7 @@ link_audit: "20261122T2100_l1en_deterministic"
 - [[works/PUNGEON|PUNGEON]]
 - [[works/PUNGEON_THE_DUNGEON|PUNGEON THE DUNGEON]]
 - [[works/PUNGEON_オルガンローデ|PUNGEON / オルガンローデ]]
+- [[works/パンゲオンとダンジョン|パンゲオンとダンジョン]]
 - [[works/パンゲオン読み替えジョーク|パンゲオン読み替えジョーク]]
 - [[works/マロゾロンド商会|マロゾロンド商会]]
 - [[works/ミブレル|ミブレル]]

@@ -4,13 +4,13 @@ work: "都市船CG製作スレ"
 author: "BELive"
 type: "設定文"
 chains: 2
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 都市船CG製作スレ
 
-（作者: BELive ／ 類型: 設定文 ／ 収録群: 2）
+（作者: BELive ／ 类型: 設定文 ／ 収録群: 2）
 
 ## 都市船計画スレ（YJ-T173） 群 g000
 

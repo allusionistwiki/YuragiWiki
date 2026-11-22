@@ -4,13 +4,13 @@ work: "無題"
 author: "Niv"
 type: "その他創作"
 chains: 5
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: Niv ／ 類型: その他創作 ／ 収録群: 5）
+（作者: Niv ／ 类型: その他創作 ／ 収録群: 5）
 
 ## ゆらぎラジオ（YJ-T107） 群 g126
 

@@ -4,13 +4,13 @@ work: "SAGA2アポロン戦パロディ"
 author: "26"
 type: "脚本"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # SAGA2アポロン戦パロディ
 
-（作者: 26 ／ 類型: 脚本 ／ 収録群: 1）
+（作者: 26 ／ 类型: 脚本 ／ 収録群: 1）
 
 ## 雑談スレッド（YJ-T137） 群 g012
 

@@ -4,13 +4,13 @@ work: "無題"
 author: "【P×C】"
 type: "脚本"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 無題
 
-（作者: 【P×C】 ／ 類型: 脚本 ／ 収録群: 1）
+（作者: 【P×C】 ／ 类型: 脚本 ／ 収録群: 1）
 
 ## 紀神に関する記述スレッド（YJ-T037） 群 g046
 

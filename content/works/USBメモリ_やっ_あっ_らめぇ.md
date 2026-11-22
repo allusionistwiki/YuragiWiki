@@ -4,13 +4,13 @@ work: "USBメモリ、やっ、あっ、らめぇ"
 author: "Niv"
 type: "韻文・格言・謎かけ"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # USBメモリ、やっ、あっ、らめぇ
 
-（作者: Niv ／ 類型: 韻文・格言・謎かけ ／ 収録群: 1）
+（作者: Niv ／ 类型: 韻文・格言・謎かけ ／ 収録群: 1）
 
 ## ゆらぎラジオ（YJ-T107） 群 g082
 

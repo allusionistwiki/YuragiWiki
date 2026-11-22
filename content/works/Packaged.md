@@ -4,13 +4,13 @@ work: "Packaged"
 author: "sillat"
 type: "歌詞"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # Packaged
 
-（作者: sillat ／ 類型: 歌詞 ／ 収録群: 1）
+（作者: sillat ／ 类型: 歌詞 ／ 収録群: 1）
 
 ## ゆらぎ実況スレッド6（YJ-T166） 群 g110
 

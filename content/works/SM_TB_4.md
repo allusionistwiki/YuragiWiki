@@ -4,13 +4,13 @@ work: "SM-TB-4"
 author: "模倣者エンピツ"
 type: "脚本"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # SM-TB-4
 
-（作者: 模倣者エンピツ ／ 類型: 脚本 ／ 収録群: 1）
+（作者: 模倣者エンピツ ／ 类型: 脚本 ／ 収録群: 1）
 
 ## ゆらぎの物語／物語の破片（YJ-T060） 群 g014
 

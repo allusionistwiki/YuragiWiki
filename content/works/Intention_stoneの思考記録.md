@@ -4,13 +4,13 @@ work: "Intention stoneの思考記録"
 author: "Intention stoneの思考記録"
 type: "設定文"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # Intention stoneの思考記録
 
-（作者: Intention stoneの思考記録 ／ 類型: 設定文 ／ 収録群: 1）
+（作者: Intention stoneの思考記録 ／ 类型: 設定文 ／ 収録群: 1）
 
 ## ニヴの怪発明（YJ-T098） 群 g469
 

@@ -4,13 +4,13 @@ work: "選択肢Bのテキスト"
 author: "bothhands"
 type: "劇中作品文(TCGカード・劇中ゲーム・劇中書物等の文面)"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # 選択肢Bのテキスト
 
-（作者: bothhands ／ 類型: 劇中作品文(TCGカード・劇中ゲーム・劇中書物等の文面) ／ 収録群: 1）
+（作者: bothhands ／ 类型: 劇中作品文(TCGカード・劇中ゲーム・劇中書物等の文面) ／ 収録群: 1）
 
 ## ノウフェイスマンの冒険（YJ-T149） 群 g039
 

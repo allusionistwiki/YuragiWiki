@@ -4,13 +4,13 @@ work: "Aマホ"
 author: "bothhands"
 type: "その他創作"
 chains: 1
-run: 20261122T0920_l1works
-link_audit: "20261122T0920_l1works"
+run: 20261120T0902_l1works
+link_audit: "20261120T0902_l1works"
 ---
 
 # Aマホ
 
-（作者: bothhands ／ 類型: その他創作 ／ 収録群: 1）
+（作者: bothhands ／ 类型: その他創作 ／ 収録群: 1）
 
 ## ゆらぎ実況スレッド6（YJ-T166） 群 g314
 
