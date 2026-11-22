@@ -9,26 +9,18 @@ link_audit: "P2全件実読判定→機械照合"
 
 # マッド・ポニー（MP）
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: 設定文 ／ 出典: [YJ-T051:43](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0043.md)）
+（作者: 言理の妖精語りて曰く、 ／ 类型: 設定文 ／ 出典: [YJ-T051:43](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0043.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【MP】
-
-> 
-
-> マッド・ポニーの略。猫語でいかれたポニーという意味。
-
-> 
-
-> 魔力的霊的その他の理由により、ポニーテールが
-
-> 
-
-> そのポニーを生やした人の意思とは無関係に暴れ回る現象をいう。
-
-> 
-
+> 【MP】
+> 
+> マッド・ポニーの略。猫語でいかれたポニーという意味。
+> 
+> 魔力的霊的その他の理由により、ポニーテールが
+> 
+> そのポニーを生やした人の意思とは無関係に暴れ回る現象をいう。
+> 
 > またこの状態に陥り暴れ回るポニーテールそのものをさして呼ぶこともある。
 
 → 投稿元: [[full/YJ-T051#post-43|[YJ-T051:43](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0043.md)]]

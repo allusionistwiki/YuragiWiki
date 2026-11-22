@@ -9,34 +9,22 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 崩落の回廊-Gold four-
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T168:14](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 出典: [YJ-T168:14](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【崩落の回廊-Gold four-】
-
-> 
-
-> 児神は哂う、少年の命運を
-
-> 
-
-> 少年は嘆く、自身の命運を
-
-> 
-
-> 示された回廊(みち)は正しいのだろうか？
-
-> 
-
-> 指された未知(みち)は正しいのだろうか？
-
-> 
-
-> 児神が差し出したのは優雅な灯(トーチ)
-
-> 
-
+> 【崩落の回廊-Gold four-】
+> 
+> 児神は哂う、少年の命運を
+> 
+> 少年は嘆く、自身の命運を
+> 
+> 示された回廊(みち)は正しいのだろうか？
+> 
+> 指された未知(みち)は正しいのだろうか？
+> 
+> 児神が差し出したのは優雅な灯(トーチ)
+> 
 
 → 投稿元: [[full/YJ-T168#post-14|[YJ-T168:14](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)]]
 
