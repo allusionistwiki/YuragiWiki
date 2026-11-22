@@ -15,4 +15,4 @@ Real Time Attack（リアルタイムアタック）というゲーム実況・�
 
 ---
 
-→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

@@ -661,3 +661,7 @@ Disk3入れたら「ディスク4を」って・・・。
 **198** 言理の妖精語りて曰く、 2007-04-25T23:01:48+09:00 [#198](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T025/p2#post-198)
 
 もはや意味不明
+
+## 実世界参照 実体
+
+- 本作名と同一の対象名が実世界参照として解析されています: [[allusion_entities/THIRD EXCALIBUR|THIRD EXCALIBUR]]

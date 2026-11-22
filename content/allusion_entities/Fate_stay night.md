@@ -36,4 +36,4 @@ Fate。」 [[full/YJ-T179#post-87|YJ-T179:87]]
 
 ---
 
-→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]
+→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]

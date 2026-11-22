@@ -696,3 +696,7 @@ http://www.hokkaido-np.co.jp/news/topic/image/5720_1.jpg
 **535** 言理の妖精語りて曰く、 2007-11-10T11:02:19+09:00 [#535](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T051/p6#post-535)
 
 似非聖職者を狩って経験値を積めば、やがて本物聖職者のスキルを突破できようぞ。
+
+## 実世界参照 実体
+
+- 本作名と同一の対象名が実世界参照として解析されています: [[allusion_entities/Symphony|Symphony]]

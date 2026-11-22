@@ -30,3 +30,7 @@ Unindentified Mythological Anormaly
 あまりに現実からかけ離れた現象一般に対してつけられ、
 
 相当する記述が神話に見つかった場合はMAと呼ばれ、そうでなかった場合はnMAと呼ばれる。
+
+## 実世界参照 実体
+
+- 本作名と同一の対象名が実世界参照として解析されています: [[allusion_entities/UMA|UMA]]

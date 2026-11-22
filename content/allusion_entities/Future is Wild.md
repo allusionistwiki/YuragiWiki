@@ -15,4 +15,4 @@ URL付きで実在の未来生物予測番組（作品）を参照し、創作�
 
 ---
 
-→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]

@@ -1,0 +1,14 @@
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 1s
+Found 0 input files from `quartz_out_linkfix` in 7ms
+Parsing input files using 1 threads
+Parsed 0 Markdown files in 1ms
+Filtered out 0 files in 7μs
+Emitting files
+
+Warning: you seem to be missing an `index.md` home page file at the root of your `quartz_out_linkfix` folder (`quartz_out_linkfix\index.md does not exist`). This may cause errors when deploying.
+Emitted 14 files to `public` in 31ms
+diff: state written pages=0
+Done processing 0 files in 2s

@@ -1420,7 +1420,7 @@ run: publish
 - [[allusion_entities/人間試験|人間試験]]（1 篇）
 - [[allusion_entities/人魚姫|人魚姫]]（1 篇）
 - [[allusion_entities/佐藤正午|佐藤正午]]（1 篇）
-- [[allusion_entities/内田百|内田百]]（1 篇）
+- [[allusion_entities/内田百輭|内田百]]（1 篇）
 - [[allusion_entities/円卓|円卓]]（1 篇）
 - [[allusion_entities/円卓の騎士|円卓の騎士]]（1 篇）
 - [[allusion_entities/円環少女|円環少女]]（1 篇）
@@ -2546,7 +2546,7 @@ run: publish
 - [[allusion_entities/ルシフェル|ルシフェル]]（2 篇）
 - [[allusion_entities/五芒星|五芒星]]（2 篇）
 - [[allusion_entities/仙人|仙人]]（2 篇）
-- [[allusion_entities/大日貴神|大日貴神]]（2 篇）
+- 大日貴神（2 篇）
 - [[allusion_entities/天上天下唯我独尊|天上天下唯我独尊]]（2 篇）
 - [[allusion_entities/天使|天使]]（2 篇）
 - [[allusion_entities/現人神|現人神]]（2 篇）
@@ -2915,7 +2915,7 @@ run: publish
 - [[allusion_entities/伊耶那岐|伊耶那岐]]（1 篇）
 - [[allusion_entities/八岐大蛇|八岐大蛇]]（1 篇）
 - [[allusion_entities/吸血鬼|吸血鬼]]（1 篇）
-- [[allusion_entities/太子|太子]]（1 篇）
+- [[works/スティックのりをスティックパンと間違える明太子丼の可能宇宙|太子]]（1 篇）
 - [[allusion_entities/天之尾羽張|天之尾羽張]]（1 篇）
 - [[allusion_entities/岩戸隠れ|岩戸隠れ]]（1 篇）
 - [[allusion_entities/情欲の女神ウエイラナ|情欲の女神ウエイラナ]]（1 篇）

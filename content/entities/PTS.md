@@ -23,7 +23,7 @@ PTS（PsycoTelepathySystem）は、人間の遠感現象を機械的な支援に
 
 ## 関連する実体
 
-* [[entities/アザゼル|アザゼル]]、[[entities/肉体泥棒|肉体泥棒]]、[[entities/悪魔憐歌|悪魔憐歌]]
+* [[allusion_entities/アザゼル|アザゼル]]、[[works/肉体泥棒アザゼル|肉体泥棒]]、悪魔憐歌
 
 ※ 本記事は作中創作実体（v0.13 創作活動基準）として Lane K で生成・監査済。
 

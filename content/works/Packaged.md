@@ -20,3 +20,7 @@ link_audit: "20261120T0902_l1works"
 **178** sillat 2007-10-21T02:27:57+09:00 [#178](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T166/p2#post-178)
 
 ぱ、ぱっけーじど、ですぅ…。
+
+## 実世界参照 実体
+
+- 本作名と同一の対象名が実世界参照として解析されています: [[allusion_entities/Packaged|Packaged]]

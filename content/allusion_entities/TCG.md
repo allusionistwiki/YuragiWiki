@@ -91,8 +91,12 @@ TCGのレベル1〜3スキル(35)＋パネル(基本5＋特殊5)＝45」 [[full/
 
 ---
 
-→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]
+→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]] ／ [[allusions_terms|対象名索引]]
 
 ## 同一名（別面）
 
 作中実体面に同一名の独立記事: [[entities/TCG|TCG]]
+
+## 作中で参照される創作
+
+- 同名の創作ページ: [[works/TCG|TCG]]（作中の創作作品としての言及。実世界参照としての解析は本ページ参照）

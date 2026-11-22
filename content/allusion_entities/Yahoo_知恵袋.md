@@ -15,4 +15,4 @@ URLリンクとして実在のQ&Aサイトへの参照が明示されている�
 
 ---
 
-→ [[allusion_entities/|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
+→ [[widx_authors/___|実世界参照 実体索引]] ／ [[allusions_index|実世界参照 索引]]
