@@ -4,8 +4,8 @@ work: "TCGプラン交換システム"
 author: "からすとうさぎ"
 type: "設定文"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # TCGプラン交換システム

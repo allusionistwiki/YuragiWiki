@@ -4,8 +4,8 @@ work: "第二十五試合 女子大生VSロボット"
 author: "第二十五試合　女子大生VSロボット"
 type: "短編・小説"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # 第二十五試合 女子大生VSロボット

@@ -4,8 +4,8 @@ work: "三回戦の展開を予想：Ａブロック"
 author: "《三回戦の展開を予想：Ａブロック》"
 type: "その他創作"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # 三回戦の展開を予想：Ａブロック

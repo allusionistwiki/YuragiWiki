@@ -4,8 +4,8 @@ work: "SM-TB-4"
 author: "模倣者エンピツ"
 type: "脚本"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # SM-TB-4

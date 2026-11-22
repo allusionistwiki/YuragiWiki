@@ -4,8 +4,8 @@ work: "Fragments of Penguin"
 author: "雨が降っていた"
 type: "詩"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # Fragments of Penguin

@@ -4,8 +4,8 @@ work: "ヴィゼルフォンスVS沼女"
 author: "第二十三試合:ヴィゼルフォンスVS沼女2"
 type: "短編・小説"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # ヴィゼルフォンスVS沼女

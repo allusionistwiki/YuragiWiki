@@ -4,8 +4,8 @@ work: "平和狂典ＲＩＰ"
 author: "言理の妖精語りて曰く、"
 type: "設定文"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # 平和狂典ＲＩＰ

@@ -7,13 +7,13 @@ run: publish
 
 対象名を kind 最頻値と語彙キーで決定論分類（機械分類・裁定 drop 反映済）。
 
-## その他（822 名）
+## その他（817 名）
 
 - **中二病**（11 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T035|YJ-T035]] 外11篇
 - **2ch**（11 篇）: [[allusions/YJ-T010|YJ-T010]]・[[allusions/YJ-T024|YJ-T024]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T094|YJ-T094]] 外11篇
 - **ジョジョの奇妙な冒険**（8 篇）: [[allusions/YJ-M6948914|YJ-M6948914]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T128|YJ-T128]]・[[allusions/YJ-T130|YJ-T130]] 外8篇
 - **麻雀**（7 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T029|YJ-T029]] 外7篇
-- **魔法少女**（7 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T011|YJ-T011]]・[[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T053|YJ-T053]] 外7篇
+- **魔法少女**（6 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T011|YJ-T011]]・[[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T053|YJ-T053]] 外6篇
 - **ミクシィ**（6 篇）: [[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T052|YJ-T052]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T137|YJ-T137]] 外6篇
 - **2ちゃんねる**（6 篇）: [[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T078|YJ-T078]]・[[allusions/YJ-T128|YJ-T128]]・[[allusions/YJ-T137|YJ-T137]] 外6篇
 - **タロットカード**（5 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T172|YJ-T172]] 外5篇
@@ -29,7 +29,6 @@ run: publish
 - **自衛隊**（3 篇）: [[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T091|YJ-T091]]・[[allusions/YJ-T110|YJ-T110]]
 - **sage**（3 篇）: [[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T074|YJ-T074]]・[[allusions/YJ-T125|YJ-T125]]
 - **猫**（3 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T177|YJ-T177]]
-- **スク水**（3 篇）: [[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T133|YJ-T133]]・[[allusions/YJ-T169|YJ-T169]]
 - **RSS**（3 篇）: [[allusions/YJ-T059|YJ-T059]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T128|YJ-T128]]
 - **サンタクロース**（3 篇）: [[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T081|YJ-T081]]・[[allusions/YJ-T102|YJ-T102]]
 - **アンサイクロペディア**（3 篇）: [[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T130|YJ-T130]]・[[allusions/YJ-T152|YJ-T152]]
@@ -41,9 +40,9 @@ run: publish
 - **ニート**（3 篇）: [[allusions/YJ-T041|YJ-T041]]・[[allusions/YJ-T143|YJ-T143]]・[[allusions/YJ-T179|YJ-T179]]
 - **ロリコン**（3 篇）: [[allusions/YJ-T053|YJ-T053]]・[[allusions/YJ-T087|YJ-T087]]・[[allusions/YJ-T178|YJ-T178]]
 - **邪気眼**（3 篇）: [[allusions/YJ-T097|YJ-T097]]・[[allusions/YJ-T137|YJ-T137]]・[[allusions/YJ-T169|YJ-T169]]
-- **Twitter**（3 篇）: [[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T172|YJ-T172]]・[[allusions/YJ-T176|YJ-T176]]
 - **伺か**（3 篇）: [[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T163|YJ-T163]]・[[allusions/YJ-T179|YJ-T179]]
 - **Skype**（3 篇）: [[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T163|YJ-T163]]・[[allusions/YJ-T178|YJ-T178]]
+- **Twitter**（3 篇）: [[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T172|YJ-T172]]・[[allusions/YJ-T176|YJ-T176]]
 - **シスプリ**（3 篇）: [[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T178|YJ-T178]]
 - **うたばん**（3 篇）: [[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T172|YJ-T172]]
 - **セカイ系**（2 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T166|YJ-T166]]
@@ -57,6 +56,7 @@ run: publish
 - **グーグル**（2 篇）: [[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T052|YJ-T052]]
 - **著作権法**（2 篇）: [[allusions/YJ-T052|YJ-T052]]・[[allusions/YJ-T158|YJ-T158]]
 - **9ミリ拳銃**（2 篇）: [[allusions/YJ-T103|YJ-T103]]・[[allusions/YJ-T156|YJ-T156]]
+- **スク水**（2 篇）: [[allusions/YJ-T121|YJ-T121]]・[[allusions/YJ-T133|YJ-T133]]
 - **山田洋行**（2 篇）: [[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T147|YJ-T147]]
 - **セガ**（2 篇）: [[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T179|YJ-T179]]
 - **ボーリング**（2 篇）: [[allusions/YJ-T053|YJ-T053]]・[[allusions/YJ-T055|YJ-T055]]
@@ -69,9 +69,9 @@ run: publish
 - **TikTok**（2 篇）: [[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T042|YJ-T042]]
 - **フリーメーソン**（2 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T031|YJ-T031]]
 - **NHK**（2 篇）: [[allusions/YJ-T083|YJ-T083]]・[[allusions/YJ-T152|YJ-T152]]
-- …他 762 名
+- …他 757 名
 
-## 神話・宗教・悪魔（412 名）
+## 神話・宗教・悪魔（410 名）
 
 - **ギリシャ神話**（10 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T078|YJ-T078]] 外10篇
 - **ゼウス**（9 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T025|YJ-T025]] 外9篇
@@ -85,9 +85,9 @@ run: publish
 - **ミカエル**（4 篇）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T065|YJ-T065]]・[[allusions/YJ-T143|YJ-T143]]
 - **ミノタウロス**（4 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T143|YJ-T143]]・[[allusions/YJ-T169|YJ-T169]]
 - **シモン・マグス**（4 篇）: [[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T057|YJ-T057]]・[[allusions/YJ-T065|YJ-T065]]
-- **ケルベロス**（4 篇）: [[allusions/YJ-T135|YJ-T135]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T169|YJ-T169]]・[[allusions/YJ-T179|YJ-T179]]
 - **キリスト教**（4 篇）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T033|YJ-T033]]
 - **クトゥルフ**（4 篇）: [[allusions/YJ-T071|YJ-T071]]・[[allusions/YJ-T078|YJ-T078]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T134|YJ-T134]]
+- **ケルベロス**（4 篇）: [[allusions/YJ-T135|YJ-T135]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T169|YJ-T169]]・[[allusions/YJ-T179|YJ-T179]]
 - **サイクロプス**（3 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T071|YJ-T071]]
 - **トゥアハ・デ・ダナーン**（3 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T061|YJ-T061]]・[[allusions/YJ-T136|YJ-T136]]
 - **ヒンドゥー教**（3 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T108|YJ-T108]]
@@ -133,9 +133,9 @@ run: publish
 - **アセンション**（2 篇）: [[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T131|YJ-T131]]
 - **オルフェウス**（2 篇）: [[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T156|YJ-T156]]
 - **カバラ**（2 篇）: [[allusions/YJ-T015|YJ-T015]]・[[allusions/YJ-T179|YJ-T179]]
-- …他 352 名
+- …他 350 名
 
-## 文学作品（392 名）
+## 文学作品（389 名）
 
 - **桃太郎**（15 篇）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T026|YJ-T026]] 外15篇
 - **クトゥルフ神話**（10 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T060|YJ-T060]] 外10篇
@@ -173,15 +173,12 @@ run: publish
 - **シェイクスピア**（2 篇）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T174|YJ-T174]]
 - **ツァラトゥストラはかく語りき**（2 篇）: [[allusions/YJ-T064|YJ-T064]]・[[allusions/YJ-T137|YJ-T137]]
 - **オーフェン**（2 篇）: [[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T162|YJ-T162]]
-- **エルフ**（2 篇）: [[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T057|YJ-T057]]
 - **バトルロワイヤル**（2 篇）: [[allusions/YJ-T097|YJ-T097]]・[[allusions/YJ-T169|YJ-T169]]
-- **ダゴン**（2 篇）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
-- **深きものども**（2 篇）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
-- **イア！イア！**（2 篇）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
-- **クラーケン**（2 篇）: [[allusions/YJ-T026|YJ-T026]]・[[allusions/YJ-T169|YJ-T169]]
 - **諸星きゆら**（2 篇）: [[allusions/YJ-T059|YJ-T059]]・[[allusions/YJ-T087|YJ-T087]]
 - **文学フリマ**（2 篇）: [[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T171|YJ-T171]]
 - **フルハシ**（2 篇）: [[allusions/YJ-T078|YJ-T078]]・[[allusions/YJ-T166|YJ-T166]]
+- **ダゴン**（2 篇）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
+- **深きものども**（2 篇）: [[allusions/YJ-T051|YJ-T051]]・[[allusions/YJ-T169|YJ-T169]]
 - **俺たちに明日はない**（2 篇）: [[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T178|YJ-T178]]
 - **アロンダイト**（2 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T135|YJ-T135]]
 - **とある魔術の禁書目録**（2 篇）: [[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T172|YJ-T172]]
@@ -197,9 +194,12 @@ run: publish
 - **ひこうき雲の境界線**（1 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]
 - **Sleeping Beauty**（1 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]
 - **紀伝体**（1 篇）: [[allusions/YJ-T021|YJ-T021]]
-- …他 332 名
+- **コクーン・ワールド**（1 篇）: [[allusions/YJ-T028|YJ-T028]]
+- **ティルト・ワールド**（1 篇）: [[allusions/YJ-T028|YJ-T028]]
+- **アビス・ワールド**（1 篇）: [[allusions/YJ-T028|YJ-T028]]
+- …他 329 名
 
-## 学術・科学概念（351 名）
+## 学術・科学概念（349 名）
 
 - **錬金術**（8 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T046|YJ-T046]]・[[allusions/YJ-T096|YJ-T096]] 外8篇
 - **ホモ・サピエンス**（8 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T026|YJ-T026]] 外8篇
@@ -234,10 +234,10 @@ run: publish
 - **量子コンピュータ**（2 篇）: [[allusions/YJ-T012|YJ-T012]]・[[allusions/YJ-T177|YJ-T177]]
 - **ミサイル**（2 篇）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T012|YJ-T012]]
 - **熱力学第二法則**（2 篇）: [[allusions/YJ-T017|YJ-T017]]・[[allusions/YJ-T064|YJ-T064]]
+- **エントロピー**（2 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T003|YJ-T003]]
 - **ニガヨモギ**（2 篇）: [[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T065|YJ-T065]]
 - **収斂進化**（2 篇）: [[allusions/YJ-T003|YJ-T003]]・[[allusions/YJ-T016|YJ-T016]]
 - **集合的無意識**（2 篇）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T003|YJ-T003]]
-- **エントロピー**（2 篇）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T003|YJ-T003]]
 - **地球温暖化**（2 篇）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T025|YJ-T025]]
 - **シーラカンス**（2 篇）: [[allusions/YJ-T016|YJ-T016]]・[[allusions/YJ-T035|YJ-T035]]
 - **荷電粒子砲**（2 篇）: [[allusions/YJ-T059|YJ-T059]]・[[allusions/YJ-T084|YJ-T084]]
@@ -261,7 +261,7 @@ run: publish
 - **電磁パルス**（1 篇）: [[allusions/YJ-T021|YJ-T021]]
 - **ラプラスの魔**（1 篇）: [[allusions/YJ-T024|YJ-T024]]
 - **黄道12星座**（1 篇）: [[allusions/YJ-T024|YJ-T024]]
-- …他 291 名
+- …他 289 名
 
 ## 歴史・実在人物（331 名）
 
@@ -273,8 +273,8 @@ run: publish
 - **大航海時代**（3 篇）: [[allusions/YJ-T029|YJ-T029]]・[[allusions/YJ-T036|YJ-T036]]・[[allusions/YJ-T135|YJ-T135]]
 - **ひろゆき**（3 篇）: [[allusions/YJ-T054|YJ-T054]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T178|YJ-T178]]
 - **大塚英志**（3 篇）: [[allusions/YJ-T095|YJ-T095]]・[[allusions/YJ-T165|YJ-T165]]・[[allusions/YJ-T178|YJ-T178]]
-- **木村さなえ**（3 篇）: [[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T176|YJ-T176]]
 - **ソロモン王**（3 篇）: [[allusions/YJ-T031|YJ-T031]]・[[allusions/YJ-T071|YJ-T071]]・[[allusions/YJ-T108|YJ-T108]]
+- **木村さなえ**（3 篇）: [[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T176|YJ-T176]]
 - **ラブクラフト**（2 篇）: [[allusions/YJ-T147|YJ-T147]]・[[allusions/YJ-T179|YJ-T179]]
 - **金城ひろし**（2 篇）: [[allusions/YJ-T127|YJ-T127]]・[[allusions/YJ-T179|YJ-T179]]
 - **第六天魔王**（2 篇）: [[allusions/YJ-T133|YJ-T133]]・[[allusions/YJ-T174|YJ-T174]]
@@ -327,7 +327,7 @@ run: publish
 - **サルトル**（1 篇）: [[allusions/YJ-T032|YJ-T032]]
 - …他 271 名
 
-## ゲーム・TRPG（265 名）
+## ゲーム・TRPG（263 名）
 
 - **TRPG**（45 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T008|YJ-T008]]・[[allusions/YJ-T012|YJ-T012]] 外45篇
 - **TCG**（16 篇）: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T062|YJ-T062]]・[[allusions/YJ-T094|YJ-T094]] 外16篇
@@ -389,7 +389,7 @@ run: publish
 - **サガ3**（1 篇）: [[allusions/YJ-M6948914|YJ-M6948914]]
 - **ファイヤーフレイム**（1 篇）: [[allusions/YJ-M6948914|YJ-M6948914]]
 - **ドラクエ3**（1 篇）: [[allusions/YJ-M6948914|YJ-M6948914]]
-- …他 205 名
+- …他 203 名
 
 ## 地名・地理（178 名）
 
@@ -506,9 +506,6 @@ run: publish
 - **クレヨンしんちゃん**（1 篇）: [[allusions/YJ-T122|YJ-T122]]
 - **未来日記**（1 篇）: [[allusions/YJ-T143|YJ-T143]]
 - **ユラレンジャー**（1 篇）: [[allusions/YJ-T057|YJ-T057]]
-- **Future is Wild**（1 篇）: [[allusions/YJ-T003|YJ-T003]]
-- **遊星からの物体X**（1 篇）: [[allusions/YJ-T169|YJ-T169]]
-- **TPぼん**（1 篇）: [[allusions/YJ-T176|YJ-T176]]
 - **悪魔地獄**（1 篇）: [[allusions/YJ-T037|YJ-T037]]
 - **デビルガンダム**（1 篇）: [[allusions/YJ-T037|YJ-T037]]
 - **ガンダムSEED**（1 篇）: [[allusions/YJ-T087|YJ-T087]]
@@ -517,6 +514,9 @@ run: publish
 - **ライオンキング**（1 篇）: [[allusions/YJ-T025|YJ-T025]]
 - **ジャングル大帝**（1 篇）: [[allusions/YJ-T025|YJ-T025]]
 - **秒速5センチメートル**（1 篇）: [[allusions/YJ-T078|YJ-T078]]
+- **ミスティック・リバー**（1 篇）: [[allusions/YJ-T078|YJ-T078]]
+- **キルビル**（1 篇）: [[allusions/YJ-T078|YJ-T078]]
+- **コンスタンティン**（1 篇）: [[allusions/YJ-T078|YJ-T078]]
 - …他 99 名
 
 ## ブランド・商品（99 名）
@@ -589,10 +589,10 @@ run: publish
 - **レクイエム**（2 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T107|YJ-T107]]
 - **落語**（2 篇）: [[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T021|YJ-T021]]
 - **ドナドナ**（2 篇）: [[allusions/YJ-T103|YJ-T103]]・[[allusions/YJ-T172|YJ-T172]]
-- **モーニング娘。**（2 篇）: [[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T176|YJ-T176]]
-- **SISMIC**（2 篇）: [[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T176|YJ-T176]]
 - **レッド・ホット・チリ・ペッパーズ**（2 篇）: [[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T172|YJ-T172]]
 - **脳内彼女**（2 篇）: [[allusions/YJ-T071|YJ-T071]]・[[allusions/YJ-T166|YJ-T166]]
+- **モーニング娘。**（2 篇）: [[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T176|YJ-T176]]
+- **SISMIC**（2 篇）: [[allusions/YJ-T174|YJ-T174]]・[[allusions/YJ-T176|YJ-T176]]
 - **国旗・国歌法**（1 篇）: [[allusions/YJ-T007|YJ-T007]]
 - **天国に連れてって**（1 篇）: [[allusions/YJ-T058|YJ-T058]]
 - **オレンジレンジ**（1 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]
@@ -647,8 +647,8 @@ run: publish
 
 - **Mixi**（12 篇）: [[allusions/YJ-M2706511|YJ-M2706511]]・[[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T096|YJ-T096]]・[[allusions/YJ-T108|YJ-T108]] 外12篇
 - **Wikipedia**（8 篇）: [[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T056|YJ-T056]]・[[allusions/YJ-T102|YJ-T102]] 外8篇
-- **ニコニコ動画**（6 篇）: [[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T172|YJ-T172]] 外6篇
 - **はてな**（6 篇）: [[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T137|YJ-T137]] 外6篇
+- **ニコニコ動画**（5 篇）: [[allusions/YJ-T152|YJ-T152]]・[[allusions/YJ-T161|YJ-T161]]・[[allusions/YJ-T166|YJ-T166]]・[[allusions/YJ-T172|YJ-T172]] 外5篇
 - **ウィキペディア**（4 篇）: [[allusions/YJ-T025|YJ-T025]]・[[allusions/YJ-T033|YJ-T033]]・[[allusions/YJ-T157|YJ-T157]]・[[allusions/YJ-T178|YJ-T178]]
 - **はてなダイアリー**（3 篇）: [[allusions/YJ-T095|YJ-T095]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T165|YJ-T165]]
 - **はてなスター**（2 篇）: [[allusions/YJ-T116|YJ-T116]]・[[allusions/YJ-T161|YJ-T161]]

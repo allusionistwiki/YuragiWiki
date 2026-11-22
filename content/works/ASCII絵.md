@@ -4,8 +4,8 @@ work: "ASCII絵"
 author: "『這い寄る木炭』磯部"
 type: "その他創作"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # ASCII絵

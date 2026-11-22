@@ -4,8 +4,8 @@ work: "第九試合：屠殺彦ＶＳヒーローソード2"
 author: "第九試合：屠殺彦ＶＳヒーローソード2"
 type: "脚本"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # 第九試合：屠殺彦ＶＳヒーローソード2

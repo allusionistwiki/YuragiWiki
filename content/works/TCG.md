@@ -4,8 +4,8 @@ work: "TCG"
 author: "からすとうさぎ"
 type: "販促文・宣伝文"
 chains: 1
-run: 20261122T0551_l1works
-link_audit: "20261122T0551_l1works"
+run: 20261122T0920_l1works
+link_audit: "20261122T0920_l1works"
 ---
 
 # TCG
