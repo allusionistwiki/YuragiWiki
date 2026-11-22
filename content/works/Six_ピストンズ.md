@@ -1,33 +1,31 @@
 ---
-title: "Six・ピストンズ"
-work: "Six・ピストンズ"
+title: "S i X・ピストンズ"
+work: "S i X・ピストンズ"
 author: "言理の妖精語りて曰く、"
-type: "設定文"
-chains: 2
-run: 20261121T0743_l1works
-link_audit: "20261121T0743_l1works"
+type: "詩"
+run: 20261122T2200_l1works
+link_audit: "P2全件実読判定→機械照合"
 ---
 
-# Six・ピストンズ
+# S i X・ピストンズ
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: 設定文 ／ 収録群: 2）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T163:6](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/163_練習・チラシの裏・書き殴りスレ/p0004-0008.md)）
 
-## 紀人・新しき神に関するスレッド（YJ-T039） 群 g022
+## 冒頭（原文逐語・機械抽出）
 
-- 話題: —
-- 掲載文脈: 記述投稿で、Six・ピストンズが男根六本のルビを持つと補足する
+> S i X・ﾋﾟ ｽ ﾄ ﾝ ｽﾞ
+> 
+> 　「六つの迸る男根！」
+> 
+> 　　ダッ　　　　　　　　　　　ゴッ
+> 
+> 　　　　　　　バッ
+> 
+> 　　　　　　　　　　　　　ビャッ
+> 
+> シュドッ
+> 
 
-**37** 言理の妖精語りて曰く、 2006-06-26T03:09:13+09:00 [#37](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T039/#post-37)
+→ 投稿元: [[full/YJ-T163#post-6|[YJ-T163:6](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/163_練習・チラシの裏・書き殴りスレ/p0004-0008.md)]]
 
-Six・ピストンズは「六つの迸る男根」にルビを振る。
-
-## 紀人・新しき神に関するスレッド（YJ-T039） 群 g024
-
-- 話題: —
-- 掲載文脈: 記述投稿で、Six・ピストンズの性質が六振根や六槍活塞でもあると補足する
-
-**39** 言理の妖精語りて曰く、 2006-06-27T13:10:38+09:00 [#39](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T039/#post-39)
-
-「六つの迸る男根」はSix・ピストンズの表層に顕われた性質の一つに過ぎない。
-
-他にも「六振根」、「六槍活塞」等。
+※ 本頁は Lane P（無作為カバレッジ監査→機械候補 1,189→LLM 全件実読判定 creative 1,034）による創作索引の増分。

@@ -26,6 +26,7 @@ link_audit: "20261122T2100_l1en_deterministic"
 
 ## 関連創作（作品ページ）
 
+- [[works/PANGEONで夢を見続ける彼女(ファーゾナー事件)|PANGEONで夢を見続ける彼女（ファーゾナー事件）]]
 - [[works/pangeon|PANGEON]]
 - [[works/アルスタと刑事の対話(PANGEON内劇中)|アルスタと刑事の対話（PANGEON内劇中）]]
 - [[works/アンリエッタとデフォン|アンリエッタとデフォン]]

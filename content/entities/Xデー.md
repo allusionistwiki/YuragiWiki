@@ -28,9 +28,9 @@ link_audit: "20261121T1430_l11en4aud"
 *   **概念**: 新史歴2299年, [[entities/万民友和|万民友和]], 英雄のスカウト, [[entities/魔女|魔女]]狩り
 
 ## 注目投稿
-[[YJ-T002:372](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/002_魔法・科学/p0345-0458.md)] (言理の妖精): どれほど先延ばしに出来ても、Xデーは絶対に訪れます
-[[YJ-T026:479](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/026_人物に関する記述スレッド/p0369-0604.md)] (言理の妖精): 全世界英雄協会のもと活動していたはずの英雄たちが協会と国際社会に反旗を翻したXデー以後、世界の秩序は瓦解し
-[[YJ-T043:131](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/043_【マハ＝ディヤルニ】 ルザナイ教 【バーフルード】/p0107-0175.md)] (言理の妖精): ミハエル・イエスマンが予告したXデー。全世界英雄協会から離脱した英雄たちは、『黄金倫理圏』を皮切りに現れた五つの過激派集団に合流した
+[YJ-T002:372](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/002_魔法・科学/p0345-0458.md) (言理の妖精): どれほど先延ばしに出来ても、Xデーは絶対に訪れます
+[YJ-T026:479](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/026_人物に関する記述スレッド/p0369-0604.md) (言理の妖精): 全世界英雄協会のもと活動していたはずの英雄たちが協会と国際社会に反旗を翻したXデー以後、世界の秩序は瓦解し
+[YJ-T043:131](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/043_【マハ＝ディヤルニ】 ルザナイ教 【バーフルード】/p0107-0175.md) (言理の妖精): ミハエル・イエスマンが予告したXデー。全世界英雄協会から離脱した英雄たちは、『黄金倫理圏』を皮切りに現れた五つの過激派集団に合流した
 
 ---
 出典: L0 台帳 `L0/runs/20261117T2021_l0c`・検索索引 `20261117T2022_l0si`
@@ -62,6 +62,7 @@ link_audit: "20261121T1430_l11en4aud"
 
 ## 関連創作（作品ページ）
 
+- [[works/Xデー後の世界と英雄協会の存在意義|Xデー後の世界と英雄協会の存在意義]]
 - [[works/xデー|Xデー]]
 - [[works/xデー後の地獄と英雄スカウト|Xデー後の地獄と英雄スカウト]]
 - [[works/エベリガ_セェーオ_マリドス|エベリガ・セェーオ・マリドス]]

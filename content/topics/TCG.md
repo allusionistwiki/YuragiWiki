@@ -36,11 +36,11 @@ link_audit: "20261120T1630_l11tpaud2"
 *   「ゆらぎの神話の設定」におけるTCGキャラの使用権限については、「自己申告」制であるという見解がある。
 
 ## 注目投稿
-[[YJ-M24775488:14](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/mixi/373088/ゆらぎ報告・紹介・観測トピック/p0013-0014.md)] からすとうさぎ: 最強のキャラを構築し、最強のバトルテキストを装備させろ！ 戦士のアルゴリズムを戦わせるアナログゲーム「TCG」
-[[YJ-T001:303](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/001_武具・道具・祭具/p0225-0305.md)] 言理の妖精語りて曰く、: 食すことで経験値を７点獲得出来る（TCG換算）。
-[[YJ-T014:85](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/014_嗜好品スレ/p0076-0094.md)] 言理の妖精語りて曰く、: 通称『フラパン』は、世界のすべてを内包するカードゲームである
-[[YJ-T035:434](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/035_雑談スレッド4/p0428-0455.md)] 言理の妖精語りて曰く、: パラメタを3つ持つ例はTCGだが、これはキャラメイク時にたっぷりと勝敗を分析できるから
-[[YJ-T035:225](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/035_雑談スレッド4/p0175-0228.md)] 言理の妖精語りて曰く、: わざわざ｢TCG設定｣｢非TCG設定｣と区別した呼称を設けるのは、両者の融和上あまり好ましい効果は期待できないのではないか。
+[YJ-M24775488:14](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/mixi/373088/ゆらぎ報告・紹介・観測トピック/p0013-0014.md) からすとうさぎ: 最強のキャラを構築し、最強のバトルテキストを装備させろ！ 戦士のアルゴリズムを戦わせるアナログゲーム「TCG」
+[YJ-T001:303](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/001_武具・道具・祭具/p0225-0305.md) 言理の妖精語りて曰く、: 食すことで経験値を７点獲得出来る（TCG換算）。
+[YJ-T014:85](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/014_嗜好品スレ/p0076-0094.md) 言理の妖精語りて曰く、: 通称『フラパン』は、世界のすべてを内包するカードゲームである
+[YJ-T035:434](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/035_雑談スレッド4/p0428-0455.md) 言理の妖精語りて曰く、: パラメタを3つ持つ例はTCGだが、これはキャラメイク時にたっぷりと勝敗を分析できるから
+[YJ-T035:225](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/035_雑談スレッド4/p0175-0228.md) 言理の妖精語りて曰く、: わざわざ｢TCG設定｣｢非TCG設定｣と区別した呼称を設けるのは、両者の融和上あまり好ましい効果は期待できないのではないか。
 
 ---
 出典: L0 台帳 `L0/runs/20261117T2021_l0c`・検索索引 `20261117T2022_l0si`

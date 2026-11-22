@@ -11,7 +11,6 @@ run: publish
 
 - [[topics/10月の擾乱|10月の擾乱]]
 - [[topics/72の王侯貴族についての記述はこれで終わる|72の王侯貴族についての記述はこれで終わる]]
-- [[topics/ada39a3ee|ada39a3ee]]
 - [[topics/ALTH|ALTH]]
 - [[topics/G_R_I_M|G.R.I.M]]
 - [[topics/MP|MP]]

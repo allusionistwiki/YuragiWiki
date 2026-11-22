@@ -35,15 +35,15 @@ link_audit: "20261120T1630_l11tpaud2"
 
 ## 注目投稿
 
-[[YJ-T001:93](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/001_武具・道具・祭具/p0040-0111.md)] (言理の妖精語りて曰く): マーディキラウド・パクラス（「マーディキ神群の援助」の意）の略で マーディキ神群により物質化された魔力や術式のこと。 見た目は「淡く光る繭のような石」といったところ。
+[YJ-T001:93](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/001_武具・道具・祭具/p0040-0111.md) (言理の妖精語りて曰く): マーディキラウド・パクラス（「マーディキ神群の援助」の意）の略で マーディキ神群により物質化された魔力や術式のこと。 見た目は「淡く光る繭のような石」といったところ。
 
-[[YJ-T002:124](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/002_魔法・科学/p0123-0127.md)] (言理の妖精語りて曰く): メモリポイント。 混沌派の魔術行使にあたって、バタフライに至る可能性のほころびを見つけだし、 またその道筋を辿るのに必要なメモリの量を大雑把に表したもの。
+[YJ-T002:124](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/002_魔法・科学/p0123-0127.md) (言理の妖精語りて曰く): メモリポイント。 混沌派の魔術行使にあたって、バタフライに至る可能性のほころびを見つけだし、 またその道筋を辿るのに必要なメモリの量を大雑把に表したもの。
 
-[[YJ-T051:43](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0043.md)] (言理の妖精語りて曰く): マッド・ポニーの略。猫語でいかれたポニーという意味。 魔力霊その他の理由により、ポニーテールが そのポニーを生やした人の意思とは無関係に暴れ回る現象をいう。
+[YJ-T051:43](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0043.md) (言理の妖精語りて曰く): マッド・ポニーの略。猫語でいかれたポニーという意味。 魔力霊その他の理由により、ポニーテールが そのポニーを生やした人の意思とは無関係に暴れ回る現象をいう。
 
-[[YJ-T078:354](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/078_外典【女の子だけが使える秘密の魔法 】魔導書/p0353-0356.md)] (yubi): MPというのはマネーパワーであり、魔術師というのは科学者であるよりもむしろ経営者、指導者にあたる。
+[YJ-T078:354](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/078_外典【女の子だけが使える秘密の魔法 】魔導書/p0353-0356.md) (yubi): MPというのはマネーパワーであり、魔術師というのは科学者であるよりもむしろ経営者、指導者にあたる。
 
-[[YJ-T108:22](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/108_神話企画部/p0015-0024.md)] (言理の妖精語りて曰く): Lv・HP・MP・攻撃力・防御力・職業、と書いてもまだDQパロディと特定できない。 （もう特定のしようがないくらいジャンル内で普遍なネタになってしまっている）
+[YJ-T108:22](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/108_神話企画部/p0015-0024.md) (言理の妖精語りて曰く): Lv・HP・MP・攻撃力・防御力・職業、と書いてもまだDQパロディと特定できない。 （もう特定のしようがないくらいジャンル内で普遍なネタになってしまっている）
 
 ---
 出典: L0 台帳 `L0/runs/20261117T2021_l0c`・検索索引 `20261117T2022_l0si`
