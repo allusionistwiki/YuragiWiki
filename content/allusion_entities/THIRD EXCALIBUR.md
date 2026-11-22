@@ -27,7 +27,6 @@ run: publish
 ### [[allusions/YJ-T041|YJ-T041]]
 
 > 「>>244ってTHIRD EXCALIBURの隠しステージだったと思ふ」 [[full/YJ-T041#post-246|YJ-T041:246]]
-> 「>>244ってTHIRD EXCALIBURの隠しステージだったと思ふ」 [[full/YJ-T041#post-246|YJ-T041:246]]
 
 ### [[allusions/YJ-T046|YJ-T046]]
 

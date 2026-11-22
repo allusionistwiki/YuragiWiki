@@ -5,36 +5,45 @@ run: publish
 
 # 実世界参照 実体索引（2 篇以上）
 
-作中に持ち込まれた**実世界の対象名**の実体化: 444 名（全対象名 3162・単篇のみの名は対象名索引/主題分類に収録）。各ページは使用状況の逐語引用＋ref 出典付き。
+作中に持ち込まれた**実世界の対象名**の実体化: 493 名（全対象名 3533・単篇のみの名は対象名索引/主題分類に収録）。各ページは使用状況の逐語引用＋ref 出典付き。
 
 収録基準: 2 篇以上に出現する実世界対象名。監査収束済（drop 反映）。
 
-## その他（116 名）
+## その他（138 名）
 
-- [[allusion_entities/TRPG|TRPG]]（47 篇）
+- [[allusion_entities/TRPG|TRPG]]（49 篇）
 - [[allusion_entities/Mixi|Mixi]]（13 篇）
+- [[allusion_entities/2ch|2ch]]（12 篇）
 - [[allusion_entities/中二病|中二病]]（12 篇）
-- [[allusion_entities/2ch|2ch]]（11 篇）
 - [[allusion_entities/Wikipedia|Wikipedia]]（8 篇）
 - [[allusion_entities/ジョジョの奇妙な冒険|ジョジョの奇妙な冒険]]（8 篇）
+- [[allusion_entities/エロゲ|エロゲ]]（7 篇）
+- [[allusion_entities/納豆|納豆]]（7 篇）
 - [[allusion_entities/魔法少女|魔法少女]]（7 篇）
 - [[allusion_entities/麻雀|麻雀]]（7 篇）
 - [[allusion_entities/2ちゃんねる|2ちゃんねる]]（6 篇）
 - [[allusion_entities/はてな|はてな]]（6 篇）
+- [[allusion_entities/スク水|スク水]]（6 篇）
 - [[allusion_entities/ニコニコ動画|ニコニコ動画]]（6 篇）
 - [[allusion_entities/ミクシィ|ミクシィ]]（6 篇）
-- [[allusion_entities/エロゲ|エロゲ]]（5 篇）
+- [[allusion_entities/猫|猫]]（6 篇）
 - [[allusion_entities/コミケ|コミケ]]（5 篇）
 - [[allusion_entities/タロットカード|タロットカード]]（5 篇）
 - [[allusion_entities/レプティリアン|レプティリアン]]（5 篇）
 - [[allusion_entities/Internet Explorer|Internet Explorer]]（4 篇）
 - [[allusion_entities/pixiv|pixiv]]（4 篇）
 - [[allusion_entities/ウィキペディア|ウィキペディア]]（4 篇）
+- [[allusion_entities/コミックマーケット|コミックマーケット]]（4 篇）
 - [[allusion_entities/ゴキブリ|ゴキブリ]]（4 篇）
+- [[allusion_entities/ニガヨモギ|ニガヨモギ]]（4 篇）
 - [[allusion_entities/共産主義|共産主義]]（4 篇）
 - [[allusion_entities/武士道|武士道]]（4 篇）
 - [[allusion_entities/異世界転生|異世界転生]]（4 篇）
+- [[allusion_entities/面雀|面雀]]（4 篇）
+- [[allusion_entities/高麗人参|高麗人参]]（4 篇）
+- [[allusion_entities/PTA|PTA]]（3 篇）
 - [[allusion_entities/RSS|RSS]]（3 篇）
+- [[allusion_entities/SF|SF]]（3 篇）
 - [[allusion_entities/Skype|Skype]]（3 篇）
 - [[allusion_entities/Twitter|Twitter]]（3 篇）
 - [[allusion_entities/sage|sage]]（3 篇）
@@ -42,22 +51,23 @@ run: publish
 - [[allusion_entities/はてなグループ|はてなグループ]]（3 篇）
 - [[allusion_entities/はてなダイアリー|はてなダイアリー]]（3 篇）
 - [[allusion_entities/アンサイクロペディア|アンサイクロペディア]]（3 篇）
-- [[allusion_entities/コミックマーケット|コミックマーケット]]（3 篇）
 - [[allusion_entities/サンタクロース|サンタクロース]]（3 篇）
 - [[allusion_entities/シスプリ|シスプリ]]（3 篇）
-- [[allusion_entities/スク水|スク水]]（3 篇）
+- [[allusion_entities/スマホ|スマホ]]（3 篇）
 - [[allusion_entities/デス_ノート|デス・ノート]]（3 篇）
+- [[allusion_entities/ドラゴン|ドラゴン]]（3 篇）
 - [[allusion_entities/ニート|ニート]]（3 篇）
 - [[allusion_entities/ハローワーク|ハローワーク]]（3 篇）
 - [[allusion_entities/ヘブライ語|ヘブライ語]]（3 篇）
+- [[allusion_entities/ポニーテール|ポニーテール]]（3 篇）
 - [[allusion_entities/ロリコン|ロリコン]]（3 篇）
 - [[allusion_entities/伺か|伺か]]（3 篇）
-- [[allusion_entities/将棋|将棋]]（3 篇）
-- [[allusion_entities/猫|猫]]（3 篇）
 - [[allusion_entities/自衛隊|自衛隊]]（3 篇）
+- [[allusion_entities/豆腐|豆腐]]（3 篇）
 - [[allusion_entities/邪気眼|邪気眼]]（3 篇）
+- [[allusion_entities/錬金術師|錬金術師]]（3 篇）
 - [[allusion_entities/青空文庫|青空文庫]]（3 篇）
-- [[allusion_entities/面雀|面雀]]（3 篇）
+- [[allusion_entities/麻婆豆腐|麻婆豆腐]]（3 篇）
 - [[allusion_entities/9ミリ拳銃|9ミリ拳銃]]（2 篇）
 - [[allusion_entities/CIA|CIA]]（2 篇）
 - [[allusion_entities/FSW|FSW]]（2 篇）
@@ -65,8 +75,6 @@ run: publish
 - [[allusion_entities/MMO|MMO]]（2 篇）
 - [[allusion_entities/Mjolnir|Mjolnir]]（2 篇）
 - [[allusion_entities/NHK|NHK]]（2 篇）
-- [[allusion_entities/PTA|PTA]]（2 篇）
-- [[allusion_entities/SF|SF]]（2 篇）
 - [[allusion_entities/TikTok|TikTok]]（2 篇）
 - [[allusion_entities/Ustream|Ustream]]（2 篇）
 - [[allusion_entities/VIP|VIP]]（2 篇）
@@ -81,36 +89,48 @@ run: publish
 - [[allusion_entities/エアギター|エアギター]]（2 篇）
 - [[allusion_entities/エイジ_オブ_サジタリウス|エイジ・オブ・サジタリウス]]（2 篇）
 - [[allusion_entities/オリハルコン|オリハルコン]]（2 篇）
+- [[allusion_entities/カレーパン|カレーパン]]（2 篇）
 - [[allusion_entities/カードゲーム|カードゲーム]]（2 篇）
 - [[allusion_entities/ガラケー|ガラケー]]（2 篇）
 - [[allusion_entities/ガンガン|ガンガン]]（2 篇）
 - [[allusion_entities/グーグル|グーグル]]（2 篇）
+- [[allusion_entities/サークルクラッシャー|サークルクラッシャー]]（2 篇）
 - [[allusion_entities/シュールレアリスム|シュールレアリスム]]（2 篇）
 - [[allusion_entities/ジャンプ|ジャンプ]]（2 篇）
+- [[allusion_entities/スコップ|スコップ]]（2 篇）
 - [[allusion_entities/スタンド|スタンド]]（2 篇）
 - [[allusion_entities/セカイ系|セカイ系]]（2 篇）
 - [[allusion_entities/セガ|セガ]]（2 篇）
+- [[allusion_entities/ゾンビ|ゾンビ]]（2 篇）
 - [[allusion_entities/タロット|タロット]]（2 篇）
+- [[allusion_entities/ダックスフント|ダックスフント]]（2 篇）
+- [[allusion_entities/ダークヒーロー|ダークヒーロー]]（2 篇）
 - [[allusion_entities/テセウスの船|テセウスの船]]（2 篇）
 - [[allusion_entities/トウモロコシ|トウモロコシ]]（2 篇）
 - [[allusion_entities/トミュニ|トミュニ]]（2 篇）
 - [[allusion_entities/トリックスター|トリックスター]]（2 篇）
 - [[allusion_entities/ドッペルゲンガー|ドッペルゲンガー]]（2 篇）
-- [[allusion_entities/ドラゴン|ドラゴン]]（2 篇）
+- [[allusion_entities/バイオリン|バイオリン]]（2 篇）
 - [[allusion_entities/バールのようなもの|バールのようなもの]]（2 篇）
+- [[allusion_entities/パチンコ|パチンコ]]（2 篇）
 - [[allusion_entities/ファイブスター物語|ファイブスター物語]]（2 篇）
 - [[allusion_entities/フリーメーソン|フリーメーソン]]（2 篇）
 - [[allusion_entities/ブルースクリーン|ブルースクリーン]]（2 篇）
+- [[allusion_entities/ボクシング|ボクシング]]（2 篇）
 - [[allusion_entities/ボーリング|ボーリング]]（2 篇）
-- [[allusion_entities/ポニーテール|ポニーテール]]（2 篇）
 - [[allusion_entities/マッチ|マッチ]]（2 篇）
+- [[allusion_entities/マフィア|マフィア]]（2 篇）
+- [[allusion_entities/ヤクザ|ヤクザ]]（2 篇）
+- [[allusion_entities/ヤンデレ|ヤンデレ]]（2 篇）
 - [[allusion_entities/ライブドア|ライブドア]]（2 篇）
+- [[allusion_entities/ラテン語|ラテン語]]（2 篇）
 - [[allusion_entities/レイシズム|レイシズム]]（2 篇）
 - [[allusion_entities/ワシントン条約|ワシントン条約]]（2 篇）
 - [[allusion_entities/三国志|三国志]]（2 篇）
 - [[allusion_entities/三題噺|三題噺]]（2 篇）
 - [[allusion_entities/二次創作|二次創作]]（2 篇）
 - [[allusion_entities/共和制|共和制]]（2 篇）
+- [[allusion_entities/名探偵|名探偵]]（2 篇）
 - [[allusion_entities/君が代|君が代]]（2 篇）
 - [[allusion_entities/好奇心は猫をも殺す|好奇心は猫をも殺す]]（2 篇）
 - [[allusion_entities/少年院|少年院]]（2 篇）
@@ -118,21 +138,25 @@ run: publish
 - [[allusion_entities/文学フリマ|文学フリマ]]（2 篇）
 - [[allusion_entities/民主主義|民主主義]]（2 篇）
 - [[allusion_entities/永劫回帰|永劫回帰]]（2 篇）
+- [[allusion_entities/沙羅双樹|沙羅双樹]]（2 篇）
+- [[allusion_entities/牛|牛]]（2 篇）
 - [[allusion_entities/百合|百合]]（2 篇）
-- [[allusion_entities/納豆|納豆]]（2 篇）
 - [[allusion_entities/落語|落語]]（2 篇）
 - [[allusion_entities/著作権法|著作権法]]（2 篇）
+- [[allusion_entities/資本主義|資本主義]]（2 篇）
+- [[allusion_entities/車椅子|車椅子]]（2 篇）
 - [[allusion_entities/逆鱗|逆鱗]]（2 篇）
 - [[allusion_entities/銃刀法|銃刀法]]（2 篇）
-- [[allusion_entities/錬金術師|錬金術師]]（2 篇）
 - [[allusion_entities/高麗ニンジン|高麗ニンジン]]（2 篇）
-- [[allusion_entities/麻婆豆腐|麻婆豆腐]]（2 篇）
+- [[allusion_entities/麻薬|麻薬]]（2 篇）
 
-## 文学（54 名）
+## 文学（59 名）
 
 - [[allusion_entities/桃太郎|桃太郎]]（16 篇）
-- [[allusion_entities/クトゥルフ神話|クトゥルフ神話]]（11 篇）
+- [[allusion_entities/クトゥルフ神話|クトゥルフ神話]]（12 篇）
 - [[allusion_entities/エクスカリバー|エクスカリバー]]（8 篇）
+- [[allusion_entities/ブリュンヒルデ|ブリュンヒルデ]]（6 篇）
+- [[allusion_entities/クトゥルフ|クトゥルフ]]（5 篇）
 - [[allusion_entities/クトゥルー|クトゥルー]]（5 篇）
 - [[allusion_entities/クトゥルー神話|クトゥルー神話]]（5 篇）
 - [[allusion_entities/デウス_エクス_マキナ|デウス・エクス・マキナ]]（4 篇）
@@ -157,15 +181,18 @@ run: publish
 - [[allusion_entities/クラーケン|クラーケン]]（2 篇）
 - [[allusion_entities/シェイクスピア|シェイクスピア]]（2 篇）
 - [[allusion_entities/シルマリルの物語|シルマリルの物語]]（2 篇）
+- [[allusion_entities/タイタス_クロウ|タイタス・クロウ]]（2 篇）
 - [[allusion_entities/ダゴン|ダゴン]]（2 篇）
 - [[allusion_entities/ツァラトゥストラはかく語りき|ツァラトゥストラはかく語りき]]（2 篇）
 - [[allusion_entities/デトロイト_メタル_シティ|デトロイト・メタル・シティ]]（2 篇）
 - [[allusion_entities/ニャルラトホテプ|ニャルラトホテプ]]（2 篇）
 - [[allusion_entities/ネクロノミコン|ネクロノミコン]]（2 篇）
+- [[allusion_entities/ハイダル_マリク|ハイダル・マリク]]（2 篇）
 - [[allusion_entities/バトルロワイヤル|バトルロワイヤル]]（2 篇）
 - [[allusion_entities/フランケンシュタインの怪物|フランケンシュタインの怪物]]（2 篇）
 - [[allusion_entities/フルハシ|フルハシ]]（2 篇）
 - [[allusion_entities/ブギーポップ|ブギーポップ]]（2 篇）
+- [[allusion_entities/ベルセルク|ベルセルク]]（2 篇）
 - [[allusion_entities/マッチ売りの少女|マッチ売りの少女]]（2 篇）
 - [[allusion_entities/ムーミン|ムーミン]]（2 篇）
 - [[allusion_entities/メビウス_ゼロ|メビウス・ゼロ]]（2 篇）
@@ -185,13 +212,70 @@ run: publish
 - [[allusion_entities/講談社BOX|講談社BOX]]（2 篇）
 - [[allusion_entities/銀河英雄伝説|銀河英雄伝説]]（2 篇）
 
-## 宗教（50 名）
+## 科学（53 名）
+
+- [[allusion_entities/ホモ_サピエンス|ホモ・サピエンス]]（8 篇）
+- [[allusion_entities/錬金術|錬金術]]（8 篇）
+- [[allusion_entities/シュレーディンガーの猫|シュレーディンガーの猫]]（5 篇）
+- [[allusion_entities/ブラックホール|ブラックホール]]（5 篇）
+- [[allusion_entities/ミーム|ミーム]]（5 篇）
+- [[allusion_entities/進化論|進化論]]（5 篇）
+- [[allusion_entities/エントロピー|エントロピー]]（4 篇）
+- [[allusion_entities/クォーク|クォーク]]（4 篇）
+- [[allusion_entities/ビックバン|ビックバン]]（4 篇）
+- [[allusion_entities/ビッグバン|ビッグバン]]（4 篇）
+- [[allusion_entities/哲学的ゾンビ|哲学的ゾンビ]]（4 篇）
+- [[allusion_entities/量子力学|量子力学]]（4 篇）
+- [[allusion_entities/DNA|DNA]]（3 篇）
+- [[allusion_entities/インターネット|インターネット]]（3 篇）
+- [[allusion_entities/クオリア|クオリア]]（3 篇）
+- [[allusion_entities/トラペゾヘドロン|トラペゾヘドロン]]（3 篇）
+- [[allusion_entities/太陽系|太陽系]]（3 篇）
+- [[allusion_entities/心理学|心理学]]（3 篇）
+- [[allusion_entities/水星|水星]]（3 篇）
+- [[allusion_entities/火星|火星]]（3 篇）
+- [[allusion_entities/避雷針|避雷針]]（3 篇）
+- [[allusion_entities/インテリジェント_デザイン説|インテリジェント・デザイン説]]（2 篇）
+- [[allusion_entities/オゾン層|オゾン層]]（2 篇）
+- [[allusion_entities/サイボーグ|サイボーグ]]（2 篇）
+- [[allusion_entities/サーベルタイガー|サーベルタイガー]]（2 篇）
+- [[allusion_entities/シーラカンス|シーラカンス]]（2 篇）
+- [[allusion_entities/ストックホルム症候群|ストックホルム症候群]]（2 篇）
+- [[allusion_entities/ダークマター|ダークマター]]（2 篇）
+- [[allusion_entities/パブロフの犬|パブロフの犬]]（2 篇）
+- [[allusion_entities/ペルソナ|ペルソナ]]（2 篇）
+- [[allusion_entities/マイナスイオン|マイナスイオン]]（2 篇）
+- [[allusion_entities/マングローブ|マングローブ]]（2 篇）
+- [[allusion_entities/マンモス|マンモス]]（2 篇）
+- [[allusion_entities/ミサイル|ミサイル]]（2 篇）
+- [[allusion_entities/リビドー|リビドー]]（2 篇）
+- [[allusion_entities/万有引力|万有引力]]（2 篇）
+- [[allusion_entities/三重水素|三重水素]]（2 篇）
+- [[allusion_entities/収斂進化|収斂進化]]（2 篇）
+- [[allusion_entities/土星|土星]]（2 篇）
+- [[allusion_entities/地球温暖化|地球温暖化]]（2 篇）
+- [[allusion_entities/摂氏|摂氏]]（2 篇）
+- [[allusion_entities/水爆|水爆]]（2 篇）
+- [[allusion_entities/永久機関|永久機関]]（2 篇）
+- [[allusion_entities/無限後退|無限後退]]（2 篇）
+- [[allusion_entities/熱力学第二法則|熱力学第二法則]]（2 篇）
+- [[allusion_entities/荷電粒子砲|荷電粒子砲]]（2 篇）
+- [[allusion_entities/著作権|著作権]]（2 篇）
+- [[allusion_entities/蒸気機関|蒸気機関]]（2 篇）
+- [[allusion_entities/論理学|論理学]]（2 篇）
+- [[allusion_entities/超弦理論|超弦理論]]（2 篇）
+- [[allusion_entities/量子コンピュータ|量子コンピュータ]]（2 篇）
+- [[allusion_entities/集合無意識|集合無意識]]（2 篇）
+- [[allusion_entities/集合的無意識|集合的無意識]]（2 篇）
+
+## 宗教（53 名）
 
 - [[allusion_entities/バハムート|バハムート]]（7 篇）
 - [[allusion_entities/アカシックレコード|アカシックレコード]]（6 篇）
 - [[allusion_entities/イフリート|イフリート]]（4 篇）
 - [[allusion_entities/キリスト教|キリスト教]]（4 篇）
 - [[allusion_entities/シモン_マグス|シモン・マグス]]（4 篇）
+- [[allusion_entities/バベルの塔|バベルの塔]]（4 篇）
 - [[allusion_entities/ミカエル|ミカエル]]（4 篇）
 - [[allusion_entities/レギオン|レギオン]]（4 篇）
 - [[allusion_entities/イルミナティ|イルミナティ]]（3 篇）
@@ -199,11 +283,11 @@ run: publish
 - [[allusion_entities/サバト|サバト]]（3 篇）
 - [[allusion_entities/セフィロト|セフィロト]]（3 篇）
 - [[allusion_entities/バエル|バエル]]（3 篇）
-- [[allusion_entities/バベルの塔|バベルの塔]]（3 篇）
 - [[allusion_entities/ヒンドゥー教|ヒンドゥー教]]（3 篇）
 - [[allusion_entities/レメゲトン|レメゲトン]]（3 篇）
 - [[allusion_entities/レヴィアタン|レヴィアタン]]（3 篇）
 - [[allusion_entities/一神教|一神教]]（3 篇）
+- [[allusion_entities/三途の川|三途の川]]（3 篇）
 - [[allusion_entities/堕天使|堕天使]]（3 篇）
 - [[allusion_entities/日本神話|日本神話]]（3 篇）
 - [[allusion_entities/神道|神道]]（3 篇）
@@ -229,65 +313,18 @@ run: publish
 - [[allusion_entities/メシア|メシア]]（2 篇）
 - [[allusion_entities/ルシファー|ルシファー]]（2 篇）
 - [[allusion_entities/ルシフェル|ルシフェル]]（2 篇）
-- [[allusion_entities/三途の川|三途の川]]（2 篇）
 - [[allusion_entities/五芒星|五芒星]]（2 篇）
 - [[allusion_entities/仙人|仙人]]（2 篇）
 - [[allusion_entities/大日孁貴神|大日孁貴神]]（2 篇）
 - [[allusion_entities/天上天下唯我独尊|天上天下唯我独尊]]（2 篇）
+- [[allusion_entities/天使|天使]]（2 篇）
 - [[allusion_entities/現人神|現人神]]（2 篇）
+- [[allusion_entities/神社|神社]]（2 篇）
 - [[allusion_entities/輪廻転生|輪廻転生]]（2 篇）
 - [[allusion_entities/陰陽師|陰陽師]]（2 篇）
+- [[allusion_entities/黄道十二宮|黄道十二宮]]（2 篇）
 
-## 科学（46 名）
-
-- [[allusion_entities/ホモ_サピエンス|ホモ・サピエンス]]（8 篇）
-- [[allusion_entities/錬金術|錬金術]]（8 篇）
-- [[allusion_entities/ブラックホール|ブラックホール]]（5 篇）
-- [[allusion_entities/ミーム|ミーム]]（5 篇）
-- [[allusion_entities/進化論|進化論]]（5 篇）
-- [[allusion_entities/エントロピー|エントロピー]]（4 篇）
-- [[allusion_entities/クォーク|クォーク]]（4 篇）
-- [[allusion_entities/シュレーディンガーの猫|シュレーディンガーの猫]]（4 篇）
-- [[allusion_entities/ビックバン|ビックバン]]（4 篇）
-- [[allusion_entities/哲学的ゾンビ|哲学的ゾンビ]]（4 篇）
-- [[allusion_entities/量子力学|量子力学]]（4 篇）
-- [[allusion_entities/DNA|DNA]]（3 篇）
-- [[allusion_entities/インターネット|インターネット]]（3 篇）
-- [[allusion_entities/クオリア|クオリア]]（3 篇）
-- [[allusion_entities/トラペゾヘドロン|トラペゾヘドロン]]（3 篇）
-- [[allusion_entities/ビッグバン|ビッグバン]]（3 篇）
-- [[allusion_entities/太陽系|太陽系]]（3 篇）
-- [[allusion_entities/水星|水星]]（3 篇）
-- [[allusion_entities/火星|火星]]（3 篇）
-- [[allusion_entities/インテリジェント_デザイン説|インテリジェント・デザイン説]]（2 篇）
-- [[allusion_entities/オゾン層|オゾン層]]（2 篇）
-- [[allusion_entities/サイボーグ|サイボーグ]]（2 篇）
-- [[allusion_entities/シーラカンス|シーラカンス]]（2 篇）
-- [[allusion_entities/ストックホルム症候群|ストックホルム症候群]]（2 篇）
-- [[allusion_entities/ダークマター|ダークマター]]（2 篇）
-- [[allusion_entities/ニガヨモギ|ニガヨモギ]]（2 篇）
-- [[allusion_entities/パブロフの犬|パブロフの犬]]（2 篇）
-- [[allusion_entities/ペルソナ|ペルソナ]]（2 篇）
-- [[allusion_entities/マイナスイオン|マイナスイオン]]（2 篇）
-- [[allusion_entities/マングローブ|マングローブ]]（2 篇）
-- [[allusion_entities/ミサイル|ミサイル]]（2 篇）
-- [[allusion_entities/リビドー|リビドー]]（2 篇）
-- [[allusion_entities/万有引力|万有引力]]（2 篇）
-- [[allusion_entities/三重水素|三重水素]]（2 篇）
-- [[allusion_entities/収斂進化|収斂進化]]（2 篇）
-- [[allusion_entities/土星|土星]]（2 篇）
-- [[allusion_entities/地球温暖化|地球温暖化]]（2 篇）
-- [[allusion_entities/永久機関|永久機関]]（2 篇）
-- [[allusion_entities/無限後退|無限後退]]（2 篇）
-- [[allusion_entities/熱力学第二法則|熱力学第二法則]]（2 篇）
-- [[allusion_entities/荷電粒子砲|荷電粒子砲]]（2 篇）
-- [[allusion_entities/超弦理論|超弦理論]]（2 篇）
-- [[allusion_entities/量子コンピュータ|量子コンピュータ]]（2 篇）
-- [[allusion_entities/集合無意識|集合無意識]]（2 篇）
-- [[allusion_entities/集合的無意識|集合的無意識]]（2 篇）
-- [[allusion_entities/高麗人参|高麗人参]]（2 篇）
-
-## ゲーム（46 名）
+## ゲーム（50 名）
 
 - [[allusion_entities/TCG|TCG]]（16 篇）
 - [[allusion_entities/ひぐらしのなく頃に|ひぐらしのなく頃に]]（11 篇）
@@ -298,11 +335,12 @@ run: publish
 - [[allusion_entities/エターナルフォースブリザード|エターナルフォースブリザード]]（5 篇）
 - [[allusion_entities/ポケモン|ポケモン]]（5 篇）
 - [[allusion_entities/遊戯王|遊戯王]]（5 篇）
+- [[allusion_entities/STG|STG]]（4 篇）
 - [[allusion_entities/デモンベイン|デモンベイン]]（4 篇）
 - [[allusion_entities/ドラクエ|ドラクエ]]（4 篇）
+- [[allusion_entities/将棋|将棋]]（4 篇）
 - [[allusion_entities/Magic_ The Gathering|Magic: The Gathering]]（3 篇）
 - [[allusion_entities/RPG|RPG]]（3 篇）
-- [[allusion_entities/STG|STG]]（3 篇）
 - [[allusion_entities/イース|イース]]（3 篇）
 - [[allusion_entities/ソードワールド|ソードワールド]]（3 篇）
 - [[allusion_entities/マジック_ザ_ギャザリング|マジック:ザ・ギャザリング]]（3 篇）
@@ -321,11 +359,14 @@ run: publish
 - [[allusion_entities/サイバーカラテ|サイバーカラテ]]（2 篇）
 - [[allusion_entities/サガ2|サガ2]]（2 篇）
 - [[allusion_entities/ジョブチェンジ|ジョブチェンジ]]（2 篇）
+- [[allusion_entities/ソリッド_スネーク|ソリッド・スネーク]]（2 篇）
 - [[allusion_entities/ドラゴンクエストII 悪霊の神々|ドラゴンクエストII 悪霊の神々]]（2 篇）
 - [[allusion_entities/バトロワ|バトロワ]]（2 篇）
+- [[allusion_entities/ファイアマインド|ファイアマインド]]（2 篇）
 - [[allusion_entities/ファイナルファンタジー|ファイナルファンタジー]]（2 篇）
 - [[allusion_entities/プレインズウォーカー|プレインズウォーカー]]（2 篇）
 - [[allusion_entities/ポケモンカードゲーム|ポケモンカードゲーム]]（2 篇）
+- [[allusion_entities/マナ|マナ]]（2 篇）
 - [[allusion_entities/マーブルブラザーズ|マーブルブラザーズ]]（2 篇）
 - [[allusion_entities/ミニ四駆|ミニ四駆]]（2 篇）
 - [[allusion_entities/メタルスライム|メタルスライム]]（2 篇）
@@ -341,28 +382,30 @@ run: publish
 - [[allusion_entities/ギリシャ神話|ギリシャ神話]]（11 篇）
 - [[allusion_entities/ゼウス|ゼウス]]（10 篇）
 - [[allusion_entities/北欧神話|北欧神話]]（8 篇）
-- [[allusion_entities/ブリュンヒルデ|ブリュンヒルデ]]（6 篇）
 - [[allusion_entities/アヌビス|アヌビス]]（4 篇）
 - [[allusion_entities/ウロボロス|ウロボロス]]（4 篇）
-- [[allusion_entities/クトゥルフ|クトゥルフ]]（4 篇）
 - [[allusion_entities/ケルト神話|ケルト神話]]（4 篇）
 - [[allusion_entities/ケルベロス|ケルベロス]]（4 篇）
+- [[allusion_entities/ケンタウロス|ケンタウロス]]（4 篇）
 - [[allusion_entities/ミノタウロス|ミノタウロス]]（4 篇）
 - [[allusion_entities/オーディン|オーディン]]（3 篇）
-- [[allusion_entities/ケンタウロス|ケンタウロス]]（3 篇）
 - [[allusion_entities/サイクロプス|サイクロプス]]（3 篇）
 - [[allusion_entities/シーシュポス|シーシュポス]]（3 篇）
 - [[allusion_entities/ティアマト|ティアマト]]（3 篇）
 - [[allusion_entities/トゥアハ_デ_ダナーン|トゥアハ・デ・ダナーン]]（3 篇）
 - [[allusion_entities/パンドラの箱|パンドラの箱]]（3 篇）
 - [[allusion_entities/レーヴァテイン|レーヴァテイン]]（3 篇）
+- [[allusion_entities/ロキ|ロキ]]（3 篇）
 - [[allusion_entities/猿田彦|猿田彦]]（3 篇）
+- [[allusion_entities/草薙の剣|草薙の剣]]（3 篇）
 - [[allusion_entities/イザナギ|イザナギ]]（2 篇）
 - [[allusion_entities/イシュタル|イシュタル]]（2 篇）
 - [[allusion_entities/オケアノス|オケアノス]]（2 篇）
 - [[allusion_entities/オルフェウス|オルフェウス]]（2 篇）
 - [[allusion_entities/ケートス|ケートス]]（2 篇）
 - [[allusion_entities/スサノオ|スサノオ]]（2 篇）
+- [[allusion_entities/スフィンクス|スフィンクス]]（2 篇）
+- [[allusion_entities/ドワーフ|ドワーフ]]（2 篇）
 - [[allusion_entities/ナルキッソス|ナルキッソス]]（2 篇）
 - [[allusion_entities/ヌト|ヌト]]（2 篇）
 - [[allusion_entities/ノートゥング|ノートゥング]]（2 篇）
@@ -375,18 +418,16 @@ run: publish
 - [[allusion_entities/リヴァイアサン|リヴァイアサン]]（2 篇）
 - [[allusion_entities/ルー|ルー]]（2 篇）
 - [[allusion_entities/レメス|レメス]]（2 篇）
-- [[allusion_entities/ロキ|ロキ]]（2 篇）
 - [[allusion_entities/天照大神|天照大神]]（2 篇）
 - [[allusion_entities/天狗|天狗]]（2 篇）
 - [[allusion_entities/湖の貴婦人|湖の貴婦人]]（2 篇）
-- [[allusion_entities/草薙の剣|草薙の剣]]（2 篇）
 
-## 地理（32 名）
+## 地理（33 名）
 
 - [[allusion_entities/地球|地球]]（15 篇）
-- [[allusion_entities/日本|日本]]（7 篇）
+- [[allusion_entities/日本|日本]]（8 篇）
+- [[allusion_entities/南極|南極]]（7 篇）
 - [[allusion_entities/インド|インド]]（6 篇）
-- [[allusion_entities/南極|南極]]（6 篇）
 - [[allusion_entities/アメリカ|アメリカ]]（5 篇）
 - [[allusion_entities/中国|中国]]（5 篇）
 - [[allusion_entities/アフリカ|アフリカ]]（4 篇）
@@ -395,13 +436,13 @@ run: publish
 - [[allusion_entities/ジャマイカ|ジャマイカ]]（3 篇）
 - [[allusion_entities/ドイツ|ドイツ]]（3 篇）
 - [[allusion_entities/バイエルン|バイエルン]]（3 篇）
+- [[allusion_entities/ピラミッド|ピラミッド]]（3 篇）
 - [[allusion_entities/南極大陸|南極大陸]]（3 篇）
 - [[allusion_entities/イースター島|イースター島]]（2 篇）
 - [[allusion_entities/エジプト|エジプト]]（2 篇）
 - [[allusion_entities/オーストラリア|オーストラリア]]（2 篇）
 - [[allusion_entities/スラヴ|スラヴ]]（2 篇）
 - [[allusion_entities/バイビブロス|バイビブロス]]（2 篇）
-- [[allusion_entities/ピラミッド|ピラミッド]]（2 篇）
 - [[allusion_entities/ミュンヘン|ミュンヘン]]（2 篇）
 - [[allusion_entities/メソポタミア|メソポタミア]]（2 篇）
 - [[allusion_entities/モアイ|モアイ]]（2 篇）
@@ -414,16 +455,20 @@ run: publish
 - [[allusion_entities/日本列島|日本列島]]（2 篇）
 - [[allusion_entities/東京|東京]]（2 篇）
 - [[allusion_entities/露西亜|露西亜]]（2 篇）
+- [[allusion_entities/韓国|韓国]]（2 篇）
 - [[allusion_entities/高麗|高麗]]（2 篇）
 
-## 人物（21 名）
+## 人物（26 名）
 
+- [[allusion_entities/岐阜本光健|岐阜本光健]]（4 篇）
 - [[allusion_entities/ひろゆき|ひろゆき]]（3 篇）
 - [[allusion_entities/ソロモン王|ソロモン王]]（3 篇）
 - [[allusion_entities/ナポレオン|ナポレオン]]（3 篇）
 - [[allusion_entities/大塚英志|大塚英志]]（3 篇）
+- [[allusion_entities/宮崎瑞樹|宮崎瑞樹]]（3 篇）
 - [[allusion_entities/木村さなえ|木村さなえ]]（3 篇）
 - [[allusion_entities/アーサー_P_マクドナルド|アーサー・P・マクドナルド]]（2 篇）
+- [[allusion_entities/アーサー王|アーサー王]]（2 篇）
 - [[allusion_entities/イタロ_カルヴィーノ|イタロ・カルヴィーノ]]（2 篇）
 - [[allusion_entities/ソクラテス|ソクラテス]]（2 篇）
 - [[allusion_entities/ティム_ジョーンズ|ティム・ジョーンズ]]（2 篇）
@@ -432,26 +477,29 @@ run: publish
 - [[allusion_entities/京極夏彦|京極夏彦]]（2 篇）
 - [[allusion_entities/佐藤友哉|佐藤友哉]]（2 篇）
 - [[allusion_entities/子安武人|子安武人]]（2 篇）
+- [[allusion_entities/山田悠介|山田悠介]]（2 篇）
 - [[allusion_entities/川上稔|川上稔]]（2 篇）
 - [[allusion_entities/星新一|星新一]]（2 篇）
 - [[allusion_entities/福本伸行|福本伸行]]（2 篇）
 - [[allusion_entities/筒井康隆|筒井康隆]]（2 篇）
 - [[allusion_entities/織田信長|織田信長]]（2 篇）
 - [[allusion_entities/菅原道真|菅原道真]]（2 篇）
+- [[allusion_entities/金城|金城]]（2 篇）
 - [[allusion_entities/金城ひろし|金城ひろし]]（2 篇）
 
-## 映像（18 名）
+## 映像（19 名）
 
 - [[allusion_entities/らき☆すた|らき☆すた]]（7 篇）
 - [[allusion_entities/仮面ライダー|仮面ライダー]]（6 篇）
 - [[allusion_entities/特撮|特撮]]（5 篇）
 - [[allusion_entities/新世紀エヴァンゲリオン|新世紀エヴァンゲリオン]]（4 篇）
 - [[allusion_entities/ぼくらの|ぼくらの]]（3 篇）
+- [[allusion_entities/エヴァンゲリオン|エヴァンゲリオン]]（3 篇）
 - [[allusion_entities/サザエさん|サザエさん]]（3 篇）
 - [[allusion_entities/ソードマスターヤマト|ソードマスターヤマト]]（3 篇）
+- [[allusion_entities/テレビ|テレビ]]（3 篇）
 - [[allusion_entities/あずまんが大王|あずまんが大王]]（2 篇）
 - [[allusion_entities/ウルトラマン|ウルトラマン]]（2 篇）
-- [[allusion_entities/エヴァンゲリオン|エヴァンゲリオン]]（2 篇）
 - [[allusion_entities/ガンダム00|ガンダム00]]（2 篇）
 - [[allusion_entities/ガンダムX|ガンダムX]]（2 篇）
 - [[allusion_entities/スタンド_バイ_ミー|スタンド・バイ・ミー]]（2 篇）
@@ -463,8 +511,8 @@ run: publish
 
 ## 歴史（8 名）
 
+- [[allusion_entities/埴輪|埴輪]]（6 篇）
 - [[allusion_entities/産業革命|産業革命]]（5 篇）
-- [[allusion_entities/埴輪|埴輪]]（4 篇）
 - [[allusion_entities/冷戦|冷戦]]（3 篇）
 - [[allusion_entities/大航海時代|大航海時代]]（3 篇）
 - [[allusion_entities/魔女狩り|魔女狩り]]（3 篇）
@@ -482,12 +530,13 @@ run: publish
 - [[allusion_entities/レッド_ホット_チリ_ペッパーズ|レッド・ホット・チリ・ペッパーズ]]（2 篇）
 - [[allusion_entities/脳内彼女|脳内彼女]]（2 篇）
 
-## ブランド（4 名）
+## ブランド（5 名）
 
 - [[allusion_entities/Google|Google]]（6 篇）
 - [[allusion_entities/スカイプ|スカイプ]]（3 篇）
 - [[allusion_entities/FAVO|FAVO]]（2 篇）
 - [[allusion_entities/ファミコン|ファミコン]]（2 篇）
+- [[allusion_entities/ミッキーマウス|ミッキーマウス]]（2 篇）
 
 - 篇側索引: [[allusions_index|実世界参照 索引]]
 - 名寄せ: [[allusions_terms|対象名索引]]
