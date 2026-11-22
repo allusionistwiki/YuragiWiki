@@ -1,12 +1,9 @@
 ---
-title: "創作作者索引: Mlohkcots"
-author: "Mlohkcots"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "Mlohkcots"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: Mlohkcots
+# 作者: Mlohkcots（掲載 1 作品）
 
-（収録創作群: 1 ／ 作品数: 1）
-
-- [[works/失踪十二人の時期|失踪十二人の時期]]（1 群）
+- [[works/失踪十二人の時期|失踪十二人の時期]]

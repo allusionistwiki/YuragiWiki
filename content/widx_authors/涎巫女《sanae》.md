@@ -1,12 +1,9 @@
 ---
-title: "創作作者索引: 涎巫女《sanae》"
-author: "涎巫女《sanae》"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "涎巫女《sanae》"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: 涎巫女《sanae》
+# 作者: 涎巫女《sanae》（掲載 1 作品）
 
-（収録創作群: 1 ／ 作品数: 1）
-
-- [[works/無題_涎巫女_sanae|無題]]（1 群）
+- [[works/無題_涎巫女_sanae|無題]]

@@ -1,12 +1,9 @@
 ---
-title: "創作作者索引: chatter"
-author: "chatter"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "chatter"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: chatter
+# 作者: chatter（掲載 1 作品）
 
-（収録創作群: 1 ／ 作品数: 1）
-
-- [[works/無題_chatter|無題]]（1 群）
+- [[works/無題_chatter|無題]]

@@ -1,13 +1,14 @@
 ---
-title: "創作作者索引: Co"
-author: "Co"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "Ｃｏ"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: Co
+# 作者: Ｃｏ（掲載 6 作品）
 
-（収録創作群: 2 ／ 作品数: 2）
-
-- [[works/tcg_cgルール|TCG-CGルール]]（1 群）
-- [[works/神の増殖|神の増殖]]（1 群）
+- [[works/TCGバトルロイヤル団体戦募集|TCGバトルロイヤル団体戦募集]]
+- [[works/剣華密林流申妹腕|剣華密林流申妹腕]]
+- [[works/無題_Co|無題]]
+- [[works/輸入輸出ゲーム案|輸入輸出ゲーム案]]
+- [[works/TCG_CGルール|TCG-CGルール]]
+- [[works/神の増殖|神の増殖]]

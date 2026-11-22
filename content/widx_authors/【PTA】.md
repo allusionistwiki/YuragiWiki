@@ -1,12 +1,10 @@
 ---
-title: "創作作者索引: 【PTA】"
-author: "【PTA】"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "【PTA】"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: 【PTA】
+# 作者: 【PTA】（掲載 2 作品）
 
-（収録創作群: 1 ／ 作品数: 1）
-
-- [[works/pta_観測庁|PTA、観測庁]]（1 群）
+- [[works/PTA_観測庁|PTA、観測庁]]
+- [[works/観測庁からの報告|観測庁からの報告]]

@@ -1,16 +1,13 @@
 ---
-title: "創作作者索引: sillat"
-author: "sillat"
-run: 20261120T0400_l1widx
-link_audit: "20261120T0400_l1widx"
+title: "sillat"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: sillat
+# 作者: sillat（掲載 5 作品）
 
-（収録創作群: 5 ／ 作品数: 5）
-
-- [[works/昼ドラ風神話|昼ドラ風神話]]（1 群）
-- [[works/packaged|Packaged]]（1 群）
-- [[works/ゆらぎの神話参加者紹介|ゆらぎの神話参加者紹介]]（1 群）
-- [[works/外郎売|外郎売]]（1 群）
-- [[works/無題_sillat|無題]]（1 群）
+- [[works/Packaged|Packaged]]
+- [[works/ゆらぎの神話参加者紹介|ゆらぎの神話参加者紹介]]
+- [[works/外郎売|外郎売]]
+- [[works/昼ドラ風神話|昼ドラ風神話]]
+- [[works/無題_sillat|無題]]

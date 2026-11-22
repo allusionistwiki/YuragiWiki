@@ -1,12 +1,9 @@
 ---
-title: "創作作者索引: id:tonbo語りて曰く、"
-author: "id:tonbo語りて曰く、"
-run: 20261119T2005_l1widx
-link_audit: "20261119T2005_l1widx"
+title: "id:tonbo語りて曰く、"
+run: 20261122T2310_l1widx
+link_audit: "20261122T2310_l1widx"
 ---
 
-# 創作作者索引: id:tonbo語りて曰く、
+# 作者: id:tonbo語りて曰く、（掲載 1 作品）
 
-（収録創作群: 1 ／ 作品数: 1）
-
-- [[works/混沌と所有欲|混沌と所有欲]]（1 群）
+- [[works/混沌と所有欲|混沌と所有欲]]
