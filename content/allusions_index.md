@@ -8,6 +8,7 @@ run: 20261122T0630_l1cnglyph
 参加者が実世界の神話・宗教・文学・音楽・歴史・科学などを持ち込んで組んだ参照関係の横断索引。各項目は逐語引用＋ref アンカーで原文に接続（機械保証）。信頼度（明言/蓋然性高/推測）を各項目に付す。
 
 対象篇: 178（抽出 run 33 本・全件実読監査込）
+参照項目累計: 4062 件
 
 | 類型 | 件数 |
 |---|---:|
@@ -23,6 +24,29 @@ run: 20261122T0630_l1cnglyph
 | ブランド | 121 |
 | 歴史 | 97 |
 | 音楽 | 63 |
+
+## 参照密度ランキング（上位 20 篇）
+
+- [[allusions/YJ-T031|YJ-T031]] — 144 件
+- [[allusions/YJ-T166|YJ-T166]] — 112 件
+- [[allusions/YJ-T025|YJ-T025]] — 108 件
+- [[allusions/YJ-T137|YJ-T137]] — 101 件
+- [[allusions/YJ-T012|YJ-T012]] — 86 件
+- [[allusions/YJ-T078|YJ-T078]] — 86 件
+- [[allusions/YJ-T002|YJ-T002]] — 82 件
+- [[allusions/YJ-T035|YJ-T035]] — 82 件
+- [[allusions/YJ-T165|YJ-T165]] — 80 件
+- [[allusions/YJ-T095|YJ-T095]] — 78 件
+- [[allusions/YJ-T162|YJ-T162]] — 74 件
+- [[allusions/YJ-T174|YJ-T174]] — 74 件
+- [[allusions/YJ-T056|YJ-T056]] — 66 件
+- [[allusions/YJ-T001|YJ-T001]] — 64 件
+- [[allusions/YJ-T023|YJ-T023]] — 63 件
+- [[allusions/YJ-T179|YJ-T179]] — 62 件
+- [[allusions/YJ-T135|YJ-T135]] — 61 件
+- [[allusions/YJ-M2706511|YJ-M2706511]] — 60 件
+- [[allusions/YJ-T065|YJ-T065]] — 58 件
+- [[allusions/YJ-T108|YJ-T108]] — 57 件
 
 ## 篇別
 
