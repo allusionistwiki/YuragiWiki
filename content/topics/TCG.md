@@ -50,3 +50,7 @@ link_audit: "20261120T1630_l11tpaud2"
 - 「TCG」は実世界対象として 16 篇に抽出: [[allusions/YJ-T001|YJ-T001]]・[[allusions/YJ-T035|YJ-T035]]・[[allusions/YJ-T062|YJ-T062]]・[[allusions/YJ-T094|YJ-T094]]・[[allusions/YJ-T095|YJ-T095]]・[[allusions/YJ-T098|YJ-T098]]・[[allusions/YJ-T107|YJ-T107]]・[[allusions/YJ-T108|YJ-T108]]・[[allusions/YJ-T122|YJ-T122]]・[[allusions/YJ-T130|YJ-T130]]・[[allusions/YJ-T139|YJ-T139]]・[[allusions/YJ-T152|YJ-T152]] 他 4 篇
 
 → 索引: [[allusions_index|実世界参照 索引]] ／ 名寄せ: [[allusions_terms|対象名索引]]
+
+## 实体面（同一名）
+
+[[entities/TCG|作中实体面]]／ [[allusion_entities/TCG|実世界参照面]]
