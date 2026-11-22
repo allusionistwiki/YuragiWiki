@@ -9,7 +9,7 @@ run: publish
 
 - [[entities_map/人物|人物]]（69 件）
 - [[entities_map/人物_種族_生物|人物/種族・生物]]（82 件）
-- [[entities_map/作中実体|作中実体]]（2491 件）
+- [[entities_map/作中実体|作中実体]]（2488 件）
 - [[entities_map/作品|作品]]（1 件）
 - [[entities_map/作品_メタ|作品・メタ]]（16 件）
 - [[entities_map/催事|催事]]（1 件）
