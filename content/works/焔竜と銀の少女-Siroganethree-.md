@@ -9,34 +9,22 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 焔竜と銀の少女-Sirogane three-
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T168:13](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 出典: [YJ-T168:13](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【焔竜と銀の少女-Sirogane three-】
-
-> 
-
-> 紅き暴君は、長大な両翼を羽ばたかせると
-
-> 
-
-> 狂気を孕む、灼熱の咆哮を高らかに上げた
-
-> 
-
-> 黒い魔女は向い来る彼女に嘲笑を向けた
-
-> 
-
-> 銀の少女は、両腕を聖布から解き放つと
-
-> 
-
-> 静謐を宿す、氷結の輝きを高らかに揚げた
-
-> 
-
+> 【焔竜と銀の少女-Sirogane three-】
+> 
+> 紅き暴君は、長大な両翼を羽ばたかせると
+> 
+> 狂気を孕む、灼熱の咆哮を高らかに上げた
+> 
+> 黒い魔女は向い来る彼女に嘲笑を向けた
+> 
+> 銀の少女は、両腕を聖布から解き放つと
+> 
+> 静謐を宿す、氷結の輝きを高らかに揚げた
+> 
 
 → 投稿元: [[full/YJ-T168#post-13|[YJ-T168:13](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)]]
 

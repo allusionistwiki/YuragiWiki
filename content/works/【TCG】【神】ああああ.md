@@ -9,34 +9,22 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 【TCG】【神】ああああ
 
-（作者: かに ／ 類型: 設定文 ／ 出典: [YJ-T106:21](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/106_竜の記述空間/p0021.md)）
+（作者: かに ／ 类型: 設定文 ／ 出典: [YJ-T106:21](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/106_竜の記述空間/p0021.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【ＴＣＧ】【神】
-
-> 
-
-> 名前：ああああ
-
-> 
-
-> 体力：５（ＨＰ１５）
-
-> 
-
-> 反射：４
-
-> 
-
-> 知性：２
-
-> 
-
-> パターンＡ：剣剣地地
-
-> 
-
+> 【ＴＣＧ】【神】
+> 
+> 名前：ああああ
+> 
+> 体力：５（ＨＰ１５）
+> 
+> 反射：４
+> 
+> 知性：２
+> 
+> パターンＡ：剣剣地地
+> 
 
 → 投稿元: [[full/YJ-T106#post-21|[YJ-T106:21](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/106_竜の記述空間/p0021.md)]]
 

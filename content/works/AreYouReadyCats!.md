@@ -9,34 +9,22 @@ link_audit: "P2全件実読判定→機械照合"
 
 # Are You Ready Cats！
 
-（作者: 言理の妖精語りて曰く、 ／ 類型: 歌詞 ／ 出典: [YJ-T025:65](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/025_必殺技・大魔法・特殊アイテム/p0055-0074.md)）
+（作者: 言理の妖精語りて曰く、 ／ 类型: 歌詞 ／ 出典: [YJ-T025:65](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/025_必殺技・大魔法・特殊アイテム/p0055-0074.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 「Are You Ready Cats！」
-
-> 
-
-> 　　　「PAOM！　PAOM！　PAOM！」
-
-> 
-
-> 「貴様らの最高のオカズはなんだ！」
-
-> 
-
-> 　　　「BODY！　BODY！　BODY！」
-
-> 
-
-> 「貴様らの吹く潮はなんだ！」
-
-> 
-
-> 　　　「BULLETS！　BULLETS！　BULLETS！」
-
-> 
-
+> 「Are You Ready Cats！」
+> 
+> 　　　「PAOM！　PAOM！　PAOM！」
+> 
+> 「貴様らの最高のオカズはなんだ！」
+> 
+> 　　　「BODY！　BODY！　BODY！」
+> 
+> 「貴様らの吹く潮はなんだ！」
+> 
+> 　　　「BULLETS！　BULLETS！　BULLETS！」
+> 
 
 → 投稿元: [[full/YJ-T025#post-65|[YJ-T025:65](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/025_必殺技・大魔法・特殊アイテム/p0055-0074.md)]]
 
