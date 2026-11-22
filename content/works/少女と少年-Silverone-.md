@@ -9,22 +9,34 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 少女と少年-Silver one-
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 詩 ／ 出典: [YJ-T168:11](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 詩 ／ 出典: [YJ-T168:11](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【少女と少年-Silver one-】
-> 
-> 過去に生者が駆け、今は黒金で埋まる砂の中
-> 
-> 天より途切れた長大な回廊の入口で
-> 
-> 幾許かの刻のもと、少女と少年は巡り会う
-> 
-> 彼の元には、錆に覆われた空ろな槍銘(Corsesca)
-> 
-> 彼女の元には、錆に蔽われた虚ろな葬名(Corsesca)
-> 
+> 【少女と少年-Silver one-】
+
+> 
+
+> 過去に生者が駆け、今は黒金で埋まる砂の中
+
+> 
+
+> 天より途切れた長大な回廊の入口で
+
+> 
+
+> 幾許かの刻のもと、少女と少年は巡り会う
+
+> 
+
+> 彼の元には、錆に覆われた空ろな槍銘(Corsesca)
+
+> 
+
+> 彼女の元には、錆に蔽われた虚ろな葬名(Corsesca)
+
+> 
+
 
 → 投稿元: [[full/YJ-T168#post-11|[YJ-T168:11](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/168_歌曲・歌詞スレ/p0005-0026.md)]]
 

@@ -95,4 +95,4 @@ PHAEDRA氏（原文ではPHAERRAと表記される箇所あり）が主催する
 
 ## 同一名（別面）
 
-実世界参照面に同一名の独立記事: [[allusion_entities/TCG|TCG]]（作中创作面と実世界参照面の住み分け）
+実世界参照面に同一名の独立記事: [[allusion_entities/TCG|TCG]]（作中作面と実世界参照面の住み分け）

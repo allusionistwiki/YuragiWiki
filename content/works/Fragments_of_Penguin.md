@@ -10,7 +10,7 @@ link_audit: "20261120T0902_l1works"
 
 # Fragments of Penguin
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 韻文・格言・謎かけ ／ 収録群: 1）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 韻文・格言・謎かけ ／ 収録群: 1）
 
 ## ポニーにならいて（YJ-T051） 群 g056
 
@@ -55,7 +55,7 @@ link_audit: "20261120T0902_l1works"
 
 **321** 言理の妖精語りて曰く、 2007-02-28T19:35:29+09:00 [#321](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T051/p4#post-321)
 
-ペンギンさんちの�徯侶辰舛磴�
+ペンギンさんちの侶辰舛磴
 
 **322** 言理の妖精語りて曰く、 2007-02-28T19:41:31+09:00 [#322](https://allusionistwiki.github.io/YuragiWiki/full/YJ-T051/p4#post-322)
 

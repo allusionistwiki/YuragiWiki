@@ -117,7 +117,7 @@ FSWの意義のひとつとして、私は作品同士の世界観が繋がる�
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -330,7 +330,7 @@ FSWの意義のひとつとして、私は
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -526,7 +526,7 @@ FSWでは、作品設定が一次[創作](http://d.hatena.ne.jp/keyword/%C1%CF%B
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -628,7 +628,7 @@ FSWでは、作品設定が一次[創作](http://d.hatena.ne.jp/keyword/%C1%CF%B
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 

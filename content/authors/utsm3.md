@@ -25,7 +25,7 @@ utsm3 の活動は雑談スレッドでの興味深い引用から始まり、20
 ## 注目投稿
 [YJ-T050:6](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/050_二重世界スレッド/p0006.md) (utsm3): 「僕達は円環ムスタスと呼ばれている。 僕らは人間の中でもちょっと珍しい存在らしく、 1つの体に2つの魂が入っている。」
 [YJ-T098:965](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/098_ニヴの怪発明/p0965.md) (utsm3): 「昨日チャットで人狼をやったら存外に面白かったので TCGのキャラチャットで人狼をやろうと思います。」
-[YJ-T106:13](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/106_竜の記述空間/p0013.md) (utsm3): 「都市１つが丸ごとこの世界から捥ぎ取られるように消滅した事件。 その日はニコラ・トランデルフ教授がウォーターワールドの 干渉方程式を解いたわずか３日後の、 ニコラ教授の妹の誕生日の朝の出来事だった。」
+[YJ-T106:13](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/106_竜の記述空間/p0013.md) (utsm3): 「都市１つが丸ごとこの世界からぎ取られるように消滅した事件。 その日はニコラ・トランデルフ教授がウォーターワールドの 干渉方程式を解いたわずか３日後の、 ニコラ教授の妹の誕生日の朝の出来事だった。」
 [YJ-T108:346](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/108_神話企画部/p0346.md) (utsm3): 「大まかに纏めると以下のようになります。 ・他人の記述の一部を丸パクリして自分の記述として良い（面白い設定があった、お気に入りの獣があった、など）」
 
 ---

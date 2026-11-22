@@ -9,20 +9,30 @@ link_audit: "P2全件実読判定→機械照合"
 
 # UMA（未確認神話性異常）
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 設定文 ／ 出典: [YJ-T062:25](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/062_ゆらぎ用語でしりとり/p0001-0026.md)）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 設定文 ／ 出典: [YJ-T062:25](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/062_ゆらぎ用語でしりとり/p0001-0026.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【UMA】
-> 
-> Unindentified Mythological Anormaly
-> 
-> 未確認神話性異常
-> 
-> 何らかの異常な現象が、神話の記述に一致しているとおもわれる時に分類される。
-> 
-> あまりに現実からかけ離れた現象一般に対してつけられ、
-> 
+> 【UMA】
+
+> 
+
+> Unindentified Mythological Anormaly
+
+> 
+
+> 未確認神話性異常
+
+> 
+
+> 何らかの異常な現象が、神話の記述に一致しているとおもわれる時に分類される。
+
+> 
+
+> あまりに現実からかけ離れた現象一般に対してつけられ、
+
+> 
+
 > 相当する記述が神話に見つかった場合はMAと呼ばれ、そうでなかった場合はnMAと呼ばれる。
 
 → 投稿元: [[full/YJ-T062#post-25|[YJ-T062:25](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/062_ゆらぎ用語でしりとり/p0001-0026.md)]]

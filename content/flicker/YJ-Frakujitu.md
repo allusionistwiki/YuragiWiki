@@ -122,7 +122,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -152,7 +152,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
 
 [グループ](http://d.hatena.ne.jp/keyword/%A5%B0%A5%EB%A1%BC%A5%D7)[日記](http://d.hatena.ne.jp/keyword/%C6%FC%B5%AD)入ったも[ののこ](http://d.hatena.ne.jp/keyword/%A4%CE%A4%CE%A4%B3)こでなにしよ。
 
-私の主な活動場所は二次裏や[チラ裏](http://d.hatena.ne.jp/keyword/%A5%C1%A5%E9%CE%A2)、大[魔法](http://d.hatena.ne.jp/keyword/%CB%E2%CB%A1)[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)や[物語](http://d.hatena.ne.jp/keyword/%CA%AA%B8%EC)系[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)、あと【[うたばん](http://d.hatena.ne.jp/keyword/%A4%A6%A4%BF%A4%D0%A4%F3)の�oい直袗晩】[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)なんだけれど。
+私の主な活動場所は二次裏や[チラ裏](http://d.hatena.ne.jp/keyword/%A5%C1%A5%E9%CE%A2)、大[魔法](http://d.hatena.ne.jp/keyword/%CB%E2%CB%A1)[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)や[物語](http://d.hatena.ne.jp/keyword/%CA%AA%B8%EC)系[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)、あと【[うたばん](http://d.hatena.ne.jp/keyword/%A4%A6%A4%BF%A4%D0%A4%F3)のoい直袗晩】[スレ](http://d.hatena.ne.jp/keyword/%A5%B9%A5%EC)なんだけれど。
 
   
 
@@ -239,7 +239,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -275,7 +275,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
 
 うわあなんか恥ずかしいぞ。書けるのか。[がんばれ](http://d.hatena.ne.jp/keyword/%A4%AC%A4%F3%A4%D0%A4%EC)自分。
 
-そして【[うたばん](http://d.hatena.ne.jp/keyword/%A4%A6%A4%BF%A4%D0%A4%F3)の�oい直袗晩】ってなんだ。
+そして【[うたばん](http://d.hatena.ne.jp/keyword/%A4%A6%A4%BF%A4%D0%A4%F3)のoい直袗晩】ってなんだ。
 
 噂に聞くエ[ストア](http://d.hatena.ne.jp/keyword/%A5%B9%A5%C8%A5%A2)[言語](http://d.hatena.ne.jp/keyword/%B8%C0%B8%EC)とやらか。
 
@@ -357,7 +357,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -501,7 +501,7 @@ rakujitu は 2007 年 5 月、同人文学『ゆらぎの神話』関連のコ�
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1279,7 +1279,7 @@ UPされた作品に対し簡潔に[感想](http://d.hatena.ne.jp/keyword/%B4%B6
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1524,7 +1524,7 @@ UPされた作品に対し簡潔に[感想](http://d.hatena.ne.jp/keyword/%B4%B6
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1872,7 +1872,7 @@ B水風水風
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 

@@ -129,7 +129,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -243,7 +243,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -356,7 +356,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -477,7 +477,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -586,7 +586,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -716,7 +716,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -906,7 +906,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1019,7 +1019,7 @@ Error : RSSが取得できませんでした。
   * [*+パンゲオン・ライオット+*](http://blog.livedoor.jp/nanasi212/archives/51549578.html "パンゲオン・ライオットindex――19匹の獣が目覚め、獣の王の座をかけて争った。こちらの企画に参加しました。物語や世界観、用語などをどんどん広げていくゲームです。ル...")
   * [歌わない船 - パンゲオン・インデックスなるも...](http://d.hatena.ne.jp/TheShipWhoXXX/20080507/1210162115 " パンゲオン・インデックスなるものが おもしろそうだったので参加してみようと思った。 ルール：http://flicker.g.hatena.ne.jp/TimeTide/20080430/1209486937 ")
   * [果ての淵 - [つぶやき]パンゲオン・インデック...](http://flicker.g.hatena.ne.jp/TheShipWhoXXX/20080507/p1 "\[つぶやき\]パンゲオン・インデックス 参加します。 ルール：http://flicker.g.hatena.ne.jp/TimeTide/20080430/1209486937 ")
-  * [パンゲオン・ライオキャンサー](http://kanifusen.blog96.fc2.com/blog-entry-1.html "パンゲオン・ライオットこちらの企画に参加してみました。自分や他人の書いたエピソードを切り貼りしてお気に入りのインデックスを作ろ�...")
+  * [パンゲオン・ライオキャンサー](http://kanifusen.blog96.fc2.com/blog-entry-1.html "パンゲオン・ライオットこちらの企画に参加してみました。自分や他人の書いたエピソードを切り貼りしてお気に入りのインデックスを作ろ...")
   * [trsgrの日記 - [パンゲオン・ライオット]パンゲ...](http://flicker.g.hatena.ne.jp/trsgr/20080807/1210172025 "\[パンゲオン・ライオット\]パンゲオン・ライオットindex ルール あらすじ ")
   * [深淵ランダムドア - これは１９人の獣少女が織...](http://flicker.g.hatena.ne.jp/Corundum/20080507#p1 "これは１９人の獣少女が織りなす真剣勝負の群像史劇である。 この記事はパンゲオン・ライオットのインデックスです。 「ルール」はこちら ")
   * [深淵ランダムドア - パンゲオン・ライオット](http://flicker.g.hatena.ne.jp/Corundum/20080508#p2 "パンゲオン・ライオット 世界（パンゲオン）を舞台に繰り広げられる言理戦争のこと。 パンゲオン以外での言理戦争では別の名を付けるか、単にライオットと呼ぶ。 　＊ 言理戦争の存在")
@@ -1123,7 +1123,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1278,7 +1278,7 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -1808,6 +1808,6 @@ Error : RSSが取得できませんでした。
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)

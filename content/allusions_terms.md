@@ -421,7 +421,7 @@ run: publish
 - **君が代**（2 篇・その他2）: [[allusions/YJ-T172|YJ-T172]]・[[allusions/YJ-T174|YJ-T174]]
 - **土星**（2 篇・科学2）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T136|YJ-T136]]
 - **地球温暖化**（2 篇・科学2）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T025|YJ-T025]]
-- **大日孁貴神**（2 篇・宗教2）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T061|YJ-T061]]
+- **大日貴神**（2 篇・宗教2）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T061|YJ-T061]]
 - **天上天下唯我独尊**（2 篇・宗教1・文学1）: [[allusions/YJ-T023|YJ-T023]]・[[allusions/YJ-T137|YJ-T137]]
 - **天使**（2 篇・宗教2）: [[allusions/YJ-T021|YJ-T021]]・[[allusions/YJ-T026|YJ-T026]]
 - **天照大神**（2 篇・神話2）: [[allusions/YJ-T002|YJ-T002]]・[[allusions/YJ-T022|YJ-T022]]

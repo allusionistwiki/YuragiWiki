@@ -9,18 +9,26 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 萌えポニー（MP）
 
-（作者: 模倣者エンピツ ／ 类型: 設定文 ／ 出典: [YJ-T051:44](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0044-0046.md)）
+（作者: 模倣者エンピツ ／ 類型: 設定文 ／ 出典: [YJ-T051:44](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0044-0046.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> 【MP】
-> 
-> 萌えポニーの略。猫語で萌えるポニーという意味。
-> 
-> 妄想的愛的その他の理由により、ポニーテールが
-> 
-> そのポニーを生やした人の意志とは時に無関係に他人を萌え狂わす現象を言う。
-> 
+> 【MP】
+
+> 
+
+> 萌えポニーの略。猫語で萌えるポニーという意味。
+
+> 
+
+> 妄想的愛的その他の理由により、ポニーテールが
+
+> 
+
+> そのポニーを生やした人の意志とは時に無関係に他人を萌え狂わす現象を言う。
+
+> 
+
 > またこの状態に陥り萌え狂ったポニイストは「ポニー萌え」と叫ぶ傾向にある。
 
 → 投稿元: [[full/YJ-T051#post-44|[YJ-T051:44](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/051_ポニーにならいて/p0044-0046.md)]]

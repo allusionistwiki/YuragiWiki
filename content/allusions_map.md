@@ -128,7 +128,7 @@ run: publish
 - **メシア**（2 篇）: [[allusions/YJ-T073|YJ-T073]]・[[allusions/YJ-T099|YJ-T099]]
 - **スフィンクス**（2 篇）: [[allusions/YJ-T013|YJ-T013]]・[[allusions/YJ-T137|YJ-T137]]
 - **ベヘモス**（2 篇）: [[allusions/YJ-T061|YJ-T061]]・[[allusions/YJ-T134|YJ-T134]]
-- **大日孁貴神**（2 篇）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T061|YJ-T061]]
+- **大日貴神**（2 篇）: [[allusions/YJ-T022|YJ-T022]]・[[allusions/YJ-T061|YJ-T061]]
 - **ベヒモス**（2 篇）: [[allusions/YJ-T155|YJ-T155]]・[[allusions/YJ-T169|YJ-T169]]
 - **ブラフマン**（2 篇）: [[allusions/YJ-M2557927|YJ-M2557927]]・[[allusions/YJ-T031|YJ-T031]]
 - **バベル**（2 篇）: [[allusions/YJ-T004|YJ-T004]]・[[allusions/YJ-T078|YJ-T078]]

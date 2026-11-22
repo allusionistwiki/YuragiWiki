@@ -135,7 +135,7 @@ permaLink: "flicker/YJ-Fbelive.html"
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 
@@ -460,7 +460,7 @@ permaLink: "flicker/YJ-Fbelive.html"
   * [der Lichtstrahl](/itnullpo/)
   * [勝手に使うがいいよ](/Rikerike/)
   * [正弦](/firstheaven/)
-  * [汎嶰苑諸国の民族 - 思想と文化大系](/yugui/)
+  * [汎苑諸国の民族 - 思想と文化大系](/yugui/)
   * [増田伊織の冒険](/iorimasuda/)
   * [雲上神話](/sinden/)
 

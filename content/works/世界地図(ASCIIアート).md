@@ -9,22 +9,34 @@ link_audit: "P2全件実読判定→機械照合"
 
 # 世界地図（ASCIIアート）
 
-（作者: 言理の妖精語りて曰く、 ／ 类型: 設定文 ／ 出典: [YJ-T135:57](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/135_汎用記述スレッド/p0057.md)）
+（作者: 言理の妖精語りて曰く、 ／ 類型: 設定文 ／ 出典: [YJ-T135:57](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/135_汎用記述スレッド/p0057.md)）
 
 ## 冒頭（原文逐語・機械抽出）
 
-> ○
-> 
-> 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　地上太陽
-> 
-> 　　　　　　×ジャッフハリム跡　　　　
-> 
-> 　　　　　　　　　　　　　　　　　　　　　　　　　×
-> 
-> 　　　　　　　　　　　　　　　　　　　　　　　　ワーリバーヤ
-> 
-> 　　　　　　　　　　旧鈴国圏
-> 
+> ○
+
+> 
+
+> 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　地上太陽
+
+> 
+
+> 　　　　　　×ジャッフハリム跡　　　　
+
+> 
+
+> 　　　　　　　　　　　　　　　　　　　　　　　　　×
+
+> 
+
+> 　　　　　　　　　　　　　　　　　　　　　　　　ワーリバーヤ
+
+> 
+
+> 　　　　　　　　　　旧鈴国圏
+
+> 
+
 
 → 投稿元: [[full/YJ-T135#post-57|[YJ-T135:57](https://github.com/allusionistwiki/YuragiWiki/blob/main/raw/bbs/jbbs/movie-7039/135_汎用記述スレッド/p0057.md)]]
 
