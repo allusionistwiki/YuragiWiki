@@ -3,6 +3,6 @@
  "cn_total": 0,
  "char_counts": {},
  "top_files": {},
- "method": "quotes(「」『』【】)+fenced code+html comments+[[wiki]]+md links+inline code stripped; cp932-encodable (JIS shared) excluded; explicit shared 的了叶马乌风飞书东车 excluded",
- "scanned_at": "2026-11-23 09:29:30"
+ "method": "quotes(「」『』【】)+fenced code+html comments+[[wiki]]+md links stripped; cp932-encodable (JIS shared) excluded; explicit shared 的了叶马乌风飞书东车 excluded",
+ "scanned_at": "2026-11-23 10:03:09"
 }
