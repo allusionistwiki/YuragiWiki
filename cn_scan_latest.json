@@ -3,6 +3,6 @@
  "cn_total": 0,
  "char_counts": {},
  "top_files": {},
- "method": "CJK ideographs only (U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, ext-B+); frontmatter+quotes(nested 「」『』【】)+fenced/inline code+html comments+URL+[[wiki]]+md link targets stripped; cp932-encodable (JIS shared, incl U+301C wave dash) excluded; shared 的了叶马乌风飞书东车 excluded",
- "scanned_at": "2026-11-23 14:43:44"
+ "method": "CJK ideographs/avg symbols >=U+2E80; frontmatter+quotes(nested)+fenced/inline code+html comments+URL+[[wiki]]+md link targets stripped; cp932 round-trip (JIS shared) excluded; shared 的了叶马乌风飞书东车 + U+301C wave dash excluded",
+ "scanned_at": "2026-11-23 15:17:04"
 }
