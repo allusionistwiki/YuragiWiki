@@ -4,6 +4,7 @@
  "char_counts": {},
  "top_files": {},
  "chars_hit": [],
+ "files_with_hits": 0,
  "method": "CJK ideographs >=U+2E80; frontmatter+quoted(nested 「」『』)+fenced/inline code+html comments/tags+URL+[[wiki]]+md link targets stripped; cp932 round-trip (JIS shared) excluded; shared 的了叶马乌风飞书东车 + U+301C excluded",
- "scanned_at": "2026-11-23 16:25:03"
+ "scanned_at": "2026-11-23 16:59:17"
 }
